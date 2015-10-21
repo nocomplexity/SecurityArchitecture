@@ -48,7 +48,7 @@ Principles will guide architects, consultants and designers with decision making
 
 Having security and privacy principles are a crucial foundation as they establish the basis for a set of rules and behaviours for any organization.
 
-![image\_17\_principles](../Images/image_17_principles.png)
+![image\_17\_principles](https://raw.githubusercontent.com/nocomplexity/SecurityPrivacyReferenceArchitecture/master/Images/image_17_principles.png)
 
 Principles or requirements?
 ---------------------------
