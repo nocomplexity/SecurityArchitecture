@@ -34,7 +34,7 @@ If you need help with creating a security solution design for your project, donâ
 
 We encourage all security professionals to improve this reference architecture. Your contributions to this Guide are greatly appreciated.
 
-Current contributers:
+Current contributers and maintainers:
 * Asim Jahan (http://jahan-is.com/)
 * Maikel Mardjan (https://nocomplexity.com)
 
