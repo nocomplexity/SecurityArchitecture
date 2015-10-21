@@ -1,14 +1,15 @@
+#Open Reference Architecture for Security and Privacy
+
 This reference architecture is created to improve security and privacy designs in general. In our opinion it is time to stop reinventing the wheel when it comes down to creating architectures and designs for security and privacy solutions. The reference architecture is not just another security book. This book is all about reuse.
 
 Using this book gives creating your security solution a head start!
 
 This reference architecture saves time in many ways:
 
-    You can create a solution architecture based on it for your specific situation.
-    It enables you to speed up the process of creating a specific solution.
-    It contains valuable content and general background information which can be used, reused or referred to.
+* You can create a solution architecture based on it for your specific situation.
+* It enables you to speed up the process of creating a specific solution.
+* It contains valuable content and general background information which can be used, reused or referred to.
 
-#Open Reference Architecture for Security and Privacy
 
 Information security architecture is an abstraction of a design that identifies and describes where and how security controls are used. It also identifies and describes the location and sensitivity of both user and application data. This open reference security architecture aims to help you create your context specific architecture faster and with higher quality.
 
