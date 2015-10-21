@@ -29,8 +29,7 @@ Please follow the following procedure when contributing to this document:
 -   Clone the repository to your computer
 -   Create a branch in which you make your patch git checkout -b &lt;branchname&gt;
 -   Make your changes, commit and push the branch
--   -           edit, edit, edit
-    -           git add files, git commit
+-   -           git add files, git commit
     -           git push origin &lt;branchname&gt;
 -       Create a pull request for the branch &lt;branchname&gt; you created (not 'master')
 
