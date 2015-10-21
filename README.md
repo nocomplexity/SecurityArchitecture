@@ -15,7 +15,7 @@ Information security architecture is an abstraction of a design that identifies 
 
 This reference architecture is designed to assist and guide architects, security designers and developers to make better decisions and to reuse quality architecture knowledge regarding cyber security aspects.
 
-*Features*
+**Features**
 
 * Reusable list of security principles
 * Reusable list of privacy principles
