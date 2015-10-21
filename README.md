@@ -14,7 +14,8 @@ This reference architecture saves time in many ways:
 Information security architecture is an abstraction of a design that identifies and describes where and how security controls are used. It also identifies and describes the location and sensitivity of both user and application data. This open reference security architecture aims to help you create your context specific architecture faster and with higher quality.
 
 This reference architecture is designed to assist and guide architects, security designers and developers to make better decisions and to reuse quality architecture knowledge regarding cyber security aspects.
-Features
+
+*Features
 
 * Reusable list of security principles
 * Reusable list of privacy principles
