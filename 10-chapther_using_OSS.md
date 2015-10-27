@@ -154,7 +154,7 @@ Improvements will not come overnight and a paradigm shift is needed for many com
 
 Open security can be defined as an approach to use existing open knowledge in combination with the application of open source software (OSS) to help solve cyber security problems. OSS approaches collaboratively develop and maintain intellectual works (including software and documentation) by enabling us to use them for any purpose, as well as study, create, change, and redistribute them (in whole or in part).
 
-Cyber security problems are created by starting with bad architecture of design or simply by a lack of knowledge and experience. Using an open security approach the security can be improved through collaboration.
+Cyber security problems are created by starting with bad architecture or design or simply by a lack of knowledge and experience. Using an open security approach the security can be improved through collaboration.
 
 So why use open source software for security and privacy applications? Open source software provides additional trust by allowing people to look into the source code whereas good OSS projects are completely transparent on all their SDLC and quality processes. When using OSS adjustments or improvements are easily made providing you with a flexible solution for your business.
 
