@@ -207,7 +207,7 @@ Use security personas in your security architecture so the proposed security mea
 Threat Models
 -------------
 
-This section is not about teaching you how to model you specific security or privacy solutions. By now you know that your model should be built out of attack vectors, security personas and security and privacy principles and requirements. The next chapther of this reference architecture deals with reusable principles in depth. First we present valuable models that can be reused when created a security or privacy solution architecture.
+This section is not about teaching you how to model you specific security or privacy solutions. By now you know that your model should be built out of attack vectors, security personas and security and privacy principles and requirements. The next chapter of this reference architecture deals with reusable principles in depth. First we present valuable models that can be reused when created a security or privacy solution architecture.
 
 Security threat modelling, or threat modelling, is a process of assessing and documenting a system's security risks. Security threat modelling enables you to understand a system's threat profile by examining it through the eyes of your potential attackers. Your security threat modelling efforts also enable your team to justify security features within a system, or security practices for using the system, to protect your corporate assets.
 
