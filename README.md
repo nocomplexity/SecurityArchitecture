@@ -54,7 +54,8 @@ We encourage all security professionals to improve this reference architecture. 
 
 Your contributions to this Guide are greatly appreciated as long as contributions fit within the scope and goal of this security and privacy reference architecture. As an open project, this Open Reference Architecture for Security and Privacy shall always remain vendor-neutral and freely available for all to use. If you contribute you will of course get credit (mentioned in upcoming publications). 
 
-You can contribute using the following Github repository:\[create link to main opensec project on github\]
+You can contribute using the following Github repository:(this repository)
+https://github.com/nocomplexity/SecurityPrivacyReferenceArchitecture
 
 Please observe our contribution guidelines before creating a pull request:
 
