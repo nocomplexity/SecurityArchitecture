@@ -1,55 +1,153 @@
 References
-==========
+============
 
-When creating this reference architecture, we performed serious
-research. We used many valuable sources (books, articles, scientific
-publications, blogs, etc). Below some reference for those who like to
-have more background information.
+When creating this reference architecture, we performed serious research. We used many valuable sources (books, articles, scientific publications, blogs, etc). Below some reference for those who like to have more background information. And since this document is a reference architecture you will find in depth information in this reference to design your security or privacy solution easier.
+ 
+We believe that knowledge for building better security and privacy solutions should be available under an open access license. This is why we aim to present here only open access references. But since not all important security and privacy references are open we are aware that not all references are open yet. But all references mentioned are accessible without registration and are free downloadable. 
 
-AICPA/CICA Privacy Maturity Model March
-2011, \ `http://www.aicpa.org/InterestAreas/InformationTechnology/Resources/Privacy/GenerallyAcceptedPrivacyPrinciples/DownloadableDocuments/AICPA-CICA-Privacy-Maturity-Model-ebook.pdf  <http://www.aicpa.org/InterestAreas/InformationTechnology/Resources/Privacy/GenerallyAcceptedPrivacyPrinciples/DownloadableDocuments/AICPA-CICA-Privacy-Maturity-Model-ebook.pdf>`__
+Attacks methods
+----------------
+Rowhammer:
+http://www.thirdio.com/rowhammer.pdf or 
+https://en.wikipedia.org/wiki/Row_hammer 
 
-Common Weakness Enumeration (CWE™), `cwe.mitre.org  <cwe.mitre.org>`__
+DDos: https://www.us-cert.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf 
 
-Generally Accepted Privacy Principles (GAPP), \ `https://www.cippguide.org/2010/07/01/generally-accepted-privacy-principles-gapp/  <%20https://www.cippguide.org/2010/07/01/generally-accepted-privacy-principles-gapp/>`__
 
-Jericho security model, Open
-Group, \ `https://collaboration.opengroup.org/jericho/  <https://collaboration.opengroup.org/jericho/>`__
 
-NIST, \ http://www.nist.gov/cyberframework/index.cfm 
+Security Frameworks
+--------------------
 
-OECD privacy framework 2009,
-2010,\ `http://oecdprivacy.org/ <%20http://oecdprivacy.org/>`__
+NIST Framework for Improving Critical Infrastructure Cybersecurity:
 
-Open Security Architecture (OSA),
-`http://www.opensecurityarchitecture.org/ <%20http://www.opensecurityarchitecture.org/>`__ 
+http://www.nist.gov/cyberframework/upload/cybersecurity-framework-021214.pdf 
 
-Open State
-Foundation, \ `http://www.openstate.eu/  <http://www.openstate.eu/>`__
+http://www.nist.gov/cyberframework/ 
 
-OSS Security Badges project (Work in progress), D.
-Wheeler, \ `https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/criteria.md  <https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/criteria.md>`__
+Jericho security model, Open Group, https://collaboration.opengroup.org/jericho/  
 
-Privacy Management Reference Model and Methodology (PMRM) Version 1.0,
-Committee Specification Draft 01, 26 March
-2012, \ `http://docs.oasis-open.org/pmrm/PMRM/v1.0/csd01/PMRM-v1.0-csd01.pdf  <http://docs.oasis-open.org/pmrm/PMRM/v1.0/csd01/PMRM-v1.0-csd01.pdf>`__
+NIST, http://www.nist.gov/cyberframework/index.cfm 
 
-Privacy Management Reference Model and Methodology (PMRM) Version
-1.0, \ `http://docs.oasis-open.org/pmrm/PMRM/v1.0/csd01/PMRM-v1.0-csd01.html  <http://docs.oasis-open.org/pmrm/PMRM/v1.0/csd01/PMRM-v1.0-csd01.html>`__
+OECD privacy framework 2009, 2010,http://oecdprivacy.org/
 
-Securing Web Application Technologies(SWAT) Checklist
-, \ `https://software-security.sans.org/resources/swat  <https://software-security.sans.org/resources/swat>`__
+Software Assurance Maturity Model (OWASP), http://www.opensamm.org/ 
 
-Security in-a-box, Tactical Technology Collective and Front Line
-Defenders,\ `https://securityinabox.org/en  <%20https://securityinabox.org/en>`__
+Open Security Architecture (OSA), http://www.opensecurityarchitecture.org/ 
 
-Software Assurance Maturity Model (OWASP), http://www.opensamm.org/ 
 
-The Free Software
-Foundation,\ `https://www.gnu.org  <%20https://www.gnu.org>`__
 
-The Open Source Initiative
-(OSI), `http://opensource.org/licenses/  <http://opensource.org/licenses/>`__
+Privacy References Architectures and Models
+--------------------------------------------
 
-Web Authorization Protocol (OAuth),
-`https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-01 <%20https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-01>`__ 
+IMMA Privacy reference architecture, publication of the Dutch Ministry of Infrastructure and the Environment,March 2016, http://www.beterbenutten.nl/assets/upload/files/IMMA/IMMA-Privacy-reference-architecture-EN-2016.pdf 
+
+Privacy Management Reference Model and Methodology (PMRM) Version 1.0, Committee Specification Draft 01, 26 March 2012, http://docs.oasis-open.org/pmrm/PMRM/v1.0/csd01/PMRM-v1.0-csd01.pdf 
+
+Privacy Management Reference Model and Methodology (PMRM) Version 1.0, http://docs.oasis-open.org/pmrm/PMRM/v1.0/csd01/PMRM-v1.0-csd01.html 
+
+AICPA/CICA Privacy Maturity Model March 2011, http://www.aicpa.org/InterestAreas/InformationTechnology/Resources/Privacy/GenerallyAcceptedPrivacyPrinciples/DownloadableDocuments/AICPA-CICA-Privacy-Maturity-Model-ebook.pdf 
+
+Generally Accepted Privacy Principles (GAPP),https://www.cippguide.org/2010/07/01/generally-accepted-privacy-principles-gapp/ 
+
+
+Open Access Privacy Journals
+-----------------------------
+Proceedings on Privacy Enhancing Technologies 
+http://www.degruyter.com/view/j/popets 
+
+PoPETs is the journal that publishes papers accepted to the Privacy Enhancing Technologies Symposium (PETS). PETS brings together privacy and anonymity experts from around the world to discuss recent advances and new perspectives. PETS addresses the design and realization of privacy services for the Internet and other data systems and communication networks. 
+
+
+Transactions on Data Privacy
+----------------------------
+The aim of the Transactions on Data Privacy (TDP) is to provide an international forum for researchers on all topics related to data privacy technologies.  http://www.tdp.cat/ 
+
+
+Open Foundations on security & Privacy
+--------------------------------------
+Python Forensics, Inc.
+^^^^^^^^^^^^^^^^^^^^^^
+A non-profit organization focused on the collaborative development of open source investigative technologies using the Python programming language. See: http://python-forensics.org/  for more information.
+
+
+Center for Internet Security (CIS)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The Center for Internet Security (CIS) is a 501(c)(3) organization is dedicated to enhancing the cybersecurity readiness and response among public and private sector entities. CIS’s Mission is to: Identify, develop, validate, promote, and sustain best practices in cybersecurity; Deliver world-class security solutions to prevent and rapidly respond to cyber incidents; and Build and lead communities to enable an environment of trust in cyberspace. https://www.cisecurity.org/ 
+
+No-More-Ransom
+^^^^^^^^^^^^^^
+The “No-More-Ransom” website is an initiative by the National High Tech Crime Unit of the Netherlands’ police, Europol’s European Cybercrime Centre and two cyber security companies – Kaspersky Lab and Intel Security – with the goal to help victims of ransomware retrieve their encrypted data without having to pay the criminals.
+https://www.nomoreransom.org/  
+
+Open State Foundation
+^^^^^^^^^^^^^^^^^^^^^
+A Dutch foundation fighting for more digital transparency in the Netherlands. http://www.openstate.eu/ 
+
+Security in-a-box
+^^^^^^^^^^^^^^^^^
+Security in-a-Box is a guide to digital security for activists and human rights defenders throughout the world. Security in-a-box offers a guide and real nice tools for everyone who cares about privacy in a volatile world. See https://securityinabox.org/en 
+
+Privacytools.io
+^^^^^^^^^^^^^^^^
+Privacytools.io is a socially motivated website that provides information for protecting your data security and privacy. The site has an impressive tool collection https://www.privacytools.io/ 
+Yes, we can not incorporate all tools in this reference architecture. Our list is opinionated to surprise you only with some great examples to make you hungry! 
+
+SOMAP.org
+^^^^^^^^^
+Focuses on the Security Officers and on helping them in doing their daily business as comfortable as possible. The main goals of SOMAP.org are to develop and maintain:
+- Guides and Handbooks explaining and describing Risk Management.
+- an open and free 'best practice' Risk Model Repository with security objectives, threats and other risk related meta-data.
+https://www.somap.org/ 
+
+
+Data Transparency Lab (DTL)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A community of technologists, researchers, policymakers and industry representatives working to advance online personal data transparency through scientific research and design. Also a collection of OSS tools to visualize internet privacy horror are offered.
+http://www.datatransparencylab.org 
+
+
+P=P Foundation = Privacy by Default
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The P=P foundation advocates Privacy. The p≡p engine was developed for this purpose and drives several crypto standards on different digital channels. It shall ultimately restore Privacy by Default. p≡p engine is distributed as Free Software to support Privacy for everyone. With that p≡p aims to restore the balance again in worldwide communications in favor of Privacy and Freedom of Information.
+https://pep.foundation/index.html 
+
+
+Checklists
+============
+
+The list with security and privacy checklists is long. However in this opinionated list we collected OPEN lists (so under an open license published) that are ready to use and to improve.
+OSS Security Badges project (Work in progress), D. Wheeler, https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/criteria.md 
+
+Linux workstation security checklist: https://github.com/lfit/itpol/blob/master/linux-workstation-security.md 
+
+Guide to securing personal information (Australian government):
+https://www.oaic.gov.au/agencies-and-organisations/guides/guide-to-securing-personal-information 
+
+Securing Web Application Technologies [SWAT] Checklist:
+https://software-security.sans.org/resources/swat 
+
+
+Vulnerability Databases
+------------------------
+Common Weakness Enumeration (CWE™), cwe.mitre.org 
+
+
+
+Other References 
+------------------
+
+The Open Source Initiative (OSI), http://opensource.org/licenses/ 
+
+
+Information Security Guide 
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Guide setup like this one, so to prevent to reinvent the wheel every time you start a new project, policy, or security function.  
+https://spaces.internet2.edu/display/2014infosecurityguide/Welcome+to+the+Guide 
+
+
+The Free Software Foundation, https://www.gnu.org  
+
+Web Authorization Protocol (OAuth), https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-01 
+
+
