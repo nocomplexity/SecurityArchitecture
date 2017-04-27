@@ -24,7 +24,7 @@ Metallica, just like his 4 year old son.
 **Maikel Mardjan**
 ------------------
 
-Maikel is a IT security architect and loves to make designs for complex
+Maikel works often as IT (security) architect and loves to make designs for complex
 IT systems in a simple way. Maikel holds both a Master (Msc) Business
 Studies of University of Groningen and a Master degree (Msc) Electrical
 Engineering, of Delft University of Technology. Maikel is TOGAF 9
