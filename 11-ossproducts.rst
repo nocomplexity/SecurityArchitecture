@@ -48,11 +48,14 @@ Criteria used for products mentioned in this chapter are:
 products are in use, however many mature products have solid references
 on their website, along with active user groups.
 
-The number of OSS security and privacy applications available is over
+OSS Security Applications
+---------------------------
+
+The number of OSS security applications available is over
 overwhelming. Using the following conceptual topology can help with
 arranging functional to product mapping needs:
 
-.. image:: /Images/image_19_OSSbuildingblocks.png
+.. image:: /Images/OSS_SBB_SECoverview.png
 
 For every security or privacy function or service needed you should look
 serious at using open transparent reusable solutions. So Open Source. Of
@@ -63,4 +66,10 @@ available. When using an OSS solutions, you should have a large choice
 of companies that deliver maintenance and support on this application on
 commercial bases. 
 
+OSS Privacy Applications
+-------------------------
+
+Besides strong security measurements strong encryption is hard to accomplish. Especially online and when you do not use FOSS software in combination with open hardware that you can really trust! However due to the growing importance privacy the number of FOSS tools available is increasing. An framework for putting privacy OSS Building Blocks on a map:
+
+.. image:: /Images/OSS_SBB_PRIVACY.png
 

@@ -367,8 +367,6 @@ Though it is fully capable out of the box, the intent of SIMP is to be molded to
 
 
 
-
-
 **Simplify** 
 --------------
 **SBB Description:** Simplify uses a virtual machine to understand what an app does. Then, it applies optimizations to create code that behaves identically, but is easier for a human to understand. Specifically, it takes Smali files as input and outputs a Dex file with (hopefully) identical semantics but less complicated structure.
@@ -516,9 +514,3 @@ The plugins, which find links and vulnerabilities
 **Project URL:** http://w3af.org/
 
 **Source Location:** https://github.com/andresriancho/w3af/
-
-
-
-
-
-End of SBB list <br>
