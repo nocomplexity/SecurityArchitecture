@@ -69,6 +69,10 @@ Transactions on Data Privacy
 ----------------------------
 The aim of the Transactions on Data Privacy (TDP) is to provide an international forum for researchers on all topics related to data privacy technologies.  http://www.tdp.cat/ 
 
+Guide to data protection
+--------------------------
+This guide is for those who have day-to-day responsibility for data protection. It explains the purpose and effect of each principle, gives practical examples and answers frequently asked questions. https://ico.org.uk/for-organisations/guide-to-data-protection/ 
+
 
 Open Foundations on security & Privacy
 --------------------------------------
@@ -118,6 +122,10 @@ P=P Foundation = Privacy by Default
 The P=P foundation advocates Privacy. The p≡p engine was developed for this purpose and drives several crypto standards on different digital channels. It shall ultimately restore Privacy by Default. p≡p engine is distributed as Free Software to support Privacy for everyone. With that p≡p aims to restore the balance again in worldwide communications in favor of Privacy and Freedom of Information.
 https://pep.foundation/index.html 
 
+ICO
+^^^^
+The ICO is the UK's independent body set up to uphold information rights. The UK’s independent authority set up to uphold information rights in the public interest, promoting openness by public bodies and data privacy for individuals.
+https://ico.org.uk/ 
 
 Checklists
 ============
