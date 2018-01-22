@@ -4,6 +4,12 @@ Using Open Source for security and privacy protection
 Introduction
 ------------
 
+Security and privacy are complicated things. This is why open development is a key factor and a precondition for creating secure solutions. Security and privacy is getting more important every day. Also due to the development of machine learning applications many data driven solutions are poisoned with privacy related data. 
+
+When development happens in the open, you can directly verify if a vendor is actively pursuing security and privacy and watch how it treats issues. The ability to study the process followed, the source code developed makes that anyone can perform an independent audit. Not only on code, but also on process used! 
+
+So beside code, open development means that an open processes is followed. A process where you can see and check whether mandatory baselines and principles are used.
+
 To increase and improve security and protect our privacy open source
 solutions are more and more seen as a very good solution. Within more
 and more companies worldwide we notice a trends towards adopting open

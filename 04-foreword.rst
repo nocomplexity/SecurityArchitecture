@@ -1,11 +1,13 @@
 Foreword
 ========
 
+The 2018 edition: This edition of this book is still work in progress. A lot of new content will be added and a through redisgn will take place. `You can contribute too to this version. <http://security-and-privacy-reference-architecture.readthedocs.io/en/latest/15-appendix-contribute.html>`_
+
 Freedom is, was and will always remain important. This applies to our
 physical world as well as our digital world. To maintain our freedom we
 need protection and good IT security. Good security brings freedom to
 run your business the way you want, exchange information when needed and
-to keep secrets when needed.
+to keep secrets when needed. Good privacy needs solid security to start with, but if you value your own freedom, you should respect your customers freedom too. So make sure you're users can trust you so respect their privacy by using tangible privacy by design principles when creating new solutions.
 
 Good security and privacy do not have to be endlessly expensive. It
 starts with good architecture and a solid design. This reference

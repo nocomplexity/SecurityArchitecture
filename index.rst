@@ -15,7 +15,7 @@ This reference architecture is created to improve security and privacy designs i
 The reference architecture is not just another security book. Since libraries and book stores are filled with decent books on security and privacy we wanted to create a book that is all about reuse.
 
 
-`(c) 2015,2016,2017 Asim Jahan and Maikel Mardjan`
+`(c) 2015,2016,2017,2018 Asim Jahan and Maikel Mardjan`
 
 `This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Use of these materials is permitted only in accordance with license rights granted. Materials provided “AS IS”; no representations or warranties provided. User assumes all responsibility for use, and all liability related thereto, and must independently review all materials for accuracy and efficacy.`
 
