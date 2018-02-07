@@ -33,6 +33,5 @@ For small corrections or input, just send me an email. For larger contributions,
 
 When you submit text to which you hold the copyright, you agree to license it under:
 
-* Creative Commons Attribution-ShareAlike 4.0 Unported License (“CC BY-SA”), or
-* CC0 1.0 Universal (CC0 1.0)
+* Creative Commons Attribution-ShareAlike 4.0 Unported License (“CC BY-SA”)
 

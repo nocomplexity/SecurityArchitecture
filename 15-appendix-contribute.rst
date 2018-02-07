@@ -11,11 +11,7 @@ architecture. Join the team to:
 -  Create better graphics and text.
 -  Add threat models that can be easily reused.
 -  Improve criteria on selecting OSS solutions for security and privacy
-   applications.
--  Create tools to speed up the process of making use of this reference
-   architecture. E.g. we created a GPL WordPress tool to manage and
-   create security specification documents fast. Help us to improve
-   these tools or create your own. 
+   applications. 
 
 Your contributions to this Guide are greatly appreciated as long as
 contributions fit within the scope and goal of this security and privacy
@@ -76,5 +72,6 @@ When you submit text to which you hold the copyright, you agree to
 license it under:
 
 -  Creative Commons Attribution-ShareAlike 4.0 Unported License (“CC
-   BY-SA”), or 
--  CC0 1.0 Universal (CC0 1.0) 
+   BY-SA”)
+
+
