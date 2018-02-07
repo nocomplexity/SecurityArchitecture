@@ -30,6 +30,7 @@ Content
    04-foreword
    05-introduction
    06-secmodels
+   061-hackingmodels
    07-principles
    08-security-principles
    09-privacy-principles
