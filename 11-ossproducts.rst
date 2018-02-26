@@ -11,8 +11,8 @@ have all your security/privacy principles, requirements, attack vectors
 and security persona's clear the hardest task is to select (or create)
 solution building blocks that covers the needed functionality. Using OSS
 security or privacy Solution building Blocks within your solution
-architecture can give significant advantages. See section "The power of
-open for security and privacy" in this reference architecture for more
+architecture can give significant advantages. No single tool will fit all use cases. So select the right tool for the right job.
+See section "The power of open for security and privacy" in this reference architecture for more
 information on the advantages. 
 
 We know we can never be complete with an overview of OSS security and

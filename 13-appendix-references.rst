@@ -5,6 +5,13 @@ When creating this reference architecture, we performed serious research. We use
  
 We believe that knowledge for building better security and privacy solutions should be available under an open access license. This is why we aim to present here only open access references. But since not all important security and privacy references are open we are aware that not all references are open yet. But all references mentioned are accessible without registration and are free downloadable. 
 
+General information on information security
+---------------------------------------------
+High-level overview of information security principles:
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf
+
+
+
 Attacks methods
 ----------------
 Rowhammer:
@@ -13,6 +20,10 @@ https://en.wikipedia.org/wiki/Row_hammer
 
 DDos: https://www.us-cert.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf 
 
+Thread Models
+---------------
+
+The OWASP Automated Threat Handbook provides actionable information and resources to help defend against automated threats to web applications. https://www.owasp.org/images/3/33/Automated-threat-handbook.pdf 
 
 
 Security Frameworks
@@ -79,6 +90,11 @@ Open Foundations on security & Privacy
 Python Forensics, Inc.
 ^^^^^^^^^^^^^^^^^^^^^^
 A non-profit organization focused on the collaborative development of open source investigative technologies using the Python programming language. See: http://python-forensics.org/  for more information.
+
+OpenSCAP
+^^^^^^^^^^^
+The OpenSCAP project provides tools to improve security of your infrastructure using open source tools. This project is founded by RedHat and the tools are NIST certified. Use of the tools is encouraged if your systems or infrastructure needs to meet NIST (or other US) security standards.
+https://www.open-scap.org/
 
 
 Center for Internet Security (CIS)
