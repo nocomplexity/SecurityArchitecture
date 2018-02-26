@@ -57,6 +57,10 @@ And of course OWASP Secure Coding Practices are used for this GO specific public
 Privacy References Architectures and Models
 --------------------------------------------
 
+Privacy represents a broad variety of concerns — subjective, contextual, hard-to-define — that real people have about the flows of personal information. This initiative is building a living, community space where everyone can contribute their privacy design patterns.
+https://privacypatterns.org
+
+
 IMMA Privacy reference architecture, publication of the Dutch Ministry of Infrastructure and the Environment,March 2016, http://www.beterbenutten.nl/assets/upload/files/IMMA/IMMA-Privacy-reference-architecture-EN-2016.pdf 
 
 Privacy Management Reference Model and Methodology (PMRM) Version 1.0, Committee Specification Draft 01, 26 March 2012, http://docs.oasis-open.org/pmrm/PMRM/v1.0/csd01/PMRM-v1.0-csd01.pdf 
