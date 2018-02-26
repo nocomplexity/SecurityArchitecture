@@ -5,7 +5,7 @@ The 2018 edition: This edition of this book is still work in progress. A lot of 
 
 An earlier version of this eBook is also available as hard copy on `Amazon <https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan>`_. 
 
-.. warning:: NOTE However this 2018 version is still work in progress and NOT yet available as hardcopy. 
+.. warning:: This 2018 version is still work in progress and NOT yet available as hardcopy. 
 
 Freedom is, was and will always remain important. This applies to our
 physical world as well as our digital world. To maintain our freedom we
