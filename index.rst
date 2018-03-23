@@ -38,6 +38,7 @@ Content
    10-using-oss
    11-ossproducts
    12-ossproductslist
+   12.2-oss-privacy-productslist
    132-oss-security-repros
    13-appendix-references
    14-appendix-licensing

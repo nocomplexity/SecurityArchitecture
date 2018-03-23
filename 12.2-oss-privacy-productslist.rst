@@ -1,0 +1,282 @@
+OSS Privacy Applications
+============================
+
+
+
+**Blockstack** 
+----------------
+**SBB Description:** Blockstack is a new decentralized internet where users own their data and apps run locally. A browser portal is all that’s needed to get started.
+With Blockstack, users control their data and apps run on their devices. There are no middlemen, no passwords, no massive data silos to breach, and no services tracking us around the internet.
+The applications on blockstack are server-less and decentralized. Developers start by building a single-page application in Javascript, Then, instead of plugging the frontend into a centralized API, they plug into an API run by the user. Developers install a library called &#8216;blockstack.js&#8217; and don&#8217;t have to worry about running servers, maintaining databases, or building out user management systems.
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Python + Javascript
+
+**Project URL:** https://blockstack.org
+
+**Source Location:** https://github.com/blockstack
+
+
+
+
+
+**BRIAR** 
+-----------
+**SBB Description:** Secure messaging, anywhere:
+
+Peer-to-peer encrypted messaging and forums
+Messages are stored securely on your device, not in the cloud
+Connect directly with nearby contacts &#8211; no Internet access required
+Free and open source software
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Java
+
+**Project URL:** https://briarproject.org/index.html
+
+**Source Location:** https://code.briarproject.org/akwizgran/briar/tree/master
+
+
+
+
+
+**ChatSecure** 
+----------------
+**SBB Description:** ChatSecure is a free and open source messaging app that features OTR encryption over XMPP. You can connect to your existing accounts on Facebook or Google, create new accounts on public XMPP servers (including via Tor), or even connect to your own server for extra security.
+&#160;
+
+**SBB License:** Mozilla Public License (MPL) 1.1
+
+**Core Technology:** Objective C
+
+**Project URL:** https://chatsecure.org
+
+**Source Location:** https://github.com/ChatSecure
+
+
+
+
+
+**GNUnet** 
+------------
+**SBB Description:** GNUnet is a mesh routing layer for end-to-end encrypted networking and a framework for distributed applications designed to replace the old insecure Internet protocol stack.
+In other words, GNUnet provides a strong foundation of free software for a global, distributed network that provides security and privacy. Along with an application for secure publication of files, it has grown to include all kinds of basic applications for the foundation of a GNU internet.
+GNUnet is an official GNU package.
+The foremost goal of the GNUnet project is to become a widely used, reliable, open, non-discriminating, egalitarian, unfettered and censorship-resistant system of free information exchange. We value free speech above state secrets, law-enforcement or intellectual property. GNUnet is supposed to be an anarchistic network, where the only limitation for peers is that they must contribute enough back to the network such that their resource consumption does not have a significant impact on other users. GNUnet should be more than just another file-sharing network. The plan is to offer many other services and in particular to serve as a development platform for the next generation of decentralized Internet protocols.
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** C
+
+**Project URL:** https://gnunet.org/
+
+**Source Location:** https://gnunet.org/svn/
+
+
+
+
+
+**MAT: Metadata Anonymisation Toolkit** 
+-----------------------------------------
+**SBB Description:** MAT is a toolbox composed of a GUI application, a CLI application and a library, to anonymize/remove metadata.
+Metadata within a file can tell a lot about you. Cameras record data about when and where a picture was taken and what camera was used. Office documents like pdf or Office automatically add author and company information to documents and spreadsheets. Maybe you don&#8217;t want to disclose this information on the web.
+Mat only removes metadata from your files, it does not anonymise their content, nor handle watermarking, steganography, or any overly customized metadata field/system. Also please not that MAT does its best to scrub as much metadata as possible, it&#8217;s not really efficient at scrubbing embedded media inside complex formats. For examples, images embedded inside PDF may not be cleaned!
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Python
+
+**Project URL:** https://mat.boum.org/
+
+**Source Location:** https://gitweb.torproject.org/user/jvoisin/mat.git
+
+
+
+
+
+**Mitmproxy** 
+---------------
+**SBB Description:** An interactive SSL-capable intercepting HTTP proxy for penetration testers and software developers. Console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+Part of mitmproxy is mitmdump is the command-line companion to mitmproxy. It provides tcpdump-like functionality to let you view, record, and programmatically transform HTTP traffic. See the --help flag output for complete documentation.
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** https://mitmproxy.org
+
+**Source Location:** https://github.com/mitmproxy/mitmproxy
+
+
+
+
+
+**Open Whisper (Signal)** 
+---------------------------
+**SBB Description:** Signal is a messaging app for simple private communication with friends. Signal uses your phone&#8217;s data connection (WiFi/3G/4G) to communicate securely, optionally supports plain SMS/MMS to function as a unified messenger, and can also encrypt the stored messages on your phone.
+A private messenger for Android and IOS. Used by Clinton team nowadays -)
+
+Private messaging For iPhone and Android. Features:
+
+Say Anything &#8211; Send high-quality group, text, picture, and video messages, all without SMS and MMS fees.
+Be Yourself &#8211; Use your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.
+Stay Private &#8211; We cannot read your messages, and no one else can either. Everything is always end-to-end encrypted and painstakingly engineered in order to keep your communication safe.
+Pay Nothing &#8211; The development team is supported by community donations and grants. There are no advertisements, and it doesn&#8217;t cost anything to use.
+
+&#160;
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Objective C
+
+**Project URL:** https://whispersystems.org/
+
+**Source Location:** https://github.com/whispersystems?page=1
+
+
+
+
+
+**PrivacyScore** 
+------------------
+**SBB Description:** PrivacyScore is a platform for investigating security and privacy issues on websites. It is inspired by tools like the Qualys SSL test and Webbkoll, but aims to be more comprehensive and offer additional features like
+
+Comparing and ranking whole lists of sites
+Checking for embedded third parties that are known trackers
+Periodically rescanning each website and checking how the results change over time
+Be completely open source (GPLv3) and easily extendable
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Python
+
+**Project URL:** https://privacyscore.org/
+
+**Source Location:** https://github.com/PrivacyScore/PrivacyScore
+
+
+
+
+
+**Searx** 
+-----------
+**SBB Description:** Search without being tracked. Searx is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity.
+
+Features:
+
+Self hosted
+No user tracking
+No user profiling
+About 70 supported search engines
+Easy integration with any search engine
+Cookies are not used by default
+Secure, encrypted connections (HTTPS/SSL)
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Python
+
+**Project URL:** https://asciimoo.github.io/searx/
+
+**Source Location:** https://github.com/asciimoo/searx
+
+
+
+
+
+**Streisand** 
+---------------
+**SBB Description:** Streisand is software for setting up secure connections with your friends. A bit like TOR. Communication can be sets up over  L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, and a Tor bridge.
+&#160;
+&#160;
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Python
+
+**Project URL:** https://github.com/jlund/streisand
+
+**Source Location:** https://github.com/jlund/streisand
+
+
+
+
+
+**Tails** 
+-----------
+**SBB Description:** Tails is a (Debian based) operating system, that you can start on almost any computer from a DVD, USB stick, or SD card. It aims at preserving your privacy and anonymity, and helps you to:
+
+use the Internet anonymously and circumvent censorship;
+all connections to the Internet are forced to go through the Tor network;
+leave no trace on the computer you are using unless you ask it explicitly;
+use state-of-the-art cryptographic tools to encrypt your files, emails and instant messaging.
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** C
+
+**Project URL:** https://tails.boum.org
+
+**Source Location:** https://git-tails.immerda.ch/tails/
+
+
+
+
+
+**Tor** 
+---------
+**SBB Description:** Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security. Creating your own Tor network is easy with this software, or use existing Tor nodes.
+&#160;
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** 
+
+**Project URL:** https://www.torproject.org
+
+**Source Location:** https://www.torproject.org/dist/
+
+
+
+
+
+**Tribler** 
+-------------
+**SBB Description:** Privacy enhanced BitTorrent client with P2P content discovery.
+The aim of Tribler is giving anonymous access to online (streaming) videos. We are trying to make privacy, strong cryptography and authentication the Internet norm.
+Tribler currently offers a Youtube-style service. For instance, Bittorrent-compatible streaming, fast search, thumbnail previews and comments. For the past 9 years we have been building a very robust Peer-to-Peer system. Today Tribler is robust: &#8220;the only way to take Tribler down is to take The Internet down&#8221; (but a single software bug could end everything).
+Over 2 million people have used Tribler over the years. The Tribler project was started in 2005 at Delft University of Technology and over 100+ developers contributed code to it.
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** Python
+
+**Project URL:** https://www.tribler.org/
+
+**Source Location:** https://github.com/Tribler/tribler
+
+
+
+
+
+**XPIR** 
+----------
+**SBB Description:** XPIR: Private Information Retrieval for Everyone
+XPIR allows a user to privately download an element from a database. This means that the database server knows that she has sent a database element to the user but does not know which one. The scientific term for the underlying protocol is Private Information Retrieval (PIR). This library is described and studied in the paper:
+Carlos Aguilar-Melchor, Joris Barrier, Laurent Fousse, Marc-Olivier Killijian, &#8220;XPIR: Private Information Retrieval for Everyone&#8221;, Proceedings on Privacy Enhancing Technologies. Volume 2016, Issue 2, Pages 155–174, ISSN (Online) 2299-0984, DOI: 10.1515/popets-2016-0010, December 2015.
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** C
+
+**Project URL:** 
+
+**Source Location:** https://github.com/XPIR-team/XPIR
+
+
+
+
+
+End of SBB list <br>

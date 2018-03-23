@@ -1,5 +1,31 @@
 OSS Security Applications
-==========================
+============================
+
+
+**411 Managing Security Alerts** 
+-----------------------------------
+**SBB Description:** An Alert Management Web Application.
+411 is a Search scheduler.Configure Searches to periodically run against a variety of data sources. You can define a custom pipeline of Filters to manipulate any generated Alerts and forward them to multiple Targets.
+An alert management interface.Review and manage Alerts through the web interface. You can apply Renderers to alerts to enrich them with additional metadata.
+
+Typical Use cases for 411:
+
+You want to detect when certain log lines show up in ES.
+You want to detect when a Graphite metric changes.
+You want to detect when a server stops responding
+You want to manage alerts through a simple workflow. And much more!
+
+**SBB License:** MIT License
+
+**Core Technology:** PHP
+
+**Project URL:** 
+
+**Source Location:** https://github.com/etsy/411
+
+
+
+
 
 **American fuzzy lop** 
 ------------------------
@@ -91,9 +117,43 @@ Data Seal provides agencies with a web-based interface to provide this functiona
 
 
 
+**Datastream** 
+----------------
+**SBB Description:** An open-source framework for real-time anomaly detection using Python, ElasticSearch and Kiban. Also uses scikit-learn.
+
+&#160;
+
+**SBB License:** Apache License 2.0
+
+**Core Technology:** Python
+
+**Project URL:** https://github.com/MentatInnovations/datastream.io
+
+**Source Location:** https://github.com/MentatInnovations/datastream.io
+
+
+
+
+
+**Fail2ban** 
+--------------
+**SBB Description:** Fail2ban scans log files (e.g. /var/log/apache/error_log) and bans IPs that show the malicious signs &#8212; too many password failures, seeking for exploits, etc. Generally Fail2Ban is then used to update firewall rules to reject the IP addresses for a specified amount of time, although any arbitrary other action (e.g. sending an email) could also be configured. Out of the box Fail2Ban comes with filters for various services (apache, courier, ssh, etc).
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** Python
+
+**Project URL:** https://www.fail2ban.org/wiki/index.php/Main_Page
+
+**Source Location:** https://github.com/fail2ban
+
+
+
+
+
 **FIDO (Fully Integrated Defense Operation)** 
 -----------------------------------------------
-**SBB Description:** FIDO (Fully Integrated Defense Operation &#8211; apologies to the FIDO Alliance for acronym collision) is developed by NetFlix and now OSS. This system is for automatically analyzing security events and responding to security incidents.
+**SBB Description:** FIDO (Fully Integrated Defense Operation &#8211; apologies to the FIDO Alliance for acronym collision) is developed by NetFlix and is now OSS. This system is for automatically analyzing security events and responding to security incidents.
 The premise of FIDO is simple&#8230; each year companies are receiving an ever increasing amount of security related alerts. Instead of hiring more analyst to comb through the endless stream of alerts we automate the analysis to combat the barrage of information. Simply put, we integrate and then automate the manual human processes by codifying the logic and process used by threat analysts to provide consistent and reliable results.
 The typical process for investigating security-related alerts is labor intensive and largely manual. To make the situation more difficult, as attacks increase in number and diversity, there is an increasing array of detection systems deployed and generating even more alerts for security teams to investigate.
 FIDO is a NetFlix OSS project, see: http://techblog.netflix.com/2015/05/introducing-fido-automated-security.html
@@ -105,6 +165,25 @@ FIDO is a NetFlix OSS project, see: http://techblog.netflix.com/2015/05/introduc
 **Project URL:** https://github.com/Netflix/Fido/wiki
 
 **Source Location:** https://github.com/Netflix/Fido
+
+
+
+
+
+**GNUnet** 
+------------
+**SBB Description:** GNUnet is a mesh routing layer for end-to-end encrypted networking and a framework for distributed applications designed to replace the old insecure Internet protocol stack.
+In other words, GNUnet provides a strong foundation of free software for a global, distributed network that provides security and privacy. Along with an application for secure publication of files, it has grown to include all kinds of basic applications for the foundation of a GNU internet.
+GNUnet is an official GNU package.
+The foremost goal of the GNUnet project is to become a widely used, reliable, open, non-discriminating, egalitarian, unfettered and censorship-resistant system of free information exchange. We value free speech above state secrets, law-enforcement or intellectual property. GNUnet is supposed to be an anarchistic network, where the only limitation for peers is that they must contribute enough back to the network such that their resource consumption does not have a significant impact on other users. GNUnet should be more than just another file-sharing network. The plan is to offer many other services and in particular to serve as a development platform for the next generation of decentralized Internet protocols.
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** C
+
+**Project URL:** https://gnunet.org/
+
+**Source Location:** https://gnunet.org/svn/
 
 
 
@@ -122,6 +201,55 @@ It is not yet another scanner. It was written to solve two specific problems wit
 **Project URL:** https://github.com/yahoo/gryffin
 
 **Source Location:** https://github.com/yahoo/gryffin
+
+
+
+
+
+**Hammertime** 
+----------------
+**SBB Description:** Hammertime: a software suite for testing, profiling and simulating the rowhammer DRAM defect.
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** Python / C
+
+**Project URL:** https://github.com/vusec/hammertime
+
+**Source Location:** https://github.com/vusec/hammertime
+
+
+
+
+
+**Hashcat** 
+-------------
+**SBB Description:** hashcat is the world&#8217;s fastest and most advanced password recovery utility, supporting five unique modes of attack for over 200 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.
+
+**SBB License:** MIT License
+
+**Core Technology:** C
+
+**Project URL:** https://hashcat.net/hashcat/
+
+**Source Location:** https://github.com/hashcat/hashcat
+
+
+
+
+
+**Httpswatch** 
+----------------
+**SBB Description:** Test tool and site to verify if HTTPS is used as should be for website.
+&#160;
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** Python
+
+**Project URL:** https://httpswatch.com
+
+**Source Location:** https://github.com/benjaminp/httpswatch
 
 
 
@@ -178,6 +306,23 @@ Kismet identifies networks by passively collecting packets and detecting standar
 
 
 
+**Lightbulb** 
+---------------
+**SBB Description:** LightBulb is an open source python framework for auditing web applications firewalls.
+Project created and started in 2016.
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** 
+
+**Source Location:** https://github.com/lightbulb-framework/lightbulb-framework
+
+
+
+
+
 **Lynis** 
 -----------
 **SBB Description:** Lynis is a suite of tools (shell scripts) for security auditing, compliance and hardening for Linux, Mac OS, and Unix based systems. Of course many (better) audit tools are available, but this one is simple and straightforward. So easy to extend and to improve. Especially if you like shell-scripting.
@@ -191,6 +336,31 @@ Michael Boelen from the Netherlands (owner of  company cisofy.com ) created thi
 **Project URL:** https://cisofy.com
 
 **Source Location:** https://github.com/CISOfy/lynis/
+
+
+
+
+
+**Malspider** 
+---------------
+**SBB Description:** Malspider is a web spidering framework that detects characteristics of web compromises. 
+Based on Scrapy framework?
+Malspider is a web spidering framework that inspects websites for characteristics of compromise. Malspider has three purposes:
+
+Website Integrity Monitoring: monitor your organization&#8217;s website (or your personal website) for potentially malicious changes.
+Generate Threat Intelligence: keep an eye on previously compromised sites, currently compromised sites, or sites that may be targeted by various threat actors.
+Validate Web Compromises: Is this website still compromised?
+
+What can Malspider detect?
+Malspider has built-in detection for characteristics of compromise like hidden iframes, reconnaisance frameworks, vbscript injection, email address disclosure, etc.
+
+**SBB License:** BSD License 2.0 (3-clause, New or Revised) License
+
+**Core Technology:** Python
+
+**Project URL:** https://github.com/ciscocsirt/malspider
+
+**Source Location:** https://github.com/ciscocsirt/malspider
 
 
 
@@ -215,6 +385,40 @@ Mantra has many built in tools to modify headers, manipulate input strings, repl
 
 
 
+**Mitmproxy** 
+---------------
+**SBB Description:** An interactive SSL-capable intercepting HTTP proxy for penetration testers and software developers. Console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+Part of mitmproxy is mitmdump is the command-line companion to mitmproxy. It provides tcpdump-like functionality to let you view, record, and programmatically transform HTTP traffic. See the --help flag output for complete documentation.
+
+**SBB License:** MIT License
+
+**Core Technology:** Python
+
+**Project URL:** https://mitmproxy.org
+
+**Source Location:** https://github.com/mitmproxy/mitmproxy
+
+
+
+
+
+**ModSecurity** 
+-----------------
+**SBB Description:** ModSecurity is an open source, cross-platform web application firewall (WAF) module. Known as the &#8220;Swiss Army Knife&#8221; of WAFs, it enables web application defenders to gain visibility into HTTP(S) traffic and provides a power rules language and API to implement advanced protections.
+ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave&#8217;s SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analyse.
+
+**SBB License:** Apache License 2.0
+
+**Core Technology:** C
+
+**Project URL:** http://www.modsecurity.org/
+
+**Source Location:** https://github.com/SpiderLabs/ModSecurity
+
+
+
+
+
 **OpenVAS** 
 -------------
 **SBB Description:** OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution.
@@ -227,6 +431,24 @@ The core of this SSL-secured service-oriented architecture is the OpenVAS Scanne
 **Project URL:** http://www.openvas.org
 
 **Source Location:** https://scm.wald.intevation.org/svn/openvas/trunk
+
+
+
+
+
+**osquery** 
+-------------
+**SBB Description:** SQL powered operating system instrumentation, monitoring, and analytics. Osquery exposes an operating system as a high-performance relational database. This allows you to write SQL-based queries to explore operating system data. With osquery, SQL tables represent abstract concepts such as running processes, loaded kernel modules, open network connections, browser plugins, hardware events or file hashes.
+Developed by Facebook.
+&#160;
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** C
+
+**Project URL:** https://osquery.io/
+
+**Source Location:** https://github.com/facebook/osquery
 
 
 
@@ -300,6 +522,52 @@ RC2
 
 
 
+**Radare** 
+------------
+
+**SBB Description:** Unix-like reverse engineering framework and commandline tools.
+
+Radare is a portable reversing framework that can:
+- Disassemble (and assemble for) many different architectures
+- Debug with local native and remote debuggers (gdb, rap, webui, r2pipe, winedbg, windbg)
+- Run on Linux, *BSD, Windows, OSX, Android, iOS, Solaris and Haiku
+- Perform forensics on filesystems and data carving
+Be scripted in Python, Javascript, Go and more
+Support collaborative analysis using the embedded webserver
+Visualize data structures of several file types
+Patch programs to uncover new features or fix vulnerabilities
+Use powerful analysis capabilities to speed up reversing
+Aid in software exploitation
+
+**SBB License:** GNU General Public License (GPL) 3.0
+
+**Core Technology:** C
+
+**Project URL:** http://rada.re/r/index.html
+
+**Source Location:** https://github.com/radare/radare2
+
+
+
+
+
+**Requests: HTTP for Humans** 
+-------------------------------
+**SBB Description:** Requests is the only Non-GMO HTTP library for Python, safe for human consumption.
+Requests allows you to send organic, grass-fed HTTP/1.1 requests, without the need for manual labor. There&#8217;s no need to manually add query strings to your URLs, or to form-encode your POST data. Keep-alive and HTTP connection pooling are 100% automatic, powered by urllib3, which is embedded within Requests.
+
+**SBB License:** Apache License 2.0
+
+**Core Technology:** Python
+
+**Project URL:** 
+
+**Source Location:** https://github.com/kennethreitz/requests
+
+
+
+
+
 **RIPS (code analyser)** 
 --------------------------
 **SBB Description:** RIPS is a tool written in PHP to find vulnerabilities in PHP applications using static code analysis. By tokenizing and parsing all source code files RIPS is able to transform PHP source code into a program model and to detect sensitive sinks (potentially vulnerable functions) that can be tainted by userinput (influenced by a malicious user) during the program flow. Besides the structured output of found vulnerabilities RIPS also offers an integrated code audit framework for further manual analysis.
@@ -329,6 +597,27 @@ regex search function
 **Project URL:** http://rips-scanner.sourceforge.net/
 
 **Source Location:** http://sourceforge.net/projects/rips-scanner/
+
+
+
+
+
+**RouterSploit** 
+------------------
+**SBB Description:** The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices.
+It consists of various modules that aids penetration testing operations:
+
+exploits &#8211; modules that take advantage of identified vulnerabilities
+creds &#8211; modules designed to test credentials against network services
+scanners &#8211; modules that check if target is vulnerable to any exploit
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** Python
+
+**Project URL:** https://github.com/reverse-shell/routersploit
+
+**Source Location:** https://github.com/reverse-shell/routersploit
 
 
 
@@ -364,6 +653,8 @@ Though it is fully capable out of the box, the intent of SIMP is to be molded to
 **Project URL:** https://github.com/NationalSecurityAgency/SIMP
 
 **Source Location:** https://github.com/simp
+
+
 
 
 
@@ -463,6 +754,59 @@ Languages supported: C/C++,Java source, Java bytecode, Python, Ruby.  PHP and J
 
 
 
+**Tamper Chrome** 
+-------------------
+**SBB Description:** Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).
+
+**SBB License:** Apache License 2.0
+
+**Core Technology:** Javascript
+
+**Project URL:** https://github.com/google/tamperchrome
+
+**Source Location:** https://github.com/google/tamperchrome
+
+
+
+
+
+**Threat Dragon** 
+-------------------
+**SBB Description:** Threat Dragon is a free, open-source threat modelling tool from OWASP.
+Threat Dragon is an online threat modelling web application including system diagramming and a rule engine to auto-generate threats/mitigations. The focus will be on great UX a powerful rule engine and alignment with other development lifecycle tools.
+ThreatDragon is a Single Page Application (SPA) using Angular on the client and node.js on the server.
+Thread Dragon is currently in alfa stage.
+
+**SBB License:** MIT License
+
+**Core Technology:** Javascript / NodeJS
+
+**Project URL:** https://www.owasp.org/index.php/OWASP_Threat_Dragon
+
+**Source Location:** https://github.com/mike-goodwin/owasp-threat-dragon
+
+
+
+
+
+**Tlsfuzzer** 
+---------------
+**SBB Description:** TLS test suite and fuzze. Fuzzer and test suite for TLS (v1.0, v1.1, v1.2) implementations.
+
+tlsfuzzer verifies only TLS level behaviour, it does not perform any checks on the certificate (like hostname validation, CA signatures or key usage). It does however verify if the signatures made on TLS message by the server (like in Server Key Exchange message) match the certificate sent by the server.
+
+**SBB License:** GNU General Public License (GPL) 2.0
+
+**Core Technology:** Python
+
+**Project URL:** https://github.com/tomato42/tlsfuzzer
+
+**Source Location:** https://github.com/tomato42/tlsfuzzer
+
+
+
+
+
 **Tor** 
 ---------
 **SBB Description:** Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security. Creating your own Tor network is easy with this software, or use existing Tor nodes.
@@ -498,6 +842,23 @@ A modern system requires access to a multitude of secrets: database credentials,
 
 
 
+**VSAQ: Vendor Security Assessment Questionnaire** 
+----------------------------------------------------
+**SBB Description:** VSAQ is an interactive questionnaire application. Its initial purpose was to support security reviews by facilitating not only the collection of information, but also the redisplay of collected data in templated form.
+At Google, questionnaires like the ones in this repository are used to assess the security programs of third parties. But the templates provided can be used for a variety of purposes, including doing a self-assessment of your own security program, or simply becoming familiar with issues affecting the security of web applications.
+
+**SBB License:** Apache License 2.0
+
+**Core Technology:** Javascript
+
+**Project URL:** https://vsaq-demo.withgoogle.com/
+
+**Source Location:** https://github.com/google/vsaq
+
+
+
+
+
 **w3af (Web Application Attack and Audit Framework)** 
 -------------------------------------------------------
 **SBB Description:** w3af is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
@@ -514,3 +875,25 @@ The plugins, which find links and vulnerabilities
 **Project URL:** http://w3af.org/
 
 **Source Location:** https://github.com/andresriancho/w3af/
+
+
+
+
+
+**YARA** 
+----------
+**SBB Description:** ARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples. With YARA you can create descriptions of malware families (or whatever you want to describe) based on textual or binary patterns.
+
+**SBB License:** MIT License
+
+**Core Technology:** C
+
+**Project URL:** https://virustotal.github.io/yara/
+
+**Source Location:** https://github.com/virustotal/yara
+
+
+
+
+
+End of SBB list <br>
