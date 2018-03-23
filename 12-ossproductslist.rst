@@ -528,9 +528,10 @@ RC2
 **SBB Description:** Unix-like reverse engineering framework and commandline tools.
 
 Radare is a portable reversing framework that can:
+
 - Disassemble (and assemble for) many different architectures
 - Debug with local native and remote debuggers (gdb, rap, webui, r2pipe, winedbg, windbg)
-- Run on Linux, *BSD, Windows, OSX, Android, iOS, Solaris and Haiku
+- Run on Linux, BSD, Windows, OSX, Android, iOS, Solaris and Haiku
 - Perform forensics on filesystems and data carving
 - Be scripted in Python, Javascript, Go and more
 - Support collaborative analysis using the embedded webserver
