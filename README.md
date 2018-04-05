@@ -1,3 +1,5 @@
+[![Documentation Status](http://readthedocs.org/projects/security-and-privacy-reference-architecture/badge/?version=latest)](http://security-and-privacy-reference-architecture.readthedocs.io/en/latest/?badge=latest)
+
 # SecurityPrivacyReferenceArchitecture
 Open Repository for the Open Security and Privacy Reference Architecture
 
