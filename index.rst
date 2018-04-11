@@ -26,7 +26,6 @@ Content
 .. toctree::
    :maxdepth: 2
 
-   03-about
    04-foreword
    05-introduction
    06-secmodels
@@ -41,6 +40,7 @@ Content
    12.2-oss-privacy-productslist
    132-oss-security-repros
    13-appendix-references
+   03-about
    14-appendix-licensing
    15-appendix-contribute
    
