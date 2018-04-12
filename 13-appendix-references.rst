@@ -148,7 +148,7 @@ The ICO is the UK's independent body set up to uphold information rights. The UK
 https://ico.org.uk/ 
 
 Checklists
-============
+--------------
 
 The list with security and privacy checklists is long. However in this opinionated list we collected OPEN lists (so under an open license published) that are ready to use and to improve.
 OSS Security Badges project (Work in progress), D. Wheeler, https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/criteria.md 
@@ -168,6 +168,14 @@ Vulnerability Databases
 ------------------------
 Common Weakness Enumeration (CWE™), cwe.mitre.org 
 
+
+Learning and training resources
+--------------------------------
+
+The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. All OSS with the code on Github. Check it out: http://overthewire.org/wargames/
+
+Key Reinstallation Attacks- Breaking WPA2 by forcing nonce reuse (KRACK). With hands-on description, check it out:
+https://www.krackattacks.com/ 
 
 
 Other References 

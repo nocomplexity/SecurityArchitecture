@@ -32,3 +32,13 @@ API Provider security controls are typically provided by a proxy or api-gateway.
 - Use of a ‘soft identifier’ or tag to enable tracking and analytics of the API
 
 (* if you offer protected services)
+
+How do I validate a password?
+=================================
+
+A common way to validate the password strength is to check it against dictionaries.
+If you want to take your password validation to the limit there are multiple list in the open domain available that you can use.
+
+A nice collection of password lists can be found at: https://github.com/danielmiessler/SecLists/tree/master/Passwords 
+
+In this passwords directory you can find a number of password lists that can be used by multiple tools when attempting to guess credentials for a given targeted service.
