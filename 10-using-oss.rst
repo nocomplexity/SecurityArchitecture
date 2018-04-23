@@ -328,6 +328,9 @@ aspects are of crucial importance:
    to designing information and privacy aspects in (business)
    information systems.
 
+- Openness. Full Transparency is needed when it comes to privacy. OSS and especially OSS software that can be hosted on premise is well positioned to ensure privacy when it comes to your digital footprints. Free Software is probably the only way to ensure that.
+
+
 Improvements will not come overnight and a paradigm shift is needed for
 many companies to be more open and transparent regarding their security
 and privacy designs. Since privacy data is a core asset of customers of
