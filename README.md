@@ -3,6 +3,14 @@
 # SecurityPrivacyReferenceArchitecture
 Open Repository for the Open Security and Privacy Reference Architecture
 
+Open publications for IT security and privacy are still rare. Despite the great work of the OWASP foundation many IT security  organizations are not that open. 
+
+This reference architecture aims to enable you to create better and faster security and privacy solutions by reusing content that is provided in this reference architecture. To encourage collaboration for this project this reference architecture is of course free and open (cc-by-sa).
+
+This project is supported by the BM-Support Foundation, https://www.bm-support.org/ 
+
+Current status: We are working on a complete revision for 2018 of this 'Open Reference Architecture for Security and Privacy'. So join the party and create the 2018 version together with us.
+
 
 # Contributing
 
