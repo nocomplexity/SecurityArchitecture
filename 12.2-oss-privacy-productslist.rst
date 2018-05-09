@@ -141,12 +141,18 @@ Pay Nothing &#8211; The development team is supported by community donations and
 
 **PrivacyScore** 
 ------------------
-**SBB Description:** PrivacyScore is a platform for investigating security and privacy issues on websites. It is inspired by tools like the Qualys SSL test and Webbkoll, but aims to be more comprehensive and offer additional features like
+**SBB Description:** PrivacyScore is a tool and platform for investigating security and privacy issues on websites. 
 
-Comparing and ranking whole lists of sites
-Checking for embedded third parties that are known trackers
-Periodically rescanning each website and checking how the results change over time
-Be completely open source (GPLv3) and easily extendable
+PrivacyScore is an automated website scanner that allows you to investigate Websites for privacy and security issues. You can scan individual websites, or enter a list of related websites to see how they compare against each other. PrivacyScore is composed partially by integrated many existing OSS privacy and security solutions. PrivacyScore gives very detailed results with a clear explanation on how the score is created. Including the limitations. One of the nice features of PrivacyScore is that besides running it on a single website you can create a category of sites with a ranking per site to improve awareness of site owners.
+
+PrivacyScore and many other tools can only check and report on technical security and privacy measures that can be analyzed automatically. So within your SDLC (Secure Software Development Life Cycle) processes you should also embed a periodic evaluation of your security and privacy policies, procedures and governance process.
+
+Some features:
+
+- Comparing and ranking whole lists of sites
+- Checking for embedded third parties that are known trackers
+- Periodically rescanning each website and checking how the results change over time
+- Easily extensible
 
 **SBB License:** GNU General Public License (GPL) 3.0
 
