@@ -428,21 +428,23 @@ below a collection of (almost open) security and privacy models.
 Privacy Management Reference Model
 -----------------------------------
 
-The Privacy Management Reference Model and Methodology (PMRM) of the
-OASIS group provides a model and a methodology for:
+The Privacy Management Reference Model and Methodology (PMRM) of the OASIS group can help you with:
 
--  Understanding and analysing privacy policies and their privacy
-   management requirements in defined use cases; and
+- Analysis the impact of new privacy use cases for your company.
+- Designing operational privacy management services.
+- Improving services that need to be compliant with the GDPR.
+- Determining use and requirements of security services from a privacy view point.
+- Gives input for developing a privacy solution architecture.
 
--  selecting the technical services which must be implemented to support
-   privacy controls.
+When developing a privacy architecture it makes sense to investigate if audit and control functions for privacy can be combined with security services and processes that are already in place.
 
-The model is particularly relevant to evaluate use cases in which
+
+This model is particularly relevant to evaluate use cases in which
 personal information (PI) flows across regulatory, policy,
 jurisdictional, and system boundaries.
 
 
-.. image:: /Images/image_5_OASIS.png
+.. image:: /Images/privacy-reference-model.png
 
 More in-depth information regarding this model can be found on the OASIS
 site (see references).
