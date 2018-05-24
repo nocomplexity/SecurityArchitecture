@@ -449,6 +449,17 @@ jurisdictional, and system boundaries.
 More in-depth information regarding this model can be found on the OASIS
 site (see references).
 
+Privacy Management Model
+---------------------------
+
+A privacy management model outlines how management the various processes needed for privacy can be categorized.
+
+.. image:: /Images/privacymanagement.png
+
+Based upon the key processes in every solution architecture a view of the various processes should be outlined. With the use of an process overview topology it is easier to map overlap between privacy, security and general IT and risks processes and departments.
+
+
+
 NIST Security framework
 -----------------------
 
