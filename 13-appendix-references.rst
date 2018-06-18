@@ -45,13 +45,7 @@ Software Assurance Maturity Model (OWASP), http://www.opensamm.org/
 
 Open Security Architecture (OSA), http://www.opensecurityarchitecture.org/ 
 
-
-Secure Programming 
---------------------
-Go Language Web Application Secure Coding Practices, https://checkmarx.gitbooks.io/go-scp/
-CC-Licensed so you can edit this GitBook yourself. Check the repository on https://github.com/Checkmarx/Go-SCP  
-And of course OWASP Secure Coding Practices are used for this GO specific publication.
-
+Mozilla Information Security Guides, https://infosec.mozilla.org/ Technical guidelines, principles and general information as used by the infosec team of Mozilla.
 
 
 Privacy References Architectures and Models

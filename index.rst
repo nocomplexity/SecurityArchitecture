@@ -43,6 +43,7 @@ Content
    12.2-oss-privacy-productslist
    132-oss-security-repros
    13-appendix-references
+   secure-coding-references
    03-about
    14-appendix-licensing
    15-appendix-contribute
