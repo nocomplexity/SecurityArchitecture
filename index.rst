@@ -36,6 +36,7 @@ Content
    07-principles
    08-security-principles
    09-privacy-principles
+   gdpr
    091-designrules
    10-using-oss
    11-ossproducts

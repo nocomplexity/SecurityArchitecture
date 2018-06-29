@@ -1,6 +1,41 @@
 Privacy Principles
 =======================
 
+EU GDPR privacy principles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The EU General Data Protection Regulation (GDPR).
+
+The GDPR key principles are:
+
+* Personal data shall be processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’);
+* Personal data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’);
+* Personal data shall be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’);
+* Personal data shall be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’);
+* Personal data shall be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed;
+* Personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) subject to implementation of the appropriate technical and organisational measures required by this Regulation in order to safeguard the rights and freedoms of the data subject (‘storage limitation’);
+* Personal data shall be processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (‘integrity and confidentiality’).
+* The controller shall be responsible for, and be able to demonstrate compliance (‘accountability’).
+
+The ‘controller’ is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+
+Since visuals are easier to handle than text, a simple visual of the GDPR visuals here below:
+
+.. image:: /Images/gdpr-principles.png
+   :width: 600px
+   :alt: GDPR principles
+   :align: center 
+
+Data protection should be done according by the GDPR by design and by default. However the implementation challenge is: What are appropriate technical and/or organisational measurements for protecting private data? And the good news is: If you are processing privacy related data you decide what appropriate is. The only requirement is that you must document your decisions  so that you can justify your reasoning.
+
+The risk with the GDPR is that your IT Cost will rise, due to the fact that solid quality standardized reusable open solutions are not offered by most commercial IT vendors and consultancy companies. So make use of the OSS solution building blocks that are outlined in this reference architecture.
+
+
+Other privacy principles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Long before the EU GDPR principles was released many good privacy principles already existed. Below some important principles that are usable in many privacy architectures.
+
 
 **Access to Personal data** 
 -----------------------------

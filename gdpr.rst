@@ -1,14 +1,28 @@
 
-GDPR Building Blocks
-=====================
+Integrating privacy requirements (GDPR)
+=====================================
+
+This section outlines simple and effective ways for handling privacy requirements within your solution architecture. An important document that is input for privacy requirements is e.g. the EU General Data Protection Regulation (GDPR).
+
 
 What is the GDPR?
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Privacy, security, Internet  and IT systems are complex and form a toxic mix. Many things can and will go wrong. Often it is just a manner of time before real incidents happen. Since detection of privacy and security breaches is also non trivial to accomplish there is a great chance you will never known that your data is seen or copied by unauthorized persons. Privacy is a core value of individuals of democratic societies.
 
-So a valid question is: Will this new GDPR help? Or will companies or governmental organizations still be able to track and trace you? The GDPR official document ( called Directive 95/46/EC) is 261 pages long.  Even for trained security & privacy architects this GDPR document is hard to handle. Mainly due to the fact that layers did a great job to making it opaque what kind of measurements are really needed. Since every organization uses IT nowadays the GDPR is discussed a lot. 
+The new EU General Data Protection Regulation (GDPR) will become fully enforceable throughout the European Union . This regulation is an important change in data privacy regulation for every company who deals with EU individuals. 
 
-And since security and privacy can never be done correct afterwards you must design or redesign your information systems and take security and privacy as top requirements to reduce risks.
+Security and privacy can never be done correct afterwards. So you must design or redesign your information systems and take security and privacy as top requirements to reduce risks. 
+
+Design rules for privacy design
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Design rules to do privacy by design good from the start are:
+
+* No security = no privacy. Dead simple. You can never do privacy correct if security is hardly implemented.
+* Use an open design. The security and privacy should not depend on secrecy of the design and implementation. This accounts for your core IT systems, but also for your control and management systems. So go for real open.
+* Defensive data collection. Only collect data that is really needed. Limiting data collection and (long term)storage prevents risks on data leakage.
+* Reduce IT complexity. Besides high cost for maintenance and change, complexity can lead to severe risks that can impact security, privacy and safety for humans. 
+
 
 
 GDPR tools
