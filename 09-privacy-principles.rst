@@ -22,7 +22,7 @@ The ‘controller’ is the natural or legal person, public authority, agency or
 Since visuals are easier to handle than text, a simple visual of the GDPR visuals here below:
 
 .. image:: /Images/gdpr-principles.png
-   :width: 600px
+   :width: 600px 
    :alt: GDPR principles
    :align: center 
 
