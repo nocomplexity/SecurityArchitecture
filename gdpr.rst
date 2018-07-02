@@ -13,7 +13,7 @@ The new EU General Data Protection Regulation (GDPR) will become fully enforceab
 
 Security and privacy can never be done correct afterwards. So you must design or redesign your information systems and take security and privacy as top requirements to reduce risks. 
 
-What is private information
+What is personal information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Personal data is any information that relates to an identified or identifiable living individual. Different pieces of information that can lead to the identification of a particular person, also constitute as personal data. 
