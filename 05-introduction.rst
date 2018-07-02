@@ -228,26 +228,6 @@ this reference architecture are:
    for reuse. These SBB’s serve as example to give you a more in depth
    overview of possibilities you are maybe not familiar with.
 
-Creating security architecture consists of the following high level
-steps:
-
--  Dive in the business strategy and organization;
--  Gather security and privacy principles and requirements;
--  Determine important constraints that apply to your architecture or
-   design. There are always constraints, e.g. time, budget, subject
-   matter experts available etc.
--  Derive the architecture building blocks from your architecture or
-   design. Architecture building blocks help you to scope your solution.
-   Using architecture building blocks gives a clear view on (new)
-   integration aspects and where completely new solutions fit in the
-   total IT landscape.
--  Select (or create, buy) the new Solution Building Blocks.
-   Prerequisite is of course that the functionality and technical
-   constrains must be clear. Often prerequisites are derived from the
-   previous design step.
-
-
-.. image:: /Images/image_1_scope.png
 
  
 
@@ -269,8 +249,7 @@ solution:
 -  Reusable architecture and design patterns for security and privacy
    problems. During the architecture and design phase threat models are
    constructed. This document contains generic threat models, since
-   these are reusable. That can be improved when the model is made
-   publically available.
+   these are reusable. That can be improved when the model is made publicly available.
 
  
 .. image:: /Images/image_2_scope_withredmarked.png

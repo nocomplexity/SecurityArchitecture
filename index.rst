@@ -31,6 +31,7 @@ Content
 
    04-foreword
    05-introduction
+   solution-ar
    06-secmodels
    061-hackingmodels
    07-principles
