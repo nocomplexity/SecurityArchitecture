@@ -251,13 +251,15 @@ solution:
    constructed. This document contains generic threat models, since
    these are reusable. That can be improved when the model is made publicly available.
 
- 
-.. image:: /Images/image_2_scope_withredmarked.png
 
+.. image:: /Images/solutionsteps-overview.png
+   :width: 600px 
+   :alt: architecture process overview
+   :align: center 
  
 
-So many aspects regarding security and privacy our not in scope of this
-reference architecture.
+Many aspects regarding security and privacy our not in scope of this
+reference architecture. The clear and only focus is on providing open content that makes creating solutions for common security and privacy challenges simpler. 
 
  
 
@@ -284,9 +286,9 @@ or privacy solutions faster. Our findings are:
    solved. Since libraries are written on generic problem solving
    methods (note: the golden book is still not found) some precaution
    using patterns is very healthy!
--  Developing patterns (also in a collaborative way) for a reference
-   architecture takes up a lot of precious time while the practical use
-   (or reuse) in a solution architecture is always questionable.
+-  Developing usable patterns (also in a collaborative way) for a reference
+   architecture takes up a lot of time while the practical use
+   (or reuse) in a solution architecture is often limited.
 
 We hope good developed patterns for dealing with typical security and
 privacy problems will be developed in future. Also we hope these

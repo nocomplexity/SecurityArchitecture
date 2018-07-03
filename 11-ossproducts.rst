@@ -55,7 +55,13 @@ The number of OSS security applications available is over
 overwhelming. Using the following conceptual topology can help with
 arranging functional to product mapping needs:
 
+
 .. image:: /Images/security-abbs.png
+   :width: 600px 
+   :alt: Security ABBs
+   :align: center 
+
+
 
 For every security or privacy function or service needed you should look
 serious at using open transparent reusable solutions. So Open Source. Of

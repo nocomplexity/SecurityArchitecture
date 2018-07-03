@@ -1,6 +1,6 @@
 
 Integrating privacy requirements (GDPR)
-=====================================
+========================================
 
 This section outlines simple and effective ways for handling privacy requirements within your solution architecture. An important document that is input for privacy requirements is e.g. the EU General Data Protection Regulation (GDPR).
 

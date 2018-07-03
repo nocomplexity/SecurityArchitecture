@@ -113,7 +113,7 @@ Security and privacy requirements tend to have the following characteristics:
 
 -  Requirements can be prioritized within a project, where principles are more directly shaping an architecture or design.
 
-Principles can be regarded and threated as requirement, but due to the
+Principles can be regarded and treated as requirement, but due to the
 formulation requirements seldom can be directly used as generic
 principle.
 
@@ -153,7 +153,7 @@ Common Mistakes regarding security and privacy requirements
 -  Basing a solution on complex or cutting edge technology and then
    discovering that it cannot easily be rolled into the 'real world'.
 
--  Not prioritising the User Requirements, for example 'must have',
+-  Not prioritizing the User Requirements, for example 'must have',
    'should have', 'could have' and 'would have,' known as the MoSCoW
    principle.
 
@@ -248,3 +248,16 @@ appendix of this document a link to a reusable list of security and
 privacy requirements on GitHub for reuse. We encourage everyone to share
 created requirements. See the Appendix on how you can collaborate and
 make the next version of this reference architecture with us.
+
+Reuse requirements
+-------------------
+
+Security requirements can often be reused. Many organisations have a default list of security and privacy requirements. Every project within an e.g. health care or logistic organisation meets the same context. So reuse of requirements is often possible between different projects.
+
+You can argue if requirements for security and privacy should be stated as 'functional'  requirements or as non-functional requirements. In practice since security and privacy is a complex area end-users and stakeholders have a hard time to formulate good requirements. So help your business stakeholders.
+
+You can help by organizing a requirement session to discuss the which requirements should be incorporated into the design. And since risks are eventually business risks every requirements should be explained using consequences for business risks regarding the MoSCoW prioritization.
+
+OWASP has a (very large) collection of common security requirements.
+These can be found in the OWASP Application Security Verification Standard (ASVS) Project. More information can be found here: https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project 
+
