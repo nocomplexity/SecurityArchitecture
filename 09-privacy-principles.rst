@@ -2,7 +2,7 @@ Privacy Principles
 =======================
 
 EU GDPR privacy principles
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 The EU General Data Protection Regulation (GDPR).
 
@@ -32,7 +32,7 @@ The risk with the GDPR is that your IT Cost will rise, due to the fact that soli
 
 
 Other privacy principles
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 
 Long before the EU GDPR principles was released many good privacy principles already existed. Below some important principles that are usable in many privacy architectures.
 
@@ -47,17 +47,18 @@ Long before the EU GDPR principles was released many good privacy principles alr
 **Implications:** confirmation of individual’s identity before access is given to personal information personal information presented in understandable format access provided in reasonable time frame and at a reasonable cost statement of disagreement; the reason for denial should be explained to individuals in writing
 
 
+**Data anomyzation**
+----------------------
+
+**Statement:** The use of data anomyzation is preferred when dealing with private data.
+**Rationale:** Easier to comply with GDPR.
+**Implication:** Only for business processes where data anomyzation is not possible data pseudonymization should be considered.
 
 
 **Collection Limitation Principle** 
 -------------------------------------
 
-**Statement:** There should be limits to the collection of personal data and any such data should be obtained by lawful and fair means and, where appropriate, with the knowledge or consent of the data subject. (Source:OECDprivacy.org, by Ben Gerber )
-
-**Rationale:** 
-
-**Implications:** 
-
+**Statement:** There should be limits to the collection of personal data and any such data should be obtained by lawful and fair means and, where appropriate, with the knowledge or consent of the data subject. (Source:OECDprivacy.org)
 
 
 
@@ -104,9 +105,6 @@ Long before the EU GDPR principles was released many good privacy principles alr
 
 **Rationale:** Communication with third parties should be made known to the individual Information should only be disclosed to third parties that have equivalent agreements to protect personal Information individuals should be aware of any new uses/purposes for the information the organization should take remedial action in response to misuse of personal information by a third party
 
-**Implications:** 
-
-
 
 
 **Don’t trust infrastructure** 
@@ -137,11 +135,6 @@ Long before the EU GDPR principles was released many good privacy principles alr
 ----------------------------------------
 
 **Statement:** An individual should have the right: a) to obtain from a data controller, or otherwise, confirmation of whether or not the data controller has data relating to him; b) to have communicated to him, data relating to him i) within a reasonable time; ii) at a charge, if any, that is not excessive; iii) in a reasonable manner; and iv) in a form that is readily intelligible to him; c) to be given reasons if a request made under subparagraphs (a) and (b) is denied, and to be able to challenge such denial; and d) to challenge data relating to him and, if the challenge is successful to have the data erased, rectified, completed or amended.
-
-**Rationale:** 
-
-**Implications:** 
-
 
 
 
@@ -174,9 +167,6 @@ Long before the EU GDPR principles was released many good privacy principles alr
 
 **Statement:** The purposes for which personal data are collected should be specified not later than at the time of data collection and the subsequent use limited to the fulfilment of those purposes or such others as are not incompatible with those purposes and as are specified on each occasion of change of purpose. (source: http://oecdprivacy.org/)
 
-**Rationale:** 
-
-**Implications:** 
 
 
 
@@ -187,9 +177,6 @@ Long before the EU GDPR principles was released many good privacy principles alr
 **Statement:** Personal information is protected against both physical and logical unauthorized access.
 
 **Rationale:** privacy policies must address the security of personal information information security programs must include administrative, technical and physical safeguards logical access controls in place restrictions on physical access environmental safeguards personal information protected when being transmitted (e.g. mail, internet, public or other non-secure networks) security safeguards should be tested for effectiveness at least once annually
-
-**Implications:** 
-
 
 
 
@@ -210,6 +197,3 @@ Long before the EU GDPR principles was released many good privacy principles alr
 
 **Statement:** Personal data should not be disclosed, made available or otherwise used for purposes other than those specified in accordance with Paragraph 9 except: a) with the consent of the data subject; or b) by the authority of law. (source: http://oecdprivacy.org/)
 
-**Rationale:** 
-
-**Implications:**

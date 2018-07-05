@@ -27,7 +27,7 @@ Please observe our contribution guidelines before creating a pull
 request:
 
 With the exception of typos and spelling mistakes (feel free to fix
-these and they'll be merged), please observe the following guides:
+these and they'll be merged), please take notice of the following guidelines:
 
 -  Always open an issue first. This will allow us to determine whether
    or not the change should take place. Explain your issue, and we will
@@ -71,7 +71,7 @@ the master branch ASAP.
 When you submit text to which you hold the copyright, you agree to
 license it under:
 
--  Creative Commons Attribution-ShareAlike 4.0 Unported License (“CC
+-  Creative Commons Attribution-ShareAlike 4.0 International License (“CC
    BY-SA”)
 
 

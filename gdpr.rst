@@ -6,7 +6,7 @@ This section outlines simple and effective ways for handling privacy requirement
 
 
 What is the GDPR?
-^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 Privacy, security, Internet  and IT systems are complex and form a toxic mix. Many things can and will go wrong. Often it is just a manner of time before real incidents happen. Since detection of privacy and security breaches is also non trivial to accomplish there is a great chance you will never known that your data is seen or copied by unauthorized persons. Privacy is a core value of individuals of democratic societies.
 
 The new EU General Data Protection Regulation (GDPR) will become fully enforceable throughout the European Union . This regulation is an important change in data privacy regulation for every company who deals with EU individuals. 
@@ -14,7 +14,7 @@ The new EU General Data Protection Regulation (GDPR) will become fully enforceab
 Security and privacy can never be done correct afterwards. So you must design or redesign your information systems and take security and privacy as top requirements to reduce risks. 
 
 What is personal information
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
 
 Personal data is any information that relates to an identified or identifiable living individual. Different pieces of information that can lead to the identification of a particular person, also constitute as personal data. 
 
@@ -25,7 +25,7 @@ Having an IP address and MAC address will not mean that you can easily identify 
 
 
 Design rules for privacy design
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------
 
 Design rules to do privacy by design good from the start are:
 
@@ -35,7 +35,7 @@ Design rules to do privacy by design good from the start are:
 * Reduce IT complexity. Besides high cost for maintenance and change, complexity can lead to severe risks that can impact security, privacy and safety for humans. 
 
 Storing privacy data
-^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 Storing personal data or private data of others is always an issue.
 
@@ -63,15 +63,49 @@ Below some tips for using (secure) solution building blocks for storing personal
 * Make use of a secure Vault for the uttermost important secret information (Solid OSS implementations exist, like Hashicorp Vault )
 * Make use a fancy new blockchain technology enabled storage protocol. But mind: You MUST known what you are doing, since (secure)storage of data on a blockchain does not make it private by and compliant for GDPR usage by default. 
 
+Permanent erasing of data
+----------------------------
+
+The GDPR introduces a right for individuals to have personal data erased. This right to erasure is also known as ‘the right to be forgotten’. This means that individuals can make a request for erasure verbally or in writing. This rule is outlined in article 17 of the GDPR, but the technical consequences and complexity that comes with this rule are not trivial to implement. And a clear answer for implementation is not present in the GDPR. So even deletion is risk based.
+
+From a technical point of view real and permanent erasing of data is a real challenge!
+
+Using a standard delete function from a database or operating system hardly will remove data. There are great ways to get data back after administrator errors or disasters. Deleted data is often still recoverable. So simply using a ‘delete’ doesn’t meet the GDPR compliance for erasure. Besides were do you start when deleting data? Data is often shared with suppliers, partners, resellers. But data is also transfered to various marketing companies or even sold. And data is also often stored on various on-line or off-line backups facilities. And do not forget to check if data that must be erased is present on log and audit files.
+
+So to guarantee that data is deleted from all these different players is in practice hard to realize. Of course the key is not to share or sell gathered data in the first place, but this is not always possible. Some options are:
+
+* If you have encrypted personal data an option for erasure is to use crypto-shredding. This is the practice of ‘deleting’ data by overwriting the encryption keys. However there can be consequences for data you do not want to delete if you are destroying your encryption keys.
+* Use certified data erasure software. Data erasure software should comply with requirements to erase hidden areas, provide a defects log list and list bad sectors that could not be overwritten. Standards and rules for deleting data for various industries (e.g. health care and military) exist for many years already. Make reuse of this standards and rules to implementation of the GDPR easier. But erasing a data collection is  often easier that only deleting a single record.
+
+**If data is or was available on the Internet, intended or unintended, is will be close to impossible to delete.**
+
+Pseudonymization or Anonymization
+-----------------------------------
+
+Determining how to handle the GDPR is not straightforward when dealing with data masking.  A question relevant to comply with the GDPR is if you  should use:
+
+* Anonymization or
+* Pseudonymization
+
+To mask personal data in your IT landscape.
+
+According to the GDPR ‘pseudonymization’ means the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to an identified or identifiable natural person. So Pseudonymization is a method to **substitute identifiable data with a reversible, consistent value.** So the weakness is that personal data is still there, only a bit more difficult to get if you have no information on the used pseudonymization rules.
+
+Pseudonymization of personal data can reduce the risks to the data subjects concerned and help controllers and processors to meet GDPR obligations. But pseudonymization of data is in general a weak process to protect data privacy. Pseudonymization substitutes only the identity of the data subject in such a way that additional information is required to re-identify the data subject. A better approach to protect private data is to use data anonymization.
+
+Data anonymization is the process of either **encrypting or removing** personally identifiable information from data sets, so that the private personal data remain anonymous. Real anonymization is irreversibly and destroys permanent any option of identifying the data subject.
+
+Using pseudonymization introduces a large number of risks that are not present when using anomyzation. However in some use cases you can only use pseudonymization. But use it with care, since the technical and organizational risks involved with pseudonymization are significant.
 
 
 GDPR tools
-^^^^^^^^^^^^^
+------------
 
 https://ico.org.uk/for-organisations/resources-and-support/data-protection-self-assessment/
 
 Specific GDRP References
-^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
+
 
 The only official EC site regarding the GDPR. Note that a lot of sites pretend to be official EC sites, but are setup by commercial companies!
 https://ec.europa.eu/info/law/law-topic/data-protection_en 
