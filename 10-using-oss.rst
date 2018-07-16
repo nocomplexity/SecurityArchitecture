@@ -750,6 +750,8 @@ Some questions to determine and evaluate change control aspects are:
 -  Has the project a version-controlled source repository that is
    publicly readable?
 
+- Does the OSS project uses tools and principles to make builds reproducible? preferred is that the OSS software is build using the https://reproducible-builds.org/ standards. 
+
 -  Is issue tracking for defects in place? (For reporting bugs or
    feature request).
 
@@ -766,6 +768,11 @@ Some questions to determine and evaluate change control aspects are:
    and maintained?
 
 -  Does the change control process allow roll backs of releases?
+
+
+ Whilst anyone can inspect the source code of free and open source software for malicious flaws, most software is distributed pre-compiled with no method to confirm whether they correspond. So for change control it is crucial that software builds are fully reproducible. Creating real reproducible software build is a complicated tasks. However the tools and infrastructure offered by the https://reproducible-builds.org/ makes this transparent and a bit simpler.
+
+
 
 Documentation
 ~~~~~~~~~~~~~

@@ -4,6 +4,14 @@ References:Secure Coding Guidelines
 
 Securing coding is the practice of developing software that prevents security and privacy risks. Coding defects, bugs and logic flaws are a main cause of many software vulnerabilities. Since prevention is better than less complex than fixing security defects later, every software engineer should use Secure Coding guidelines and practices. 
 
+Reproducible builds
+----------------------
+
+Reproducible builds are a set of software development practices that create an independently-verifiable path from source code to the binary code used by computers.  Reproducible Builds project gives rules, guidelines, tools and more to allow verification that no vulnerabilities or backdoors have been introduced during the software compilation process. 
+
+https://reproducible-builds.org/
+
+
 
 Mozilla
 --------
