@@ -41,8 +41,8 @@ Content
    091-designrules
    10-using-oss
    11-ossproducts
-   12-ossproductslist
-   12.2-oss-privacy-productslist
+   security-sbbs
+   privacy-sbbs   
    132-oss-security-repros
    13-appendix-references
    secure-coding-references
