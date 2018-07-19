@@ -42,3 +42,27 @@ If you want to take your password validation to the limit there are multiple lis
 A nice collection of password lists can be found at: https://github.com/danielmiessler/SecLists/tree/master/Passwords 
 
 In this passwords directory you can find a number of password lists that can be used by multiple tools when attempting to guess credentials for a given targeted service.
+
+What are good privacy design patterns?
+=========================================
+
+A nice and proven way to speed up creating a privacy architecture or design challenges is to use design patterns.  Good reusable solutions for applying ‘Privacy-by-design’ in your architecture and implementation activities can increase the speed of creating and improve the quality of your IT solution. However many documents that have a title ‘Privacy-by-design’ and claim to help you with this architecture challenge do little more than giving a summary of all the GDPR rules and principles that must be taken into account. So these kind of documents give you little help when you are looking a way for speeding up your ‘Privacy-by-design’ challenge.
+
+Privacy patterns can be regarded as partial solutions to common privacy problems. So when you are facing privacy design challenges a good way is to find a number of good small solutions and glue these together.
+
+A very good and rich collection of privacy design patterns can be found on: https://privacypatterns.org/patterns/  E.g. you can find here privacy design patterns for:
+
+* Masquerade
+* Use of dummies
+* Data Breach Notification Pattern
+* Layered Policy Design
+* Strip Invisible Metadata and many more!
+
+All these patterns are developed as mini ‘design solutions’ to common privacy problems. Using these privacy patterns is an easy and practical way to solve ‘privacy-by-design’ challenges within small and large organizations. 
+
+Adding new privacy patterns to this collection is open for all, since this ‘Privacy Patterns’ project is an open project. Check https://github.com/privacypatterns if you want to contribute.
+
+This document is a reference to open security and privacy information to speed up creation of solution architectures. So the https://privacypatterns.org/patterns/ is the open resource to look for privacy patterns. This site has a nice friendly UX what minimize the time needed for finding the right privacy pattern.
+
+
+
