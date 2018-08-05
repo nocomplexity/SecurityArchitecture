@@ -2,12 +2,14 @@
 Integrating privacy requirements (GDPR)
 ========================================
 
-This section outlines simple and effective ways for handling privacy requirements within your solution architecture. An important document that is input for privacy requirements is e.g. the EU General Data Protection Regulation (GDPR).
+This section outlines simple and effective ways for handling privacy requirements within your solution architecture. An important document that is input for privacy requirements is e.g. the EU General Data Protection Regulation (GDPR). 
 
 
 What is the GDPR?
 ----------------------
-Privacy, security, Internet  and IT systems are complex and form a toxic mix. Many things can and will go wrong. Often it is just a manner of time before real incidents happen. Since detection of privacy and security breaches is also non trivial to accomplish there is a great chance you will never known that your data is seen or copied by unauthorized persons. Privacy is a core value of individuals of democratic societies.
+Privacy, security, Internet  and IT systems are complex and form a toxic mix. Many things can and will go wrong. Often it is just a manner of time before real incidents happen. Since detection of privacy and security breaches is also non trivial to accomplish there is a great chance you will never known that your data is seen or copied by unauthorized persons. Privacy is a core value of individuals of democratic societies. 
+
+**Tracking people without their knowledge, approval or a court order is just flat-out wrong.** The fact that it can be done is no excuse. Without adtech, and massive data collection of commercial companies, the EU’s GDPR (General Data Protection Regulation) would never have happened. The GDPR should put a hold to this practice. But the GDPR is no silver bullet. Many escapes are possible and without good security controls privacy can not exist.
 
 The new EU General Data Protection Regulation (GDPR) will become fully enforceable throughout the European Union . This regulation is an important change in data privacy regulation for every company who deals with EU individuals. 
 

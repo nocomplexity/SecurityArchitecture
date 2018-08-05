@@ -11,6 +11,14 @@ High-level overview of information security principles:
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf
 
 
+Software Security Knowledge Area: 
+https://www.cybok.org/news/software-security-ka-issue-10
+Document of the  CyBOK project(https://www.cybok.org) to harvest security knowledge. 
+
+Cryptography KA issue 1.0, 2018:https://www.cybok.org/news/cryptography-ka-issue-10 
+Also of the CyBok project.
+
+
 
 Attacks methods
 ----------------
