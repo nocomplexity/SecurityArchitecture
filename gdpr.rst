@@ -100,6 +100,16 @@ Data anonymization is the process of either **encrypting or removing** personall
 Using pseudonymization introduces a large number of risks that are not present when using anomyzation. However in some use cases you can only use pseudonymization. But use it with care, since the technical and organizational risks involved with pseudonymization are significant.
 
 
+Protecting Privacy
+-------------------
+
+Despite the fact that the GDPR document starts with **"The protection of natural persons in relation to the processing of personal data is a fundamental right”** it is very hard for users and service provides to protect these rights. This because making it impossible to trace communication by third parties, including governments is very difficult. Most governments are still not very kind for persons with other principles. So there is a real need to make it possible to make tracing of communication impossible without throwing giving away all the benefits of current Internet communication technologies.
+
+Using secure communication (e.g. VPN , HTTPS ) is almost a must have to be GDPR compliant. Encrypting data whilst it is being transferred from one device to another provides effective protection against interception of the communication by a third party whilst the data is in transfer.
+
+There are some good FOSS tools available to protect your privacy if you have a hostile government and must protect your communication. E.g. take a look at Streisand, but a full list can be found in the section 'OSS Privacy Applications' 
+
+
 GDPR tools
 ------------
 

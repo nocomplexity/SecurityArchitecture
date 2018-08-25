@@ -1,7 +1,7 @@
 Hacking Reference Models
 =========================
 
-This directs you to reference models for advanced hacking. 
+This section outlines open models for advanced hacking. Modelling how things really work is the best start for good protection. 
 
 
 Car Hacking
