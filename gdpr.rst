@@ -110,6 +110,15 @@ Using secure communication (e.g. VPN , HTTPS ) is almost a must have to be GDPR 
 There are some good FOSS tools available to protect your privacy if you have a hostile government and must protect your communication. E.g. take a look at Streisand, but a full list can be found in the section 'OSS Privacy Applications' 
 
 
+Dealing with metadata
+-----------------------
+
+Metadata is data that consists of information that characterizes data (e.g. Word documents, pictures, music files, etc). In essence, metadata answers who, what, when, where, why, and how about every facet of the data that is being characterized. Metadata within a file can contain a lot of privacy related data.  Office documents like pdf or MSOffice automatically add author, company information and revision information(e.g. who changed what)  to documents and spreadsheets. Under the GDPR you are not by default allowed to disclose this metadata information on the web.
+
+When you distribute information or publish information on the Internet you must check if metadata in document is still present and if you are allowed to expose this information. In most cases you do not want the metadata exposed. To solve this problem a lot of tools exist that claim to strip all metadata for you from Office Documents (MSWord, PDF, etc). However in most cases these tools work far from perfect and give you a false feeling of security. For examples, images embedded inside PDF documents may not be cleaned and images also contain metadata information.
+
+
+
 GDPR tools
 ------------
 
