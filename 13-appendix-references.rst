@@ -179,6 +179,8 @@ The wargames offered by the OverTheWire community can help you to learn and prac
 Key Reinstallation Attacks- Breaking WPA2 by forcing nonce reuse (KRACK). With hands-on description, check it out:
 https://www.krackattacks.com/ 
 
+Practical Cryptography for Developers: https://cryptobook.nakov.com/ 
+
 
 Other References 
 ------------------
