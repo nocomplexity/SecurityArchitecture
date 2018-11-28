@@ -7,19 +7,15 @@ privacy is created by the following IT security architects:
 **Asim Jahan**
 --------------
 
-Asim is passionate about helping companies to secure their business
-better as an independent Senior Information Security
-Consultant: \ `www.jahan-is.com <http://www.jahan-is.com>`__. He speaks,
-blogs and observes developments in cyber realms. Holding a Bachelor
-degree in Business IT & Management of The Hague University and knowing
-project management very well he likes to keep things practical using the
-Keep It Simple and Solid (KISS) method. Asim is married and adores his
-two beautiful kids. If he’s not working he’s playing with them. Or he’s
-reading or following a course. And somehow he finds time for helping
-young talented bright students advance in their professional
-career: \ `www.mythonline.nl <http://www.mythonline.nl>`__. Take a look
-on his LinkedIn profile: \ https://nl.linkedin.com/in/asimjahan.He loves
-Metallica, just like his 4 year old son.
+Asim works as an information security and privacy consultant. As such he 
+likes to improve or redesign business processes enabling companies and 
+organisations to perform better with less effort at less costs. He holds 
+a Bachelor degree in Business IT & Management of The Hague University. 
+Asim knows the GDPR inside out. He also has all knowledge of CIPP/E and CIPM. 
+He currently works for the government implementing GDPR together with a 
+handpicked team. He likes to speak and recently Asim joined a debating club. 
+blogs and observes developments in cyber realms. Take a look at his LinkedIn 
+profile: \ https://nl.linkedin.com/in/asimjahan. 
 
 **Maikel Mardjan**
 ------------------
