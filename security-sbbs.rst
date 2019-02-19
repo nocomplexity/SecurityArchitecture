@@ -1,5 +1,51 @@
-OSS Security Applications
-==========================
+OSS Security Applications 
+===========================
+
+AIL framework
+-------------
+
+AIL is a modular framework to analyse potential information leaks from
+unstructured data sources like pastes from Pastebin or similar services
+or unstructured data streams. AIL framework is flexible and can be
+extended to support other functionalities to mine or process sensitive
+information (e.g. data leak prevention).
+
+Many features are provided within this framework. E.g.:
+
+-  Modular architecture to handle streams of unstructured or structured
+   information
+-  Default support for external ZMQ feeds, such as provided by CIRCL or
+   other providers
+-  Multiple feed support: Each module can process and reprocess the
+   information already processed by AIL
+-  Detecting and extracting URLs including their geographical location
+   (e.g. IP address location)
+-  Extracting and validating potential leak of credit cards numbers,
+   credentials, …
+-  Extracting and validating email addresses leaked including DNS MX
+   validation
+-  Module for extracting Tor .onion addresses (to be further processed
+   for analysis)
+-  Keep tracks of duplicates (and diffing between each duplicate found)
+   Extracting and validating potential hostnames (e.g. to feed Passive
+   DNS systems)
+-  A full-text indexer module to index unstructured information
+   Statistics on modules and web
+-  
+
++-----------------------+-----------------------------------------------+
+| **SBB License**       | GNU Affero General Public License Version 3   |
++-----------------------+-----------------------------------------------+
+| **Core Technology**   | Python                                        |
++-----------------------+-----------------------------------------------+
+| **Project URL**       | https://github.com/CIRCL/AIL-framework        |
++-----------------------+-----------------------------------------------+
+| **Source Location**   | https://github.com/CIRCL/AIL-framework        |
++-----------------------+-----------------------------------------------+
+| **Tag(s)**            | Python, Security                              |
++-----------------------+-----------------------------------------------+
+
+| 
 
 American fuzzy lop
 ------------------
@@ -154,6 +200,30 @@ Cameradar allows you to
 
 | 
 
+CLIP OS
+-------
+
+The CLIP OS project is an open source project maintained by the `ANSSI
+(National Cybersecurity Agency of France) <https://ssi.gouv.fr/en>`__
+that aims to build a secure, multi-level operating system, based on the
+Linux kernel and a lot of free and open source software.
+
+Documentation can be found on: https://docs.clip-os.org/index.html
+
++-----------------------+------------------------------------------------+
+| **SBB License**       | GNU Lesser General Public License (LGPL) 3.0   |
++-----------------------+------------------------------------------------+
+| **Core Technology**   | C                                              |
++-----------------------+------------------------------------------------+
+| **Project URL**       | https://clip-os.org/en/                        |
++-----------------------+------------------------------------------------+
+| **Source Location**   | https://github.com/CLIPOS/                     |
++-----------------------+------------------------------------------------+
+| **Tag(s)**            | Operating System, Security                     |
++-----------------------+------------------------------------------------+
+
+| 
+
 Data Seal
 ---------
 
@@ -279,6 +349,35 @@ and uploading them to a remote or local file server.
 +-----------------------+----------------------------------------+
 | **Tag(s)**            | backup, Security                       |
 +-----------------------+----------------------------------------+
+
+| 
+
+Evilginx2
+---------
+
+Standalone man-in-the-middle attack framework used for phishing login
+credentials along with session cookies, allowing for the bypass of
+2-factor authentication.
+
+This tool is a successor to
+`Evilginx <https://github.com/kgretzky/evilginx>`__, released in 2017,
+which used a custom version of nginx HTTP server to provide
+man-in-the-middle functionality to act as a proxy between a browser and
+phished website. Present version is fully written in GO as a standalone
+application, which implements its own HTTP and DNS server, making it
+extremely easy to set up and use.
+
++-----------------------+-----------------------------------------+
+| **SBB License**       | GNU General Public License (GPL) 3.0    |
++-----------------------+-----------------------------------------+
+| **Core Technology**   | GO                                      |
++-----------------------+-----------------------------------------+
+| **Project URL**       | https://github.com/kgretzky/evilginx2   |
++-----------------------+-----------------------------------------+
+| **Source Location**   | https://github.com/kgretzky/evilginx2   |
++-----------------------+-----------------------------------------+
+| **Tag(s)**            | Security, Vulnerability scanning        |
++-----------------------+-----------------------------------------+
 
 | 
 
@@ -803,6 +902,38 @@ allows for HTTP traffic monitoring, logging and real-time analyse.
 
 | 
 
+MOSP
+----
+
+A platform to create, edit and share JSON Security objects.
+
+The goal of this platform is to gather security related JSON schemas and
+objects. You can use any available schemas in order to create shareable
+JSON objects. It also possible to keep an object private even if our
+goal is to promote the sharing of information. JSON schemas are always
+public.
+
+All content is licensed under CC-BY-SA.
+
+Integration with third-party applications is possible thanks to an API:
+
+-  `JSON Schemas <http://objects.monarc.lu/api/v1/schema>`__
+-  `JSON Objects <http://objects.monarc.lu/api/v1/json_object>`__
+
++-----------------------+-----------------------------------------------+
+| **SBB License**       | GNU Affero General Public License Version 3   |
++-----------------------+-----------------------------------------------+
+| **Core Technology**   | JSON                                          |
++-----------------------+-----------------------------------------------+
+| **Project URL**       | http://objects.monarc.lu/                     |
++-----------------------+-----------------------------------------------+
+| **Source Location**   | https://github.com/CASES-LU/MOSP              |
++-----------------------+-----------------------------------------------+
+| **Tag(s)**            | JSON, Security                                |
++-----------------------+-----------------------------------------------+
+
+| 
+
 Mozilla HTTP Observatory
 ------------------------
 
@@ -1029,6 +1160,30 @@ Phpseclib is a pure-PHP implementations of:
 +-----------------------+------------------------------------------+
 | **Tag(s)**            | Cryptography, Security                   |
 +-----------------------+------------------------------------------+
+
+| 
+
+PySyft
+------
+
+| A library for encrypted, privacy preserving deep learning. PySyft is a
+  Python library for secure, private Deep Learning. PySyft decouples
+  private data from model training, using `Multi-Party Computation
+  (MPC) <https://en.wikipedia.org/wiki/Secure_multi-party_computation>`__
+  within PyTorch. View the paper on
+  `Arxiv <https://arxiv.org/abs/1811.04017>`__.
+
++-----------------------+---------------------------------------+
+| **SBB License**       | Apache License 2.0                    |
++-----------------------+---------------------------------------+
+| **Core Technology**   | Python                                |
++-----------------------+---------------------------------------+
+| **Project URL**       | https://github.com/OpenMined/PySyft   |
++-----------------------+---------------------------------------+
+| **Source Location**   | https://github.com/OpenMined/PySyft   |
++-----------------------+---------------------------------------+
+| **Tag(s)**            | Python, Security                      |
++-----------------------+---------------------------------------+
 
 | 
 
@@ -1348,16 +1503,60 @@ our plugin library.
 
 | 
 
+SpiderFoot
+----------
+
+SpiderFoot is an open source intelligence automation tool. Its goal is
+to automate the process of gathering intelligence about a given target,
+which may be an IP address, domain name, hostname or network subnet.
+
+SpiderFoot can be used offensively, i.e. as part of a black-box
+penetration test to gather information about the target or defensively
+to identify what information your organisation is freely providing for
+attackers to use against you.
+
++-----------------------+----------------------------------------------------------------+
+| **SBB License**       | GNU General Public License (GPL) 2.0                           |
++-----------------------+----------------------------------------------------------------+
+| **Core Technology**   | Python                                                         |
++-----------------------+----------------------------------------------------------------+
+| **Project URL**       | https://www.spiderfoot.net/                                    |
++-----------------------+----------------------------------------------------------------+
+| **Source Location**   | https://github.com/smicallef/spiderfoot                        |
++-----------------------+----------------------------------------------------------------+
+| **Tag(s)**            | pentest, Python, Security, Test Tool, Vulnerability scanning   |
++-----------------------+----------------------------------------------------------------+
+
+| 
+
 Streisand
 ---------
 
 Streisand is software for setting up secure connections with your
-friends. A bit like TOR. Communication can be sets up over  L2TP/IPsec,
-OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, and a Tor bridge.
+friends. A bit like TOR.
 
- 
+Streisand  is open source software that sets up a communication server
+that can run:
 
- 
+-  WireGuard
+-   OpenConnect
+-   OpenSSH
+-   OpenVPN
+-   Shadowsocks
+-  SSHLH
+-   Stunnel,  or a
+-  Tor bridge.
+
+After configuration Streisand generates custom instructions to use the
+communication service chosen. At the end of the run you are given an
+HTML file with instructions that can be shared with friends, family
+members, and fellow activists.  Setting up Streisand requires still some
+good Unix knowledge for installation and configuration. So it is a bit
+of a hassle. (status 2018)
+
+Using Streisand reduces the barrier of entry to running a
+VPN/censorship-bypass server for friends and family and makes secure
+communication available to more people.
 
 +-----------------------+----------------------------------------+
 | **SBB License**       | GNU General Public License (GPL) 3.0   |
@@ -1368,7 +1567,7 @@ OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, and a Tor bridge.
 +-----------------------+----------------------------------------+
 | **Source Location**   | https://github.com/jlund/streisand     |
 +-----------------------+----------------------------------------+
-| **Tag(s)**            | Privacy, Security                      |
+| **Tag(s)**            | communication, Privacy, Security       |
 +-----------------------+----------------------------------------+
 
 | 
@@ -1509,6 +1708,32 @@ Thread Dragon is currently in alfa stage.
 
 | 
 
+Tink
+----
+
+Tink provides secure APIs that are easy to use correctly and hard(er) to
+misuse. It reduces common crypto pitfalls with user-centered design,
+careful implementation and code reviews, and extensive testing. At
+Google, Tink is already being used to secure data of many products such
+as AdMob, Google Pay, Google Assistant, Firebase, the Android Search
+App, etc.
+
+ 
+
++-----------------------+----------------------------------+
+| **SBB License**       | Apache License 2.0               |
++-----------------------+----------------------------------+
+| **Core Technology**   | Java                             |
++-----------------------+----------------------------------+
+| **Project URL**       | https://github.com/google/tink   |
++-----------------------+----------------------------------+
+| **Source Location**   | https://github.com/google/tink   |
++-----------------------+----------------------------------+
+| **Tag(s)**            | Cryptography, Security           |
++-----------------------+----------------------------------+
+
+| 
+
 Tlsfuzzer
 ---------
 
@@ -1581,6 +1806,56 @@ brute force attacks.
 +-----------------------+-------------------------------------------------------------------------------------------------+
 | **Tag(s)**            | Security                                                                                        |
 +-----------------------+-------------------------------------------------------------------------------------------------+
+
+| 
+
+URL Abuse
+---------
+
+URL Abuse is a versatile free software for URL review, analysis and
+black-list reporting. URL Abuse is composed of a web interface where
+requests are submitted asynchronously and a back-end system to process
+the URLs into features modules.
+
+` <https://github.com/CIRCL/url-abuse#features>`__
+--------------------------------------------------
+
+Features
+--------
+
+-  HTTP redirects analysis and follows
+-  `Google
+   Safe-Browsing <https://developers.google.com/safe-browsing/>`__
+   lookup
+-  `Phishtank <http://www.phishtank.com/api_info.php>`__ lookup
+-  `VirusTotal <https://www.virustotal.com/en/documentation/public-api/>`__
+   lookup and submission
+-  `URL query <https://github.com/CIRCL/urlquery_python_api/>`__ lookup
+-  `CIRCL Passive DNS <http://www.circl.lu/services/passive-dns/>`__
+   lookup
+-  `CIRCL Passive SSL <http://www.circl.lu/services/passive-ssl/>`__
+   lookup
+-  `Universal WHOIS <https://github.com/Rafiot/uwhoisd>`__ lookup for
+   abuse contact
+-  Sphinx search interface to RT/RTIR ticketing systems. The
+   functionality is disabled by default but can be used to display
+   information about existing report of malicious URLs.
+
+Please note that some of the API services will require an API key. The
+API keys should be located in the root of the URL Abuse directory. There
+is also an online version to use: https://www.circl.lu/urlabuse/
+
++-----------------------+-----------------------------------------------+
+| **SBB License**       | GNU Affero General Public License Version 3   |
++-----------------------+-----------------------------------------------+
+| **Core Technology**   | Python                                        |
++-----------------------+-----------------------------------------------+
+| **Project URL**       | http://www.circl.lu/services/urlabuse/        |
++-----------------------+-----------------------------------------------+
+| **Source Location**   | https://github.com/CIRCL/url-abuse            |
++-----------------------+-----------------------------------------------+
+| **Tag(s)**            | Python, Security                              |
++-----------------------+-----------------------------------------------+
 
 | 
 
