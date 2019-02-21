@@ -1,5 +1,5 @@
-OSS Security Applications 
-===========================
+OSS Security Applications
+==========================
 
 AIL framework
 -------------
@@ -13,25 +13,24 @@ information (e.g. data leak prevention).
 Many features are provided within this framework. E.g.:
 
 -  Modular architecture to handle streams of unstructured or structured
-   information
+   information.
 -  Default support for external ZMQ feeds, such as provided by CIRCL or
-   other providers
+   other providers.
 -  Multiple feed support: Each module can process and reprocess the
-   information already processed by AIL
+   information already processed by AIL.
 -  Detecting and extracting URLs including their geographical location
-   (e.g. IP address location)
+   (e.g. IP address location).
 -  Extracting and validating potential leak of credit cards numbers,
    credentials, …
 -  Extracting and validating email addresses leaked including DNS MX
-   validation
+   validation.
 -  Module for extracting Tor .onion addresses (to be further processed
-   for analysis)
+   for analysis).
 -  Keep tracks of duplicates (and diffing between each duplicate found)
    Extracting and validating potential hostnames (e.g. to feed Passive
-   DNS systems)
+   DNS systems).
 -  A full-text indexer module to index unstructured information
-   Statistics on modules and web
--  
+   Statistics on modules and web.
 
 +-----------------------+-----------------------------------------------+
 | **SBB License**       | GNU Affero General Public License Version 3   |
@@ -45,7 +44,6 @@ Many features are provided within this framework. E.g.:
 | **Tag(s)**            | Python, Security                              |
 +-----------------------+-----------------------------------------------+
 
-| 
 
 American fuzzy lop
 ------------------
@@ -221,6 +219,48 @@ Documentation can be found on: https://docs.clip-os.org/index.html
 +-----------------------+------------------------------------------------+
 | **Tag(s)**            | Operating System, Security                     |
 +-----------------------+------------------------------------------------+
+
+| 
+
+ClusterFuzz
+-----------
+
+ClusterFuzz is a scalable fuzzing infrastructure which finds security
+and stability issues in software.
+
+It is used by Google for fuzzing the Chrome Browser, and serves as the
+fuzzing backend for `OSS-Fuzz <https://github.com/google/oss-fuzz>`__.
+
+ClusterFuzz provides many features which help seamlessly integrate
+fuzzing into a software project’s development process:
+
+-  Highly scalable. Google’s internal instance runs on over 25,000
+   machines.
+-  Accurate deduplication of crashes.
+-  Fully automatic bug filing and closing for issue trackers
+   (`Monorail <https://opensource.google.com/projects/monorail>`__ only
+   for now).
+-  Testcase minimization.
+-  Regression finding through
+   `bisection <https://en.wikipedia.org/wiki/Bisection_(software_engineering)>`__.
+-  Statistics for analyzing fuzzer performance, and crash rates.
+-  Easy to use web interface for management and viewing crashes.
+-  Support for coverage guided fuzzing (e.g. libFuzzer and AFL) and
+   blackbox fuzzing.
+
+ClusterFuzz is written in Python and Go
+
++-----------------------+-----------------------------------------+
+| **SBB License**       | Apache License 2.0                      |
++-----------------------+-----------------------------------------+
+| **Core Technology**   | Python, GO                              |
++-----------------------+-----------------------------------------+
+| **Project URL**       | https://github.com/google/clusterfuzz   |
++-----------------------+-----------------------------------------+
+| **Source Location**   | https://github.com/google/clusterfuzz   |
++-----------------------+-----------------------------------------+
+| **Tag(s)**            | Python, Security                        |
++-----------------------+-----------------------------------------+
 
 | 
 
