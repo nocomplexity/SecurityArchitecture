@@ -6,7 +6,7 @@
 Open Reference Architecture for Security and Privacy
 =====================================================
 
-.. warning:: This 2018 version is still work in progress and NOT yet available as hard-copy. 
+.. warning:: This 2019 version is still work in progress and NOT yet available as hard-copy. 
 
 .. image:: /Images/frontimage.jpg
 
@@ -59,4 +59,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
