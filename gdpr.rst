@@ -100,6 +100,27 @@ Data anonymization is the process of either **encrypting or removing** personall
 Using pseudonymization introduces a large number of risks that are not present when using anomyzation. However in some use cases you can only use pseudonymization. But use it with care, since the technical and organizational risks involved with pseudonymization are significant.
 
 
+Privacy Threat Modeling
+-------------------------
+To design systems with a low risk profile for privacy and security risks a good tool is to use thread modeling.
+
+A privacy threat model is a way of looking at privacy risks in order to identify what threats to privacy (and security) exist for your situation. Some common privacy threats are:
+
+-  Surveillance. Surveillance is the observation or monitoring of an individual’s communications or activities.
+-  Stored Data Compromise. Systems that do not take adequate measures to secure data from unauthorized or inappropriate access expose a high risk for privacy.
+-  Intrusion. Intrusion consists of invasive acts that disturb or interrupt one’s digital activities. E.g. network intrusion (on your digital communication) or video / audio intrusion to follow what you do.
+
+Creating a dedicated privacy thread model is always recommended. Of course you should make use of general existing thread models (e.g. the STRIDE model) and tailor it for your specific situation. In essence creating a threat model is creating answers to the following questions:
+
+- What do you want to protect? (E.g. What data, what kind of communication, what can be misused?)
+- Who do you want to protect it from? (E.g. What people, which organizations, criminal actors etc.)
+- How likely is it that you will need to protect it? (Your personal level of exposure to those threats.)
+- How bad are the consequences if protection fails?
+- How much trouble are you willing to go through in order to try to prevent against these threads? (E.g. cost/ money, time and convenience, loss of flexibility, etc )
+
+Depending your domain, context and specific use case you should make use of thread models and measurements against common threads that are already invented by others. E.g. if you are a journalist, make use of thread models and tools that are already developed for you. And if you use an open model, make sure your improvements can again help others.
+
+
 Protecting Privacy
 -------------------
 

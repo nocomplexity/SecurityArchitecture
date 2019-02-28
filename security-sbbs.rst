@@ -1,5 +1,5 @@
 OSS Security Applications
-==========================
+===========================
 
 AIL framework
 -------------
@@ -44,6 +44,7 @@ Many features are provided within this framework. E.g.:
 | **Tag(s)**            | Python, Security                              |
 +-----------------------+-----------------------------------------------+
 
+| 
 
 American fuzzy lop
 ------------------
@@ -562,6 +563,26 @@ decentralized Internet protocols.
 
 | 
 
+Gophish
+-------
+
+Gophish is a powerful, open-source phishing framework that makes it easy
+to test your organization’s exposure to phishing.
+
++-----------------------+--------------------------------------+
+| **SBB License**       | MIT License                          |
++-----------------------+--------------------------------------+
+| **Core Technology**   | GO                                   |
++-----------------------+--------------------------------------+
+| **Project URL**       | https://getgophish.com/              |
++-----------------------+--------------------------------------+
+| **Source Location**   | https://github.com/gophish/gophish   |
++-----------------------+--------------------------------------+
+| **Tag(s)**            | Security                             |
++-----------------------+--------------------------------------+
+
+| 
+
 Gryffin
 -------
 
@@ -675,6 +696,31 @@ here:\ http://tools.kali.org/tools-listing
 +-----------------------+---------------------------------------------+
 | **Tag(s)**            | Security, Sniffer, Vulnerability scanning   |
 +-----------------------+---------------------------------------------+
+
+| 
+
+Keycloak
+--------
+
+Keycloak is an Open Source Identity and Access Management solution for
+modern Applications and Services.
+
+Users authenticate with Keycloak rather than individual applications.
+This means that your applications don’t have to deal with login forms,
+authenticating users, and storing users. Once logged-in to Keycloak,
+users don’t have to login again to access a different application.
+
++-----------------------+----------------------------------------+
+| **SBB License**       | Apache License 2.0                     |
++-----------------------+----------------------------------------+
+| **Core Technology**   | Java                                   |
++-----------------------+----------------------------------------+
+| **Project URL**       | https://www.keycloak.org/              |
++-----------------------+----------------------------------------+
+| **Source Location**   | https://github.com/keycloak/keycloak   |
++-----------------------+----------------------------------------+
+| **Tag(s)**            | Security                               |
++-----------------------+----------------------------------------+
 
 | 
 
@@ -1661,6 +1707,31 @@ vendors <http://suricata-ids.org/about/consortium/>`__.
 +-----------------------+----------------------------------------+
 | **Tag(s)**            | IDS, Security                          |
 +-----------------------+----------------------------------------+
+
+| 
+
+Susanoo
+-------
+
+Susanoo is a REST API security testing framework. Features:
+
+-  Configurable inputs/outputs formats
+-  API Vulnerability Scan: Normal scanning engine that scans for IDOR,
+   Authentication issues, SQL injections, Error stacks.
+-  Smoke Scan: Custom output checks for known pocs can be configured to
+   run daily.
+
++-----------------------+-----------------------------------------+
+| **SBB License**       | MIT License                             |
++-----------------------+-----------------------------------------+
+| **Core Technology**   | Python                                  |
++-----------------------+-----------------------------------------+
+| **Project URL**       | https://github.com/ant4g0nist/Susanoo   |
++-----------------------+-----------------------------------------+
+| **Source Location**   | https://github.com/ant4g0nist/Susanoo   |
++-----------------------+-----------------------------------------+
+| **Tag(s)**            | Security, Test Tool                     |
++-----------------------+-----------------------------------------+
 
 | 
 
