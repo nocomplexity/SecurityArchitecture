@@ -1,8 +1,8 @@
 
-Integrating privacy requirements (GDPR)
-========================================
+Managing privacy regulations
+==============================
 
-This section outlines simple and effective ways for handling privacy requirements within your solution architecture. An important document that is input for privacy requirements is e.g. the EU General Data Protection Regulation (GDPR). 
+This section outlines simple and effective ways for handling privacy requirements within your solution architecture. An important document that is input for privacy requirements for European Citizens is the EU General Data Protection Regulation (GDPR). But other manany other countries have comparable regulations with comparable design problems.
 
 
 What is the GDPR?
@@ -119,6 +119,48 @@ Creating a dedicated privacy thread model is always recommended. Of course you s
 - How much trouble are you willing to go through in order to try to prevent against these threads? (E.g. cost/ money, time and convenience, loss of flexibility, etc )
 
 Depending your domain, context and specific use case you should make use of thread models and measurements against common threads that are already invented by others. E.g. if you are a journalist, make use of thread models and tools that are already developed for you. And if you use an open model, make sure your improvements can again help others.
+
+Fingerprinting
+---------------------
+
+Fingerprinting is a solid technique for retrieving information. This can be information of systems but also persons. From a privacy and security perspective knowing how easily fingerprinting is gives input for better security and privacy measurements.
+
+Device fingerprinting or browser fingerprinting is systematic collection of information about a remote device, for identification purposes. With the ultimate goal: To identify you as person and sell you things.
+
+Fingerprinting techniques are so good nowadays that asking for user login name with user credentials is more error prone than identifying an user by using advanced fingerprinting techniques. Fingerprinting is stateless and transparent for the user. Any third-party interested in fingerprinting can still get some piece of information of you.
+
+Client-side scripting languages enabled in browsers (e.g. Javascript) make it possible to collect very rich fingerprints. Browser fingerprints are also called “cookieless monsters” because it is not necessary to use cookies to collect a rich fingerprint of an user. And the good news is: Detection for users is difficult, unless you have some inside information on how a company really deals with the GDPR and how they are using this gathered personal data.
+
+Everything you use to make a network connection is vulnerable for network fingerprinting tools. E.g. TCP/IP stack fingerprinting can be used to identify types of systems and used network configurations.
+
+Average users are of course not aware of fingerprinting techniques used. But to give you some information on what information is (easily) retrievable when you visit a web site:
+
+* Type of browser
+* Language
+* Color Depth used
+* Screen Resolution
+* Timezone
+* Information on browser session storage
+* Information if a browser has IE specific ‘AddBehavior’
+* CPU class of your machine
+* Platform (Operating system)
+* DoNotTrack settings enabled in your browser
+* Full list of installed fonts (maintaining their order, which increases the entropy)
+* Information on Plugins (IE included)
+* Information on AdBlockers  installed
+* Information if the user has tampered with its languages settings in the browser
+* Information if the user has tampered with its screen resolution in the browser
+* Information if the user has tampered with its OS settings
+* Information if the user tampered with its browser settings
+* Touch screen detection and capabilities
+* Pixel Ratio
+* Number of logical processors available to the user browser or device
+* Device memory
+* Microphone, Camera (in use, present etc)
+
+And this list is not even complete. Storing this information or pieces of this information will expose some of your privacy. Various researchers have shown that the accuracy to identify users using only finger printing technique is highly accurate. Even better than user a password or two phase authentication. 
+
+Using tools like Fingerprint2 (see `OSS Privacy Applications. <http://security-and-privacy-reference-architecture.readthedocs.io/en/latest/12.2-oss-privacy-productslist.html>`_) within your Secure Software Development Life Cycle Processes will minimize the risks that third party service providers you use for your Internet facing systems (rich websites) are a risk for your GDPR compliance efforts. If you have a good valid reason to use fingerprinting techniques to identify your users you should ask for permission from your users if you want to meet the GDPR.
 
 
 Protecting Privacy

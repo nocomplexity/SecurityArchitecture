@@ -1,52 +1,13 @@
-OSS Security and Privacy System Building Blocks
-===============================================
+OSS Security and Privacy SBB Selection
+----------------------------------------
 
-Introduction
-------------
 
-When you know the advantages and disadvantages of using open source
-building blocks for your security architecture or design, this chapter
-provides an overview on some open source security solutions. When you
-have all your security/privacy principles, requirements, attack vectors
-and security persona's clear the hardest task is to select (or create)
-solution building blocks that covers the needed functionality. Using OSS
-security or privacy Solution building Blocks within your solution
-architecture can give significant advantages. No single tool will fit all use cases. So select the right tool for the right job.
-See section "The power of open for security and privacy" in this reference architecture for more
-information on the advantages. 
+When you are aware of the advantages and disadvantages of using open source
+building blocks for your security architecture or design, this reference architecture provides an up-to-date overview of really great open source security solutions. 
 
-We know we can never be complete with an overview of OSS security and
-privacy applications. The overview in this chapter is created end of
-2015 and is just a guidance to give you:
+A known difficult taks is to select (or create) solution building blocks that covers the needed functionality. Of course you should always start with principles, requirements and constraints first. And remember: No single tool will fit all use cases. So select the right tool for the right job.
 
--  Insights on what type of products are available in the OSS domain.
-
--  A collection of OSS solution building blocks for your security
-   architecture or design you can consider to evaluate for your specific
-   use case.
-
--  Some ideas of solutions you are perhaps not familiar with.
-
-There are now a million different open source software projects
-published somewhere on the internet. Our holy grail is to keep track of
-the top 50 security and privacy open source projects for every security
-and privacy service needed within a business architecture. This way when
-you need a secure logging service you can evaluate the top 50 projects
-first before searching further or creating (aka forking) your own. In
-this first release of this OSS Security and Privacy reference
-architecture we yet are far away from this goal.
-
-Criteria used for products mentioned in this chapter are:
-
--  The products must have a valid OSS license;
-
--  The project must be active and must meet a certain quality level;
-
--  The product must be in use somewhere (\*)
-
-(\*) Unfortunately we can and never will expose information where
-products are in use, however many mature products have solid references
-on their website, along with active user groups.
+To give some guidance on selecting products to lower risks on security and privacy a conceptual model can be usefull. The key of a usefull conceptual model is that a seperation is made between the needs (requirements) and the solution ('the how') is clear.
 
 OSS Security Applications
 ---------------------------
@@ -60,7 +21,6 @@ arranging functional to product mapping needs:
    :width: 600px 
    :alt: Security ABBs
    :align: center 
-
 
 
 For every security or privacy function or service needed you should look

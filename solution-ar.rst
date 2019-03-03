@@ -40,6 +40,8 @@ steps:
 
 So first create architecture building blocks that will form the basis of your solution. The last stop  to find solution building blocks that will implement your specific problem (ABBs) that match your specific requirements, principles and constrains.
 
+.. Sub Section OSS SBB overview and usuage
 
+.. include:: 11-ossproducts.rst
 
 

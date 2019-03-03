@@ -33,14 +33,12 @@ Content
    05-introduction
    solution-ar
    06-secmodels
-   061-hackingmodels
    07-principles
    08-security-principles
    09-privacy-principles
-   gdpr
+   managing-privacy
    091-designrules
-   10-using-oss
-   11-ossproducts
+   10-using-oss   
    security-sbbs
    privacy-sbbs   
    132-oss-security-repros
