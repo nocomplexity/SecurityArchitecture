@@ -9,8 +9,8 @@ A known difficult taks is to select (or create) solution building blocks that co
 
 To give some guidance on selecting products to lower risks on security and privacy a conceptual model can be usefull. The key of a usefull conceptual model is that a seperation is made between the needs (requirements) and the solution ('the how') is clear.
 
-OSS Security Applications
----------------------------
+Architecture view of Security Applications
+---------------------------------------------
 
 The number of OSS security applications available is over
 overwhelming. Using the following conceptual topology can help with
@@ -32,8 +32,8 @@ available. When using OSS solutions, you have have a large choice
 of companies that deliver maintenance and support on this application on
 commercial bases. 
 
-OSS Privacy Applications
--------------------------
+Architecture view of Privacy Applications
+--------------------------------------------
 
 Besides strong security measurements strong encryption is hard to accomplish. Especially online and when you do not use FOSS software in combination with open hardware that you can really trust! However due to the growing importance privacy the number of FOSS tools available is increasing. An framework for putting privacy Architecture Building Blocks on a map:
 
