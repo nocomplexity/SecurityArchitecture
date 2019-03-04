@@ -199,6 +199,7 @@ Common attack vectors are:
 -  Rogue Master Attack
 -  RSS Atom Injection
 -  Session-hijacking
+-  `Side-channel attack <https://en.wikipedia.org/wiki/Side-channel_attack>`_
 -  Sophisticated botnet command and control attacks
 -  Spoofing
 -  Stealth and other advanced scanning techniques
