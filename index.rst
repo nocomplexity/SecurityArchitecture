@@ -35,15 +35,12 @@ Content
    06-secmodels
    07-principles
    08-security-principles
-   09-privacy-principles
-   managing-privacy
+   09-privacy-principles   
    091-designrules
    10-using-oss   
    security-sbbs
    privacy-sbbs   
-   132-oss-security-repros
-   13-appendix-references
-   secure-coding-references
+   13-appendix-references   
    03-about
    14-appendix-licensing
    15-appendix-contribute

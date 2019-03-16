@@ -1,9 +1,11 @@
-References
-============
+Open Reference Toolbox
+=======================
 
 When creating this reference architecture, we performed serious research. We used many valuable sources (books, articles, scientific publications, blogs, etc). Below some reference for those who like to have more background information. And since this document is a reference architecture you will find in depth information in this reference to design your security or privacy solution easier.
  
 We believe that knowledge for building better security and privacy solutions should be available under an open access license. This is why we aim to present here only open access references. But since not all important security and privacy references are open we are aware that not all references are open yet. But all references mentioned are accessible without registration and are free downloadable. 
+
+.. include:: secure-coding-references.rst
 
 General information on information security
 ---------------------------------------------
