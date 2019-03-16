@@ -1,5 +1,5 @@
-References:Secure Coding Guidelines
-====================================
+Secure Coding Guidelines
+--------------------------
 
 
 Securing coding is the practice of developing software that prevents security and privacy risks. Coding defects, bugs and logic flaws are a main cause of many software vulnerabilities. Since prevention is better than less complex than fixing security defects later, every software engineer should use Secure Coding guidelines and practices. 

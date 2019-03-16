@@ -7,6 +7,8 @@ We believe that knowledge for building better security and privacy solutions sho
 
 .. include:: secure-coding-references.rst
 
+.. include:: oss-security-repros.rst
+
 General information on information security
 ---------------------------------------------
 High-level overview of information security principles:
