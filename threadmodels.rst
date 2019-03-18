@@ -112,7 +112,10 @@ for mobile threads.
 
 The model presented here below can help in identifying the threads.
 
-.. image:: /Images/image_13_MobileThreats.png
+.. image:: /Images/mobile-threads.png
+    :width: 600px 
+    :alt: DDoS Model
+    :align: center 
 
 IoT Threat Model
 ^^^^^^^^^^^^^^^^^^^
