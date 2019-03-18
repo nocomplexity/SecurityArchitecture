@@ -320,7 +320,10 @@ This reference architecture is built around information that helps you
 creating security or privacy solution architectures.
 
 
-.. image:: /Images/image_3_outlinedocument.png
+.. image:: /Images/toc.png
+    :width: 600px 
+    :alt: Book Outline
+    :align: center 
 
 It is also built to give you reusable information in an easy to find
 way. The next chapter ('`Security

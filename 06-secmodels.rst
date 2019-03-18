@@ -65,7 +65,11 @@ need:
 -  Insight in commonly used attack vectors. This means you need to have
    some view on the attack vectors used in the use case? 
 
-.. image:: /Images/image_4_essenceofIS.png
+.. image:: /Images/essence-of-infosec.png
+   :width: 600px 
+   :alt: Essence of Information Security
+   :align: center 
+
 
 Creating a good security or privacy design or architecture means you
 never ever start with selecting tools for solving your problem!

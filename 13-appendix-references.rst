@@ -1,9 +1,11 @@
-Open Reference Toolbox
-=======================
+Open Toolbox
+==============
 
-When creating this reference architecture, we performed serious research. We used many valuable sources (books, articles, scientific publications, blogs, etc). Below some reference for those who like to have more background information. And since this document is a reference architecture you will find in depth information in this reference to design your security or privacy solution easier.
+Besides software tools many tools within the field of security and privacy are knowlegde tools. Valuable design templates, risk sheets or collections of models that will help creating your solution.
+
+When creating this reference architecture, we performed serious research. We used many valuable sources (books, articles, scientific publications, blogs, etc). In this section you will find real reusable tools. All tools are focused on helping to solve your security and/or privacy challenge easier. So you will find many reusable real open (cc-by) tools for so you can create your solution without reinventing the wheel again.
  
-We believe that knowledge for building better security and privacy solutions should be available under an open access license. This is why we aim to present here only open access references. But since not all important security and privacy references are open we are aware that not all references are open yet. But all references mentioned are accessible without registration and are free downloadable. 
+We believe that all knowledge for building better security and privacy solutions should be available under an open access license. This is why all references in this section are open access references or available for free under an open liberal license. 
 
 .. include:: secure-coding-references.rst
 

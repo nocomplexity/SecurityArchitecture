@@ -70,12 +70,13 @@ of the thread model is found in RFC 6819
 In the picture below the visual of the threat model, where the numbers
 are references to the section in the IETF RFC.
 
-.. image:: /Images/image_15_OAuth.png
+.. image:: /Images/oath2.png
+    :width: 600px 
+    :alt: OAuth2 Model
+    :align: center 
 
+OAuth 2.0 basic model. A good threat model can be found at http://hdknr.github.io/docs/identity/oauth_threat.html
 
-OAuth 2.0 threat model.
-
-(source: http://hdknr.github.io/docs/identity/oauth_threat.html )
 
 
 DDoS model
@@ -94,7 +95,10 @@ Problems due to DDoS Attacks:
 The model below gives a DDoS attack taxonomy. This can be  useful if you
 are designing solutions to be more resilient against DDoS attacks.
 
-.. image:: /Images/image_14_DDoS.png
+.. image:: /Images/ddos-model.png
+    :width: 600px 
+    :alt: DDoS Model
+    :align: center 
 
 REF: http://file.scirp.org/Html/5-7800164_34631.htm
 
