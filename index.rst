@@ -10,7 +10,7 @@ Open Reference Architecture for Security and Privacy
 
 .. image:: /Images/frontimage.jpg
 
-.. note:: This eBook is also available as hard-copy, see `here <https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan>`_. This CURRENT (2018) version is not yet published and ready as hard-copy!!!!
+.. note:: This eBook is also available as hard-copy, see `here <https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan>`_. This CURRENT (2019) version is not yet published and ready as hard-copy!!!!
 
 This reference architecture is built around information that helps you creating security or privacy solution architectures.
 This reference architecture is created to improve security and privacy designs in general. In our opinion it is time to stop reinventing the wheel when it comes down to creating architectures and designs for security and privacy solutions.
