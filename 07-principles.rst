@@ -83,7 +83,13 @@ Having security and privacy principles are a crucial foundation as they
 establish the basis for a set of rules and behaviours for any
 organization.
 
-.. image:: /Images/image_17_principles.png
+Security principles are statements of direction that govern selections and implementations. Security principles provide a foundation for decision making and are a fundament for any new design.
+
+
+.. image:: /Images/principles.png
+   :width: 600px 
+   :alt: Power of principles
+   :align: center 
 
 
 Principles or requirements?

@@ -392,7 +392,12 @@ all thinkable subjects regarding security.
 
 One of the simplest, yet most frequently model is displayed here below.
 
-.. image:: /Images/image_6_NIST.png
+
+.. image:: /Images/nist.png
+   :width: 600px 
+   :alt: NIST Security Framework
+   :align: center 
+
 
 On the NIST site (see references) you can find in-depth information
 regarding all sub functions of this security framework. The experience
@@ -441,7 +446,11 @@ The advantages of using the Jericho model for security are:
 -  Aimed for use of open principles and open solution building blocks.
 
 
-.. image:: /Images/image_7_Jericho.png
+.. image:: /Images/jericho.png
+   :width: 600px 
+   :alt: Jericho Security Model
+   :align: center 
+
 
 Unfortunate the Jericho framework is not a real open security framework.
 It is copyrighted by the open group (see references chapter for more
