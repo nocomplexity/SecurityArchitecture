@@ -2,7 +2,7 @@
 Security and Privacy designs
 *************************************
 
-In order to provide you with the best reusable information when creating your designs, this section outlines some key design blueprints and must do tips when creating solutions.
+In order to provide you with the best reusable information when creating your designs, this section outlines some key design blueprints and must do tips when creating solutions. 
 
 .. include:: handling-privacy.rst
 
