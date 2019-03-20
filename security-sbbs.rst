@@ -15,6 +15,7 @@ privacy applications. The overview in this chapter is created end of
    use case.
 
 -  Some ideas of solutions you are perhaps not familiar with.
+
 An up-to-date list is always online.
 
 There are now a million different open source software projects
