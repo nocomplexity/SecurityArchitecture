@@ -191,6 +191,7 @@ Common attack vectors are:
 -  Executable code attacks (against browsers)
 -  Exploiting Vulnerabilities
 -  GUI intrusion tools
+- HTTPS Interception
 -  Industrial espionage
 -  Internet social engineering attacks
 -  Malicious AJAX code execution
@@ -223,6 +224,16 @@ It is recommended that you specify in your solution architecture the
 attack vectors that apply to your use case. Remember to put the
 explanation of the attack vectors used in an appendix, since not all
 your stakeholders will know what e.g. ‘Spoofing’ is. 
+
+HTTPS Interception
+-------------------
+
+In a basic HTTPS connection, a browser establishes a TLS connection directly to an origin server to send requests and downloads HTML content. But many connections on the Internet are not directly from a browser to the server serving the website, but instead traverse through some type of proxy or middlebox (a “monster-in-the-middle” or MITM). There are many reasons for this behavior, so also malicious. Most company networks and offered Wifi networks use HTTPS Interception. If you care about your privacy you should never ever use a hotel network.
+
+Malicious forward proxies, however, might insert advertisements into web pages or exfiltrate private user information. This is both a security and privacy risk.
+
+TLS-terminating forward proxies could even trust root certificates considered insecure, like Symantec’s CA. If poorly implemented, any TLS-terminating forward proxy can become a widespread attack vector, leaking private information or allowing for response spoofing.
+
 
 Hosting, hardware, firmware and other invisible threats
 -------------------------------------------------------
