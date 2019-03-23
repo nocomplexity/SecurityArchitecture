@@ -18,13 +18,25 @@ Security and privacy can never be done correct afterwards. So you must design or
 What is personal information
 ----------------------------------
 
-Personal data is any information that relates to an identified or identifiable living individual. Different pieces of information that can lead to the identification of a particular person, also constitute as personal data. 
+The European data protection law defines personal data as any information about a living individual who could be identified from that data, either on its own or when combined with other information.
+
+So personal data is any information that relates to an identified or identifiable living individual. Different pieces of information that can lead to the identification of a particular person, also constitute as personal data. 
 
 This means that MAC addresses, IP addresses are data pieces that are defined as personal data under the GDPR. But since the GDPR is not specific on details you will not find terms like MAC address or IP address explicitly stated in the GDPR document.
 
 Having an IP address and MAC address will not mean that you can easily identify a natural person. Most of the time information e.g. from ISPs or local network administrators is needed to determine the real individual behind an IP address.
 
+There is also a classification called 'sensitive personal data', which means any information concerning an individual’s
 
+- Racial or ethnic origin
+- Political opinions,
+- Religious or philosophical beliefs,
+- Trade union membership,
+- Health data,
+- Genetic data,
+- Biometric data,
+- Sex life or sexual orientation,
+- Past or spent criminal convictions.
 
 Design rules for privacy design
 -----------------------------------

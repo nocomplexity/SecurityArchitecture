@@ -66,5 +66,12 @@ Adding new privacy patterns to this collection is open for all, since this ‘Pr
 
 This document is a reference to open security and privacy information to speed up creation of solution architectures. So the https://privacypatterns.org/patterns/ is the open resource to look for privacy patterns. This site has a nice friendly UX what minimize the time needed for finding the right privacy pattern.
 
+How to handle privacy when designing new  protocol specifications?
+====================================================================
+
+When using Internet based protocols you should use RFC 6973 (https://tools.ietf.org/html/rfc6973). 
+This document offers guidance for developing privacy considerations for inclusion in protocol specifications.  It aims to make designers,implementers, and users of Internet protocols aware of privacy-related design choices.  
+This RFC offers always good guidelines and makes you aware of the key privacy threats that any protocol designer should know.
+
 
 
