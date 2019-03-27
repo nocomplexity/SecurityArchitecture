@@ -171,6 +171,7 @@ https://software-security.sans.org/resources/swat
 
 Kubernetes Security-  Best Practice Guide, https://github.com/freach/kubernetes-security-best-practice
 
+REST API Checklist: Summary of important security countermeasures when designing, testing, and releasing your API, https://github.com/shieldfy/API-Security-Checklist 
 
 Vulnerability Databases
 ------------------------
