@@ -9,7 +9,7 @@ This reference architecture aims to enable you to create better and faster secur
 
 This project is supported by the BM-Support Foundation, https://www.bm-support.org/ 
 
-Current status: We are working on a complete revision for 2018 of this 'Open Reference Architecture for Security and Privacy'. So join the party and create the 2018 version together with us.
+Current status: We are working on a complete revision for 2019 of this 'Open Reference Architecture for Security and Privacy'. So join the party and create the 2019 version together with us.
 
 
 # Contributing
