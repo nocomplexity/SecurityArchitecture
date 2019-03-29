@@ -16,20 +16,20 @@ designs in general. In our opinion it is time to stop reinventing the
 wheel when it comes down to creating architectures and designs for
 security and privacy solutions.
 
-The reference architecture is not just another security book. Since
+This reference architecture is not just another security book. Since
 libraries and book stores are filled with decent books on security and
 privacy we wanted to create a book that is all about reuse. There are
 two main pillars that drive this publication:
 
 -  Enabling reuse for companies of all sizes worldwide in order to
-   design security and privacy solutions
+   design security and privacy solutions.
 -  Creating an open reference architecture that enables collaboration
    and improvement in an easy way.
 
 This reference architecture aims to enable you to create better and
 faster security and privacy solutions by reusing the content provided in
-this eBook. And to encourage collaboration on this eBook / reference
-architecture we created this reference architecture under an open
+this publication. And to encourage collaboration on this publication 
+we created this reference architecture under an open
 license. We have chosen to use the Creative Commons
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. We know
 you like credit if you contribute to a publication. If you contribute
@@ -37,8 +37,8 @@ you will of course be mentioned in all updates of this publication that
 follow. And since it is a true open license, your rights regarding this
 publication are no different than ours or other contributors.
 
-To summarize this eBook is an open reference architecture aiming to help
-you to design better secure systems in less time and with less cost.
+To summarize this publication is an open reference architecture aiming to help
+you to design better and more secure systems in less time and with less cost.
 
 Why another reference architecture
 ----------------------------------
