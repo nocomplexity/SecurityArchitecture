@@ -253,10 +253,6 @@ solution:
 
 
 .. image:: /Images/solutionsteps-overview.png
-   :width: 600px 
-   :alt: architecture process overview
-   :align: center 
- 
 
 Many aspects regarding security and privacy our not in scope of this
 reference architecture. The clear and only focus is on providing open content that makes creating solutions for common security and privacy challenges simpler. 
@@ -321,9 +317,6 @@ creating security or privacy solution architectures.
 
 
 .. image:: /Images/toc.png
-    :width: 600px 
-    :alt: Book Outline
-    :align: center 
 
 It is also built to give you reusable information in an easy to find
 way. The next chapter ('`Security

@@ -189,14 +189,17 @@ https://www.krackattacks.com/
 Practical Cryptography for Developers: https://cryptobook.nakov.com/ 
 
 
-Other References 
-------------------
+Open Source Initiative (OSI)
+-----------------------------
+To learn more about the Open source licenses and the foundation behind this initiative: The Open Source Initiative (OSI), http://opensource.org/licenses/ 
 
-The Open Source Initiative (OSI), http://opensource.org/licenses/ 
+Libre Router project
+---------------------
 
+The Libre Router project is creating a high performance multi-radio wireless router targeted at Community Networks needs. So if you are keen on privacy, check https://librerouter.org/home
 
 Information Security Guide 
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 Guide setup like this one, so to prevent to reinvent the wheel every time you start a new project, policy, or security function.  
 https://spaces.internet2.edu/display/2014infosecurityguide/Welcome+to+the+Guide 
