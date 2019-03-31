@@ -82,6 +82,6 @@ The internet has become a tracking machine. It has evolved to track you. Besides
 
 You do not need censorship or surveillance. Surveillance is the monitoring of behavior, activities. Building decentralized networks has been done and will be done more. Besides building a network to get more privacy when needed most part of the world still do not have Internet at all. So building networks to share knowlegde e.g. about privacy and censorship is always a good investment.
 
-Check the manual at: http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/25696/The%20community%20network%20manual%20-%20how%20to%20build%20the%20internet%20yourself.pdf?sequence=3&isAllowed=y 
+Check the manual at: https://bm-support.org/pdfdocs/how_to_build_the_internet.pdf
 
 This manual is also an very good and readable document to gain more knowledge on how Internet really works.
