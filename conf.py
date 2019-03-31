@@ -239,7 +239,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'OpenReferenceArchitectureforSecurityandPrivacy.tex', u'Open Reference Architecture for Security and Privacy Documentation',
-     u'Maikel \\& Asim', 'manual'),
+     u'Maikel Mardjan \\& Asim Jahan', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

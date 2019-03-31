@@ -66,9 +66,7 @@ need:
    some view on the attack vectors used in the use case? 
 
 .. image:: /Images/essence-of-infosec.png
-   :width: 600px 
-   :alt: Essence of Information Security
-   :align: center 
+ 
 
 
 Creating a good security or privacy design or architecture means you
@@ -405,9 +403,7 @@ One of the simplest, yet most frequently model is displayed here below.
 
 
 .. image:: /Images/nist.png
-   :width: 600px 
-   :alt: NIST Security Framework
-   :align: center 
+  
 
 
 On the NIST site (see references) you can find in-depth information
