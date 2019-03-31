@@ -458,9 +458,6 @@ The advantages of using the Jericho model for security are:
 
 
 .. image:: /Images/jericho.png
-   :width: 600px 
-   :alt: Jericho Security Model
-   :align: center 
 
 
 Unfortunate the Jericho framework is not a real open security framework.

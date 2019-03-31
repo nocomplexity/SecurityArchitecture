@@ -14,9 +14,7 @@ A good way to really speed up creating your solution architecture is of course t
 
 
 .. image:: /Images/abb-sbb.png
-   :width: 600px 
-   :alt: ABB vs SBB
-   :align: center 
+ 
 
 
 Creating security a security or privacy solution architecture consists of the following high level

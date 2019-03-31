@@ -18,9 +18,7 @@ arranging functional to product mapping needs:
 
 
 .. image:: /Images/security-abbs.png
-   :width: 600px 
-   :alt: Security ABBs
-   :align: center 
+  
 
 
 For every security or privacy function or service needed you should look

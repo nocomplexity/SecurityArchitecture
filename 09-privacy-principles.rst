@@ -22,10 +22,8 @@ The ‘controller’ is the natural or legal person, public authority, agency or
 Since visuals are easier to handle than text, a simple visual of the GDPR visuals here below:
 
 .. image:: /Images/gdpr-principles.png
-   :width: 600px 
-   :alt: GDPR principles
-   :align: center 
 
+  
 Data protection should be done according by the GDPR by design and by default. However the implementation challenge is: What are appropriate technical and/or organisational measurements for protecting private data? And the good news is: If you are processing privacy related data you decide what appropriate is. The only requirement is that you must document your decisions  so that you can justify your reasoning.
 
 The risk with the GDPR is that your IT Cost will rise, due to the fact that solid quality standardized reusable open solutions are not offered by most commercial IT vendors and consultancy companies. So make use of the OSS solution building blocks that are outlined in this reference architecture.

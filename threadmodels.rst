@@ -71,9 +71,7 @@ In the picture below the visual of the threat model, where the numbers
 are references to the section in the IETF RFC.
 
 .. image:: /Images/oath2.png
-    :width: 600px 
-    :alt: OAuth2 Model
-    :align: center 
+
 
 OAuth 2.0 basic model. A good threat model can be found at http://hdknr.github.io/docs/identity/oauth_threat.html
 
@@ -96,9 +94,7 @@ The model below gives a DDoS attack taxonomy. This can be  useful if you
 are designing solutions to be more resilient against DDoS attacks.
 
 .. image:: /Images/ddos-model.png
-    :width: 600px 
-    :alt: DDoS Model
-    :align: center 
+  
 
 REF: http://file.scirp.org/Html/5-7800164_34631.htm
 
@@ -113,9 +109,7 @@ for mobile threads.
 The model presented here below can help in identifying the threads.
 
 .. image:: /Images/mobile-threads.png
-    :width: 600px 
-    :alt: DDoS Model
-    :align: center 
+ 
 
 IoT Threat Model
 ^^^^^^^^^^^^^^^^^^^

@@ -89,9 +89,7 @@ Security principles provide a foundation for decision making and are a fundament
 
 
 .. image:: /Images/principles.png
-   :width: 600px 
-   :alt: Power of principles
-   :align: center 
+ 
 
 
 Principles or requirements?
