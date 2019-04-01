@@ -19,6 +19,12 @@ The reference architecture is not just another security book. Since libraries an
 
 `(c) 2015,2016,2017,2018, 2019 Asim Jahan and Maikel Mardjan`
 
+Published by the Business Management Support Foundation, Apeldoorn, The Netherlands.
+
+All   trademarks,   trade   names,   product   names   and   logos appearing  in  this  report  are  the  property  of  their  respective owners.
+
+.. image:: /Images/by-sa.png 
+
 `This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Use of these materials is permitted only in accordance with license rights granted. Materials provided “AS IS”; no representations or warranties provided. User assumes all responsibility for use, and all liability related thereto, and must independently review all materials for accuracy and efficacy.`
 
 
