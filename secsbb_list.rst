@@ -954,6 +954,55 @@ etc.
 
 | 
 
+MISP
+----
+
+MISP is a threat intelligence platform for gathering, sharing, storing 
+and correlating Indicators of Compromise of targeted attacks, threat intelligence, 
+financial fraud information, vulnerability information or 
+even counter-terrorism information. MISP project is an open source 
+threat intelligence platform. The project include utilities and documentation 
+for more effective threat intelligence, by sharing indicators of compromise.
+
+Many features are included in this threat intelligence platform. E.g.:
+
+- An efficient IoC and indicators database allowing to store technical  and non-technical information about malware samples, incidents, attackers and intelligence.
+- Automatic correlation finding relationships between attributes and indicators from malware, attacks campaigns or analysis.
+- Correlation engine includes correlation between attributes and more advanced correlations like Fuzzy hashing correlation (e.g. ssdeep) or CIDR block matching. Correlation can be also enabled or event disabled per attribute.
+- A flexible data model where complex objects can be expressed and linked together to express threat intelligence, incidents or connected elements.
+- Built-in sharing functionality to ease data sharing using different model of distributions. MISP can synchronize automatically events and attributes among different MISP. Advanced filtering functionalities can be used to meet each organization sharing policy including a flexible sharing group capacity and an attribute level distribution mechanisms.
+- An intuitive user-interface for end-users to create, update and collaborate on events and attributes/indicators. A graphical interface to navigate seamlessly between events and their correlations. Advanced filtering functionalities and warning list to help the analysts to contribute events and attributes.
+- Storing data in a structured format (allowing automated use of the database for various purposes) with an extensive support of cyber security indicators along fraud indicators as in the financial sector.
+- Export: generating IDS (Suricata, Snort and Bro are supported by default), OpenIOC, plain text, CSV, MISP XML or JSON output to integrate with other systems (network IDS, host IDS, custom tools)
+- Import: bulk-import, batch-import, free-text import, import from OpenIOC, GFI sandbox, ThreatConnect CSV or MISP format.
+- Flexible free text import tool to ease the integration of unstructured reports into MISP.
+- A gentle system to collaborate on events and attributes allowing MISP users to propose changes or updates to attributes/indicators.
+- data-sharing: automatically exchange and synchronization with other parties and trust-groups using MISP.
+- feed import: flexible tool to import and integrate MISP feed and any threatintel or OSINT feed from third parties. Many default feeds are included in standard MISP installation.
+- delegating of sharing: allows a simple pseudo-anonymous mechanism to delegate publication of event/indicators to another organization.
+- Flexible API to integrate MISP with your own solutions. MISP is bundled with PyMISP which is a flexible Python Library to fetch, add or update events attributes, handle malware samples or search for attributes.
+- adjustable taxonomy to classify and tag events following your own classification schemes or existing taxonomies. The taxonomy can be local to your MISP but also shareable among MISP instances. MISP comes with a default set of well-known taxonomies and classification schemes to support standard classification as used by ENISA, Europol, DHS, CSIRTs or many other organisations.
+- intelligence vocabularies called MISP galaxy and bundled with existing threat actors, malware, RAT, ransomware or MITRE ATT&CK which can be easily linked with events in MISP.
+- expansion modules in Python to expand MISP with your own services or activate already available misp-modules.
+- sighting support to get observations from organizations concerning shared indicators and attributes. Sighting can be contributed via MISP user-interface, API as MISP document or STIX sighting documents. Starting with MISP 2.4.66, Sighting has been extended to support false-negative sighting or expiration sighting.
+- STIX support: export data in the STIX format (XML and JSON) including export/import in STIX 2.0 format.
+- integrated encryption and signing of the notifications via PGP and/or S/MIME depending of the user preferences.
+
+
++-----------------------+-----------------------------------------------+
+| **SBB License**       | GNU Affero General Public License Version 3   |
++-----------------------+-----------------------------------------------+
+| **Core Technology**   | PHP, Python                                   |
++-----------------------+-----------------------------------------------+
+| **Project URL**       | https://www.misp-project.org/                 |
++-----------------------+-----------------------------------------------+
+| **Source Location**   | https://github.com/MISP/MISP                  |
++-----------------------+-----------------------------------------------+
+| **Tag(s)**            | Security, Threat Intelligence, TIP            |
++-----------------------+-----------------------------------------------+
+
+| 
+
 MITMEngine
 ----------
 
