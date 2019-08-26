@@ -1,6 +1,3 @@
-OSS System Building Blocks: Category Security
-=============================================
-
 AIL framework
 -------------
 
