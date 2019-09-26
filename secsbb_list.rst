@@ -29,17 +29,17 @@ Many features are provided within this framework. E.g.:
 -  A full-text indexer module to index unstructured information
    Statistics on modules and web.
 
-+-----------------------+-----------------------------------------------+
-| **SBB License**       | GNU Affero General Public License Version 3   |
-+-----------------------+-----------------------------------------------+
-| **Core Technology**   | Python                                        |
-+-----------------------+-----------------------------------------------+
-| **Project URL**       | https://github.com/CIRCL/AIL-framework        |
-+-----------------------+-----------------------------------------------+
-| **Source Location**   | https://github.com/CIRCL/AIL-framework        |
-+-----------------------+-----------------------------------------------+
-| **Tag(s)**            | Python, Security                              |
-+-----------------------+-----------------------------------------------+
++---------------------+---------------------------------------------+
+| **SBB License**     | GNU Affero General Public License Version 3 |
++---------------------+---------------------------------------------+
+| **Core Technology** | Python                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | https://github.com/CIRCL/AIL-framework      |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/CIRCL/AIL-framework      |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | Python, Security                            |
++---------------------+---------------------------------------------+
 
 | 
 
@@ -58,17 +58,17 @@ famous SSL Heartbleed bug was found in record time using this software.
 See
 https://blog.hboeck.de/archives/868-How-Heartbleed-couldve-been-found.html.
 
-+-----------------------+--------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0       |
-+-----------------------+--------------------------------------------+
-| **Core Technology**   | C                                          |
-+-----------------------+--------------------------------------------+
-| **Project URL**       | http://lcamtuf.coredump.cx/afl/            |
-+-----------------------+--------------------------------------------+
-| **Source Location**   | http://lcamtuf.coredump.cx/afl/releases/   |
-+-----------------------+--------------------------------------------+
-| **Tag(s)**            | Security, Test Tool                        |
-+-----------------------+--------------------------------------------+
++---------------------+------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0     |
++---------------------+------------------------------------------+
+| **Core Technology** | C                                        |
++---------------------+------------------------------------------+
+| **Project URL**     | http://lcamtuf.coredump.cx/afl/          |
++---------------------+------------------------------------------+
+| **Source Location** | http://lcamtuf.coredump.cx/afl/releases/ |
++---------------------+------------------------------------------+
+| **Tag(s)**          | Security, Test Tool                      |
++---------------------+------------------------------------------+
 
 | 
 
@@ -83,17 +83,17 @@ scanning all the files it generates a report.
 Bandit was originally developed within the OpenStack Security Project
 and later rehomed to PyCQA.
 
-+-----------------------+------------------------------------+
-| **SBB License**       | Apache License 2.0                 |
-+-----------------------+------------------------------------+
-| **Core Technology**   | Python                             |
-+-----------------------+------------------------------------+
-| **Project URL**       | https://github.com/PyCQA/bandit    |
-+-----------------------+------------------------------------+
-| **Source Location**   | https://github.com/PyCQA/bandit    |
-+-----------------------+------------------------------------+
-| **Tag(s)**            | Security, Vulnerability scanning   |
-+-----------------------+------------------------------------+
++---------------------+----------------------------------+
+| **SBB License**     | Apache License 2.0               |
++---------------------+----------------------------------+
+| **Core Technology** | Python                           |
++---------------------+----------------------------------+
+| **Project URL**     | https://github.com/PyCQA/bandit  |
++---------------------+----------------------------------+
+| **Source Location** | https://github.com/PyCQA/bandit  |
++---------------------+----------------------------------+
+| **Tag(s)**          | Security, Vulnerability scanning |
++---------------------+----------------------------------+
 
 | 
 
@@ -116,17 +116,17 @@ left-to-right order; that reflects the phases you go through as you
 create an alert. In general, first you’ll select an item (metric) that
 is the basis of the alert.
 
-+-----------------------+------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0     |
-+-----------------------+------------------------------------------+
-| **Core Technology**   | GO                                       |
-+-----------------------+------------------------------------------+
-| **Project URL**       | http://bosun.org/                        |
-+-----------------------+------------------------------------------+
-| **Source Location**   | https://github.com/bosun-monitor/bosun   |
-+-----------------------+------------------------------------------+
-| **Tag(s)**            | Security, SIEM                           |
-+-----------------------+------------------------------------------+
++---------------------+----------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0   |
++---------------------+----------------------------------------+
+| **Core Technology** | GO                                     |
++---------------------+----------------------------------------+
+| **Project URL**     | http://bosun.org/                      |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/bosun-monitor/bosun |
++---------------------+----------------------------------------+
+| **Tag(s)**          | Security, SIEM                         |
++---------------------+----------------------------------------+
 
 | 
 
@@ -145,17 +145,17 @@ Cameradar allows you to
    password** of the cameras
 -  Retrieve a complete and user-friendly report of the results
 
-+-----------------------+-----------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0          |
-+-----------------------+-----------------------------------------------+
-| **Core Technology**   | GOlang                                        |
-+-----------------------+-----------------------------------------------+
-| **Project URL**       | https://github.com/Ullaakut/cameradar         |
-+-----------------------+-----------------------------------------------+
-| **Source Location**   | https://github.com/Ullaakut/cameradar         |
-+-----------------------+-----------------------------------------------+
-| **Tag(s)**            | Security, Test Tool, Vulnerability scanning   |
-+-----------------------+-----------------------------------------------+
++---------------------+---------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0        |
++---------------------+---------------------------------------------+
+| **Core Technology** | GOlang                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | https://github.com/Ullaakut/cameradar       |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/Ullaakut/cameradar       |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | Security, Test Tool, Vulnerability scanning |
++---------------------+---------------------------------------------+
 
 | 
 
@@ -169,17 +169,17 @@ Linux kernel and a lot of free and open source software.
 
 Documentation can be found on: https://docs.clip-os.org/index.html
 
-+-----------------------+------------------------------------------------+
-| **SBB License**       | GNU Lesser General Public License (LGPL) 3.0   |
-+-----------------------+------------------------------------------------+
-| **Core Technology**   | C                                              |
-+-----------------------+------------------------------------------------+
-| **Project URL**       | https://clip-os.org/en/                        |
-+-----------------------+------------------------------------------------+
-| **Source Location**   | https://github.com/CLIPOS/                     |
-+-----------------------+------------------------------------------------+
-| **Tag(s)**            | Operating System, Security                     |
-+-----------------------+------------------------------------------------+
++---------------------+----------------------------------------------+
+| **SBB License**     | GNU Lesser General Public License (LGPL) 3.0 |
++---------------------+----------------------------------------------+
+| **Core Technology** | C                                            |
++---------------------+----------------------------------------------+
+| **Project URL**     | https://clip-os.org/en/                      |
++---------------------+----------------------------------------------+
+| **Source Location** | https://github.com/CLIPOS/                   |
++---------------------+----------------------------------------------+
+| **Tag(s)**          | Operating System, Security                   |
++---------------------+----------------------------------------------+
 
 | 
 
@@ -211,17 +211,39 @@ fuzzing into a software project’s development process:
 
 ClusterFuzz is written in Python and Go
 
-+-----------------------+-----------------------------------------+
-| **SBB License**       | Apache License 2.0                      |
-+-----------------------+-----------------------------------------+
-| **Core Technology**   | Python, GO                              |
-+-----------------------+-----------------------------------------+
-| **Project URL**       | https://github.com/google/clusterfuzz   |
-+-----------------------+-----------------------------------------+
-| **Source Location**   | https://github.com/google/clusterfuzz   |
-+-----------------------+-----------------------------------------+
-| **Tag(s)**            | Python, Security                        |
-+-----------------------+-----------------------------------------+
++---------------------+---------------------------------------+
+| **SBB License**     | Apache License 2.0                    |
++---------------------+---------------------------------------+
+| **Core Technology** | Python, GO                            |
++---------------------+---------------------------------------+
+| **Project URL**     | https://github.com/google/clusterfuzz |
++---------------------+---------------------------------------+
+| **Source Location** | https://github.com/google/clusterfuzz |
++---------------------+---------------------------------------+
+| **Tag(s)**          | Python, Security                      |
++---------------------+---------------------------------------+
+
+| 
+
+Cowrie
+------
+
+Cowrie is a medium interaction SSH and Telnet honeypot designed to log
+brute force attacks and the shell interaction performed by the attacker.
+Cowrie also functions as an SSH and telnet proxy to observe attacker
+behavior to another system.
+
++---------------------+-----------------------------------+
+| **SBB License**     | MIT License                       |
++---------------------+-----------------------------------+
+| **Core Technology** | Python                            |
++---------------------+-----------------------------------+
+| **Project URL**     | https://www.cowrie.org/           |
++---------------------+-----------------------------------+
+| **Source Location** | https://github.com/cowrie/cowrie  |
++---------------------+-----------------------------------+
+| **Tag(s)**          | Audit, Honeypot, Python, Security |
++---------------------+-----------------------------------+
 
 | 
 
@@ -245,17 +267,17 @@ providing a method to determine that it is unaltered”.
 Data Seal provides agencies with a web-based interface to provide this
 functionality.
 
-+-----------------------+--------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0             |
-+-----------------------+--------------------------------------------------+
-| **Core Technology**   | Django/Python                                    |
-+-----------------------+--------------------------------------------------+
-| **Project URL**       | https://github.com/unitedstates/data-seal/wiki   |
-+-----------------------+--------------------------------------------------+
-| **Source Location**   | https://github.com/unitedstates/data-seal        |
-+-----------------------+--------------------------------------------------+
-| **Tag(s)**            | data authentication, Security                    |
-+-----------------------+--------------------------------------------------+
++---------------------+------------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0           |
++---------------------+------------------------------------------------+
+| **Core Technology** | Django/Python                                  |
++---------------------+------------------------------------------------+
+| **Project URL**     | https://github.com/unitedstates/data-seal/wiki |
++---------------------+------------------------------------------------+
+| **Source Location** | https://github.com/unitedstates/data-seal      |
++---------------------+------------------------------------------------+
+| **Tag(s)**          | data authentication, Security                  |
++---------------------+------------------------------------------------+
 
 | 
 
@@ -265,17 +287,17 @@ Datastream
 An open-source framework for real-time anomaly detection using Python,
 ElasticSearch and Kiban. Also uses scikit-learn.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://github.com/MentatInnovations/datastream.io   |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/MentatInnovations/datastream.io   |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | ML, Monitoring, Security                             |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | Apache License 2.0                                 |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://github.com/MentatInnovations/datastream.io |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/MentatInnovations/datastream.io |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | ML, Monitoring, Security                           |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -286,17 +308,17 @@ Deeptracy scans your project dependencies to spot vulnerabilities. Is a
 meta tool to analyze the security issues in third party libraries used
 in your project.
 
-+-----------------------+-----------------------------------------------+
-| **SBB License**       | Apache License 2.0                            |
-+-----------------------+-----------------------------------------------+
-| **Core Technology**   | Python                                        |
-+-----------------------+-----------------------------------------------+
-| **Project URL**       | https://deeptracy.readthedocs.io/en/latest/   |
-+-----------------------+-----------------------------------------------+
-| **Source Location**   | https://github.com/BBVA/deeptracy             |
-+-----------------------+-----------------------------------------------+
-| **Tag(s)**            | Security                                      |
-+-----------------------+-----------------------------------------------+
++---------------------+---------------------------------------------+
+| **SBB License**     | Apache License 2.0                          |
++---------------------+---------------------------------------------+
+| **Core Technology** | Python                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | https://deeptracy.readthedocs.io/en/latest/ |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/BBVA/deeptracy           |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | Security                                    |
++---------------------+---------------------------------------------+
 
 | 
 
@@ -319,17 +341,19 @@ Diffoscope
 | to be able to quickly understand why two builds of the same package
   produce different outputs. diffoscope was previously named debbindiff.
 
-+-----------------------+-----------------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0                      |
-+-----------------------+-----------------------------------------------------------+
-| **Core Technology**   | Python, CPP                                               |
-+-----------------------+-----------------------------------------------------------+
-| **Project URL**       | https://diffoscope.org/                                   |
-+-----------------------+-----------------------------------------------------------+
-| **Source Location**   | https://salsa.debian.org/reproducible-builds/diffoscope   |
-+-----------------------+-----------------------------------------------------------+
-| **Tag(s)**            | Security                                                  |
-+-----------------------+-----------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | GNU General Public License (GPL)  |
+|                                   | 3.0                               |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Python, CPP                       |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://diffoscope.org/           |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://salsa.debian.org/reproduc |
+|                                   | ible-builds/diffoscope            |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Security                          |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -339,17 +363,17 @@ Duplicity
 Duplicity backs directories by producing encrypted tar-format volumes
 and uploading them to a remote or local file server.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://duplicity.nongnu.org/           |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://code.launchpad.net/duplicity   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | backup, Security                       |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | http://duplicity.nongnu.org/         |
++---------------------+--------------------------------------+
+| **Source Location** | https://code.launchpad.net/duplicity |
++---------------------+--------------------------------------+
+| **Tag(s)**          | backup, Security                     |
++---------------------+--------------------------------------+
 
 | 
 
@@ -368,24 +392,24 @@ phished website. Present version is fully written in GO as a standalone
 application, which implements its own HTTP and DNS server, making it
 extremely easy to set up and use.
 
-+-----------------------+-----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0    |
-+-----------------------+-----------------------------------------+
-| **Core Technology**   | GO                                      |
-+-----------------------+-----------------------------------------+
-| **Project URL**       | https://github.com/kgretzky/evilginx2   |
-+-----------------------+-----------------------------------------+
-| **Source Location**   | https://github.com/kgretzky/evilginx2   |
-+-----------------------+-----------------------------------------+
-| **Tag(s)**            | Security, Vulnerability scanning        |
-+-----------------------+-----------------------------------------+
++---------------------+---------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0  |
++---------------------+---------------------------------------+
+| **Core Technology** | GO                                    |
++---------------------+---------------------------------------+
+| **Project URL**     | https://github.com/kgretzky/evilginx2 |
++---------------------+---------------------------------------+
+| **Source Location** | https://github.com/kgretzky/evilginx2 |
++---------------------+---------------------------------------+
+| **Tag(s)**          | Security, Vulnerability scanning      |
++---------------------+---------------------------------------+
 
 | 
 
 Fail2ban
 --------
 
-***Fail2ban*** scans log files (e.g. ``/var/log/apache/error_log``) and
+**Fail2ban** scans log files (e.g. ``/var/log/apache/error_log``) and
 bans IPs that show the malicious signs — too many password failures,
 seeking for exploits, etc. Generally Fail2Ban is then used to update
 firewall rules to reject the IP addresses for a specified amount of
@@ -393,17 +417,17 @@ time, although any arbitrary other **action** (e.g. sending an email)
 could also be configured. Out of the box Fail2Ban comes with **filters**
 for various services (apache, courier, ssh, etc).
 
-+-----------------------+-----------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0                |
-+-----------------------+-----------------------------------------------------+
-| **Core Technology**   | Python                                              |
-+-----------------------+-----------------------------------------------------+
-| **Project URL**       | https://www.fail2ban.org/wiki/index.php/Main_Page   |
-+-----------------------+-----------------------------------------------------+
-| **Source Location**   | https://github.com/fail2ban                         |
-+-----------------------+-----------------------------------------------------+
-| **Tag(s)**            | Network, network diagnostic, Python, Security       |
-+-----------------------+-----------------------------------------------------+
++---------------------+---------------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0              |
++---------------------+---------------------------------------------------+
+| **Core Technology** | Python                                            |
++---------------------+---------------------------------------------------+
+| **Project URL**     | https://www.fail2ban.org/wiki/index.php/Main_Page |
++---------------------+---------------------------------------------------+
+| **Source Location** | https://github.com/fail2ban                       |
++---------------------+---------------------------------------------------+
+| **Tag(s)**          | Network, network diagnostic, Python, Security     |
++---------------------+---------------------------------------------------+
 
 | 
 
@@ -432,17 +456,17 @@ security teams to investigate.
 FIDO is a NetFlix OSS project, see:
 http://techblog.netflix.com/2015/05/introducing-fido-automated-security.html
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | Apache License 2.0                     |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | C#                                     |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://github.com/Netflix/Fido/wiki   |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/Netflix/Fido        |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Security, SIEM                         |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | Apache License 2.0                   |
++---------------------+--------------------------------------+
+| **Core Technology** | C#                                   |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/Netflix/Fido/wiki |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/Netflix/Fido      |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Security, SIEM                       |
++---------------------+--------------------------------------+
 
 | 
 
@@ -468,17 +492,17 @@ Typical Use cases for 411:
 
 A working demo is available at https://demo.fouroneone.io/
 
-+-----------------------+----------------------------------+
-| **SBB License**       | MIT License                      |
-+-----------------------+----------------------------------+
-| **Core Technology**   | PHP                              |
-+-----------------------+----------------------------------+
-| **Project URL**       | ` <>`__                          |
-+-----------------------+----------------------------------+
-| **Source Location**   | https://github.com/etsy/411      |
-+-----------------------+----------------------------------+
-| **Tag(s)**            | Alerting, Loganalyze, Security   |
-+-----------------------+----------------------------------+
++---------------------+--------------------------------+
+| **SBB License**     | MIT License                    |
++---------------------+--------------------------------+
+| **Core Technology** | PHP                            |
++---------------------+--------------------------------+
+| **Project URL**     |                                |
++---------------------+--------------------------------+
+| **Source Location** | https://github.com/etsy/411    |
++---------------------+--------------------------------+
+| **Tag(s)**          | Alerting, Loganalyze, Security |
++---------------------+--------------------------------+
 
 | 
 
@@ -496,17 +520,17 @@ variety of processor instruction sets and executable formats and can be
 run in both user-interactive and automated modes. Users may also develop
 their own Ghidra plug-in components and/or scripts using Java or Python.
 
-+-----------------------+----------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                 |
-+-----------------------+----------------------------------------------------+
-| **Core Technology**   | Java                                               |
-+-----------------------+----------------------------------------------------+
-| **Project URL**       | https://ghidra-sre.org/                            |
-+-----------------------+----------------------------------------------------+
-| **Source Location**   | https://github.com/NationalSecurityAgency/ghidra   |
-+-----------------------+----------------------------------------------------+
-| **Tag(s)**            | Security, Test Tool                                |
-+-----------------------+----------------------------------------------------+
++---------------------+--------------------------------------------------+
+| **SBB License**     | Apache License 2.0                               |
++---------------------+--------------------------------------------------+
+| **Core Technology** | Java                                             |
++---------------------+--------------------------------------------------+
+| **Project URL**     | https://ghidra-sre.org/                          |
++---------------------+--------------------------------------------------+
+| **Source Location** | https://github.com/NationalSecurityAgency/ghidra |
++---------------------+--------------------------------------------------+
+| **Tag(s)**          | Security, Test Tool                              |
++---------------------+--------------------------------------------------+
 
 | 
 
@@ -537,17 +561,17 @@ file-sharing network. The plan is to offer many other services and in
 particular to serve as a development platform for the next generation of
 decentralized Internet protocols.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | C                                      |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://gnunet.org/                    |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://gnunet.org/svn/                |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Privacy, Security                      |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C                                    |
++---------------------+--------------------------------------+
+| **Project URL**     | https://gnunet.org/                  |
++---------------------+--------------------------------------+
+| **Source Location** | https://gnunet.org/svn/              |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Privacy, Security                    |
++---------------------+--------------------------------------+
 
 | 
 
@@ -557,17 +581,17 @@ Gophish
 Gophish is a powerful, open-source phishing framework that makes it easy
 to test your organization’s exposure to phishing.
 
-+-----------------------+--------------------------------------+
-| **SBB License**       | MIT License                          |
-+-----------------------+--------------------------------------+
-| **Core Technology**   | GO                                   |
-+-----------------------+--------------------------------------+
-| **Project URL**       | https://getgophish.com/              |
-+-----------------------+--------------------------------------+
-| **Source Location**   | https://github.com/gophish/gophish   |
-+-----------------------+--------------------------------------+
-| **Tag(s)**            | Security                             |
-+-----------------------+--------------------------------------+
++---------------------+------------------------------------+
+| **SBB License**     | MIT License                        |
++---------------------+------------------------------------+
+| **Core Technology** | GO                                 |
++---------------------+------------------------------------+
+| **Project URL**     | https://getgophish.com/            |
++---------------------+------------------------------------+
+| **Source Location** | https://github.com/gophish/gophish |
++---------------------+------------------------------------+
+| **Tag(s)**          | Security                           |
++---------------------+------------------------------------+
 
 | 
 
@@ -584,17 +608,17 @@ capability of scanning, and supporting a large elastic application
 infrastructure. Simply put, the ability to scan 1000 applications today
 to 100,000 applications tomorrow by straightforward horizontal scaling.
 
-+-----------------------+-----------------------------------------+
-| **SBB License**       | MIT License                             |
-+-----------------------+-----------------------------------------+
-| **Core Technology**   | Go                                      |
-+-----------------------+-----------------------------------------+
-| **Project URL**       | https://github.com/yahoo/gryffin        |
-+-----------------------+-----------------------------------------+
-| **Source Location**   | https://github.com/yahoo/gryffin        |
-+-----------------------+-----------------------------------------+
-| **Tag(s)**            | IDS, Security, Vulnerability scanning   |
-+-----------------------+-----------------------------------------+
++---------------------+---------------------------------------+
+| **SBB License**     | MIT License                           |
++---------------------+---------------------------------------+
+| **Core Technology** | Go                                    |
++---------------------+---------------------------------------+
+| **Project URL**     | https://github.com/yahoo/gryffin      |
++---------------------+---------------------------------------+
+| **Source Location** | https://github.com/yahoo/gryffin      |
++---------------------+---------------------------------------+
+| **Tag(s)**          | IDS, Security, Vulnerability scanning |
++---------------------+---------------------------------------+
 
 | 
 
@@ -604,17 +628,17 @@ Hammertime
 **Hammertime**: a software suite for testing, profiling and simulating
 the rowhammer DRAM defect.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python / C                             |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://github.com/vusec/hammertime    |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/vusec/hammertime    |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Security, Test Tool                    |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python / C                           |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/vusec/hammertime  |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/vusec/hammertime  |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Security, Test Tool                  |
++---------------------+--------------------------------------+
 
 | 
 
@@ -627,17 +651,17 @@ highly-optimized hashing algorithms. hashcat currently supports CPUs,
 GPUs, and other hardware accelerators on Linux, Windows, and macOS, and
 has facilities to help enable distributed password cracking.
 
-+-----------------------+--------------------------------------+
-| **SBB License**       | MIT License                          |
-+-----------------------+--------------------------------------+
-| **Core Technology**   | C                                    |
-+-----------------------+--------------------------------------+
-| **Project URL**       | https://hashcat.net/hashcat/         |
-+-----------------------+--------------------------------------+
-| **Source Location**   | https://github.com/hashcat/hashcat   |
-+-----------------------+--------------------------------------+
-| **Tag(s)**            | Password, Security                   |
-+-----------------------+--------------------------------------+
++---------------------+------------------------------------+
+| **SBB License**     | MIT License                        |
++---------------------+------------------------------------+
+| **Core Technology** | C                                  |
++---------------------+------------------------------------+
+| **Project URL**     | https://hashcat.net/hashcat/       |
++---------------------+------------------------------------+
+| **Source Location** | https://github.com/hashcat/hashcat |
++---------------------+------------------------------------+
+| **Tag(s)**          | Password, Security                 |
++---------------------+------------------------------------+
 
 | 
 
@@ -648,17 +672,17 @@ Test tool and site to verify if HTTPS is used as should be for website.
 
  
 
-+-----------------------+-------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0      |
-+-----------------------+-------------------------------------------+
-| **Core Technology**   | Python                                    |
-+-----------------------+-------------------------------------------+
-| **Project URL**       | https://httpswatch.com                    |
-+-----------------------+-------------------------------------------+
-| **Source Location**   | https://github.com/benjaminp/httpswatch   |
-+-----------------------+-------------------------------------------+
-| **Tag(s)**            | Security, Test Tool                       |
-+-----------------------+-------------------------------------------+
++---------------------+-----------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0    |
++---------------------+-----------------------------------------+
+| **Core Technology** | Python                                  |
++---------------------+-----------------------------------------+
+| **Project URL**     | https://httpswatch.com                  |
++---------------------+-----------------------------------------+
+| **Source Location** | https://github.com/benjaminp/httpswatch |
++---------------------+-----------------------------------------+
+| **Tag(s)**          | Security, Test Tool                     |
++---------------------+-----------------------------------------+
 
 | 
 
@@ -673,17 +697,17 @@ OSS.
 The complete list of tools can be found
 here:\ http://tools.kali.org/tools-listing
 
-+-----------------------+---------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0        |
-+-----------------------+---------------------------------------------+
-| **Core Technology**   | N.A. (OSS Tool collection)                  |
-+-----------------------+---------------------------------------------+
-| **Project URL**       | https://www.kali.org/                       |
-+-----------------------+---------------------------------------------+
-| **Source Location**   | http://git.kali.org/gitweb/                 |
-+-----------------------+---------------------------------------------+
-| **Tag(s)**            | Security, Sniffer, Vulnerability scanning   |
-+-----------------------+---------------------------------------------+
++---------------------+-------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0      |
++---------------------+-------------------------------------------+
+| **Core Technology** | N.A. (OSS Tool collection)                |
++---------------------+-------------------------------------------+
+| **Project URL**     | https://www.kali.org/                     |
++---------------------+-------------------------------------------+
+| **Source Location** | http://git.kali.org/gitweb/               |
++---------------------+-------------------------------------------+
+| **Tag(s)**          | Security, Sniffer, Vulnerability scanning |
++---------------------+-------------------------------------------+
 
 | 
 
@@ -698,17 +722,17 @@ This means that your applications don’t have to deal with login forms,
 authenticating users, and storing users. Once logged-in to Keycloak,
 users don’t have to login again to access a different application.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | Apache License 2.0                     |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Java                                   |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://www.keycloak.org/              |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/keycloak/keycloak   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Security                               |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | Apache License 2.0                   |
++---------------------+--------------------------------------+
+| **Core Technology** | Java                                 |
++---------------------+--------------------------------------+
+| **Project URL**     | https://www.keycloak.org/            |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/keycloak/keycloak |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Security                             |
++---------------------+--------------------------------------+
 
 | 
 
@@ -728,17 +752,17 @@ networks, and inferring the presence of non beaconing networks via data
 traffic. The great feature of Kismet is that this tool works working
 passively, so detection by IDS is prevented when scanning WLAN’s.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | C++                                    |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://www.kismetwireless.net/         |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://www.kismetwireless.net/code/   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | IDS, Security, Sniffer                 |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C++                                  |
++---------------------+--------------------------------------+
+| **Project URL**     | http://www.kismetwireless.net/       |
++---------------------+--------------------------------------+
+| **Source Location** | https://www.kismetwireless.net/code/ |
++---------------------+--------------------------------------+
+| **Tag(s)**          | IDS, Security, Sniffer               |
++---------------------+--------------------------------------+
 
 | 
 
@@ -761,17 +785,17 @@ synchronisation, custom attacks, *lascar* provides classes/functions to
 solve most of the obstacles an attacker would face, when needed to
 perform sound, state-of-the-art side-channel analysis.
 
-+-----------------------+-------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0      |
-+-----------------------+-------------------------------------------+
-| **Core Technology**   | Python                                    |
-+-----------------------+-------------------------------------------+
-| **Project URL**       | https://github.com/Ledger-Donjon/lascar   |
-+-----------------------+-------------------------------------------+
-| **Source Location**   | https://github.com/Ledger-Donjon/lascar   |
-+-----------------------+-------------------------------------------+
-| **Tag(s)**            | Security                                  |
-+-----------------------+-------------------------------------------+
++---------------------+-----------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0    |
++---------------------+-----------------------------------------+
+| **Core Technology** | Python                                  |
++---------------------+-----------------------------------------+
+| **Project URL**     | https://github.com/Ledger-Donjon/lascar |
++---------------------+-----------------------------------------+
+| **Source Location** | https://github.com/Ledger-Donjon/lascar |
++---------------------+-----------------------------------------+
+| **Tag(s)**          | Security                                |
++---------------------+-----------------------------------------+
 
 | 
 
@@ -784,17 +808,17 @@ protocol based on (“IPsec”) and the Internet Key Exchange (“IKE”).
 
  
 
-+-----------------------+------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0     |
-+-----------------------+------------------------------------------+
-| **Core Technology**   |                                          |
-+-----------------------+------------------------------------------+
-| **Project URL**       | https://libreswan.org/                   |
-+-----------------------+------------------------------------------+
-| **Source Location**   | https://github.com/libreswan/libreswan   |
-+-----------------------+------------------------------------------+
-| **Tag(s)**            | communication, Cryptography, Security    |
-+-----------------------+------------------------------------------+
++---------------------+----------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0   |
++---------------------+----------------------------------------+
+| **Core Technology** |                                        |
++---------------------+----------------------------------------+
+| **Project URL**     | https://libreswan.org/                 |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/libreswan/libreswan |
++---------------------+----------------------------------------+
+| **Tag(s)**          | communication, Cryptography, Security  |
++---------------------+----------------------------------------+
 
 | 
 
@@ -806,17 +830,18 @@ applications firewalls.
 
 Project created and started in 2016.
 
-+-----------------------+--------------------------------------------------------------+
-| **SBB License**       | MIT License                                                  |
-+-----------------------+--------------------------------------------------------------+
-| **Core Technology**   | Python                                                       |
-+-----------------------+--------------------------------------------------------------+
-| **Project URL**       | ` <>`__                                                      |
-+-----------------------+--------------------------------------------------------------+
-| **Source Location**   | https://github.com/lightbulb-framework/lightbulb-framework   |
-+-----------------------+--------------------------------------------------------------+
-| **Tag(s)**            | Audit, Security, Waf                                         |
-+-----------------------+--------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | MIT License                       |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Python                            |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   |                                   |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/lightbulb-fram |
+|                                   | ework/lightbulb-framework         |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Audit, Security, Waf              |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -834,17 +859,17 @@ created this software.
 
  
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | unix-shell scripts                     |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://cisofy.com                     |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/CISOfy/lynis/       |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Audit, Security                        |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | unix-shell scripts                   |
++---------------------+--------------------------------------+
+| **Project URL**     | https://cisofy.com                   |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/CISOfy/lynis/     |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Audit, Security                      |
++---------------------+--------------------------------------+
 
 | 
 
@@ -860,17 +885,17 @@ are identified by using identical “wormhole codes”: in general, the
 sending machine generates and displays the code, which must then be
 typed into the receiving machine.
 
-+-----------------------+----------------------------------------------------+
-| **SBB License**       | MIT License                                        |
-+-----------------------+----------------------------------------------------+
-| **Core Technology**   | Python                                             |
-+-----------------------+----------------------------------------------------+
-| **Project URL**       | https://magic-wormhole.readthedocs.io/en/latest/   |
-+-----------------------+----------------------------------------------------+
-| **Source Location**   | https://github.com/warner/magic-wormhole           |
-+-----------------------+----------------------------------------------------+
-| **Tag(s)**            | Security                                           |
-+-----------------------+----------------------------------------------------+
++---------------------+--------------------------------------------------+
+| **SBB License**     | MIT License                                      |
++---------------------+--------------------------------------------------+
+| **Core Technology** | Python                                           |
++---------------------+--------------------------------------------------+
+| **Project URL**     | https://magic-wormhole.readthedocs.io/en/latest/ |
++---------------------+--------------------------------------------------+
+| **Source Location** | https://github.com/warner/magic-wormhole         |
++---------------------+--------------------------------------------------+
+| **Tag(s)**          | Security                                         |
++---------------------+--------------------------------------------------+
 
 | 
 
@@ -896,17 +921,17 @@ Malspider has built-in detection for characteristics of compromise like
 hidden iframes, reconnaisance frameworks, vbscript injection, email
 address disclosure, etc.
 
-+-----------------------+------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License   |
-+-----------------------+------------------------------------------------------+
-| **Core Technology**   | Python                                               |
-+-----------------------+------------------------------------------------------+
-| **Project URL**       | https://github.com/ciscocsirt/malspider              |
-+-----------------------+------------------------------------------------------+
-| **Source Location**   | https://github.com/ciscocsirt/malspider              |
-+-----------------------+------------------------------------------------------+
-| **Tag(s)**            | Security, Vulnerability scanning                     |
-+-----------------------+------------------------------------------------------+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://github.com/ciscocsirt/malspider            |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/ciscocsirt/malspider            |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | Security, Vulnerability scanning                   |
++---------------------+----------------------------------------------------+
 
 | 
 
@@ -940,17 +965,17 @@ exploitation. Thus, Mantra can be used to solve basic levels of various
 web based CTFs, showcase security issues in vulnerable web applications
 etc.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | javascript                             |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://www.getmantra.com               |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://code.google.com/p/getmantra/   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Security, Test Tool                    |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | javascript                           |
++---------------------+--------------------------------------+
+| **Project URL**     | http://www.getmantra.com             |
++---------------------+--------------------------------------+
+| **Source Location** | https://code.google.com/p/getmantra/ |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Security, Test Tool                  |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1058,17 +1083,17 @@ functionalities are:
    `misp-dashboard <https://github.com/MISP/misp-dashboard>`__) or Kafka
    publishing.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | PHP, Python                            |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://www.misp-project.org/          |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/MISP/MISP           |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Security, Threat Intelligence          |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | PHP, Python                          |
++---------------------+--------------------------------------+
+| **Project URL**     | https://www.misp-project.org/        |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/MISP/MISP         |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Security, Threat Intelligence        |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1090,17 +1115,20 @@ through some type of proxy or middlebox (a “monster-in-the-middle” or
 MITM). There are many reasons for this behavior, both malicious and
 benign.
 
-+-----------------------+------------------------------------------------------------+
-| **SBB License**       | BSD License 2.0 (3-clause, New or Revised) License         |
-+-----------------------+------------------------------------------------------------+
-| **Core Technology**   | GO                                                         |
-+-----------------------+------------------------------------------------------------+
-| **Project URL**       | https://blog.cloudflare.com/monsters-in-the-middleboxes/   |
-+-----------------------+------------------------------------------------------------+
-| **Source Location**   | https://github.com/cloudflare/mitmengine                   |
-+-----------------------+------------------------------------------------------------+
-| **Tag(s)**            | Security, Test Tool                                        |
-+-----------------------+------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | BSD License 2.0 (3-clause, New or |
+|                                   | Revised) License                  |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | GO                                |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://blog.cloudflare.com/monst |
+|                                   | ers-in-the-middleboxes/           |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/cloudflare/mit |
+|                                   | mengine                           |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Security, Test Tool               |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -1116,17 +1144,17 @@ mitmproxy. It provides tcpdump-like functionality to let you view,
 record, and programmatically transform HTTP traffic. See the ``--help``
 flag output for complete documentation.
 
-+-----------------------+------------------------------------------+
-| **SBB License**       | MIT License                              |
-+-----------------------+------------------------------------------+
-| **Core Technology**   | Python                                   |
-+-----------------------+------------------------------------------+
-| **Project URL**       | https://mitmproxy.org                    |
-+-----------------------+------------------------------------------+
-| **Source Location**   | https://github.com/mitmproxy/mitmproxy   |
-+-----------------------+------------------------------------------+
-| **Tag(s)**            | HTTP Proxy, Privacy, Security, Sniffer   |
-+-----------------------+------------------------------------------+
++---------------------+----------------------------------------+
+| **SBB License**     | MIT License                            |
++---------------------+----------------------------------------+
+| **Core Technology** | Python                                 |
++---------------------+----------------------------------------+
+| **Project URL**     | https://mitmproxy.org                  |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/mitmproxy/mitmproxy |
++---------------------+----------------------------------------+
+| **Tag(s)**          | HTTP Proxy, Privacy, Security, Sniffer |
++---------------------+----------------------------------------+
 
 | 
 
@@ -1145,17 +1173,17 @@ SpiderLabs. It has a robust event-based programming language which
 provides protection from a range of attacks against web applications and
 allows for HTTP traffic monitoring, logging and real-time analyse.
 
-+-----------------------+---------------------------------------------+
-| **SBB License**       | Apache License 2.0                          |
-+-----------------------+---------------------------------------------+
-| **Core Technology**   | C                                           |
-+-----------------------+---------------------------------------------+
-| **Project URL**       | http://www.modsecurity.org/                 |
-+-----------------------+---------------------------------------------+
-| **Source Location**   | https://github.com/SpiderLabs/ModSecurity   |
-+-----------------------+---------------------------------------------+
-| **Tag(s)**            | Security, Waf                               |
-+-----------------------+---------------------------------------------+
++---------------------+-------------------------------------------+
+| **SBB License**     | Apache License 2.0                        |
++---------------------+-------------------------------------------+
+| **Core Technology** | C                                         |
++---------------------+-------------------------------------------+
+| **Project URL**     | http://www.modsecurity.org/               |
++---------------------+-------------------------------------------+
+| **Source Location** | https://github.com/SpiderLabs/ModSecurity |
++---------------------+-------------------------------------------+
+| **Tag(s)**          | Security, Waf                             |
++---------------------+-------------------------------------------+
 
 | 
 
@@ -1177,17 +1205,17 @@ Integration with third-party applications is possible thanks to an API:
 -  `JSON Schemas <http://objects.monarc.lu/api/v1/schema>`__
 -  `JSON Objects <http://objects.monarc.lu/api/v1/json_object>`__
 
-+-----------------------+-----------------------------------------------+
-| **SBB License**       | GNU Affero General Public License Version 3   |
-+-----------------------+-----------------------------------------------+
-| **Core Technology**   | JSON                                          |
-+-----------------------+-----------------------------------------------+
-| **Project URL**       | http://objects.monarc.lu/                     |
-+-----------------------+-----------------------------------------------+
-| **Source Location**   | https://github.com/CASES-LU/MOSP              |
-+-----------------------+-----------------------------------------------+
-| **Tag(s)**            | JSON, Security                                |
-+-----------------------+-----------------------------------------------+
++---------------------+---------------------------------------------+
+| **SBB License**     | GNU Affero General Public License Version 3 |
++---------------------+---------------------------------------------+
+| **Core Technology** | JSON                                        |
++---------------------+---------------------------------------------+
+| **Project URL**     | http://objects.monarc.lu/                   |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/CASES-LU/MOSP            |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | JSON, Security                              |
++---------------------+---------------------------------------------+
 
 | 
 
@@ -1198,17 +1226,17 @@ The Mozilla HTTP Observatory is a set of tools to analyze your website
 and inform you if you are utilizing the many available methods to secure
 it.
 
-+-----------------------+-----------------------------------------------+
-| **SBB License**       | Mozilla Public License (MPL) 1.1              |
-+-----------------------+-----------------------------------------------+
-| **Core Technology**   | Python                                        |
-+-----------------------+-----------------------------------------------+
-| **Project URL**       | https://observatory.mozilla.org/              |
-+-----------------------+-----------------------------------------------+
-| **Source Location**   | https://github.com/mozilla/http-observatory   |
-+-----------------------+-----------------------------------------------+
-| **Tag(s)**            | Python, Security, Vulnerability scanning      |
-+-----------------------+-----------------------------------------------+
++---------------------+---------------------------------------------+
+| **SBB License**     | Mozilla Public License (MPL) 1.1            |
++---------------------+---------------------------------------------+
+| **Core Technology** | Python                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | https://observatory.mozilla.org/            |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/mozilla/http-observatory |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | Python, Security, Vulnerability scanning    |
++---------------------+---------------------------------------------+
 
 | 
 
@@ -1225,17 +1253,17 @@ scanner (an “ethermap” if you will).
 
  
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | MIT License                            |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://github.com/ConsenSys/mythril   |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/ConsenSys/mythril   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | BlockChain, Security                   |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | MIT License                          |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/ConsenSys/mythril |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/ConsenSys/mythril |
++---------------------+--------------------------------------+
+| **Tag(s)**          | BlockChain, Security                 |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1253,17 +1281,21 @@ via the `OpenVAS NVT
 Feed <http://www.openvas.org/openvas-nvt-feed.html>`__ or via a
 commercial feed service.
 
-+-----------------------+-------------------------------------------------------------------------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0                                                                              |
-+-----------------------+-------------------------------------------------------------------------------------------------------------------+
-| **Core Technology**   | C                                                                                                                 |
-+-----------------------+-------------------------------------------------------------------------------------------------------------------+
-| **Project URL**       | http://www.openvas.org                                                                                            |
-+-----------------------+-------------------------------------------------------------------------------------------------------------------+
-| **Source Location**   | `https://scm.wald.intevation.org/svn/openvas/trunk <%20https://scm.wald.intevation.org/svn/openvas/trunk%20>`__   |
-+-----------------------+-------------------------------------------------------------------------------------------------------------------+
-| **Tag(s)**            | Security, Vulnerability scanning                                                                                  |
-+-----------------------+-------------------------------------------------------------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | GNU General Public License (GPL)  |
+|                                   | 2.0                               |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | C                                 |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | http://www.openvas.org            |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | `https://scm.wald.intevation.org/ |
+|                                   | svn/openvas/trunk <%20https://scm |
+|                                   | .wald.intevation.org/svn/openvas/ |
+|                                   | trunk%20>`__                      |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Security, Vulnerability scanning  |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -1276,17 +1308,17 @@ not an identity provider (user sign up, user log in, password reset
 flow), but connects to your existing identity provider through a consent
 app.
 
-+-----------------------+--------------------------------+
-| **SBB License**       | Apache License 2.0             |
-+-----------------------+--------------------------------+
-| **Core Technology**   | GOlang                         |
-+-----------------------+--------------------------------+
-| **Project URL**       | https://www.ory.sh/            |
-+-----------------------+--------------------------------+
-| **Source Location**   | https://github.com/ory/hydra   |
-+-----------------------+--------------------------------+
-| **Tag(s)**            | Security                       |
-+-----------------------+--------------------------------+
++---------------------+------------------------------+
+| **SBB License**     | Apache License 2.0           |
++---------------------+------------------------------+
+| **Core Technology** | GOlang                       |
++---------------------+------------------------------+
+| **Project URL**     | https://www.ory.sh/          |
++---------------------+------------------------------+
+| **Source Location** | https://github.com/ory/hydra |
++---------------------+------------------------------+
+| **Tag(s)**          | Security                     |
++---------------------+------------------------------+
 
 | 
 
@@ -1304,17 +1336,17 @@ Developed by Facebook.
 
  
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | C                                      |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://osquery.io/                    |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/facebook/osquery    |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Loganalyze, Monitoring, Security       |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C                                    |
++---------------------+--------------------------------------+
+| **Project URL**     | https://osquery.io/                  |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/facebook/osquery  |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Loganalyze, Monitoring, Security     |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1329,17 +1361,20 @@ antiviruses, obfuscated codes and etc.
 
  
 
-+-----------------------+----------------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0                     |
-+-----------------------+----------------------------------------------------------+
-| **Core Technology**   | Python                                                   |
-+-----------------------+----------------------------------------------------------+
-| **Project URL**       | https://www.owasp.org/index.php/OWASP_ZSC_Tool_Project   |
-+-----------------------+----------------------------------------------------------+
-| **Source Location**   | https://github.com/Ali-Razmjoo/OWASP-ZSC/                |
-+-----------------------+----------------------------------------------------------+
-| **Tag(s)**            | Security, Test Tool                                      |
-+-----------------------+----------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | GNU General Public License (GPL)  |
+|                                   | 3.0                               |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Python                            |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://www.owasp.org/index.php/O |
+|                                   | WASP_ZSC_Tool_Project             |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/Ali-Razmjoo/OW |
+|                                   | ASP-ZSC/                          |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Security, Test Tool               |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -1355,17 +1390,20 @@ experience and as such is ideal for developers and functional testers
 who are new to penetration testing as well as being a useful addition to
 an experienced pen testers toolbox.
 
-+-----------------------+---------------------------------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                                        |
-+-----------------------+---------------------------------------------------------------------------+
-| **Core Technology**   | Java                                                                      |
-+-----------------------+---------------------------------------------------------------------------+
-| **Project URL**       | https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project#tab=Main   |
-+-----------------------+---------------------------------------------------------------------------+
-| **Source Location**   | https://github.com/zaproxy/zaproxy                                        |
-+-----------------------+---------------------------------------------------------------------------+
-| **Tag(s)**            | Security                                                                  |
-+-----------------------+---------------------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | Apache License 2.0                |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Java                              |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://www.owasp.org/index.php/O |
+|                                   | WASP_Zed_Attack_Proxy_Project#tab |
+|                                   | =Main                             |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/zaproxy/zaprox |
+|                                   | y                                 |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Security                          |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -1374,7 +1412,7 @@ Phpseclib (PHP Secure Communications Library)
 
 Phpseclib is designed to be ultra-compatible. It works on PHP4+ (PHP4,
 assuming the use of
-`PHP\_Compat <http://pear.php.net/package/PHP_Compat>`__) and doesn’t
+`PHP_Compat <http://pear.php.net/package/PHP_Compat>`__) and doesn’t
 require any extensions. For purposes of speed, **mcrypt is used** if
 it’s available **as is gmp or bcmath** (in that order), but they are not
 required. Phpseclib is designed to be fully interoperable with OpenSSL
@@ -1406,17 +1444,17 @@ Phpseclib is a pure-PHP implementations of:
 
       </div>
 
-+-----------------------+------------------------------------------+
-| **SBB License**       | MIT License                              |
-+-----------------------+------------------------------------------+
-| **Core Technology**   | PHP                                      |
-+-----------------------+------------------------------------------+
-| **Project URL**       | http://phpseclib.sourceforge.net/        |
-+-----------------------+------------------------------------------+
-| **Source Location**   | https://github.com/phpseclib/phpseclib   |
-+-----------------------+------------------------------------------+
-| **Tag(s)**            | Cryptography, Security                   |
-+-----------------------+------------------------------------------+
++---------------------+----------------------------------------+
+| **SBB License**     | MIT License                            |
++---------------------+----------------------------------------+
+| **Core Technology** | PHP                                    |
++---------------------+----------------------------------------+
+| **Project URL**     | http://phpseclib.sourceforge.net/      |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/phpseclib/phpseclib |
++---------------------+----------------------------------------+
+| **Tag(s)**          | Cryptography, Security                 |
++---------------------+----------------------------------------+
 
 | 
 
@@ -1430,17 +1468,17 @@ PySyft
   within PyTorch. View the paper on
   `Arxiv <https://arxiv.org/abs/1811.04017>`__.
 
-+-----------------------+---------------------------------------+
-| **SBB License**       | Apache License 2.0                    |
-+-----------------------+---------------------------------------+
-| **Core Technology**   | Python                                |
-+-----------------------+---------------------------------------+
-| **Project URL**       | https://github.com/OpenMined/PySyft   |
-+-----------------------+---------------------------------------+
-| **Source Location**   | https://github.com/OpenMined/PySyft   |
-+-----------------------+---------------------------------------+
-| **Tag(s)**            | Python, Security                      |
-+-----------------------+---------------------------------------+
++---------------------+-------------------------------------+
+| **SBB License**     | Apache License 2.0                  |
++---------------------+-------------------------------------+
+| **Core Technology** | Python                              |
++---------------------+-------------------------------------+
+| **Project URL**     | https://github.com/OpenMined/PySyft |
++---------------------+-------------------------------------+
+| **Source Location** | https://github.com/OpenMined/PySyft |
++---------------------+-------------------------------------+
+| **Tag(s)**          | Python, Security                    |
++---------------------+-------------------------------------+
 
 | 
 
@@ -1463,17 +1501,20 @@ Radare is a portable reversing framework that can:
 -  Use powerful analysis capabilities to speed up reversing
 -  Aid in software exploitation
 
-+-----------------------+--------------------------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0                               |
-+-----------------------+--------------------------------------------------------------------+
-| **Core Technology**   | C                                                                  |
-+-----------------------+--------------------------------------------------------------------+
-| **Project URL**       | http://rada.re/r/index.html                                        |
-+-----------------------+--------------------------------------------------------------------+
-| **Source Location**   | https://github.com/radare/radare2                                  |
-+-----------------------+--------------------------------------------------------------------+
-| **Tag(s)**            | Debugger, Security, software development, Vulnerability scanning   |
-+-----------------------+--------------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | GNU General Public License (GPL)  |
+|                                   | 3.0                               |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | C                                 |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | http://rada.re/r/index.html       |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/radare/radare2 |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Debugger, Security, software      |
+|                                   | development, Vulnerability        |
+|                                   | scanning                          |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -1490,17 +1531,17 @@ HTTP connection pooling are 100% automatic, powered by
 `urllib3 <https://github.com/shazow/urllib3>`__, which is embedded
 within Requests.
 
-+-----------------------+---------------------------------------------+
-| **SBB License**       | Apache License 2.0                          |
-+-----------------------+---------------------------------------------+
-| **Core Technology**   | Python                                      |
-+-----------------------+---------------------------------------------+
-| **Project URL**       | ` <>`__                                     |
-+-----------------------+---------------------------------------------+
-| **Source Location**   | https://github.com/kennethreitz/requests    |
-+-----------------------+---------------------------------------------+
-| **Tag(s)**            | Security, software development, Test Tool   |
-+-----------------------+---------------------------------------------+
++---------------------+-------------------------------------------+
+| **SBB License**     | Apache License 2.0                        |
++---------------------+-------------------------------------------+
+| **Core Technology** | Python                                    |
++---------------------+-------------------------------------------+
+| **Project URL**     |                                           |
++---------------------+-------------------------------------------+
+| **Source Location** | https://github.com/kennethreitz/requests  |
++---------------------+-------------------------------------------+
+| **Tag(s)**          | Security, software development, Test Tool |
++---------------------+-------------------------------------------+
 
 | 
 
@@ -1550,17 +1591,17 @@ RIPS was released during the Month of PHP Security
 
    </div>
 
-+-----------------------+-------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0            |
-+-----------------------+-------------------------------------------------+
-| **Core Technology**   | PHP                                             |
-+-----------------------+-------------------------------------------------+
-| **Project URL**       | http://rips-scanner.sourceforge.net/            |
-+-----------------------+-------------------------------------------------+
-| **Source Location**   | http://sourceforge.net/projects/rips-scanner/   |
-+-----------------------+-------------------------------------------------+
-| **Tag(s)**            | Code Analyzer, Security                         |
-+-----------------------+-------------------------------------------------+
++---------------------+-----------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0          |
++---------------------+-----------------------------------------------+
+| **Core Technology** | PHP                                           |
++---------------------+-----------------------------------------------+
+| **Project URL**     | http://rips-scanner.sourceforge.net/          |
++---------------------+-----------------------------------------------+
+| **Source Location** | http://sourceforge.net/projects/rips-scanner/ |
++---------------------+-----------------------------------------------+
+| **Tag(s)**          | Code Analyzer, Security                       |
++---------------------+-----------------------------------------------+
 
 | 
 
@@ -1576,17 +1617,17 @@ It consists of various modules that aids penetration testing operations:
 -  creds – modules designed to test credentials against network services
 -  scanners – modules that check if target is vulnerable to any exploit
 
-+-----------------------+-------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0            |
-+-----------------------+-------------------------------------------------+
-| **Core Technology**   | Python                                          |
-+-----------------------+-------------------------------------------------+
-| **Project URL**       | https://github.com/reverse-shell/routersploit   |
-+-----------------------+-------------------------------------------------+
-| **Source Location**   | https://github.com/reverse-shell/routersploit   |
-+-----------------------+-------------------------------------------------+
-| **Tag(s)**            | Security, Vulnerability scanning                |
-+-----------------------+-------------------------------------------------+
++---------------------+-----------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0          |
++---------------------+-----------------------------------------------+
+| **Core Technology** | Python                                        |
++---------------------+-----------------------------------------------+
+| **Project URL**     | https://github.com/reverse-shell/routersploit |
++---------------------+-----------------------------------------------+
+| **Source Location** | https://github.com/reverse-shell/routersploit |
++---------------------+-----------------------------------------------+
+| **Tag(s)**          | Security, Vulnerability scanning              |
++---------------------+-----------------------------------------------+
 
 | 
 
@@ -1600,17 +1641,19 @@ payloads, and many more.
 
 This is an OWASP project (incubator) .
 
-+-----------------------+----------------------------------------------------------+
-| **SBB License**       | MIT License                                              |
-+-----------------------+----------------------------------------------------------+
-| **Core Technology**   | n.a.                                                     |
-+-----------------------+----------------------------------------------------------+
-| **Project URL**       | https://www.owasp.org/index.php/OWASP_SecLists_Project   |
-+-----------------------+----------------------------------------------------------+
-| **Source Location**   | https://github.com/danielmiessler/SecLists               |
-+-----------------------+----------------------------------------------------------+
-| **Tag(s)**            | Security, Test Tool                                      |
-+-----------------------+----------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | MIT License                       |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | n.a.                              |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://www.owasp.org/index.php/O |
+|                                   | WASP_SecLists_Project             |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/danielmiessler |
+|                                   | /SecLists                         |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Security, Test Tool               |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -1625,17 +1668,17 @@ problems as it is essentially a change tracking system.
 More information:
 http://techblog.netflix.com/2014/06/announcing-security-monkey-aws-security.html
 
-+-----------------------+----------------------------------------------------+
-| **SBB License**       | Apache License 2.0                                 |
-+-----------------------+----------------------------------------------------+
-| **Core Technology**   | Python                                             |
-+-----------------------+----------------------------------------------------+
-| **Project URL**       | http://securitymonkey.readthedocs.org/en/latest/   |
-+-----------------------+----------------------------------------------------+
-| **Source Location**   | https://github.com/Netflix/security_monkey         |
-+-----------------------+----------------------------------------------------+
-| **Tag(s)**            | Security, SIEM                                     |
-+-----------------------+----------------------------------------------------+
++---------------------+--------------------------------------------------+
+| **SBB License**     | Apache License 2.0                               |
++---------------------+--------------------------------------------------+
+| **Core Technology** | Python                                           |
++---------------------+--------------------------------------------------+
+| **Project URL**     | http://securitymonkey.readthedocs.org/en/latest/ |
++---------------------+--------------------------------------------------+
+| **Source Location** | https://github.com/Netflix/security_monkey       |
++---------------------+--------------------------------------------------+
+| **Tag(s)**          | Security, SIEM                                   |
++---------------------+--------------------------------------------------+
 
 | 
 
@@ -1652,17 +1695,17 @@ access layer and SS7 message encapsulation into SIP-T. Recommendations
 for each vulnerability will be provided to guide the tester and the
 operator the steps that should be done to enhance their security posture
 
-+-----------------------+------------------------------------------+
-| **SBB License**       | MIT License                              |
-+-----------------------+------------------------------------------+
-| **Core Technology**   | Python                                   |
-+-----------------------+------------------------------------------+
-| **Project URL**       | https://github.com/SigPloiter/SigPloit   |
-+-----------------------+------------------------------------------+
-| **Source Location**   | https://github.com/SigPloiter/SigPloit   |
-+-----------------------+------------------------------------------+
-| **Tag(s)**            | pentest, Security                        |
-+-----------------------+------------------------------------------+
++---------------------+----------------------------------------+
+| **SBB License**     | MIT License                            |
++---------------------+----------------------------------------+
+| **Core Technology** | Python                                 |
++---------------------+----------------------------------------+
+| **Project URL**     | https://github.com/SigPloiter/SigPloit |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/SigPloiter/SigPloit |
++---------------------+----------------------------------------+
+| **Tag(s)**          | pentest, Security                      |
++---------------------+----------------------------------------+
 
 | 
 
@@ -1686,17 +1729,17 @@ molded to your target environment in such a way that deviations are
 easily identifiable to both Operations Teams and Security Officers. This
 project is released to the public by the US National Security Agency.
 
-+-----------------------+--------------------------------------------------+
-| **SBB License**       | MIT License                                      |
-+-----------------------+--------------------------------------------------+
-| **Core Technology**   |                                                  |
-+-----------------------+--------------------------------------------------+
-| **Project URL**       | https://github.com/NationalSecurityAgency/SIMP   |
-+-----------------------+--------------------------------------------------+
-| **Source Location**   | https://github.com/simp                          |
-+-----------------------+--------------------------------------------------+
-| **Tag(s)**            | Audit, Security                                  |
-+-----------------------+--------------------------------------------------+
++---------------------+------------------------------------------------+
+| **SBB License**     | MIT License                                    |
++---------------------+------------------------------------------------+
+| **Core Technology** |                                                |
++---------------------+------------------------------------------------+
+| **Project URL**     | https://github.com/NationalSecurityAgency/SIMP |
++---------------------+------------------------------------------------+
+| **Source Location** | https://github.com/simp                        |
++---------------------+------------------------------------------------+
+| **Tag(s)**          | Audit, Security                                |
++---------------------+------------------------------------------------+
 
 | 
 
@@ -1718,17 +1761,17 @@ how the decryption works ahead of time. This technique also works well
 for eliminating different types of white noise, such as no-ops and
 useless arithmetic.
 
-+-----------------------+-------------------------------------------+
-| **SBB License**       | MIT License                               |
-+-----------------------+-------------------------------------------+
-| **Core Technology**   |                                           |
-+-----------------------+-------------------------------------------+
-| **Project URL**       | ` <>`__                                   |
-+-----------------------+-------------------------------------------+
-| **Source Location**   | https://github.com/CalebFenton/simplify   |
-+-----------------------+-------------------------------------------+
-| **Tag(s)**            | Code Analyzer, Security                   |
-+-----------------------+-------------------------------------------+
++---------------------+-----------------------------------------+
+| **SBB License**     | MIT License                             |
++---------------------+-----------------------------------------+
+| **Core Technology** |                                         |
++---------------------+-----------------------------------------+
+| **Project URL**     |                                         |
++---------------------+-----------------------------------------+
+| **Source Location** | https://github.com/CalebFenton/simplify |
++---------------------+-----------------------------------------+
+| **Tag(s)**          | Code Analyzer, Security                 |
++---------------------+-----------------------------------------+
 
 | 
 
@@ -1746,17 +1789,17 @@ technical quality, from project portfolio to method. If you wish to
 extend the SonarQube platform with open source plugins, have a look at
 our plugin library.
 
-+-----------------------+------------------------------------------------+
-| **SBB License**       | GNU Lesser General Public License (LGPL) 3.0   |
-+-----------------------+------------------------------------------------+
-| **Core Technology**   | Java                                           |
-+-----------------------+------------------------------------------------+
-| **Project URL**       | https://www.sonarqube.org/                     |
-+-----------------------+------------------------------------------------+
-| **Source Location**   | https://github.com/SonarSource/sonarqube       |
-+-----------------------+------------------------------------------------+
-| **Tag(s)**            | Security, Vulnerability scanning               |
-+-----------------------+------------------------------------------------+
++---------------------+----------------------------------------------+
+| **SBB License**     | GNU Lesser General Public License (LGPL) 3.0 |
++---------------------+----------------------------------------------+
+| **Core Technology** | Java                                         |
++---------------------+----------------------------------------------+
+| **Project URL**     | https://www.sonarqube.org/                   |
++---------------------+----------------------------------------------+
+| **Source Location** | https://github.com/SonarSource/sonarqube     |
++---------------------+----------------------------------------------+
+| **Tag(s)**          | Security, Vulnerability scanning             |
++---------------------+----------------------------------------------+
 
 | 
 
@@ -1772,17 +1815,20 @@ penetration test to gather information about the target or defensively
 to identify what information your organisation is freely providing for
 attackers to use against you.
 
-+-----------------------+----------------------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0                           |
-+-----------------------+----------------------------------------------------------------+
-| **Core Technology**   | Python                                                         |
-+-----------------------+----------------------------------------------------------------+
-| **Project URL**       | https://www.spiderfoot.net/                                    |
-+-----------------------+----------------------------------------------------------------+
-| **Source Location**   | https://github.com/smicallef/spiderfoot                        |
-+-----------------------+----------------------------------------------------------------+
-| **Tag(s)**            | pentest, Python, Security, Test Tool, Vulnerability scanning   |
-+-----------------------+----------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | GNU General Public License (GPL)  |
+|                                   | 2.0                               |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Python                            |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://www.spiderfoot.net/       |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/smicallef/spid |
+|                                   | erfoot                            |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | pentest, Python, Security, Test   |
+|                                   | Tool, Vulnerability scanning      |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -1796,12 +1842,12 @@ Streisand  is open source software that sets up a communication server
 that can run:
 
 -  WireGuard
--   OpenConnect
--   OpenSSH
--   OpenVPN
--   Shadowsocks
+-  OpenConnect
+-  OpenSSH
+-  OpenVPN
+-  Shadowsocks
 -  SSHLH
--   Stunnel,  or a
+-  Stunnel,  or a
 -  Tor bridge.
 
 After configuration Streisand generates custom instructions to use the
@@ -1815,17 +1861,17 @@ Using Streisand reduces the barrier of entry to running a
 VPN/censorship-bypass server for friends and family and makes secure
 communication available to more people.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://github.com/jlund/streisand     |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/jlund/streisand     |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | communication, Privacy, Security       |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/jlund/streisand   |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/jlund/streisand   |
++---------------------+--------------------------------------+
+| **Tag(s)**          | communication, Privacy, Security     |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1842,17 +1888,17 @@ whatever cryptographic algorithms are compiled into the library. It can
 benefit from the FIPS 140-2 validation of the OpenSSL FIPS Object
 Module, as long as the building process meets its Security Policy.
 
-+-----------------------+---------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0        |
-+-----------------------+---------------------------------------------+
-| **Core Technology**   | C                                           |
-+-----------------------+---------------------------------------------+
-| **Project URL**       | https://www.stunnel.org/index.html          |
-+-----------------------+---------------------------------------------+
-| **Source Location**   | http://www.usenix.org.uk/mirrors/stunnel/   |
-+-----------------------+---------------------------------------------+
-| **Tag(s)**            | Cryptography, Security                      |
-+-----------------------+---------------------------------------------+
++---------------------+-------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0      |
++---------------------+-------------------------------------------+
+| **Core Technology** | C                                         |
++---------------------+-------------------------------------------+
+| **Project URL**     | https://www.stunnel.org/index.html        |
++---------------------+-------------------------------------------+
+| **Source Location** | http://www.usenix.org.uk/mirrors/stunnel/ |
++---------------------+-------------------------------------------+
+| **Tag(s)**          | Cryptography, Security                    |
++---------------------+-------------------------------------------+
 
 | 
 
@@ -1867,17 +1913,17 @@ Foundation (`OISF <http://idsips.wordpress.com/about/oisf/>`__).
 Suricata is developed by the OISF and its `supporting
 vendors <http://suricata-ids.org/about/consortium/>`__.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | C                                      |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://suricata-ids.org                |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/inliniac/suricata   |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | IDS, Security                          |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C                                    |
++---------------------+--------------------------------------+
+| **Project URL**     | http://suricata-ids.org              |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/inliniac/suricata |
++---------------------+--------------------------------------+
+| **Tag(s)**          | IDS, Security                        |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1892,17 +1938,17 @@ Susanoo is a REST API security testing framework. Features:
 -  Smoke Scan: Custom output checks for known pocs can be configured to
    run daily.
 
-+-----------------------+-----------------------------------------+
-| **SBB License**       | MIT License                             |
-+-----------------------+-----------------------------------------+
-| **Core Technology**   | Python                                  |
-+-----------------------+-----------------------------------------+
-| **Project URL**       | https://github.com/ant4g0nist/Susanoo   |
-+-----------------------+-----------------------------------------+
-| **Source Location**   | https://github.com/ant4g0nist/Susanoo   |
-+-----------------------+-----------------------------------------+
-| **Tag(s)**            | Security, Test Tool                     |
-+-----------------------+-----------------------------------------+
++---------------------+---------------------------------------+
+| **SBB License**     | MIT License                           |
++---------------------+---------------------------------------+
+| **Core Technology** | Python                                |
++---------------------+---------------------------------------+
+| **Project URL**     | https://github.com/ant4g0nist/Susanoo |
++---------------------+---------------------------------------+
+| **Source Location** | https://github.com/ant4g0nist/Susanoo |
++---------------------+---------------------------------------+
+| **Tag(s)**          | Security, Test Tool                   |
++---------------------+---------------------------------------+
 
 | 
 
@@ -1926,17 +1972,17 @@ for everyone.
 Languages supported: C/C++,Java source, Java bytecode, Python, Ruby. 
 PHP and Javascript are on the roadmap for end 2015 to be supported.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 3.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   |                                        |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://www.mir-swamp.org              |
-+-----------------------+----------------------------------------+
-| **Source Location**   | ` <>`__                                |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Code Analyzer, Security                |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** |                                      |
++---------------------+--------------------------------------+
+| **Project URL**     | https://www.mir-swamp.org            |
++---------------------+--------------------------------------+
+| **Source Location** |                                      |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Code Analyzer, Security              |
++---------------------+--------------------------------------+
 
 | 
 
@@ -1947,17 +1993,17 @@ Tamper Chrome is a Chrome extension that allows you to modify HTTP
 requests on the fly and aid on web security testing. Tamper Chrome works
 across all operating systems (including Chrome OS).
 
-+-----------------------+------------------------------------------+
-| **SBB License**       | Apache License 2.0                       |
-+-----------------------+------------------------------------------+
-| **Core Technology**   | Javascript                               |
-+-----------------------+------------------------------------------+
-| **Project URL**       | https://github.com/google/tamperchrome   |
-+-----------------------+------------------------------------------+
-| **Source Location**   | https://github.com/google/tamperchrome   |
-+-----------------------+------------------------------------------+
-| **Tag(s)**            | Audit, Security, Test Tool               |
-+-----------------------+------------------------------------------+
++---------------------+----------------------------------------+
+| **SBB License**     | Apache License 2.0                     |
++---------------------+----------------------------------------+
+| **Core Technology** | Javascript                             |
++---------------------+----------------------------------------+
+| **Project URL**     | https://github.com/google/tamperchrome |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/google/tamperchrome |
++---------------------+----------------------------------------+
+| **Tag(s)**          | Audit, Security, Test Tool             |
++---------------------+----------------------------------------+
 
 | 
 
@@ -1976,17 +2022,17 @@ client and node.js on the server.
 
 Thread Dragon is currently in alfa stage.
 
-+-----------------------+-------------------------------------------------------+
-| **SBB License**       | MIT License                                           |
-+-----------------------+-------------------------------------------------------+
-| **Core Technology**   | Javascript / NodeJS                                   |
-+-----------------------+-------------------------------------------------------+
-| **Project URL**       | https://www.owasp.org/index.php/OWASP_Threat_Dragon   |
-+-----------------------+-------------------------------------------------------+
-| **Source Location**   | https://github.com/mike-goodwin/owasp-threat-dragon   |
-+-----------------------+-------------------------------------------------------+
-| **Tag(s)**            | Modelling, Security                                   |
-+-----------------------+-------------------------------------------------------+
++---------------------+-----------------------------------------------------+
+| **SBB License**     | MIT License                                         |
++---------------------+-----------------------------------------------------+
+| **Core Technology** | Javascript / NodeJS                                 |
++---------------------+-----------------------------------------------------+
+| **Project URL**     | https://www.owasp.org/index.php/OWASP_Threat_Dragon |
++---------------------+-----------------------------------------------------+
+| **Source Location** | https://github.com/mike-goodwin/owasp-threat-dragon |
++---------------------+-----------------------------------------------------+
+| **Tag(s)**          | Modelling, Security                                 |
++---------------------+-----------------------------------------------------+
 
 | 
 
@@ -2002,17 +2048,17 @@ App, etc.
 
  
 
-+-----------------------+----------------------------------+
-| **SBB License**       | Apache License 2.0               |
-+-----------------------+----------------------------------+
-| **Core Technology**   | Java                             |
-+-----------------------+----------------------------------+
-| **Project URL**       | https://github.com/google/tink   |
-+-----------------------+----------------------------------+
-| **Source Location**   | https://github.com/google/tink   |
-+-----------------------+----------------------------------+
-| **Tag(s)**            | Cryptography, Security           |
-+-----------------------+----------------------------------+
++---------------------+--------------------------------+
+| **SBB License**     | Apache License 2.0             |
++---------------------+--------------------------------+
+| **Core Technology** | Java                           |
++---------------------+--------------------------------+
+| **Project URL**     | https://github.com/google/tink |
++---------------------+--------------------------------+
+| **Source Location** | https://github.com/google/tink |
++---------------------+--------------------------------+
+| **Tag(s)**          | Cryptography, Security         |
++---------------------+--------------------------------+
 
 | 
 
@@ -2028,17 +2074,17 @@ key usage). It does however verify if the signatures made on TLS message
 by the server (like in Server Key Exchange message) match the
 certificate sent by the server.
 
-+-----------------------+-----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0    |
-+-----------------------+-----------------------------------------+
-| **Core Technology**   | Python                                  |
-+-----------------------+-----------------------------------------+
-| **Project URL**       | https://github.com/tomato42/tlsfuzzer   |
-+-----------------------+-----------------------------------------+
-| **Source Location**   | https://github.com/tomato42/tlsfuzzer   |
-+-----------------------+-----------------------------------------+
-| **Tag(s)**            | Audit, Security, Test Tool              |
-+-----------------------+-----------------------------------------+
++---------------------+---------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0  |
++---------------------+---------------------------------------+
+| **Core Technology** | Python                                |
++---------------------+---------------------------------------+
+| **Project URL**     | https://github.com/tomato42/tlsfuzzer |
++---------------------+---------------------------------------+
+| **Source Location** | https://github.com/tomato42/tlsfuzzer |
++---------------------+---------------------------------------+
+| **Tag(s)**          | Audit, Security, Test Tool            |
++---------------------+---------------------------------------+
 
 | 
 
@@ -2063,17 +2109,17 @@ interests.
 Tor is by far the most secure way to enter the internet without giving
 away your privacy. Thank you Roger Dingledine!
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   |                                        |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://www.torproject.org             |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://www.torproject.org/dist/       |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Cryptography, Privacy, Security        |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** |                                      |
++---------------------+--------------------------------------+
+| **Project URL**     | https://www.torproject.org           |
++---------------------+--------------------------------------+
+| **Source Location** | https://www.torproject.org/dist/     |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Cryptography, Privacy, Security      |
++---------------------+--------------------------------------+
 
 | 
 
@@ -2087,17 +2133,21 @@ for automating URL entropy analysis. The big idea is to find tokens in a
 large list of URLs that have low entropy. These might be susceptible to
 brute force attacks.
 
-+-----------------------+-------------------------------------------------------------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0                                                            |
-+-----------------------+-------------------------------------------------------------------------------------------------+
-| **Core Technology**   | Python                                                                                          |
-+-----------------------+-------------------------------------------------------------------------------------------------+
-| **Project URL**       | https://jlospinoso.github.io/python/unfurl/abrade/hacking/2018/02/08/unfurl-url-analysis.html   |
-+-----------------------+-------------------------------------------------------------------------------------------------+
-| **Source Location**   | https://github.com/JLospinoso/unfurl                                                            |
-+-----------------------+-------------------------------------------------------------------------------------------------+
-| **Tag(s)**            | Security                                                                                        |
-+-----------------------+-------------------------------------------------------------------------------------------------+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | GNU General Public License (GPL)  |
+|                                   | 2.0                               |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Python                            |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://jlospinoso.github.io/pyth |
+|                                   | on/unfurl/abrade/hacking/2018/02/ |
+|                                   | 08/unfurl-url-analysis.html       |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/JLospinoso/unf |
+|                                   | url                               |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Security                          |
++-----------------------------------+-----------------------------------+
 
 | 
 
@@ -2136,17 +2186,17 @@ Please note that some of the API services will require an API key. The
 API keys should be located in the root of the URL Abuse directory. There
 is also an online version to use: https://www.circl.lu/urlabuse/
 
-+-----------------------+-----------------------------------------------+
-| **SBB License**       | GNU Affero General Public License Version 3   |
-+-----------------------+-----------------------------------------------+
-| **Core Technology**   | Python                                        |
-+-----------------------+-----------------------------------------------+
-| **Project URL**       | http://www.circl.lu/services/urlabuse/        |
-+-----------------------+-----------------------------------------------+
-| **Source Location**   | https://github.com/CIRCL/url-abuse            |
-+-----------------------+-----------------------------------------------+
-| **Tag(s)**            | Python, Security                              |
-+-----------------------+-----------------------------------------------+
++---------------------+---------------------------------------------+
+| **SBB License**     | GNU Affero General Public License Version 3 |
++---------------------+---------------------------------------------+
+| **Core Technology** | Python                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | http://www.circl.lu/services/urlabuse/      |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/CIRCL/url-abuse          |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | Python, Security                            |
++---------------------+---------------------------------------------+
 
 | 
 
@@ -2172,17 +2222,17 @@ accessing what secrets is already very difficult and platform-specific.
 Adding on key rolling, secure storage, and detailed audit logs is almost
 impossible without a custom solution. This is where Vault steps in.
 
-+-----------------------+--------------------------------------+
-| **SBB License**       | Mozilla Public License (MPL) 1.1     |
-+-----------------------+--------------------------------------+
-| **Core Technology**   | GO                                   |
-+-----------------------+--------------------------------------+
-| **Project URL**       | https://vaultproject.io              |
-+-----------------------+--------------------------------------+
-| **Source Location**   | https://github.com/hashicorp/vault   |
-+-----------------------+--------------------------------------+
-| **Tag(s)**            | Security                             |
-+-----------------------+--------------------------------------+
++---------------------+------------------------------------+
+| **SBB License**     | Mozilla Public License (MPL) 1.1   |
++---------------------+------------------------------------+
+| **Core Technology** | GO                                 |
++---------------------+------------------------------------+
+| **Project URL**     | https://vaultproject.io            |
++---------------------+------------------------------------+
+| **Source Location** | https://github.com/hashicorp/vault |
++---------------------+------------------------------------+
+| **Tag(s)**          | Security                           |
++---------------------+------------------------------------+
 
 | 
 
@@ -2199,17 +2249,17 @@ industry – a lack of quality information. VERIS targets this problem by
 helping organizations to collect useful incident-related information and
 to share that information – anonymously and responsibly – with others.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://veriscommunity.net/index.html   |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/vz-risk/veris       |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Security                               |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | http://veriscommunity.net/index.html |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/vz-risk/veris     |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Security                             |
++---------------------+--------------------------------------+
 
 | 
 
@@ -2227,17 +2277,17 @@ provided can be used for a variety of purposes, including doing a
 self-assessment of your own security program, or simply becoming
 familiar with issues affecting the security of web applications.
 
-+-----------------------+-------------------------------------+
-| **SBB License**       | Apache License 2.0                  |
-+-----------------------+-------------------------------------+
-| **Core Technology**   | Javascript                          |
-+-----------------------+-------------------------------------+
-| **Project URL**       | https://vsaq-demo.withgoogle.com/   |
-+-----------------------+-------------------------------------+
-| **Source Location**   | https://github.com/google/vsaq      |
-+-----------------------+-------------------------------------+
-| **Tag(s)**            | Audit, Questionnaire, Security      |
-+-----------------------+-------------------------------------+
++---------------------+-----------------------------------+
+| **SBB License**     | Apache License 2.0                |
++---------------------+-----------------------------------+
+| **Core Technology** | Javascript                        |
++---------------------+-----------------------------------+
+| **Project URL**     | https://vsaq-demo.withgoogle.com/ |
++---------------------+-----------------------------------+
+| **Source Location** | https://github.com/google/vsaq    |
++---------------------+-----------------------------------+
+| **Tag(s)**          | Audit, Questionnaire, Security    |
++---------------------+-----------------------------------+
 
 | 
 
@@ -2256,17 +2306,17 @@ The w3af framework is divided into three main sections:
    scans
 #. The plugins, which find links and vulnerabilities
 
-+-----------------------+------------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0     |
-+-----------------------+------------------------------------------+
-| **Core Technology**   | Phython                                  |
-+-----------------------+------------------------------------------+
-| **Project URL**       | http://w3af.org/                         |
-+-----------------------+------------------------------------------+
-| **Source Location**   | https://github.com/andresriancho/w3af/   |
-+-----------------------+------------------------------------------+
-| **Tag(s)**            | Audit, Security, Test Tool               |
-+-----------------------+------------------------------------------+
++---------------------+----------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0   |
++---------------------+----------------------------------------+
+| **Core Technology** | Phython                                |
++---------------------+----------------------------------------+
+| **Project URL**     | http://w3af.org/                       |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/andresriancho/w3af/ |
++---------------------+----------------------------------------+
+| **Tag(s)**          | Audit, Security, Test Tool             |
++---------------------+----------------------------------------+
 
 | 
 
@@ -2284,17 +2334,17 @@ Once it gets the list of URLs, forms and their inputs, Wapiti acts like
 a `fuzzer <http://en.wikipedia.org/wiki/Fuzzing>`__, injecting payloads
 to see if a script is vulnerable.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | http://wapiti.sourceforge.net/         |
-+-----------------------+----------------------------------------+
-| **Source Location**   | http://wapiti.sourceforge.net/         |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Security, Vulnerability scanning       |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | http://wapiti.sourceforge.net/       |
++---------------------+--------------------------------------+
+| **Source Location** | http://wapiti.sourceforge.net/       |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Security, Vulnerability scanning     |
++---------------------+--------------------------------------+
 
 | 
 
@@ -2310,17 +2360,17 @@ BackBox; any Linux distributions with wireless drivers patched for
 injection. The script appears to also operate with Ubuntu 11/10, Debian
 6, and Fedora 16.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | Python                                 |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://github.com/derv82/wifite2      |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/derv82/wifite2      |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Audit, pentest, Security               |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/derv82/wifite2    |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/derv82/wifite2    |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Audit, pentest, Security             |
++---------------------+--------------------------------------+
 
 | 
 
@@ -2338,17 +2388,17 @@ deployable. It is currently under heavy development, but already it
 might be regarded as the most secure, easiest to use, and simplest VPN
 solution in the industry.
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | C                                      |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://www.wireguard.com/             |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://git.zx2c4.com/WireGuard/       |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | Privacy, Security, VPN                 |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C                                    |
++---------------------+--------------------------------------+
+| **Project URL**     | https://www.wireguard.com/           |
++---------------------+--------------------------------------+
+| **Source Location** | https://git.zx2c4.com/WireGuard/     |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Privacy, Security, VPN               |
++---------------------+--------------------------------------+
 
 | 
 
@@ -2360,17 +2410,17 @@ to identify and classify malware samples. With YARA you can create
 descriptions of malware families (or whatever you want to describe)
 based on textual or binary patterns.
 
-+-----------------------+--------------------------------------+
-| **SBB License**       | MIT License                          |
-+-----------------------+--------------------------------------+
-| **Core Technology**   | C                                    |
-+-----------------------+--------------------------------------+
-| **Project URL**       | https://virustotal.github.io/yara/   |
-+-----------------------+--------------------------------------+
-| **Source Location**   | https://github.com/virustotal/yara   |
-+-----------------------+--------------------------------------+
-| **Tag(s)**            | Malware, Security                    |
-+-----------------------+--------------------------------------+
++---------------------+------------------------------------+
+| **SBB License**     | MIT License                        |
++---------------------+------------------------------------+
+| **Core Technology** | C                                  |
++---------------------+------------------------------------+
+| **Project URL**     | https://virustotal.github.io/yara/ |
++---------------------+------------------------------------+
+| **Source Location** | https://github.com/virustotal/yara |
++---------------------+------------------------------------+
+| **Tag(s)**          | Malware, Security                  |
++---------------------+------------------------------------+
 
 | 
 
@@ -2384,17 +2434,17 @@ monitoring.
 parts of the system retain the “Bro” name, and it also often appears in
 the documentation and distributions.)
 
-+-----------------------+----------------------------------------+
-| **SBB License**       | GNU General Public License (GPL) 2.0   |
-+-----------------------+----------------------------------------+
-| **Core Technology**   | C                                      |
-+-----------------------+----------------------------------------+
-| **Project URL**       | https://www.zeek.org/                  |
-+-----------------------+----------------------------------------+
-| **Source Location**   | https://github.com/zeek/zeek           |
-+-----------------------+----------------------------------------+
-| **Tag(s)**            | IDS, Security                          |
-+-----------------------+----------------------------------------+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C                                    |
++---------------------+--------------------------------------+
+| **Project URL**     | https://www.zeek.org/                |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/zeek/zeek         |
++---------------------+--------------------------------------+
+| **Tag(s)**          | IDS, Security                        |
++---------------------+--------------------------------------+
 
 | 
 | End of SBB list
