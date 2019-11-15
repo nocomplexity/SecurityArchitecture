@@ -6,10 +6,15 @@
 Open Reference Architecture for Security and Privacy
 =====================================================
 
+.. warning::
+
+   This document is a living document!
+   Collaboration is fun, so help us by contributing (See section contributing)!
+   Join the `ROI movement! <https://www.bm-support.org/projects/>`_
 
 .. image:: /Images/frontimage.jpg
 
-.. note:: This publication is also available as hard-copy, see `here <https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan>`_. Support our work an buy a hardcopy! The latest version of this Open Referene Architecture is always available online at https://security-and-privacy-reference-architecture.readthedocs.io 
+.. note:: A stable version of this publication (2019 edition!) is also available as hard-copy, see `here <https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan>`_. Support this work an buy a hardcopy! The latest version of this Open Referene Architecture is always available online at https://security-and-privacy-reference-architecture.readthedocs.io 
 
 This reference architecture is built around information that helps you creating security or privacy architectures.
 This reference architecture is created to improve security and privacy designs in general. In our opinion it is time to stop reinventing the wheel when it comes down to creating architectures and designs for security and privacy solutions.
@@ -45,7 +50,8 @@ Content
    10-using-oss   
    security-sbbs
    privacy-sbbs   
-   13-appendix-references   
+   13-appendix-references
+   securitycourses   
    03-about
    14-appendix-licensing
    15-appendix-contribute
