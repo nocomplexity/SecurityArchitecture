@@ -52,7 +52,20 @@ Content
    privacy-sbbs   
    13-appendix-references
    securitycourses   
-   03-about
+   
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Secure Software Development
+
+   secure-coding-references
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Help Us!
+
    14-appendix-licensing
    15-appendix-contribute
-   
+   03-about

@@ -7,7 +7,6 @@ When creating this reference architecture, we performed serious research. We use
  
 We believe that all knowledge for building better security and privacy solutions should be available under an open access license. This is why all references in this section are open access references or available for free under an open liberal license. 
 
-.. include:: secure-coding-references.rst
 
 .. include:: oss-security-repros.rst
 

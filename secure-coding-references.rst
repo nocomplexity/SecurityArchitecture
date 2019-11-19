@@ -1,8 +1,12 @@
 Secure Coding Guidelines
 --------------------------
 
+Creating software is hard. Creating software that meets trivial security and privacy design rules has proven to be very difficult. Securing coding is the practice of developing software that prevents security and privacy risks
 
-Securing coding is the practice of developing software that prevents security and privacy risks. Coding defects, bugs and logic flaws are a main cause of many software vulnerabilities. Since prevention is better than less complex than fixing security defects later, every software engineer should use Secure Coding guidelines and practices. 
+This section gives an opinionated list of good programming standards for creating software that meets some form of minimal security standards. When it comes to privacy standards for software it's simple: Make sure the secure coding rules are enforced and no personal data can be exposed in any way. So start with using the privacy principles before coding.
+
+Every software engineer should use Secure Coding guidelines and practices. And every company must check that software used meets minimal standards regarding mitigating security and privacy risks.
+
 
 Reproducible builds
 ^^^^^^^^^^^^^^^^^^^^^
@@ -25,3 +29,11 @@ GOlang programming
 Go Language Web Application Secure Coding Practices, https://checkmarx.gitbooks.io/go-scp/
 CC-Licensed so you can edit this GitBook yourself. Check the repository on https://github.com/Checkmarx/Go-SCP  
 And of course OWASP Secure Coding Practices are used for this GO specific publication.
+
+Crypto coding standards
+^^^^^^^^^^^^^^^^^^^^^^^
+
+
+https://github.com/veorq/cryptocoding 
+This reference gives good "coding rules" for implementations of cryptographic operations, and more generally for operations involving secret or sensitive values.
+
