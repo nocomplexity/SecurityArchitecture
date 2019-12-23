@@ -128,7 +128,7 @@ that:
    (or euro) campaigns before security aspects were taken more seriously
    into account. And yet security is still difficult due the fact that
    doing it right gives no direct business value. Doing it wrong always
-   means a true disaster for your business. And he same goes for
+   means a true disaster for your business. And the same goes for
    privacy.
 -  Security and privacy are interrelated. Without security there is no
    privacy! Never.
