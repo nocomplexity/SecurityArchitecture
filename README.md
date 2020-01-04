@@ -3,13 +3,15 @@
 # SecurityPrivacyReferenceArchitecture
 Open Repository for the Open Security and Privacy Reference Architecture
 
-Open publications for IT security and privacy are still rare. Despite the great work of the OWASP foundation many IT security  organizations are not that open. 
+Open publications for IT security and privacy are still rare. Despite the great work of the OWASP foundation many valuable resources for Security and Privacy are not open. Security and Privacy is technological complex and real risks mitigation is still problematic and expensive.
 
-This reference architecture aims to enable you to create better and faster security and privacy solutions by reusing content that is provided in this reference architecture. To encourage collaboration for this project this reference architecture is of course free and open (cc-by-sa).
+This reference architecture aims to enable you to create better and faster security and privacy solutions. This by reusing content that is provided in this reference architecture or by directing you to open (cc-by) resources to prevent reinventing the wheel. 
+To encourage collaboration for this project this reference architecture is of course free and open (cc-by-sa).
 
 This project is supported by the BM-Support Foundation, https://www.bm-support.org/ 
 
-Current status: We are working on a complete revision for 2019 of this 'Open Reference Architecture for Security and Privacy'. So join the party and create the 2019 version together with us.
+Current status: We are working on a update for the 2020 [hardcopy](https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan) version of this 'Open Reference Architecture for Security and Privacy'. But the online version will always be up-to-date! 
+So join the party and join the team to make this Open resource better! 
 
 
 # Contributing
