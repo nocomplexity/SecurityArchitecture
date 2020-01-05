@@ -1,8 +1,9 @@
 About the authors
 =================
 
-This first release of the open reference architecture for security and
-privacy is created by the following IT security architects:
+This first release (2016) of the open reference architecture for security and
+privacy was created by the following IT security architects:
+
 
 **Asim Jahan**
 --------------
@@ -29,3 +30,14 @@ Professional) certified. Maikel currently works for the innovative IT
 company \ `nocomplexity.com <https://nocomplexity.com/>`__. Despite
 privacy concerns, Maikel can be found on Twitter
 too \ https://twitter.com/maikelmardjan
+
+
+Contributors
+--------------
+
+The current version is created with input of:
+
+- Alexandre Dulaunoy
+- Jens
+- Michael Hansen
+
