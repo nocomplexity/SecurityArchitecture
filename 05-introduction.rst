@@ -112,10 +112,9 @@ companies exist that benefit from using open designs along with open
 source software.
 
 Many new technology companies are successful due to the fact that they
-promote open (FOSS) solutions. E.g. Companies like Automattic
-(https://automattic.com/), Acquia (https://www.acquia.com/) or IMatix
-(http://www.imatix.com/) are all very successful due to a true GPL OSS
-policy.
+promote open (FOSS) solutions. E.g. Companies like Automattic (WordPress)
+(https://automattic.com/) or Acquia (Drupal) (https://www.acquia.com/) are all very successful due to a true GPL OSS
+policy. But also many security companies have created a sustainable business by creating a real FOSS security product. E.g. the people behind https://www.privacyidea.org/ created a great product and business using an AGPL License for its core product.
 
 We know that privacy can be regarded as something totally different than
 security. This is why we had some resistance with combining a reference

@@ -35,5 +35,4 @@ Crypto coding standards
 
 
 https://github.com/veorq/cryptocoding 
-This reference gives good "coding rules" for implementations of cryptographic operations, and more generally for operations involving secret or sensitive values.
-
+This reference gives good "coding rules" for implementations of cryptographic operations, and more generally for operations involving secret or sensitive values. Created by Jean-Philippe Aumasson (https://aumasson.jp/)

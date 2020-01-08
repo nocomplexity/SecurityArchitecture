@@ -149,6 +149,12 @@ P=P Foundation = Privacy by Default
 The P=P foundation advocates Privacy. The p≡p engine was developed for this purpose and drives several crypto standards on different digital channels. It shall ultimately restore Privacy by Default. p≡p engine is distributed as Free Software to support Privacy for everyone. With that p≡p aims to restore the balance again in worldwide communications in favor of Privacy and Freedom of Information.
 https://pep.foundation/index.html 
 
+The Public Voice
+^^^^^^^^^^^^^^^^^
+The Public Voice coalition was established in 1996 by the Electronic Privacy Information Center (EPIC) to promote public participation in decisions concerning the future of the Internet. The Public Voice has pursued issues ranging from privacy and freedom of expression to consumer protection and Internet governance. Check:
+https://thepublicvoice.org/ 
+
+
 ICO
 ^^^^
 The ICO is the UK's independent body set up to uphold information rights. The UK’s independent authority set up to uphold information rights in the public interest, promoting openness by public bodies and data privacy for individuals.

@@ -1,3 +1,40 @@
+AIDE
+----
+
+AIDE is a tool for monitoring file system changes.
+
+It can be used to detect unauthorized monitored files and directories.
+AIDE was written to be a simple and free alternative to Tripwire.
+
+Features:
+
+-  File attributes monitored: permissions, inode, user, group file size,
+   mtime, atime, ctime, links and growing size.
+-  Checksums and hashes supported: SHA1, MD5, RMD160, and TIGER. CRC32,
+   HAVAL and GOST if Mhash support is compiled in.
+-  Plain text configuration files and database for simplicity.
+-  Rules, variables and macros that can be customized to local site or
+   system policies.
+-  Powerful regular expression support to selectively include or exclude
+   files and directories to be monitored.
+-  gzip database compression if zlib support is compiled in.
+-  Stand alone static binary for easy client/server monitoring
+   configurations.
+
+| 
+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C                                    |
++---------------------+--------------------------------------+
+| **Project URL**     | https://aide.github.io/              |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/aide/aide         |
++---------------------+--------------------------------------+
+| **Tag(s)**          | IDS, Security                        |
++---------------------+--------------------------------------+
+
 AIL framework
 -------------
 
@@ -29,6 +66,8 @@ Many features are provided within this framework. E.g.:
 -  A full-text indexer module to index unstructured information
    Statistics on modules and web.
 
+| 
+
 +---------------------+---------------------------------------------+
 | **SBB License**     | GNU Affero General Public License Version 3 |
 +---------------------+---------------------------------------------+
@@ -40,8 +79,6 @@ Many features are provided within this framework. E.g.:
 +---------------------+---------------------------------------------+
 | **Tag(s)**          | Python, Security                            |
 +---------------------+---------------------------------------------+
-
-| 
 
 American fuzzy lop
 ------------------
@@ -58,6 +95,8 @@ famous SSL Heartbleed bug was found in record time using this software.
 See
 https://blog.hboeck.de/archives/868-How-Heartbleed-couldve-been-found.html.
 
+| 
+
 +---------------------+------------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0     |
 +---------------------+------------------------------------------+
@@ -70,8 +109,6 @@ https://blog.hboeck.de/archives/868-How-Heartbleed-couldve-been-found.html.
 | **Tag(s)**          | Security, Test Tool                      |
 +---------------------+------------------------------------------+
 
-| 
-
 Bandit
 ------
 
@@ -81,7 +118,9 @@ appropriate plugins against the AST nodes. Once Bandit has finished
 scanning all the files it generates a report.
 
 Bandit was originally developed within the OpenStack Security Project
-and later rehomed to PyCQA.
+and later transferred to PyCQA.
+
+| 
 
 +---------------------+----------------------------------+
 | **SBB License**     | Apache License 2.0               |
@@ -94,8 +133,6 @@ and later rehomed to PyCQA.
 +---------------------+----------------------------------+
 | **Tag(s)**          | Security, Vulnerability scanning |
 +---------------------+----------------------------------+
-
-| 
 
 Bosun
 -----
@@ -116,6 +153,8 @@ left-to-right order; that reflects the phases you go through as you
 create an alert. In general, first you’ll select an item (metric) that
 is the basis of the alert.
 
+| 
+
 +---------------------+----------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0   |
 +---------------------+----------------------------------------+
@@ -127,8 +166,6 @@ is the basis of the alert.
 +---------------------+----------------------------------------+
 | **Tag(s)**          | Security, SIEM                         |
 +---------------------+----------------------------------------+
-
-| 
 
 Cameradar
 ---------
@@ -145,6 +182,8 @@ Cameradar allows you to
    password** of the cameras
 -  Retrieve a complete and user-friendly report of the results
 
+| 
+
 +---------------------+---------------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0        |
 +---------------------+---------------------------------------------+
@@ -157,7 +196,28 @@ Cameradar allows you to
 | **Tag(s)**          | Security, Test Tool, Vulnerability scanning |
 +---------------------+---------------------------------------------+
 
+CAPE v2
+-------
+
+CAPE is a malware sandbox. It is derived from Cuckoo and is designed to
+automate the process of malware analysis with the goal of extracting
+payloads and configuration from malware. This allows CAPE to detect
+malware based on payload signatures, as well as automating many of the
+goals of malware reverse engineering and threat intelligence.
+
 | 
+
++---------------------+--------------------------------------+
+| **SBB License**     | MIT License                          |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://cape.contextis.com/analysis/ |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/kevoreilly/CAPEv2 |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Malware analysis, Security           |
++---------------------+--------------------------------------+
 
 CLIP OS
 -------
@@ -168,6 +228,8 @@ that aims to build a secure, multi-level operating system, based on the
 Linux kernel and a lot of free and open source software.
 
 Documentation can be found on: https://docs.clip-os.org/index.html
+
+| 
 
 +---------------------+----------------------------------------------+
 | **SBB License**     | GNU Lesser General Public License (LGPL) 3.0 |
@@ -180,8 +242,6 @@ Documentation can be found on: https://docs.clip-os.org/index.html
 +---------------------+----------------------------------------------+
 | **Tag(s)**          | Operating System, Security                   |
 +---------------------+----------------------------------------------+
-
-| 
 
 ClusterFuzz
 -----------
@@ -211,6 +271,8 @@ fuzzing into a software project’s development process:
 
 ClusterFuzz is written in Python and Go
 
+| 
+
 +---------------------+---------------------------------------+
 | **SBB License**     | Apache License 2.0                    |
 +---------------------+---------------------------------------+
@@ -223,8 +285,6 @@ ClusterFuzz is written in Python and Go
 | **Tag(s)**          | Python, Security                      |
 +---------------------+---------------------------------------+
 
-| 
-
 Cowrie
 ------
 
@@ -232,6 +292,8 @@ Cowrie is a medium interaction SSH and Telnet honeypot designed to log
 brute force attacks and the shell interaction performed by the attacker.
 Cowrie also functions as an SSH and telnet proxy to observe attacker
 behavior to another system.
+
+| 
 
 +---------------------+-----------------------------------+
 | **SBB License**     | MIT License                       |
@@ -244,8 +306,6 @@ behavior to another system.
 +---------------------+-----------------------------------+
 | **Tag(s)**          | Audit, Honeypot, Python, Security |
 +---------------------+-----------------------------------+
-
-| 
 
 Data Seal
 ---------
@@ -267,6 +327,8 @@ providing a method to determine that it is unaltered”.
 Data Seal provides agencies with a web-based interface to provide this
 functionality.
 
+| 
+
 +---------------------+------------------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0           |
 +---------------------+------------------------------------------------+
@@ -279,13 +341,13 @@ functionality.
 | **Tag(s)**          | data authentication, Security                  |
 +---------------------+------------------------------------------------+
 
-| 
-
 Datastream
 ----------
 
 An open-source framework for real-time anomaly detection using Python,
 ElasticSearch and Kiban. Also uses scikit-learn.
+
+| 
 
 +---------------------+----------------------------------------------------+
 | **SBB License**     | Apache License 2.0                                 |
@@ -299,14 +361,14 @@ ElasticSearch and Kiban. Also uses scikit-learn.
 | **Tag(s)**          | ML, Monitoring, Security                           |
 +---------------------+----------------------------------------------------+
 
-| 
-
 Deeptracy
 ---------
 
 Deeptracy scans your project dependencies to spot vulnerabilities. Is a
 meta tool to analyze the security issues in third party libraries used
 in your project.
+
+| 
 
 +---------------------+---------------------------------------------+
 | **SBB License**     | Apache License 2.0                          |
@@ -317,10 +379,8 @@ in your project.
 +---------------------+---------------------------------------------+
 | **Source Location** | https://github.com/BBVA/deeptracy           |
 +---------------------+---------------------------------------------+
-| **Tag(s)**          | Security                                    |
+| **Tag(s)**          | Python, Security                            |
 +---------------------+---------------------------------------------+
-
-| 
 
 Diffoscope
 ----------
@@ -341,6 +401,8 @@ Diffoscope
 | to be able to quickly understand why two builds of the same package
   produce different outputs. diffoscope was previously named debbindiff.
 
+| 
+
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | GNU General Public License (GPL)  |
 |                                   | 3.0                               |
@@ -355,13 +417,13 @@ Diffoscope
 | **Tag(s)**                        | Security                          |
 +-----------------------------------+-----------------------------------+
 
-| 
-
 Duplicity
 ---------
 
 Duplicity backs directories by producing encrypted tar-format volumes
 and uploading them to a remote or local file server.
+
+| 
 
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 3.0 |
@@ -374,8 +436,6 @@ and uploading them to a remote or local file server.
 +---------------------+--------------------------------------+
 | **Tag(s)**          | backup, Security                     |
 +---------------------+--------------------------------------+
-
-| 
 
 Evilginx2
 ---------
@@ -392,6 +452,8 @@ phished website. Present version is fully written in GO as a standalone
 application, which implements its own HTTP and DNS server, making it
 extremely easy to set up and use.
 
+| 
+
 +---------------------+---------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 3.0  |
 +---------------------+---------------------------------------+
@@ -404,8 +466,6 @@ extremely easy to set up and use.
 | **Tag(s)**          | Security, Vulnerability scanning      |
 +---------------------+---------------------------------------+
 
-| 
-
 Fail2ban
 --------
 
@@ -416,6 +476,8 @@ firewall rules to reject the IP addresses for a specified amount of
 time, although any arbitrary other **action** (e.g. sending an email)
 could also be configured. Out of the box Fail2Ban comes with **filters**
 for various services (apache, courier, ssh, etc).
+
+| 
 
 +---------------------+---------------------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0              |
@@ -428,8 +490,6 @@ for various services (apache, courier, ssh, etc).
 +---------------------+---------------------------------------------------+
 | **Tag(s)**          | Network, network diagnostic, Python, Security     |
 +---------------------+---------------------------------------------------+
-
-| 
 
 FIDO (Fully Integrated Defense Operation)
 -----------------------------------------
@@ -456,6 +516,8 @@ security teams to investigate.
 FIDO is a NetFlix OSS project, see:
 http://techblog.netflix.com/2015/05/introducing-fido-automated-security.html
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | Apache License 2.0                   |
 +---------------------+--------------------------------------+
@@ -467,8 +529,6 @@ http://techblog.netflix.com/2015/05/introducing-fido-automated-security.html
 +---------------------+--------------------------------------+
 | **Tag(s)**          | Security, SIEM                       |
 +---------------------+--------------------------------------+
-
-| 
 
 FourOneOne
 ----------
@@ -492,6 +552,8 @@ Typical Use cases for 411:
 
 A working demo is available at https://demo.fouroneone.io/
 
+| 
+
 +---------------------+--------------------------------+
 | **SBB License**     | MIT License                    |
 +---------------------+--------------------------------+
@@ -503,8 +565,6 @@ A working demo is available at https://demo.fouroneone.io/
 +---------------------+--------------------------------+
 | **Tag(s)**          | Alerting, Loganalyze, Security |
 +---------------------+--------------------------------+
-
-| 
 
 Ghidra
 ------
@@ -520,6 +580,8 @@ variety of processor instruction sets and executable formats and can be
 run in both user-interactive and automated modes. Users may also develop
 their own Ghidra plug-in components and/or scripts using Java or Python.
 
+| 
+
 +---------------------+--------------------------------------------------+
 | **SBB License**     | Apache License 2.0                               |
 +---------------------+--------------------------------------------------+
@@ -531,8 +593,6 @@ their own Ghidra plug-in components and/or scripts using Java or Python.
 +---------------------+--------------------------------------------------+
 | **Tag(s)**          | Security, Test Tool                              |
 +---------------------+--------------------------------------------------+
-
-| 
 
 GNUnet
 ------
@@ -561,6 +621,8 @@ file-sharing network. The plan is to offer many other services and in
 particular to serve as a development platform for the next generation of
 decentralized Internet protocols.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
 +---------------------+--------------------------------------+
@@ -573,13 +635,13 @@ decentralized Internet protocols.
 | **Tag(s)**          | Privacy, Security                    |
 +---------------------+--------------------------------------+
 
-| 
-
 Gophish
 -------
 
 Gophish is a powerful, open-source phishing framework that makes it easy
 to test your organization’s exposure to phishing.
+
+| 
 
 +---------------------+------------------------------------+
 | **SBB License**     | MIT License                        |
@@ -593,7 +655,25 @@ to test your organization’s exposure to phishing.
 | **Tag(s)**          | Security                           |
 +---------------------+------------------------------------+
 
+GRR
+---
+
+GRR Rapid Response is an incident response framework focused on remote
+live forensics.
+
 | 
+
++---------------------+-------------------------------------------+
+| **SBB License**     | Apache License 2.0                        |
++---------------------+-------------------------------------------+
+| **Core Technology** | Python                                    |
++---------------------+-------------------------------------------+
+| **Project URL**     | https://grr-doc.readthedocs.io/en/latest/ |
++---------------------+-------------------------------------------+
+| **Source Location** | https://github.com/google/grr             |
++---------------------+-------------------------------------------+
+| **Tag(s)**          | Incident response, Security               |
++---------------------+-------------------------------------------+
 
 Gryffin
 -------
@@ -608,6 +688,8 @@ capability of scanning, and supporting a large elastic application
 infrastructure. Simply put, the ability to scan 1000 applications today
 to 100,000 applications tomorrow by straightforward horizontal scaling.
 
+| 
+
 +---------------------+---------------------------------------+
 | **SBB License**     | MIT License                           |
 +---------------------+---------------------------------------+
@@ -620,13 +702,13 @@ to 100,000 applications tomorrow by straightforward horizontal scaling.
 | **Tag(s)**          | IDS, Security, Vulnerability scanning |
 +---------------------+---------------------------------------+
 
-| 
-
 Hammertime
 ----------
 
 **Hammertime**: a software suite for testing, profiling and simulating
 the rowhammer DRAM defect.
+
+| 
 
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
@@ -640,8 +722,6 @@ the rowhammer DRAM defect.
 | **Tag(s)**          | Security, Test Tool                  |
 +---------------------+--------------------------------------+
 
-| 
-
 Hashcat
 -------
 
@@ -650,6 +730,8 @@ utility, supporting five unique modes of attack for over 200
 highly-optimized hashing algorithms. hashcat currently supports CPUs,
 GPUs, and other hardware accelerators on Linux, Windows, and macOS, and
 has facilities to help enable distributed password cracking.
+
+| 
 
 +---------------------+------------------------------------+
 | **SBB License**     | MIT License                        |
@@ -663,7 +745,30 @@ has facilities to help enable distributed password cracking.
 | **Tag(s)**          | Password, Security                 |
 +---------------------+------------------------------------+
 
+htrace.sh
+---------
+
+``htrace.sh`` is a shell script for http/https troubleshooting and
+profiling. It’s also a simple wrapper around several open source
+security tools.
+
+For a more detailed understanding of ``htrace.sh``, its parameters,
+functions and how it all works, see the
+`Wiki <https://github.com/trimstray/htrace.sh/wiki>`__.
+
 | 
+
++---------------------+----------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0   |
++---------------------+----------------------------------------+
+| **Core Technology** | Shellscript                            |
++---------------------+----------------------------------------+
+| **Project URL**     | https://github.com/trimstray/htrace.sh |
++---------------------+----------------------------------------+
+| **Source Location** | https://github.com/trimstray/htrace.sh |
++---------------------+----------------------------------------+
+| **Tag(s)**          | Security, Test Tool                    |
++---------------------+----------------------------------------+
 
 Httpswatch
 ----------
@@ -671,6 +776,8 @@ Httpswatch
 Test tool and site to verify if HTTPS is used as should be for website.
 
  
+
+| 
 
 +---------------------+-----------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0    |
@@ -684,7 +791,87 @@ Test tool and site to verify if HTTPS is used as should be for website.
 | **Tag(s)**          | Security, Test Tool                     |
 +---------------------+-----------------------------------------+
 
+Infection Monkey
+----------------
+
+The Infection Monkey is an open source security tool for testing a data
+center’s resiliency to perimeter breaches and internal server infection.
+The Monkey uses various methods to self propagate across a data center
+and reports success to a centralized Monkey Island server.
+
+The Infection Monkey is comprised of two parts:
+
+-  Monkey – A tool which infects other machines and propagates to them
+-  Monkey Island – A dedicated server to control and visualize the
+   Infection Monkey’s progress inside the data center
+
+To read more about the Monkey, visit http://infectionmonkey.com
+
 | 
+
++---------------------+---------------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0        |
++---------------------+---------------------------------------------+
+| **Core Technology** | Python                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | https://www.guardicore.com/infectionmonkey/ |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/guardicore/monkey        |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | Security, Test Tool                         |
++---------------------+---------------------------------------------+
+
+Infer
+-----
+
+`Infer <http://fbinfer.com/>`__ is a static analysis tool for Java, C++,
+Objective-C, and C. Infer is written in `OCaml <https://ocaml.org/>`__.
+
+| Infer.AI is a collection of program analyses which range from simple
+  checks to sophisticated inter-procedural analysis.
+| Infer.AI is so named because it is based on Abstract Interpretation.
+
+Infer checks for null pointer dereferences, memory leaks, coding
+conventions and unavailable API’s.
+
+Used by many large companies and FOSS projects already. Created by
+Facebook.
+
+| 
+
++---------------------+-----------------------------------+
+| **SBB License**     | MIT License                       |
++---------------------+-----------------------------------+
+| **Core Technology** | OCaml                             |
++---------------------+-----------------------------------+
+| **Project URL**     | https://fbinfer.com/              |
++---------------------+-----------------------------------+
+| **Source Location** | https://github.com/facebook/infer |
++---------------------+-----------------------------------+
+| **Tag(s)**          | Security, Test Tool               |
++---------------------+-----------------------------------+
+
+Is-website-vulnerable
+---------------------
+
+Strange name for a software packages, but anyway: Nice functionality!
+
+This node package finds publicly known security vulnerabilities in a
+website’s frontend JavaScript libraries.
+
+| 
+
++---------------------+---------------------------------------------------+
+| **SBB License**     | Apache License 2.0                                |
++---------------------+---------------------------------------------------+
+| **Core Technology** | NodeJS                                            |
++---------------------+---------------------------------------------------+
+| **Project URL**     | https://github.com/lirantal/is-website-vulnerable |
++---------------------+---------------------------------------------------+
+| **Source Location** | https://github.com/lirantal/is-website-vulnerable |
++---------------------+---------------------------------------------------+
+| **Tag(s)**          | Pentest, Security                                 |
++---------------------+---------------------------------------------------+
 
 Kali
 ----
@@ -696,6 +883,8 @@ OSS.
 
 The complete list of tools can be found
 here:\ http://tools.kali.org/tools-listing
+
+| 
 
 +---------------------+-------------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0      |
@@ -709,8 +898,6 @@ here:\ http://tools.kali.org/tools-listing
 | **Tag(s)**          | Security, Sniffer, Vulnerability scanning |
 +---------------------+-------------------------------------------+
 
-| 
-
 Keycloak
 --------
 
@@ -721,6 +908,8 @@ Users authenticate with Keycloak rather than individual applications.
 This means that your applications don’t have to deal with login forms,
 authenticating users, and storing users. Once logged-in to Keycloak,
 users don’t have to login again to access a different application.
+
+| 
 
 +---------------------+--------------------------------------+
 | **SBB License**     | Apache License 2.0                   |
@@ -734,7 +923,45 @@ users don’t have to login again to access a different application.
 | **Tag(s)**          | Security                             |
 +---------------------+--------------------------------------+
 
+King Phisher
+------------
+
+King Phisher is a tool for testing and promoting user awareness by
+simulating real world phishing attacks. It features an easy to use, yet
+very flexible architecture allowing full control over both emails and
+server content. King Phisher can be used to run campaigns ranging from
+simple awareness training to more complicated scenarios in which user
+aware content is served for harvesting credentials.
+
+King Phisher is only to be used for legal applications when the explicit
+permission of the targeted organization has been obtained.
+
+Feature Overview:
+
+-  Run multiple phishing campaigns simultaneously
+-  Send email with embedded images for a more legitimate appearance
+-  Optional Two-Factor authentication
+-  Credential harvesting from landing pages
+-  SMS alerts regarding campaign status
+-  Web page cloning capabilities
+-  Integrated Sender Policy Framework (SPF) checks
+-  Geo location of phishing visitors
+-  Send email with calendar invitations
+
+
 | 
+
++---------------------+----------------------------------------------------+
+| **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
++---------------------+----------------------------------------------------+
+| **Core Technology** | Python                                             |
++---------------------+----------------------------------------------------+
+| **Project URL**     | https://github.com/securestate/king-phisher        |
++---------------------+----------------------------------------------------+
+| **Source Location** | https://github.com/securestate/king-phisher        |
++---------------------+----------------------------------------------------+
+| **Tag(s)**          | Pentest, Security, Test Tool                       |
++---------------------+----------------------------------------------------+
 
 Kismet
 ------
@@ -752,6 +979,8 @@ networks, and inferring the presence of non beaconing networks via data
 traffic. The great feature of Kismet is that this tool works working
 passively, so detection by IDS is prevented when scanning WLAN’s.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
 +---------------------+--------------------------------------+
@@ -763,8 +992,6 @@ passively, so detection by IDS is prevented when scanning WLAN’s.
 +---------------------+--------------------------------------+
 | **Tag(s)**          | IDS, Security, Sniffer               |
 +---------------------+--------------------------------------+
-
-| 
 
 Lascar
 ------
@@ -785,6 +1012,8 @@ synchronisation, custom attacks, *lascar* provides classes/functions to
 solve most of the obstacles an attacker would face, when needed to
 perform sound, state-of-the-art side-channel analysis.
 
+| 
+
 +---------------------+-----------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0    |
 +---------------------+-----------------------------------------+
@@ -797,8 +1026,6 @@ perform sound, state-of-the-art side-channel analysis.
 | **Tag(s)**          | Security                                |
 +---------------------+-----------------------------------------+
 
-| 
-
 Libreswan
 ---------
 
@@ -807,6 +1034,8 @@ software implementation of the most widely supported and standarized VPN
 protocol based on (“IPsec”) and the Internet Key Exchange (“IKE”).
 
  
+
+| 
 
 +---------------------+----------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0   |
@@ -820,8 +1049,6 @@ protocol based on (“IPsec”) and the Internet Key Exchange (“IKE”).
 | **Tag(s)**          | communication, Cryptography, Security  |
 +---------------------+----------------------------------------+
 
-| 
-
 Lightbulb
 ---------
 
@@ -829,6 +1056,8 @@ LightBulb is an open source python framework for auditing web
 applications firewalls.
 
 Project created and started in 2016.
+
+| 
 
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | MIT License                       |
@@ -842,8 +1071,6 @@ Project created and started in 2016.
 +-----------------------------------+-----------------------------------+
 | **Tag(s)**                        | Audit, Security, Waf              |
 +-----------------------------------+-----------------------------------+
-
-| 
 
 Lynis
 -----
@@ -859,6 +1086,8 @@ created this software.
 
  
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 3.0 |
 +---------------------+--------------------------------------+
@@ -870,8 +1099,6 @@ created this software.
 +---------------------+--------------------------------------+
 | **Tag(s)**          | Audit, Security                      |
 +---------------------+--------------------------------------+
-
-| 
 
 Magic Wormhole
 --------------
@@ -885,6 +1112,8 @@ are identified by using identical “wormhole codes”: in general, the
 sending machine generates and displays the code, which must then be
 typed into the receiving machine.
 
+| 
+
 +---------------------+--------------------------------------------------+
 | **SBB License**     | MIT License                                      |
 +---------------------+--------------------------------------------------+
@@ -896,8 +1125,6 @@ typed into the receiving machine.
 +---------------------+--------------------------------------------------+
 | **Tag(s)**          | Security                                         |
 +---------------------+--------------------------------------------------+
-
-| 
 
 Malspider
 ---------
@@ -921,6 +1148,8 @@ Malspider has built-in detection for characteristics of compromise like
 hidden iframes, reconnaisance frameworks, vbscript injection, email
 address disclosure, etc.
 
+| 
+
 +---------------------+----------------------------------------------------+
 | **SBB License**     | BSD License 2.0 (3-clause, New or Revised) License |
 +---------------------+----------------------------------------------------+
@@ -933,7 +1162,34 @@ address disclosure, etc.
 | **Tag(s)**          | Security, Vulnerability scanning                   |
 +---------------------+----------------------------------------------------+
 
+Maltrail
+--------
+
+**Maltrail** is a malicious traffic detection system, utilizing publicly
+available (black)lists containing malicious and/or generally suspicious
+trails, along with static trails compiled from various AV reports and
+custom user defined lists, where trail can be anything from domain name
+(e.g. ``zvpprsensinaix.com`` for Banjori malware), URL (e.g.
+``hXXp://109.162.38.120/harsh02.exe`` for known malicious executable),
+IP address (e.g. ``185.130.5.231`` for known attacker) or HTTP
+User-Agent header value (e.g. ``sqlmap`` for automatic SQL injection and
+database takeover tool). Also, it uses (optional) advanced heuristic
+mechanisms that can help in discovery of unknown threats (e.g. new
+malware).
+
 | 
+
++---------------------+--------------------------------------+
+| **SBB License**     | MIT License                          |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/stamparm/maltrail |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/stamparm/maltrail |
++---------------------+--------------------------------------+
+| **Tag(s)**          | IDS, Security                        |
++---------------------+--------------------------------------+
 
 Mantra
 ------
@@ -965,6 +1221,8 @@ exploitation. Thus, Mantra can be used to solve basic levels of various
 web based CTFs, showcase security issues in vulnerable web applications
 etc.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 3.0 |
 +---------------------+--------------------------------------+
@@ -977,7 +1235,38 @@ etc.
 | **Tag(s)**          | Security, Test Tool                  |
 +---------------------+--------------------------------------+
 
+MinTOTP
+-------
+
+MinTOTP is a minimal TOTP generator written in Python.
+
+TOTP stands for Time-Based One-Time Password. Many websites and services
+require two-factor authentication (2FA) or multi-factor authentication
+(MFA) where the user is required to present two or more pieces of
+evidence:
+
+-  Something only the user knows, e.g., password, passphrase, etc.
+-  Something only the user has, e.g., hardware token, mobile phone, etc.
+-  Something only the user is, e.g., biometrics.
+
+MinTOTP is a Python tool that can be used to generate TOTP values from a
+secret key. Additionally, it exposes its functionality as module-level
+functions for Python developers. It can be used on any system with
+Python 3.4 or later installed on it.
+
 | 
+
++---------------------+----------------------------------+
+| **SBB License**     | MIT License                      |
++---------------------+----------------------------------+
+| **Core Technology** | Python                           |
++---------------------+----------------------------------+
+| **Project URL**     | https://github.com/susam/mintotp |
++---------------------+----------------------------------+
+| **Source Location** | https://github.com/susam/mintotp |
++---------------------+----------------------------------+
+| **Tag(s)**          | Python, Security                 |
++---------------------+----------------------------------+
 
 MISP
 ----
@@ -1083,6 +1372,8 @@ functionalities are:
    `misp-dashboard <https://github.com/MISP/misp-dashboard>`__) or Kafka
    publishing.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 3.0 |
 +---------------------+--------------------------------------+
@@ -1094,8 +1385,6 @@ functionalities are:
 +---------------------+--------------------------------------+
 | **Tag(s)**          | Security, Threat Intelligence        |
 +---------------------+--------------------------------------+
-
-| 
 
 MITMEngine
 ----------
@@ -1115,6 +1404,8 @@ through some type of proxy or middlebox (a “monster-in-the-middle” or
 MITM). There are many reasons for this behavior, both malicious and
 benign.
 
+| 
+
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | BSD License 2.0 (3-clause, New or |
 |                                   | Revised) License                  |
@@ -1130,8 +1421,6 @@ benign.
 | **Tag(s)**                        | Security, Test Tool               |
 +-----------------------------------+-----------------------------------+
 
-| 
-
 Mitmproxy
 ---------
 
@@ -1143,6 +1432,8 @@ Part of mitmproxy is **mitmdump** is the command-line companion to
 mitmproxy. It provides tcpdump-like functionality to let you view,
 record, and programmatically transform HTTP traffic. See the ``--help``
 flag output for complete documentation.
+
+| 
 
 +---------------------+----------------------------------------+
 | **SBB License**     | MIT License                            |
@@ -1156,7 +1447,48 @@ flag output for complete documentation.
 | **Tag(s)**          | HTTP Proxy, Privacy, Security, Sniffer |
 +---------------------+----------------------------------------+
 
+Mobile Security Framework (MobSF)
+---------------------------------
+
+Mobile Security Framework (MobSF) is an automated, all-in-one mobile
+application (Android/iOS/Windows) pen-testing, malware analysis and
+security assessment framework capable of performing static and dynamic
+analysis. MobSF support mobile app binaries (APK, IPA & APPX) along with
+zipped source code and provides REST APIs for seamless integration with
+your CI/CD or DevSecOps pipeline.The Dynamic Analyzer helps you to
+perform runtime security assessment and interactive instrumented
+testing.
+
+*Date of git statics quick-scan report: 2019/12/28*
+
+| Date of git statics quick-scan report: 2019/12/28
+| Number of files in the git repository: 349
+
+| Total Lines of Code (of all files): 596917 total
+| Most recent commit in this repository: Sat Dec 28 11:51:33 2019 +0530
+
+| First commit info:
+| – commit 928fcab9293bedc315c1fae26d529a24d51be58f
+| – Author: Ajin Abraham
+| – Date: Sat Jan 31 10:06:01 2015 +0530
+
+Number of authors:41
+
 | 
+
++-----------------------------------+-----------------------------------+
+| **SBB License**                   | GNU General Public License (GPL)  |
+|                                   | 3.0                               |
++-----------------------------------+-----------------------------------+
+| **Core Technology**               | Python                            |
++-----------------------------------+-----------------------------------+
+| **Project URL**                   | https://opensecurity.in/          |
++-----------------------------------+-----------------------------------+
+| **Source Location**               | https://github.com/MobSF/Mobile-S |
+|                                   | ecurity-Framework-MobSF           |
++-----------------------------------+-----------------------------------+
+| **Tag(s)**                        | Python, Security                  |
++-----------------------------------+-----------------------------------+
 
 ModSecurity
 -----------
@@ -1173,6 +1505,8 @@ SpiderLabs. It has a robust event-based programming language which
 provides protection from a range of attacks against web applications and
 allows for HTTP traffic monitoring, logging and real-time analyse.
 
+| 
+
 +---------------------+-------------------------------------------+
 | **SBB License**     | Apache License 2.0                        |
 +---------------------+-------------------------------------------+
@@ -1185,7 +1519,33 @@ allows for HTTP traffic monitoring, logging and real-time analyse.
 | **Tag(s)**          | Security, Waf                             |
 +---------------------+-------------------------------------------+
 
+MONARC
+------
+
+MONARC – Method for an Optimised aNAlysis of Risks by CASES
+
+The advantage of MONARC lies in the capitalisation of risk analysis
+already performed in similar business contexts: the same vulnerabilities
+regularly appear in many businesses, as they face the same threats and
+generate similar risks. Most companies have servers, printers, a fleet
+of smartphones, Wi-Fi antennas, etc. therefore the vulnerabilities and
+threats are the same. It is therefore sufficient to generalise risk
+scenarios for these assets (also called objects) by context
+and/or business.
+
 | 
+
++---------------------+-----------------------------------------------+
+| **SBB License**     | GNU Affero General Public License Version 3   |
++---------------------+-----------------------------------------------+
+| **Core Technology** | Javascript                                    |
++---------------------+-----------------------------------------------+
+| **Project URL**     | https://www.monarc.lu/                        |
++---------------------+-----------------------------------------------+
+| **Source Location** | https://github.com/monarc-project/MonarcAppFO |
++---------------------+-----------------------------------------------+
+| **Tag(s)**          | risk-assessment, Security                     |
++---------------------+-----------------------------------------------+
 
 MOSP
 ----
@@ -1205,6 +1565,8 @@ Integration with third-party applications is possible thanks to an API:
 -  `JSON Schemas <http://objects.monarc.lu/api/v1/schema>`__
 -  `JSON Objects <http://objects.monarc.lu/api/v1/json_object>`__
 
+| 
+
 +---------------------+---------------------------------------------+
 | **SBB License**     | GNU Affero General Public License Version 3 |
 +---------------------+---------------------------------------------+
@@ -1217,28 +1579,36 @@ Integration with third-party applications is possible thanks to an API:
 | **Tag(s)**          | JSON, Security                              |
 +---------------------+---------------------------------------------+
 
-| 
-
-Mozilla HTTP Observatory
-------------------------
+Mozilla HTTP Observatory (MozDef)
+---------------------------------
 
 The Mozilla HTTP Observatory is a set of tools to analyze your website
 and inform you if you are utilizing the many available methods to secure
 it.
 
-+---------------------+---------------------------------------------+
-| **SBB License**     | Mozilla Public License (MPL) 1.1            |
-+---------------------+---------------------------------------------+
-| **Core Technology** | Python                                      |
-+---------------------+---------------------------------------------+
-| **Project URL**     | https://observatory.mozilla.org/            |
-+---------------------+---------------------------------------------+
-| **Source Location** | https://github.com/mozilla/http-observatory |
-+---------------------+---------------------------------------------+
-| **Tag(s)**          | Python, Security, Vulnerability scanning    |
-+---------------------+---------------------------------------------+
+The Mozilla Defense Platform (MozDef) as a set of micro-services you can
+use as an open source Security Information and Event Management (SIEM)
+overlay on top of Elasticsearch.
+
+MozDef has been in production at Mozilla since 2014 where it is used to
+process over 300 million events per day.
+
+It has great documentation, check
+https://mozdef.readthedocs.io/en/latest/index.html
 
 | 
+
++---------------------+------------------------------------------------+
+| **SBB License**     | Mozilla Public License (MPL) 1.1               |
++---------------------+------------------------------------------------+
+| **Core Technology** | Python                                         |
++---------------------+------------------------------------------------+
+| **Project URL**     | https://observatory.mozilla.org/               |
++---------------------+------------------------------------------------+
+| **Source Location** | https://github.com/mozilla/http-observatory    |
++---------------------+------------------------------------------------+
+| **Tag(s)**          | Python, Security, SIEM, Vulnerability scanning |
++---------------------+------------------------------------------------+
 
 Mythril
 -------
@@ -1253,6 +1623,8 @@ scanner (an “ethermap” if you will).
 
  
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | MIT License                          |
 +---------------------+--------------------------------------+
@@ -1264,8 +1636,6 @@ scanner (an “ethermap” if you will).
 +---------------------+--------------------------------------+
 | **Tag(s)**          | BlockChain, Security                 |
 +---------------------+--------------------------------------+
-
-| 
 
 OpenVAS
 -------
@@ -1280,6 +1650,8 @@ Network Vulnerability Tests (NVTs) which are served with daily updates
 via the `OpenVAS NVT
 Feed <http://www.openvas.org/openvas-nvt-feed.html>`__ or via a
 commercial feed service.
+
+| 
 
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | GNU General Public License (GPL)  |
@@ -1297,8 +1669,6 @@ commercial feed service.
 | **Tag(s)**                        | Security, Vulnerability scanning  |
 +-----------------------------------+-----------------------------------+
 
-| 
-
 ORY Hydra
 ---------
 
@@ -1307,6 +1677,8 @@ low-latency, high throughput, and low resource consumption. ORY Hydra is
 not an identity provider (user sign up, user log in, password reset
 flow), but connects to your existing identity provider through a consent
 app.
+
+| 
 
 +---------------------+------------------------------+
 | **SBB License**     | Apache License 2.0           |
@@ -1319,8 +1691,6 @@ app.
 +---------------------+------------------------------+
 | **Tag(s)**          | Security                     |
 +---------------------+------------------------------+
-
-| 
 
 osquery
 -------
@@ -1336,6 +1706,8 @@ Developed by Facebook.
 
  
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
 +---------------------+--------------------------------------+
@@ -1348,7 +1720,34 @@ Developed by Facebook.
 | **Tag(s)**          | Loganalyze, Monitoring, Security     |
 +---------------------+--------------------------------------+
 
+OSSEC
+-----
+
+OSSEC is a full platform to monitor and control your systems.
+
+OSSEC is an Open Source Host-based Intrusion Detection System that
+performs log analysis, file integrity checking, policy monitoring,
+rootkit detection, real-time alerting and active response.
+
+It mixes together all the aspects of HIDS (host-based intrusion
+detection), log monitoring and SIM/SIEM together in a simple, powerful
+and open source solution.
+
+Full documentation on: https://www.ossec.net/docs/
+
 | 
+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | C                                    |
++---------------------+--------------------------------------+
+| **Project URL**     | https://www.ossec.net/               |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/ossec/ossec-hids  |
++---------------------+--------------------------------------+
+| **Tag(s)**          | IDS, Security                        |
++---------------------+--------------------------------------+
 
 OWASP ZCR Shellcoder
 --------------------
@@ -1360,6 +1759,8 @@ in software exploiting. Other usages are in malwares, bypassing
 antiviruses, obfuscated codes and etc.
 
  
+
+| 
 
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | GNU General Public License (GPL)  |
@@ -1376,8 +1777,6 @@ antiviruses, obfuscated codes and etc.
 | **Tag(s)**                        | Security, Test Tool               |
 +-----------------------------------+-----------------------------------+
 
-| 
-
 OWASP Zed Attack Proxy (ZAP)
 ----------------------------
 
@@ -1389,6 +1788,8 @@ It is designed to be used by people with a wide range of security
 experience and as such is ideal for developers and functional testers
 who are new to penetration testing as well as being a useful addition to
 an experienced pen testers toolbox.
+
+| 
 
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | Apache License 2.0                |
@@ -1404,8 +1805,6 @@ an experienced pen testers toolbox.
 +-----------------------------------+-----------------------------------+
 | **Tag(s)**                        | Security                          |
 +-----------------------------------+-----------------------------------+
-
-| 
 
 Phpseclib (PHP Secure Communications Library)
 ---------------------------------------------
@@ -1444,6 +1843,8 @@ Phpseclib is a pure-PHP implementations of:
 
       </div>
 
+| 
+
 +---------------------+----------------------------------------+
 | **SBB License**     | MIT License                            |
 +---------------------+----------------------------------------+
@@ -1456,7 +1857,46 @@ Phpseclib is a pure-PHP implementations of:
 | **Tag(s)**          | Cryptography, Security                 |
 +---------------------+----------------------------------------+
 
+privacyIDEA
+-----------
+
+privacyIDEA is an open solution for strong two-factor authentication
+like OTP tokens, SMS, smartphones or SSH keys. Using privacyIDEA you can
+enhance your existing applications like local login (PAM, Windows
+Credential Provider), VPN, remote access, SSH connections, access to web
+sites or web portals with a second factor during authentication. Thus
+boosting the security of your existing applications.
+
+privacyIDEA does not bind you to any decision of the authentication
+protocol or it does not dictate you where your user information should
+be stored. This is achieved by its totally modular architecture.
+privacyIDEA is not only open as far as its modular architecture is
+concerned. But privacyIDEA is completely licensed under the AGPLv3.
+
+It supports a wide variety of authentication devices like OTP tokens
+(HMAC, HOTP, TOTP, OCRA, mOTP), Yubikey (HOTP, TOTP, AES), FIDO U2F
+devices like Yubikey and Plug-Up, smartphone Apps like Google
+Authenticator, FreeOTP, Token2 or TiQR, SMS, Email, SSH keys, x509
+certificates and Registration Codes for easy deployment.
+
+privacyIDEA is based on Flask and SQLAlchemy as the python backend. The
+web UI is based on angularJS and bootstrap. A MachineToken design lets
+you assign tokens to machines. Thus you can use your Yubikey to unlock
+LUKS, assign SSH keys to SSH servers or use Offline OTP with PAM.
+
 | 
+
++---------------------+---------------------------------------------+
+| **SBB License**     | GNU Affero General Public License Version 3 |
++---------------------+---------------------------------------------+
+| **Core Technology** | Python                                      |
++---------------------+---------------------------------------------+
+| **Project URL**     | https://www.privacyidea.org/                |
++---------------------+---------------------------------------------+
+| **Source Location** | https://github.com/privacyidea/privacyidea  |
++---------------------+---------------------------------------------+
+| **Tag(s)**          | Security                                    |
++---------------------+---------------------------------------------+
 
 PySyft
 ------
@@ -1468,6 +1908,8 @@ PySyft
   within PyTorch. View the paper on
   `Arxiv <https://arxiv.org/abs/1811.04017>`__.
 
+| 
+
 +---------------------+-------------------------------------+
 | **SBB License**     | Apache License 2.0                  |
 +---------------------+-------------------------------------+
@@ -1477,10 +1919,8 @@ PySyft
 +---------------------+-------------------------------------+
 | **Source Location** | https://github.com/OpenMined/PySyft |
 +---------------------+-------------------------------------+
-| **Tag(s)**          | Python, Security                    |
+| **Tag(s)**          | ML, Python, Security                |
 +---------------------+-------------------------------------+
-
-| 
 
 Radare
 ------
@@ -1501,6 +1941,8 @@ Radare is a portable reversing framework that can:
 -  Use powerful analysis capabilities to speed up reversing
 -  Aid in software exploitation
 
+| 
+
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | GNU General Public License (GPL)  |
 |                                   | 3.0                               |
@@ -1511,12 +1953,10 @@ Radare is a portable reversing framework that can:
 +-----------------------------------+-----------------------------------+
 | **Source Location**               | https://github.com/radare/radare2 |
 +-----------------------------------+-----------------------------------+
-| **Tag(s)**                        | Debugger, Security, software      |
+| **Tag(s)**                        | Debugger, Security, Software      |
 |                                   | development, Vulnerability        |
 |                                   | scanning                          |
 +-----------------------------------+-----------------------------------+
-
-| 
 
 Requests: HTTP for Humans
 -------------------------
@@ -1531,6 +1971,8 @@ HTTP connection pooling are 100% automatic, powered by
 `urllib3 <https://github.com/shazow/urllib3>`__, which is embedded
 within Requests.
 
+| 
+
 +---------------------+-------------------------------------------+
 | **SBB License**     | Apache License 2.0                        |
 +---------------------+-------------------------------------------+
@@ -1540,10 +1982,8 @@ within Requests.
 +---------------------+-------------------------------------------+
 | **Source Location** | https://github.com/kennethreitz/requests  |
 +---------------------+-------------------------------------------+
-| **Tag(s)**          | Security, software development, Test Tool |
+| **Tag(s)**          | Security, Software development, Test Tool |
 +---------------------+-------------------------------------------+
-
-| 
 
 RIPS (code analyser)
 --------------------
@@ -1591,6 +2031,8 @@ RIPS was released during the Month of PHP Security
 
    </div>
 
+| 
+
 +---------------------+-----------------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 3.0          |
 +---------------------+-----------------------------------------------+
@@ -1602,8 +2044,6 @@ RIPS was released during the Month of PHP Security
 +---------------------+-----------------------------------------------+
 | **Tag(s)**          | Code Analyzer, Security                       |
 +---------------------+-----------------------------------------------+
-
-| 
 
 RouterSploit
 ------------
@@ -1617,6 +2057,8 @@ It consists of various modules that aids penetration testing operations:
 -  creds – modules designed to test credentials against network services
 -  scanners – modules that check if target is vulnerable to any exploit
 
+| 
+
 +---------------------+-----------------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0          |
 +---------------------+-----------------------------------------------+
@@ -1629,7 +2071,39 @@ It consists of various modules that aids penetration testing operations:
 | **Tag(s)**          | Security, Vulnerability scanning              |
 +---------------------+-----------------------------------------------+
 
+Scapy
+-----
+
+Scapy is a powerful Python-based interactive packet manipulation program
+and library.
+
+It is able to forge or decode packets of a wide number of protocols,
+send them on the wire, capture them, store or read them using pcap
+files, match requests and replies, and much more. It is designed to
+allow fast packet prototyping by using default values that work.
+
+It can easily handle most classical tasks like scanning, tracerouting,
+probing, unit tests, attacks or network discovery (it can replace
+``hping``, 85% of ``nmap``, ``arpspoof``, ``arp-sk``, ``arping``,
+``tcpdump``, ``wireshark``, ``p0f``, etc.). It also performs very well
+at a lot of other specific tasks that most other tools can’t handle,
+like sending invalid frames, injecting your own 802.11 frames, combining
+techniques (VLAN hopping+ARP cache poisoning, VoIP decoding on WEP
+protected channel, …), etc.
+
 | 
+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 2.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://scapy.net/                   |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/secdev/scapy      |
++---------------------+--------------------------------------+
+| **Tag(s)**          | Pentest, Python, Security, Test Tool |
++---------------------+--------------------------------------+
 
 SecLists
 --------
@@ -1640,6 +2114,8 @@ include usernames, passwords, URLs, sensitive data grep strings, fuzzing
 payloads, and many more.
 
 This is an OWASP project (incubator) .
+
+| 
 
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | MIT License                       |
@@ -1655,8 +2131,6 @@ This is an OWASP project (incubator) .
 | **Tag(s)**                        | Security, Test Tool               |
 +-----------------------------------+-----------------------------------+
 
-| 
-
 Security Monkey
 ---------------
 
@@ -1667,6 +2141,8 @@ problems as it is essentially a change tracking system.
 
 More information:
 http://techblog.netflix.com/2014/06/announcing-security-monkey-aws-security.html
+
+| 
 
 +---------------------+--------------------------------------------------+
 | **SBB License**     | Apache License 2.0                               |
@@ -1679,8 +2155,6 @@ http://techblog.netflix.com/2014/06/announcing-security-monkey-aws-security.html
 +---------------------+--------------------------------------------------+
 | **Tag(s)**          | Security, SIEM                                   |
 +---------------------+--------------------------------------------------+
-
-| 
 
 SigPloit
 --------
@@ -1695,6 +2169,8 @@ access layer and SS7 message encapsulation into SIP-T. Recommendations
 for each vulnerability will be provided to guide the tester and the
 operator the steps that should be done to enhance their security posture
 
+| 
+
 +---------------------+----------------------------------------+
 | **SBB License**     | MIT License                            |
 +---------------------+----------------------------------------+
@@ -1704,10 +2180,8 @@ operator the steps that should be done to enhance their security posture
 +---------------------+----------------------------------------+
 | **Source Location** | https://github.com/SigPloiter/SigPloit |
 +---------------------+----------------------------------------+
-| **Tag(s)**          | pentest, Security                      |
+| **Tag(s)**          | Pentest, Security                      |
 +---------------------+----------------------------------------+
-
-| 
 
 SIMP (The System Integrity Management Platform)
 -----------------------------------------------
@@ -1729,6 +2203,8 @@ molded to your target environment in such a way that deviations are
 easily identifiable to both Operations Teams and Security Officers. This
 project is released to the public by the US National Security Agency.
 
+| 
+
 +---------------------+------------------------------------------------+
 | **SBB License**     | MIT License                                    |
 +---------------------+------------------------------------------------+
@@ -1740,8 +2216,6 @@ project is released to the public by the US National Security Agency.
 +---------------------+------------------------------------------------+
 | **Tag(s)**          | Audit, Security                                |
 +---------------------+------------------------------------------------+
-
-| 
 
 Simplify
 --------
@@ -1761,6 +2235,8 @@ how the decryption works ahead of time. This technique also works well
 for eliminating different types of white noise, such as no-ops and
 useless arithmetic.
 
+| 
+
 +---------------------+-----------------------------------------+
 | **SBB License**     | MIT License                             |
 +---------------------+-----------------------------------------+
@@ -1772,8 +2248,6 @@ useless arithmetic.
 +---------------------+-----------------------------------------+
 | **Tag(s)**          | Code Analyzer, Security                 |
 +---------------------+-----------------------------------------+
-
-| 
 
 Sonarqube
 ---------
@@ -1789,6 +2263,8 @@ technical quality, from project portfolio to method. If you wish to
 extend the SonarQube platform with open source plugins, have a look at
 our plugin library.
 
+| 
+
 +---------------------+----------------------------------------------+
 | **SBB License**     | GNU Lesser General Public License (LGPL) 3.0 |
 +---------------------+----------------------------------------------+
@@ -1800,8 +2276,6 @@ our plugin library.
 +---------------------+----------------------------------------------+
 | **Tag(s)**          | Security, Vulnerability scanning             |
 +---------------------+----------------------------------------------+
-
-| 
 
 SpiderFoot
 ----------
@@ -1815,6 +2289,8 @@ penetration test to gather information about the target or defensively
 to identify what information your organisation is freely providing for
 attackers to use against you.
 
+| 
+
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | GNU General Public License (GPL)  |
 |                                   | 2.0                               |
@@ -1826,11 +2302,34 @@ attackers to use against you.
 | **Source Location**               | https://github.com/smicallef/spid |
 |                                   | erfoot                            |
 +-----------------------------------+-----------------------------------+
-| **Tag(s)**                        | pentest, Python, Security, Test   |
+| **Tag(s)**                        | Pentest, Python, Security, Test   |
 |                                   | Tool, Vulnerability scanning      |
 +-----------------------------------+-----------------------------------+
 
+Sqlmap
+------
+
+sqlmap is an open source penetration testing tool that automates the
+process of detecting and exploiting SQL injection flaws and taking over
+of database servers. It comes with a powerful detection engine, many
+niche features for the ultimate penetration tester, and a broad range of
+switches including database fingerprinting, over data fetching from the
+database, accessing the underlying file system, and executing commands
+on the operating system via out-of-band connections.
+
 | 
+
++---------------------+-----------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0    |
++---------------------+-----------------------------------------+
+| **Core Technology** | Python                                  |
++---------------------+-----------------------------------------+
+| **Project URL**     | http://sqlmap.org/                      |
++---------------------+-----------------------------------------+
+| **Source Location** | https://github.com/sqlmapproject/sqlmap |
++---------------------+-----------------------------------------+
+| **Tag(s)**          | Pentest, Security                       |
++---------------------+-----------------------------------------+
 
 Streisand
 ---------
@@ -1861,6 +2360,8 @@ Using Streisand reduces the barrier of entry to running a
 VPN/censorship-bypass server for friends and family and makes secure
 communication available to more people.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 3.0 |
 +---------------------+--------------------------------------+
@@ -1872,8 +2373,6 @@ communication available to more people.
 +---------------------+--------------------------------------+
 | **Tag(s)**          | communication, Privacy, Security     |
 +---------------------+--------------------------------------+
-
-| 
 
 Stunnel
 -------
@@ -1888,6 +2387,8 @@ whatever cryptographic algorithms are compiled into the library. It can
 benefit from the FIPS 140-2 validation of the OpenSSL FIPS Object
 Module, as long as the building process meets its Security Policy.
 
+| 
+
 +---------------------+-------------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0      |
 +---------------------+-------------------------------------------+
@@ -1900,8 +2401,6 @@ Module, as long as the building process meets its Security Policy.
 | **Tag(s)**          | Cryptography, Security                    |
 +---------------------+-------------------------------------------+
 
-| 
-
 Suricata
 --------
 
@@ -1912,6 +2411,8 @@ community run non-profit foundation, the Open Information Security
 Foundation (`OISF <http://idsips.wordpress.com/about/oisf/>`__).
 Suricata is developed by the OISF and its `supporting
 vendors <http://suricata-ids.org/about/consortium/>`__.
+
+| 
 
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
@@ -1925,8 +2426,6 @@ vendors <http://suricata-ids.org/about/consortium/>`__.
 | **Tag(s)**          | IDS, Security                        |
 +---------------------+--------------------------------------+
 
-| 
-
 Susanoo
 -------
 
@@ -1937,6 +2436,8 @@ Susanoo is a REST API security testing framework. Features:
    Authentication issues, SQL injections, Error stacks.
 -  Smoke Scan: Custom output checks for known pocs can be configured to
    run daily.
+
+| 
 
 +---------------------+---------------------------------------+
 | **SBB License**     | MIT License                           |
@@ -1949,8 +2450,6 @@ Susanoo is a REST API security testing framework. Features:
 +---------------------+---------------------------------------+
 | **Tag(s)**          | Security, Test Tool                   |
 +---------------------+---------------------------------------+
-
-| 
 
 SWAMP (Software Assurance Marketplace)
 --------------------------------------
@@ -1972,6 +2471,8 @@ for everyone.
 Languages supported: C/C++,Java source, Java bytecode, Python, Ruby. 
 PHP and Javascript are on the roadmap for end 2015 to be supported.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 3.0 |
 +---------------------+--------------------------------------+
@@ -1984,14 +2485,14 @@ PHP and Javascript are on the roadmap for end 2015 to be supported.
 | **Tag(s)**          | Code Analyzer, Security              |
 +---------------------+--------------------------------------+
 
-| 
-
 Tamper Chrome
 -------------
 
 Tamper Chrome is a Chrome extension that allows you to modify HTTP
 requests on the fly and aid on web security testing. Tamper Chrome works
 across all operating systems (including Chrome OS).
+
+| 
 
 +---------------------+----------------------------------------+
 | **SBB License**     | Apache License 2.0                     |
@@ -2004,8 +2505,6 @@ across all operating systems (including Chrome OS).
 +---------------------+----------------------------------------+
 | **Tag(s)**          | Audit, Security, Test Tool             |
 +---------------------+----------------------------------------+
-
-| 
 
 Threat Dragon
 -------------
@@ -2022,6 +2521,8 @@ client and node.js on the server.
 
 Thread Dragon is currently in alfa stage.
 
+| 
+
 +---------------------+-----------------------------------------------------+
 | **SBB License**     | MIT License                                         |
 +---------------------+-----------------------------------------------------+
@@ -2033,8 +2534,6 @@ Thread Dragon is currently in alfa stage.
 +---------------------+-----------------------------------------------------+
 | **Tag(s)**          | Modelling, Security                                 |
 +---------------------+-----------------------------------------------------+
-
-| 
 
 Tink
 ----
@@ -2048,6 +2547,8 @@ App, etc.
 
  
 
+| 
+
 +---------------------+--------------------------------+
 | **SBB License**     | Apache License 2.0             |
 +---------------------+--------------------------------+
@@ -2059,8 +2560,6 @@ App, etc.
 +---------------------+--------------------------------+
 | **Tag(s)**          | Cryptography, Security         |
 +---------------------+--------------------------------+
-
-| 
 
 Tlsfuzzer
 ---------
@@ -2074,6 +2573,8 @@ key usage). It does however verify if the signatures made on TLS message
 by the server (like in Server Key Exchange message) match the
 certificate sent by the server.
 
+| 
+
 +---------------------+---------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0  |
 +---------------------+---------------------------------------+
@@ -2085,8 +2586,6 @@ certificate sent by the server.
 +---------------------+---------------------------------------+
 | **Tag(s)**          | Audit, Security, Test Tool            |
 +---------------------+---------------------------------------+
-
-| 
 
 Tor
 ---
@@ -2109,6 +2608,8 @@ interests.
 Tor is by far the most secure way to enter the internet without giving
 away your privacy. Thank you Roger Dingledine!
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
 +---------------------+--------------------------------------+
@@ -2121,8 +2622,6 @@ away your privacy. Thank you Roger Dingledine!
 | **Tag(s)**          | Cryptography, Privacy, Security      |
 +---------------------+--------------------------------------+
 
-| 
-
 Unfurl
 ------
 
@@ -2132,6 +2631,8 @@ An Entropy-Based Link Vulnerability Analysis Tool.
 for automating URL entropy analysis. The big idea is to find tokens in a
 large list of URLs that have low entropy. These might be susceptible to
 brute force attacks.
+
+| 
 
 +-----------------------------------+-----------------------------------+
 | **SBB License**                   | GNU General Public License (GPL)  |
@@ -2149,7 +2650,36 @@ brute force attacks.
 | **Tag(s)**                        | Security                          |
 +-----------------------------------+-----------------------------------+
 
+Universal Radio Hacker (URH)
+----------------------------
+
+The Universal Radio Hacker (URH) is a software for investigating unknown
+wireless protocols. Features include
+
+-  **hardware interfaces** for common Software Defined Radios
+-  **easy demodulation** of signals
+-  **assigning participants** to keep overview of your data
+-  **customizable decodings** to crack even sophisticated encodings like
+   CC1101 data whitening
+-  **assign labels** to reveal the logic of the protocol
+-  **automatic reverse engineering** of protocol fields
+-  **fuzzing component** to find security leaks
+-  **modulation support** to inject the data back into the system
+-  **simulation environment** to perform stateful attacks
+
 | 
+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/jopohl/urh        |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/jopohl/urh        |
++---------------------+--------------------------------------+
+| **Tag(s)**          | network diagnostic, Security         |
++---------------------+--------------------------------------+
 
 URL Abuse
 ---------
@@ -2159,8 +2689,6 @@ black-list reporting. URL Abuse is composed of a web interface where
 requests are submitted asynchronously and a back-end system to process
 the URLs into features modules.
 
-` <https://github.com/CIRCL/url-abuse#features>`__
---------------------------------------------------
 
 Features:
 
@@ -2186,6 +2714,8 @@ Please note that some of the API services will require an API key. The
 API keys should be located in the root of the URL Abuse directory. There
 is also an online version to use: https://www.circl.lu/urlabuse/
 
+| 
+
 +---------------------+---------------------------------------------+
 | **SBB License**     | GNU Affero General Public License Version 3 |
 +---------------------+---------------------------------------------+
@@ -2197,8 +2727,6 @@ is also an online version to use: https://www.circl.lu/urlabuse/
 +---------------------+---------------------------------------------+
 | **Tag(s)**          | Python, Security                            |
 +---------------------+---------------------------------------------+
-
-| 
 
 Vault
 -----
@@ -2222,6 +2750,8 @@ accessing what secrets is already very difficult and platform-specific.
 Adding on key rolling, secure storage, and detailed audit logs is almost
 impossible without a custom solution. This is where Vault steps in.
 
+| 
+
 +---------------------+------------------------------------+
 | **SBB License**     | Mozilla Public License (MPL) 1.1   |
 +---------------------+------------------------------------+
@@ -2233,8 +2763,6 @@ impossible without a custom solution. This is where Vault steps in.
 +---------------------+------------------------------------+
 | **Tag(s)**          | Security                           |
 +---------------------+------------------------------------+
-
-| 
 
 VERIS
 -----
@@ -2249,6 +2777,8 @@ industry – a lack of quality information. VERIS targets this problem by
 helping organizations to collect useful incident-related information and
 to share that information – anonymously and responsibly – with others.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
 +---------------------+--------------------------------------+
@@ -2260,8 +2790,6 @@ to share that information – anonymously and responsibly – with others.
 +---------------------+--------------------------------------+
 | **Tag(s)**          | Security                             |
 +---------------------+--------------------------------------+
-
-| 
 
 VSAQ: Vendor Security Assessment Questionnaire
 ----------------------------------------------
@@ -2277,6 +2805,8 @@ provided can be used for a variety of purposes, including doing a
 self-assessment of your own security program, or simply becoming
 familiar with issues affecting the security of web applications.
 
+| 
+
 +---------------------+-----------------------------------+
 | **SBB License**     | Apache License 2.0                |
 +---------------------+-----------------------------------+
@@ -2288,8 +2818,6 @@ familiar with issues affecting the security of web applications.
 +---------------------+-----------------------------------+
 | **Tag(s)**          | Audit, Questionnaire, Security    |
 +---------------------+-----------------------------------+
-
-| 
 
 w3af (Web Application Attack and Audit Framework)
 -------------------------------------------------
@@ -2306,6 +2834,8 @@ The w3af framework is divided into three main sections:
    scans
 #. The plugins, which find links and vulnerabilities
 
+| 
+
 +---------------------+----------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0   |
 +---------------------+----------------------------------------+
@@ -2317,8 +2847,6 @@ The w3af framework is divided into three main sections:
 +---------------------+----------------------------------------+
 | **Tag(s)**          | Audit, Security, Test Tool             |
 +---------------------+----------------------------------------+
-
-| 
 
 Wapiti
 ------
@@ -2334,6 +2862,8 @@ Once it gets the list of URLs, forms and their inputs, Wapiti acts like
 a `fuzzer <http://en.wikipedia.org/wiki/Fuzzing>`__, injecting payloads
 to see if a script is vulnerable.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
 +---------------------+--------------------------------------+
@@ -2345,8 +2875,6 @@ to see if a script is vulnerable.
 +---------------------+--------------------------------------+
 | **Tag(s)**          | Security, Vulnerability scanning     |
 +---------------------+--------------------------------------+
-
-| 
 
 Wifite 2
 --------
@@ -2360,6 +2888,8 @@ BackBox; any Linux distributions with wireless drivers patched for
 injection. The script appears to also operate with Ubuntu 11/10, Debian
 6, and Fedora 16.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
 +---------------------+--------------------------------------+
@@ -2369,10 +2899,8 @@ injection. The script appears to also operate with Ubuntu 11/10, Debian
 +---------------------+--------------------------------------+
 | **Source Location** | https://github.com/derv82/wifite2    |
 +---------------------+--------------------------------------+
-| **Tag(s)**          | Audit, pentest, Security             |
+| **Tag(s)**          | Audit, Pentest, Security             |
 +---------------------+--------------------------------------+
-
-| 
 
 WireGuard
 ---------
@@ -2388,6 +2916,8 @@ deployable. It is currently under heavy development, but already it
 might be regarded as the most secure, easiest to use, and simplest VPN
 solution in the industry.
 
+| 
+
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
 +---------------------+--------------------------------------+
@@ -2400,7 +2930,47 @@ solution in the industry.
 | **Tag(s)**          | Privacy, Security, VPN               |
 +---------------------+--------------------------------------+
 
+XSStrike
+--------
+
+XSStrike is a Cross Site Scripting detection suite equipped with four
+hand written parsers, an intelligent payload generator, a powerful
+fuzzing engine and an incredibly fast crawler.
+
+Instead of injecting payloads and checking it works like all the other
+tools do, XSStrike analyses the response with multiple parsers and then
+crafts payloads that are guaranteed to work by context analysis
+integrated with a fuzzing engine.
+
+Main Features:
+
+-  Reflected and DOM XSS scanning
+-  Multi-threaded crawling
+-  Context analysis
+-  Configurable core
+-  WAF detection & evasion
+-  Outdated JS lib scanning
+-  Intelligent payload generator
+-  Handmade HTML & JavaScript parser
+-  Powerful fuzzing engine
+-  Blind XSS support
+-  Highly researched work-flow
+-  Complete HTTP support
+-  Bruteforce payloads from a file
+
 | 
+
++---------------------+--------------------------------------+
+| **SBB License**     | GNU General Public License (GPL) 3.0 |
++---------------------+--------------------------------------+
+| **Core Technology** | Python                               |
++---------------------+--------------------------------------+
+| **Project URL**     | https://github.com/s0md3v/XSStrike   |
++---------------------+--------------------------------------+
+| **Source Location** | https://github.com/s0md3v/XSStrike   |
++---------------------+--------------------------------------+
+| **Tag(s)**          | IDS, Python, Security                |
++---------------------+--------------------------------------+
 
 YARA
 ----
@@ -2409,6 +2979,8 @@ YARA is a tool aimed at (but not limited to) helping malware researchers
 to identify and classify malware samples. With YARA you can create
 descriptions of malware families (or whatever you want to describe)
 based on textual or binary patterns.
+
+| 
 
 +---------------------+------------------------------------+
 | **SBB License**     | MIT License                        |
@@ -2419,10 +2991,8 @@ based on textual or binary patterns.
 +---------------------+------------------------------------+
 | **Source Location** | https://github.com/virustotal/yara |
 +---------------------+------------------------------------+
-| **Tag(s)**          | Malware, Security                  |
+| **Tag(s)**          | Malware analysis, Security         |
 +---------------------+------------------------------------+
-
-| 
 
 Zeek
 ----
@@ -2433,6 +3003,8 @@ monitoring.
 (Zeek is the new name for the long-established Bro system. Note that
 parts of the system retain the “Bro” name, and it also often appears in
 the documentation and distributions.)
+
+| 
 
 +---------------------+--------------------------------------+
 | **SBB License**     | GNU General Public License (GPL) 2.0 |
@@ -2445,6 +3017,3 @@ the documentation and distributions.)
 +---------------------+--------------------------------------+
 | **Tag(s)**          | IDS, Security                        |
 +---------------------+--------------------------------------+
-
-| 
-| End of SBB list

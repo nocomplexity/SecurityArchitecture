@@ -504,6 +504,8 @@ within your security process design documentation. Formulating processes
 yourself in not productive, so use this valuable source of information
 instead of reinventing the wheel.
 
+January 2020 version2 of the SAMM model is released. This to incorporate devops security practices and overcome limitation of the earlier version.
+
 To get the baseline situation of your security process architecture fast
 in scope, you can use a SAMM self-assessment test (see APPENDIX). Using
 a self-assessment test you can get a very quick overview on the status
@@ -541,6 +543,8 @@ The SAMM model was first aimed at evaluating the status of software
 security within an organization. However due to the use in practice the
 framework can also be used to improve many other aspects surrounding
 security and privacy.
+
+More info on this SAMM model: https://owaspsamm.org/model/ 
 
 
 Security within the SDLC process

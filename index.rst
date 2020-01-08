@@ -22,7 +22,7 @@ This reference architecture is created to improve security and privacy designs i
 The reference architecture is not just another security book. Since libraries and book stores are filled with decent books on security and privacy we wanted to create a book that is all about reuse.
 
 
-`(c) 2015,2016,2017,2018, 2019 Asim Jahan and Maikel Mardjan`
+`(c) 2015,2016,2017,2018, 2019, 2020 Maikel Mardjan and all contributors.`
 
 Published by the Business Management Support Foundation, Apeldoorn, The Netherlands.
 
@@ -49,7 +49,8 @@ Content
    091-designrules
    10-using-oss   
    security-sbbs
-   privacy-sbbs   
+   privacy-sbbs
+   security-regulations
    13-appendix-references
    securitycourses   
    

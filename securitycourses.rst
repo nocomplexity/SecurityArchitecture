@@ -44,4 +44,7 @@ Download the toolkit from: https://github.com/Ne0nd0g/gophish
 More info on: https://getgophish.com/ 
 
 
+Computer Networks: A Systems Approach
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Great resource for learning all about network security. For starters and full professionals. Sources of this book are on https://github.com/SystemsApproach/book Created by Larry Peterson and Bruce Davie. Read the latest version of this book on: https://book.systemsapproach.org/index.html 
