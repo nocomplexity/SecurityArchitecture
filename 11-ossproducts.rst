@@ -1,9 +1,11 @@
-Generic Security Architecture
-================================
+Generic Security & Privacy Architectures
+==========================================
 
+A good generic architecture for security or privacy helps creating your specific solution.
+You should not spend time and money reinventing the wheel over and over again. So this section outlines generic architecture for security and privacy that covers all most used high level aspects. 
 
 When you are aware of the advantages and disadvantages of using open source
-building blocks for your security architecture or design, this reference architecture provides an up-to-date overview of really great open source security solutions. 
+building blocks for your security architecture or design, this reference architecture guide provides an up-to-date overview of really great open source security solutions. 
 
 A known difficult task is to select (or create) solution building blocks that covers the needed functionality. Of course you should always start with principles, requirements and constraints first. And remember: No single tool will fit all use cases. So select the right tool for the right job.
 
