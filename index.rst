@@ -57,10 +57,18 @@ Content
    
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Secure Software Development
 
    secure-coding-references
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Security & Privacy Management
+
+   security-management
+
 
 .. toctree::
    :hidden:
