@@ -646,6 +646,7 @@ LINDDUN is an acronym for the privacy threat types it investigates and supports:
 - Disclosure of Information
 - Unawareness
 - Non-compliance
+
 More information, including tutorials, templates and playbooks can be found on: https://www.linddun.org
 
 
