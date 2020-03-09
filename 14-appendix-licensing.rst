@@ -1,4 +1,4 @@
-Licensing
+License
 =========
 
 Thank you for downloading or buying this book. We want people to reuse
@@ -52,3 +52,6 @@ Notices:
    permissions necessary for your intended use. For example, other
    rights such as publicity, privacy, or moral rights may limit how you
    use the material.
+
+
+

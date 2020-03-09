@@ -57,8 +57,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Open Reference Architecture for Security and Privacy'
-copyright = u'2016, 2017,2018,2019, 2020 Maikel Mardjan and all contributors. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).'
-author = u'Maikel Mardjan and all contributors'
+copyright = u'2015 -2020 Maikel Mardjan and Asim Jahan. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).'
+author = u'Version 2020 - Maikel Mardjan and all contributors '
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

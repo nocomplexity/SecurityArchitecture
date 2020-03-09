@@ -626,3 +626,26 @@ Based upon the key processes in every solution architecture a view of the variou
 
 
 
+LINDDUN
+^^^^^^^^^^^
+
+LINDDUN is a privacy threat modelling methodology that supports analysts in systematically eliciting and mitigating privacy threats in software architectures. The LINDDUN privacy engineering framework provides systematic support for the elicitation and mitigation of privacy threats in software systems. Its main strength is its combination of methodological guidance and privacy knowledge support. It is developed by the DistriNet Research Group of the Univerity of Leuven (Belgium).
+
+The LINDDUN methodology consists of 3 main steps: 
+
+- Model the system
+- Elicit threats and
+- Manage threats.
+
+LINDDUN is an acronym for the privacy threat types it investigates and supports:
+
+- Linkability
+- Identifiability
+- Non-repudiation
+- Detectability
+- Disclosure of Information
+- Unawareness
+- Non-compliance
+More information, including tutorials, templates and playbooks can be found on: https://www.linddun.org
+
+
