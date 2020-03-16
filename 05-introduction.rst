@@ -4,11 +4,11 @@ Introduction
 In our opinion security is a process, not a destination to arrive at.
 Good security design and implementation takes time, patience and hard
 work to achieve and maintain. You should always start with the basics by
-creating an architecture or overall design. As security and privacy will
-always be one of the most important subjects within IT the importance of
-good security and privacy will keep growing since companies will be even
-more depending on IT. Also the influence of IT will go deeper into our
-lives. Next to safety security and privacy will become more important
+creating an architecture or overall design. As security and privacy is 
+always one of the most important subjects within IT the importance of
+good security and privacy keeps growing. This since companies are more and more
+depending on IT. Also the influence of IT goes deeper into our
+lives. Next to safety, security and privacy become more important
 when we realize the potential risks that come with new IT technologies.
 
 This reference architecture is created to improve security and privacy
@@ -33,7 +33,7 @@ we created this reference architecture under an open
 license. We have chosen to use the Creative Commons
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. We know
 you like credit if you contribute to a publication. If you contribute
-you will of course be mentioned in all updates of this publication that
+you are of course be mentioned in all updates of this publication that
 follow. And since it is a true open license, your rights regarding this
 publication are no different than ours or other contributors.
 
@@ -47,7 +47,7 @@ Open publications for IT security and privacy are still rare. Despite
 the great work of the OWASP foundation many IT security  organizations
 are not that open. 
 
-When you create a new medicine that can and will save millions of human
+When you create a new medicine that can and save millions of human
 lives it is not only ethical but also a moral right that people can use
 it. Science is there so we can build on each other’s ideas. 
 
@@ -101,11 +101,11 @@ anymore while cars are full of track and tracing technology.
 
 When privacy is designed first just as security we should have less
 concern on security and privacy hacks. Also if more IT designs are open
-and published under an open license chances of mistakes in architecture
-and design will be less. Partly due to pressure of openness but also
+and published under an open license, chances of mistakes in architecture
+and design are lowered. Partly due to pressure of openness but also
 since more experts can contribute to lower security and privacy risks
 concerned with public or private systems. Of course: Transparency of
-governmental systems will be a (very) long way. Companies however see
+governmental systems is still a very long journey. Companies however see
 advantages of open solutions more and more. Using open solutions, open
 business models and open source software for IT. A large number of
 companies exist that benefit from using open designs along with open
@@ -132,8 +132,7 @@ that:
 -  Security and privacy are interrelated. Without security there is no
    privacy! Never.
 
-Since privacy and security are very much interrelated both aspects will
-be outlined in this reference architecture.
+Since privacy and security are very much interrelated both aspects are outlined in this reference architecture.
 
  
 
@@ -166,9 +165,9 @@ requirements and design patterns to save precious time and budgets.
 Since security by obscurity is in general not a good practice, we also
 provide a list of OSS security software products.
 
-Systems built with tough privacy rules will not always guarantee that
-information including valuable privacy content is secure. Since security
-never is nor can be perfect a very secure system will always contain
+Systems built with tough privacy rules don't always guarantee that
+information including valuable privacy content is secure. Since perfect security
+does not exist, even a highly secured system always contains
 risks concerning privacy.
 
 
@@ -193,7 +192,7 @@ come across.
 
 This reference architecture is also not a lecture book on how to design
 the perfect security solution architecture. There are many resources
-(books, courses, foundations) that will teach you the benefits of
+(books, courses, foundations) that teach you the benefits of
 creating an (enterprise) architecture and how you can embed architecture
 into your agile way of working. Be aware of course that an agile way of
 creating new products, systems or software gives some tension regarding
@@ -206,8 +205,7 @@ till later. 
 Since you are reading this reference architecture, we assume you are
 already aware of the complex field of security and privacy. Very
 detailed books, papers and studies exist for learning what security and
-privacy really is. So this reference architecture will not give you in
-depth detailed background information on all security and privacy
+privacy really is. So this reference architecture does not provide in depth detailed background information on all security and privacy
 aspects. Not from an organization point of view and certainly not from
 an IT point of view. 
 
@@ -230,11 +228,11 @@ this reference architecture are:
 
  
 
-Within this reference architecture we will focus on the following
+Within this reference architecture we focus on the following
 subjects that you should face when creating a security or privacy
 solution:
 
--  Principles: We will provide a reusable list of security and privacy
+-  Principles: We provide a reusable list of security and privacy
    principles. Since this open security and privacy reference
    architecture has an Open approach we encourage you to add your
    principles to the open data source we created to help others from
@@ -286,15 +284,14 @@ or privacy solutions faster. Our findings are:
    (or reuse) in a solution architecture is often limited.
 
 We hope good developed patterns for dealing with typical security and
-privacy problems will be developed in future. Also we hope these
-patterns will be developed in an open collaborative way and published
+privacy problems are developed in future. Also we hope these
+patterns are developed in an open collaborative way and published
 under an open license so everyone can benefit and participate. Some good
 attempts have been done, so maybe time for a new OWASP project to give
 it a boost.
 
-Currently we think that when you write a good solution architecture in
-which you describe your problem clearly will help to create a library of
-reusable solution patterns for security and privacy. One import
+We think that when you develop a good solution architecture in
+which you describe your problem clearly, this solution architecture enables you to use or create a library of reusable solution patterns for security and privacy needs. One import
 constraint is that your solution architecture should be published under
 an open license somewhere on the internet. In this way every
 organization, security designer can benefit. Some governments already

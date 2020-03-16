@@ -445,7 +445,7 @@ Best Practices Badge” project of the linuxfoundation.org. Badge will
 hopefully give in future some indication on some quality aspects
 regarding OSS security products. However the badges project has a
 specific scope and not all value reusable OSS software and projects are
-able to gain a badge. But also if an OSS has a badge, it still will be
+able to gain a badge. But also if an OSS has a badge, it still is
 important to evaluate the use and risks for your use case.
 
 A good security and privacy product should at least be evaluated on:
@@ -917,11 +917,11 @@ the contract should be based more on trust. Lengthy contracts are
 usually the result of little confidence or expensive mistakes made in
 the past. The great advantage of using OSS security and privacy products
 is that you can be very flexible in how you organize crucial support
-issues for a product. Of course when you rebuild the product it will be
+issues for a product. Of course when you rebuild the product it is
 hard to find people who can easily resolve problems. Some OSS security
 and privacy products have a commercial version for which you can get
 paid support. But when the commercial version differs from the OSS
-version you are not dealing with a healthy OSS project anymore.
+version you are not dealing with a healthy OSS project any more.
 
 A large and well known OSS security and privacy project has many
 excellent people within the community who are willing to provide

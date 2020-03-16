@@ -1,7 +1,7 @@
 Security Regulation and policies
 =================================
 
-In many sectors products MUST comply to standards. When standards are open and freely accessible this can reduce security risks. Also open standards means that compliance can be made more transparent. Espacially when compliance reports are also openly published.
+In many sectors products MUST comply to standards. When standards are open and freely accessible this can reduce security risks. Also open standards means that compliance can be made more transparent. Especially when compliance reports are also openly published.
 
 The Common Criteria for Information Technology Security Evaluation (CC)
 -------------------------------------------------------------------------

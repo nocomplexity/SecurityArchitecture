@@ -72,12 +72,11 @@ need:
 Creating a good security or privacy design or architecture means you
 never ever start with selecting tools for solving your problem!
 Selecting tools should be the last phase of your security or privacy
-design phase. You select tools when it is clear that the tool will
-support in solving your security or privacy problem. Tools alone are
+design phase. You select tools when it is clear how that the tool supports you in solving your security or privacy problem. Tools alone are
 never enough to solve security or privacy problems. You need to fit in
-tools within your security and privacy processes. Several problems exist
-with many IT security tools that will hit you when you start too soon
-with the solutions instead of a thorough problem diagnosis and solution
+tools within your security and privacy processes. Several problems exist and arise
+with many IT security tools that hit you when you start too soon
+with a focus on solutions instead of a thorough problem diagnosis and solution
 design. Wrongly selected security and privacy tools give the following
 issues:
 
@@ -101,7 +100,7 @@ issues:
       etc. In the end everything has a relation with information
       security, but you cannot cover all business aspects using an
       information security architecture document. The key is to focus
-      and keep the scope clear or else complexity will become
+      and keep the scope clear or else the complexity becomes
       overwhelming.
    -  What architecture or design decisions have been made and must be
       validated explicitly?
@@ -123,7 +122,7 @@ you to qualify security and privacy risks.
 
 In general, it is far more easy to reuse proven concepts and models when
 creating your own security model. This way you build on the work of
-others and using a good model reference will reduce the risk of making
+others and using a good model reference reduces the risk of making
 crucial mistakes.
 
 This section covers some commonly used models and elements that can be
@@ -146,7 +145,7 @@ have a clear defined view of your final product or service that is to be
 created.
 
 Defining attack vectors within your security requirements documentation
-is proven to be helpful from the start. Attack vectors will give more
+is proven to be helpful from the start. Attack vectors give more
 focus on expected threats so you can start developing security measures
 that really matter in your situation from the start.
 
@@ -221,7 +220,7 @@ Common attack vectors are:
 It is recommended that you specify in your solution architecture the
 attack vectors that apply to your use case. Remember to put the
 explanation of the attack vectors used in an appendix, since not all
-your stakeholders will know what e.g. ‘Spoofing’ is. 
+your stakeholders know what e.g. ‘Spoofing’ is. 
 
 HTTPS Interception
 -------------------
@@ -315,9 +314,9 @@ Personas force you to think different about the goals and behaviour of
 attackers that are going to hit your system.
 
 Security Personas identify the user motivations, expectations and goals
-responsible for driving bad behaviour. Of course not all personas will
+responsible for driving bad behaviour. Of course not all personas 
 behave bad on purpose. Sometimes mistakes on the use of the system or
-social engineering will affect the way a persona can compromise your
+social engineering affects the way a persona can compromise your
 system.
 
 Benefits of Personas
@@ -428,7 +427,7 @@ security framework has a number of advantages:
 NIST Cloud Computing Security model
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Sooner or later you will be creating a solution or privacy architecture
+Sooner or later you create a solution or privacy architecture
 where cloud hosting plays a significant part. The NIST cloud computing
 security reference model is a very good model to use as reference. 
 
@@ -512,7 +511,7 @@ a self-assessment test you can get a very quick overview on the status
 of the IT security processes within your organization. SAMM is an OWASP
 project.
 
-SAMM will aid in:
+SAMM aids in:
 
 -  Evaluating an organization’s existing software security practices
 
@@ -565,14 +564,14 @@ level where security activities hit the SDLC process.
 
 Car Hacking
 ^^^^^^^^^^^^^^^^
-Modelling how things really work is the best start for good protection. So any investment or use of real world hacking modles will improve your security design.
+Modelling how things really work is the best start for good protection. So any investment or use of real world hacking modles improves your security design.
 
 Cars and especially autonomous cars are trending. Cars are nowadays also almost computers on wheels. In order to make sure it's safe, secure and vendors do not mess with your privacy hacking cars should not be a crime but should be encouraged. Since most advanced cars are build upon OSS software security and privacy has increased significantly. 
 
 To know how secure cars are, use:
 
 The Car Hackers Handbook: http://opengarages.org/handbook/ 
-This Car Hackers Handbook will help you create better threat models for vehicles. Also your knowledge on how cars work will increase per page.
+This Car Hackers Handbook helps you create better threat models for vehicles. Also your knowledge on how cars work increases per page.
 
  
 Robot Hacking

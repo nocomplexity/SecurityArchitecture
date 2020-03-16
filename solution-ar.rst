@@ -36,7 +36,7 @@ steps:
    previous design step.
 
 
-So first create architecture building blocks that will form the basis of your solution. The last stop  to find solution building blocks that will implement your specific problem (ABBs) that match your specific requirements, principles and constrains.
+So first create architecture building blocks(ABBs). These blocks form the basis of your solution. The last step is to find solution building blocks (SBBs) that implements your specific problem (ABBs) that match your specific requirements, principles and constrains.
 
 .. Sub Section OSS SBB overview and usuage
 

@@ -1,9 +1,9 @@
 Open Toolbox
 ==============
 
-Besides software tools many tools within the field of security and privacy are knowlegde tools. Valuable design templates, risk sheets or collections of models that will help creating your solution.
+Besides software tools many tools within the field of security and privacy are knowledge tools. Valuable design templates, risk sheets or collections of models that helps you when  creating your solution.
 
-When creating this reference architecture, we performed serious research. We used many valuable sources (books, articles, scientific publications, blogs, etc). In this section you will find real reusable tools. All tools are focused on helping to solve your security and/or privacy challenge easier. So you will find many reusable real open (cc-by) tools for so you can create your solution without reinventing the wheel again.
+When creating this reference architecture, we performed serious research. We used many valuable sources (books, articles, scientific publications, blogs, etc). In this section you find real reusable tools. All tools are focused on helping to solve your security and/or privacy challenge easier. So you find many reusable real open (cc-by) tools for so you can create your solution without reinventing the wheel again.
  
 We believe that all knowledge for building better security and privacy solutions should be available under an open access license. This is why all references in this section are open access references or available for free under an open liberal license. 
 

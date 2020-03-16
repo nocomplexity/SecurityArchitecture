@@ -19,7 +19,7 @@ A nice overview of privacy design patterns can be found at https://privacypatter
 How do I manage API security
 ===============================
 
-For APIs that will be able to transport private or secure information a risk assessment should be completed. Be aware that APIs are part of the whole system, but for inboud or outbound APIs examing the information that will be transported by an API is a good start. 
+For APIs that are able to transport private or secure information a risk assessment should be completed. Be aware that APIs are part of the whole system, but for inboud or outbound APIs examining the information that is transported by an API is a good start. 
 
 API Provider security controls are typically provided by a proxy or api-gateway. This because all traffic towards API end points is than centrally managed. You can of course also decentralize this, but than make sure all containers configurations are automatically provisioned. Minimum API controls should be:
 
@@ -80,7 +80,7 @@ How to build the Internet yourself?
 
 The internet has become a tracking machine. It has evolved to track you. Besides your local (business)network you are tracked by the large Internet network, corporations, and governments. Everything that can be measured is  tracked. So why not build a better Internet, a non tracking network by default? 
 
-You do not need censorship or surveillance. Surveillance is the monitoring of behavior, activities. Building decentralized networks has been done and will be done more. Besides building a network to get more privacy when needed most part of the world still do not have Internet at all. So building networks to share knowlegde e.g. about privacy and censorship is always a good investment.
+You do not need censorship or surveillance. Surveillance is the monitoring of behaviour, activities. Building decentralized networks has been done and more decentralized networks are created in future, since more people see the large disadvantages of using centralized networks.  Besides building a network to get more privacy when needed most part of the world still do not have Internet at all. So building networks to share knowledge e.g. about privacy and censorship is always a good investment.
 
 Check the manual at: https://bm-support.org/pdfdocs/how_to_build_the_internet.pdf
 

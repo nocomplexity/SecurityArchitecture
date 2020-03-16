@@ -3,7 +3,7 @@ Security and Privacy Principles
 
 Every organization is different. However, when you are faced with the
 challenge to create a new (IT) product or service having good principles
-requirements before you start will help. Always.
+requirements before you start helps. Always.
 
 We have simplified this complex but crucial step needed in every
 project. In this chapter you find lists of:
@@ -68,13 +68,13 @@ principles:
 
 -  Usable.
 
-Principles will guide architects, consultants and designers with
+Principles guide architects, consultants and designers with
 decision making. Within business design and architecture, you find many
 people with strong opinions with what a good and usable principle is or
 is not. Discussion is always good to get a better understanding of each
 other mental maps. However, discussions on what a good security
 principle is should be target on what you can do with principles. How
-will principles help you and your company? Can principles help you doing
+ principles help you and your company? Can principles help you doing
 projects faster and better? Can principles prevent your company
 architecture and software systems becoming the next IT over complexity
 landscape?
@@ -109,7 +109,7 @@ Security and privacy principles have the following characteristics:
 -  Principles are guidance to help making decisions with the help of rules.
 
 Your security and privacy design should be created based upon many
-design decisions. Using (approved) principles will help.
+design decisions. Using (approved) principles helps.
 
 Security and privacy requirements tend to have the following characteristics:
 
@@ -125,7 +125,7 @@ principle.
 
 Although the difference between security and privacy principles and
 requirements is most of the time hard to make, having requirements in
-addition to principles will improve a privacy or security design.
+addition to principles improves a privacy or security design.
 
 This because using requirements leaves more room to discussion and
 prioritization with direct stakeholders.
@@ -171,7 +171,7 @@ Common Mistakes regarding security and privacy requirements
    asking.
 
 Requirements gathering is an essential part of any project and project
-management. Understanding fully what a project will deliver is critical
+management. Understanding fully what a project delivers is critical
 to its success. This may sound like common sense, but surprisingly it's
 an area that is often given far too little attention.
 
@@ -198,7 +198,7 @@ has three important advantages:
 #. Stakeholders/Users do not have to fight to get something onto a
    requirements list.
 
-#. Thinking about what will be required later, affects what is asked for
+#. Thinking about what is required later affects a good focus on what is needed
    now.
 
 #. The designers seeing the future trend can produce solutions that can
@@ -273,7 +273,7 @@ Reuse of security requirements has several benefits:
 - Opportunity for common security measurements: Security requirements have potential for reuse in other projects. This because security requirements are often called non functional requirements (NFR’s). NFRs are quality requirements and often not explicitly asked for by business or users. Many systems and projects face similar security threats and dealing with them in a standardized way can have benefits. E.g. it is often better to have one good and fully managed backup and restore system instead of several types that must be controlled and managed.  
 - Reduced cost: Each time a requirement is reused, it offsets another requirement that does not have to be written. Reuse reduces the effort needed to produce requirements specifications for later projects. Writing requirements that can be reused is a time investment in future productivity. 
 - Improved quality: A requirement that has been written specifically for reuse will have been given thorough attention and inspected for quality. Reusing published requirements thus results in fewer defects due to poorly written requirements.
-- Consistency: Reusing requirements forces stakeholders to think at the same level of abstrac-tion, in the same terms, and independently of system design in different contexts. Using the same requirement for multiple projects grants a certain level of consistency across a product line or an entire organization.
+- Consistency: Reusing requirements forces stakeholders to think at the same level of abstraction, in the same terms, and independently of system design in different contexts. Using the same requirement for multiple projects grants a certain level of consistency across a product line or an entire organization.
 - Speed: Specifying security and privacy requirements is specialized work. Availability of experts engineers and analysis is often problematic. So reuse lessens the need for security expertise at the requirements stage. E.g. only experts can be involved for a review instead of writing the requirements. 
 - Quality: Good requirements can be reused for more than one project. Especially within the same organization, since the context for some organisational processes is comparable.  Improving requirements is easier than creating good requirements from scratch. Also learning points from audits and incidents can be incorporated into existing requirements if needed so the whole security process improves.
 

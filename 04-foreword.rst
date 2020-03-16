@@ -31,7 +31,7 @@ Good protection for our privacy is getting more and more difficult and
 expensive. In our opinion freedom requires very strong privacy
 protection assurances. We do not live a world where cyber security
 is always at a normal (low) risk level. You need more protection measurements by default to protect
-your core information assets like personal and business information and your valuable privacy data records. We still have a long way to go. But using solutions provided in this reference architecture will lower your security and privacy risks.
+your core information assets like personal and business information and your valuable privacy data records. We still have a long way to go. But using solutions provided in this reference architecture lowers your security and privacy risks.
 
 For privacy and security we need strong governance institutes that set
 rules to keep our (online) freedom.

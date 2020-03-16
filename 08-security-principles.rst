@@ -114,7 +114,7 @@ Security Principles
 
 **Statement:** Clearly delineate the physical and logical security boundaries governed by associated security policies.
 
-**Rationale:** Information technology exists in physical and logical locations, and boundaries exist between these locations. An understanding of what is to be protected from external factors can help ensure adequate protective measures are applied where they will be most effective. Sometimes a boundary is defined by people, information, and information technology associated with one physical location.
+**Rationale:** Information technology exists in physical and logical locations, and boundaries exist between these locations. An understanding of what is to be protected from external factors can help ensure adequate protective measures are applied where they are  most effective. Sometimes a boundary is defined by people, information, and information technology associated with one physical location.
 
 **Implications:** Create a security architecture or design. &nbsp;
 
@@ -124,7 +124,7 @@ Security Principles
 **Compartmentalise** 
 ----------------------
 
-**Statement:** Sub-systems will be partitioned logically and isolated using physical devices and/or security controls.
+**Statement:** Sub-systems must be partitioned logically and isolated using physical devices and/or security controls.
 
 **Rationale:** In accordance with the minimise attack surface and Defence in Depth principles, this compartmentalise principle keeps a sub-system, or logically grouped set of sub-systems, relatively self-contained such that compromise of one will not imply the compromise of another.
 
@@ -294,7 +294,7 @@ Security Principles
 
 **Statement:** Design and operate an IT system to limit damage and to be resilient in response.
 
-**Rationale:** Information systems should be resistant to attack, should limit damage, and should recover rapidly when attacks do occur. The principle suggested here recognizes the need for adequate protection technologies at all levels to ensure that any potential cyber attack will be countered effectively.
+**Rationale:** Information systems should be resistant to attack, should limit damage, and should recover rapidly when attacks do occur. The principle suggested here recognizes the need for adequate protection technologies at all levels to ensure that any potential cyber attack is countered effectively.
 
 **Implications:** Defence in depth measurement Compartmentalize IT building blocks. &nbsp; &nbsp;
 
@@ -404,7 +404,7 @@ Security Principles
 
 **Rationale:** Offloading security functions from server to client exposes those functions to a much less trustworthy environment, which is one of the most common causes of security failures predicated on misplaced trust. Designs that place authorization, access control,enforcement of security policy, or embedded sensitive data in client software thinking that it won’t be discovered, modified, or exposed by clever users or malicious attackers are inherently weak. Such designs will often lead to compromises.
 
-**Implications:** Make sure all data received from an untrusted client are properly validated before processing. When designing your systems, be sure to consider the context where code will be executed, where data will go, and where data entering your system comes from.
+**Implications:** Make sure all data received from an untrusted client are properly validated before processing. When designing your systems, be sure to consider the context where code is executed, where data will go, and where data entering your system comes from.
 
 
 
@@ -820,7 +820,7 @@ Security Principles
 **Security by Design** 
 ------------------------
 
-**Statement:** Controls for the protection of confidentiality, integrity, and availability should be designed into all aspects of solutions from initiation, not as an afterthought. Security should also be designed into the business processes within which an IT system will be used.
+**Statement:** Controls for the protection of confidentiality, integrity, and availability should be designed into all aspects of solutions from initiation, not as an afterthought. Security should also be designed into the business processes within which an IT system is used.
 
 **Rationale:** The implementation of protections for confidentiality, availability and integrity within information and systems at the end of a project is more expensive than including the security protections within the initial design of the project. Controls implemented at the end of a project are often less efficient and less integrated than those integrated within the core of the project. &nbsp;
 
