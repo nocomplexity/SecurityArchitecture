@@ -35,7 +35,9 @@ too \ https://twitter.com/maikelmardjan
 Contributors
 --------------
 
-The current version is created with input of:
+This guide is the result of the collaboration of people around the world, and your contributions are welcome! 
+
+The Open Reference Architecture for Security and Privacy is created with input of:
 
 - Alexandre Dulaunoy
 - Jens

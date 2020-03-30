@@ -22,9 +22,9 @@ This reference architecture is created to improve security and privacy designs i
 The reference architecture is not just another security book. Since libraries and book stores are filled with decent books on security and privacy we wanted to create a book that is all about reuse.
 
 
-`(c) 2015,2016,2017,2018, 2019, 2020 Maikel Mardjan and all contributors.`
+`(c) 2015-2020 Maikel Mardjan and Asim Jahan.`
 
-Published by the Business Management Support Foundation, Apeldoorn, The Netherlands.
+Published by the Business Management Support Foundation, The Netherlands.
 
 All   trademarks,   trade   names,   product   names   and   logos appearing  in  this  report  are  the  property  of  their  respective owners.
 
