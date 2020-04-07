@@ -36,3 +36,12 @@ Crypto coding standards
 
 https://github.com/veorq/cryptocoding 
 This reference gives good "coding rules" for implementations of cryptographic operations, and more generally for operations involving secret or sensitive values. Created by Jean-Philippe Aumasson (https://aumasson.jp/)
+
+
+RUST programming
+^^^^^^^^^^^^^^^^
+
+Guide to develop secure applications with Rust, https://anssi-fr.github.io/rust-guide/ 
+
+The object of this document is to provide hints and recommendations for secure applications development using the Rust programming language. This guide also includes a simple checklist.
+Github repository on: https://github.com/ANSSI-FR/rust-guide 
