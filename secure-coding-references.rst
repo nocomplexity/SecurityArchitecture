@@ -38,6 +38,15 @@ https://github.com/veorq/cryptocoding
 This reference gives good "coding rules" for implementations of cryptographic operations, and more generally for operations involving secret or sensitive values. Created by Jean-Philippe Aumasson (https://aumasson.jp/)
 
 
+Defensive Coding Guide
+^^^^^^^^^^^^^^^^^^^^^^^
+
+A Guide to Improving Software Security, http://redhat-crypto.gitlab.io/defensive-coding-guide/
+
+This document provides guidelines for improving software security through secure coding. It covers common programming languages (C,CPP, Python, GO) and libraries, and focuses on concrete recommendations. Also lots of unix 'must do' and 'never do' tips from a security viewpoint.Licensed CC-BY-SA.
+
+
+
 RUST programming
 ^^^^^^^^^^^^^^^^
 
