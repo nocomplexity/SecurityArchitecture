@@ -166,3 +166,44 @@ areas in more detail in your security solution:
 -  Access Control
 
 -  Standards for Interoperability
+
+Machine Learning Thread Model
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Advances in machine learning (ML) in recent years have  enabled  a  dizzying  array  of  applications  such  as  data analytics,  autonomous  systems,  and  security  diagnostics.  ML is now pervasive—new systems and models are being deployed in every domain imaginable, leading to widespread deployment of  software  based  inference  and  decision  making.  
+
+The  attack  surface  of  a  system  built  with  data  and machine learning depends on its purpose.
+Key threads for machine learning system can be seen as:
+
+- Attacks which compromise confidentiality
+- Attacks which compromise integrity by manipulation of input.
+- 'Traditional' attacks that have impact on availability.
+
+Attack vectors for machine learning systems can be categorized in:
+
+* Input manipulation
+
+* Data manipulation
+
+* Model manipulation
+
+* Input extraction
+
+* Data extraction
+
+* Model extraction
+
+* Environmental attacks (so the IT system used for hosting the machine learning algorithms and data)
+
+
+Taxonomy and terminology of machine learning is not yet fully standardized. The US NIST publication 8269 (The National Institute of Standards and Technology) a taxonomy and terminology of Adversarial Machine Learning is proposed. See https://csrc.nist.gov/publications/detail/nistir/8269/draft. Adversarial Machine Learning (AML)introduces additional security challenges in training and testing (inference) phases of system operations. AML is concerned with the design of ML algorithms that can resist security challenges, the study of the capabilities of attackers, and the understanding of attack consequences. 
+
+A simple outline of the basic components that must be incorporated in a ML thread model is outlined below.
+
+
+.. image:: /Images/ml-system.png
+
+(Source: https://berryvilleiml.com/interactive/ )
+
+More information on specific aspects on machine learning can be found in the 'Free and Open Machine Learning' Guide (https://freeandopenmachinelearning.readthedocs.io/).
+
