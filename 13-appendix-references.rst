@@ -1,7 +1,7 @@
-Open Toolbox
-==============
+Security and Privacy References
+================================
 
-Besides software tools many tools within the field of security and privacy are knowledge tools. Valuable design templates, risk sheets or collections of models that helps you when  creating your solution.
+Besides FOSS software tools many other type of tools exist within the field of security and privacy.E.g. Knowledge tools, design templates, risk sheets or collections of specific security guides that helps you when  creating your solution.
 
 When creating this reference architecture, we performed serious research. We used many valuable sources (books, articles, scientific publications, blogs, etc). In this section you find real reusable tools. All tools are focused on helping to solve your security and/or privacy challenge easier. So you find many reusable real open (cc-by) tools for so you can create your solution without reinventing the wheel again.
  
@@ -215,3 +215,9 @@ The Free Software Foundation, https://www.gnu.org
 Web Authorization Protocol (OAuth), https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-01 
 
 
+Web security
+--------------
+
+Web Security technologies change continuously. A perfect solution does not exist. So make sure good practices are combined with good principles and non technical measurements for minimizing risks.
+
+Mozilla Web Security Guide, https://developer.mozilla.org/en-US/docs/Web/Security

@@ -47,13 +47,35 @@ Content
    09-privacy-principles   
    091-designrules
    10-using-oss   
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Solution Building Blocks
+
    security-sbbs
    privacy-sbbs
-   security-regulations
+      
+   
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Open references
+   
    13-appendix-references
    securitycourses   
-   
-   
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Measurements
+
+   measurements
+   security-regulations
+
+
+
+
 .. toctree::
    :hidden:
    :maxdepth: 3

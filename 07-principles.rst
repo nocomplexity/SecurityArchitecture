@@ -74,7 +74,7 @@ people with strong opinions with what a good and usable principle is or
 is not. Discussion is always good to get a better understanding of each
 other mental maps. However, discussions on what a good security
 principle is should be target on what you can do with principles. How
- principles help you and your company? Can principles help you doing
+principles help you and your company? Can principles help you doing
 projects faster and better? Can principles prevent your company
 architecture and software systems becoming the next IT over complexity
 landscape?
@@ -85,7 +85,7 @@ organization.
 
 Security principles are statements of direction that govern selections
 and implementations.
-Security principles provide a foundation for decision making and are a fundament for any new design.
+Security principles provide a foundation for decision making and are crucial to have for any new design.
 
 
 .. image:: /Images/principles.png

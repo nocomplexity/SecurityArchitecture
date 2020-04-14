@@ -1,4 +1,4 @@
-Open Security Courses
+Security Courses
 -----------------------
 
 The best courses for learning all about creating good security solutions are open. So cc-by licensed.
