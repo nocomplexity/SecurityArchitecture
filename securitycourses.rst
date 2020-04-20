@@ -48,3 +48,13 @@ Computer Networks: A Systems Approach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Great resource for learning all about network security. For starters and full professionals. Sources of this book are on https://github.com/SystemsApproach/book Created by Larry Peterson and Bruce Davie. Read the latest version of this book on: https://book.systemsapproach.org/index.html 
+
+MITRE:Cyber Threat Intelligence Training
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Great cyber threat intelligence (CTI) for everyone who is active in a large (governmental)organisation.
+
+The training contains five modules that consist of videos and exercises. This training was designed to be completed in approximately 4 hours, and may be completed solo or as a team. 
+All training material can be found at: https://attack.mitre.org/resources/training/cti/ 
+
+

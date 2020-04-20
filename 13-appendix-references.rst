@@ -180,7 +180,8 @@ REST API Checklist: Summary of important security countermeasures when designing
 
 Vulnerability Databases
 ------------------------
-Common Weakness Enumeration (CWE™), cwe.mitre.org 
+
+CWE (Common Weakness Enumeration - CWE™) is a community-developed list of common software and hardware security weaknesses. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigation, and prevention efforts. Available on:  http://cwe.mitre.org/ 
 
 
 Learning and training resources

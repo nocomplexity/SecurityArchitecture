@@ -562,6 +562,22 @@ OWASP conceptual model of the (simplified) SDLC chain shows on high
 level where security activities hit the SDLC process.
 
 
+ATT&CK
+^^^^^^^
+
+ATT&CK stands for Adversarial Tactics, Techniques, and Common Knowledge. MITRE (https://www.mitre.org/) started this project in 2013. 
+
+ATT&CK is largely a knowledge base of adversarial techniques — a breakdown and classification of offensively oriented actions that can be used against particular platforms, such as Windows. Unlike prior work in this area, the focus isn’t on the tools and malware that adversaries use but on how they interact with systems during an operation.
+
+The relationship between tactics and techniques can be visualized in the ATT&CK Matrix.
+
+The ATT&CK Matrix is probably the most widely recognizable aspect of ATT&CK because it’s commonly used to show things like defensive coverage of an environment, detection capabilities in security products, and results of an incident or red team engagement.
+
+The complete Matrix and all guides and information can be found at: https://attack.mitre.org/
+
+
+
+
 Car Hacking
 ^^^^^^^^^^^^^^^^
 Modelling how things really work is the best start for good protection. So any investment or use of real world hacking modles improves your security design.
