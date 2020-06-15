@@ -86,6 +86,12 @@ AICPA/CICA Privacy Maturity Model March 2011, http://www.aicpa.org/InterestAreas
 Generally Accepted Privacy Principles (GAPP),https://www.cippguide.org/2010/07/01/generally-accepted-privacy-principles-gapp/ 
 
 
+UN Handbook onPrivacy-PreservingComputation Techniques, http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf 
+This document describes motivations for privacy-preserving approaches for the statisticalanalysis of sensitive data, presents examples of use cases where such methods may apply and describes relevant technical capabilities to assure privacy preservation while still allowing analysis of sensitive data. 
+
+
+
+
 Open Access Privacy Journals
 -----------------------------
 Proceedings on Privacy Enhancing Technologies 
