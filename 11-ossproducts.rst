@@ -1,7 +1,7 @@
 Generic Security & Privacy Architectures
 ==========================================
 
-A good generic architecture for security or privacy helps creating your specific solution.
+A good reference architecture for security or privacy helps you solving your problem. The aim of this reference architecture is that you can create your specific solution architecture faster and with higher quality. 
 You should not spend time and money reinventing the wheel over and over again. So this section outlines generic architecture for security and privacy that covers all most used high level aspects. 
 
 When you are aware of the advantages and disadvantages of using open source
@@ -13,11 +13,11 @@ To give some guidance on selecting products to lower risks on security and priva
 
 The key of a useful conceptual model is that a separation is made between the needs (requirements) and the solution ('the how') is clear.
 
-Generic Security Architecture 
----------------------------------------------
+Security Reference Architecture 
+----------------------------------
 
-The number of FOSS security applications available to solve your problems is over
-overwhelming. But for a good security architecture you should first determine WHAT must be solved before jumping into solutions. 
+The number of security applications available to solve your security problems is over
+overwhelming. But for a good security architecture you should first determine WHAT must be solved before jumping into solutions. Only if you have a good understanding of your problem, a effective selection of security solutions that reduce risks is possible. 
 
 The following conceptual security topology helps with
 arranging functional to product mapping needs:
@@ -36,7 +36,7 @@ of companies that deliver maintenance and support on this application on
 commercial bases. 
 
 
-Generic Privacy Architecture
+Privacy Reference Architecture
 -----------------------------
 
 Besides strong security measurements strong encryption privacy is hard to accomplish. Especially online and when you do not use FOSS software in combination with open hardware that you can really trust! However due to the growing importance privacy the number of FOSS tools available is increasing.

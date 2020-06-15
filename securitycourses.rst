@@ -11,11 +11,6 @@ Developed and used by RPISEC to teach Malware Analysis. Free to use and to impro
 https://github.com/RPISEC/Malware 
 
  
-The Cyber Law Toolkit 
-^^^^^^^^^^^^^^^^^^^^^^
-
-The Cyber Law Toolkit is a dynamic interactive web-based resource for legal professionals who work with matters at the intersection of international law and cyber operations. The toolkit consists of hypothetical scenarios. Each scenario contains a description of cyber incidents inspired by real-world examples, accompanied by detailed legal analysis. Check:
-https://cyberlaw.ccdcoe.org/wiki/Main_Page 
 
 
 OWASP Juice Shop
@@ -29,11 +24,6 @@ Digitally Aware
 ^^^^^^^^^^^^^^^^
 Basic Security Awareness Training. Slides are available in Dutch and in English on the github repository (https://github.com/radicallyopensecurity/Digitally-Aware). Basic slides in English are available on: https://awareness.radicallyopensecurity.com/Awareness%20Training-1-0-beta-gh.pdf 
 
-
-Security awareness base course 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Nice awareness training. Created by the an Italian Govermental organisation. Note you need to install Hugo first in order to launch te course. See: https://github.com/teamdigitale/security-awareness 
 
 
 Open-Source Phishing Framework 
@@ -57,4 +47,18 @@ Great cyber threat intelligence (CTI) for everyone who is active in a large (gov
 The training contains five modules that consist of videos and exercises. This training was designed to be completed in approximately 4 hours, and may be completed solo or as a team. 
 All training material can be found at: https://attack.mitre.org/resources/training/cti/ 
 
+Security awareness base course 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Nice awareness training. Created by the an Italian Govermental organisation. Note you need to install Hugo first in order to launch te course. See: https://github.com/teamdigitale/security-awareness 
+
+
+The Fuzzing Book
+^^^^^^^^^^^^^^^^^
+Software has bugs, and catching bugs can involve lots of effort. This book addresses this problem by automating software testing, specifically by generating tests automatically. You can interact with chapters as Jupyter Notebooks. Great open book to spend some time on. Git repository can be found on: https://github.com/uds-se/fuzzingbook/ But check the nice looking website on: https://www.fuzzingbook.org/ 
+
+The Cyber Law Toolkit 
+^^^^^^^^^^^^^^^^^^^^^^
+
+The Cyber Law Toolkit is a dynamic interactive web-based resource for legal professionals who work with matters at the intersection of international law and cyber operations. The toolkit consists of hypothetical scenarios. Each scenario contains a description of cyber incidents inspired by real-world examples, accompanied by detailed legal analysis. Check:
+https://cyberlaw.ccdcoe.org/wiki/Main_Page 
