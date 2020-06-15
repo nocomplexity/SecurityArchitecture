@@ -33,6 +33,13 @@ https://en.wikipedia.org/wiki/Row_hammer
 
 DDos: https://www.us-cert.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf 
 
+Cryptography
+----------------------
+
+A modern practical book about cryptography for developers with code examples. 
+Practical Cryptography for Developers: https://cryptobook.nakov.com/ 
+
+
 Thread Models
 ---------------
 
@@ -184,15 +191,14 @@ Vulnerability Databases
 CWE (Common Weakness Enumeration - CWE™) is a community-developed list of common software and hardware security weaknesses. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigation, and prevention efforts. Available on:  http://cwe.mitre.org/ 
 
 
-Learning and training resources
---------------------------------
+Learning from attacks
+----------------------
 
-The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. All OSS with the code on Github. Check it out: http://overthewire.org/wargames/
 
 Key Reinstallation Attacks- Breaking WPA2 by forcing nonce reuse (KRACK). With hands-on description, check it out:
 https://www.krackattacks.com/ 
 
-Practical Cryptography for Developers: https://cryptobook.nakov.com/ 
+
 
 
 Open Source Initiative (OSI)

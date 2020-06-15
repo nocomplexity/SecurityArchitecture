@@ -65,3 +65,8 @@ The Cyber Law Toolkit
 
 The Cyber Law Toolkit is a dynamic interactive web-based resource for legal professionals who work with matters at the intersection of international law and cyber operations. The toolkit consists of hypothetical scenarios. Each scenario contains a description of cyber incidents inspired by real-world examples, accompanied by detailed legal analysis. Check:
 https://cyberlaw.ccdcoe.org/wiki/Main_Page 
+
+Wargames 
+^^^^^^^^^
+
+The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. All OSS with the code on Github. Check it out and play! http://overthewire.org/wargames/

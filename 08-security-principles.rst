@@ -1005,3 +1005,5 @@ Security Principles
 **Rationale:** For security capabilities to be effective security program designers should make every effort to incorporate interoperability and portability into all security measures, including hardware and software, and implementation practices. In practice an open interface in OSS software (good documented) can be a good alternative to an open standard that lacks solid reference implementations and gives room to different ways of implementing external behaviour.
 
 **Implications:** No all Commercial-off-the-shelf (COTS) software is usable. OSS solutions should provide open interfaces.
+
+.. include:: zerotrustprinciples.rst 

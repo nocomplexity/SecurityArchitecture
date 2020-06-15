@@ -82,6 +82,7 @@ Content
    :caption: Secure Software Development
 
    secure-coding-references
+   testingmanuals
 
 .. toctree::
    :hidden:
