@@ -650,13 +650,14 @@ questions for reliability are:
 Security
 ~~~~~~~~
 
-When using an OSS product you trust it is secure. Security is of course
+When using a FOSS product you must verify if it is secure. Security is of course
 about trust, but when you use OSS security and privacy tools you must
 evaluate some crucial security aspects. 
 
-Unfortunately many security products exist that decrease your security.
-Software that requires insecure configurations for example or many
-nonstandard network sockets is not a good example of decent security.
+One of the promises of open source software is that distributed peer review and transparency of process results in enhanced end-user security. However, whilst anyone may inspect the source code of free and open source software for malicious flaws, almost all software today is distributed as pre-compiled binaries. This allows nefarious third-parties to compromise systems by injecting malicious code into ostensibly secure software during the various compilation and distribution processes. 
+
+As with commercial software, also  FOSS security products exist that decrease your security. Only the advantage of FOSS is that inspection and fixing can be easier. Software that requires insecure configurations for example or many nonstandard network sockets is not a good example of decent security.
+
 
 Even if you are only testing a product or evaluating, you must have some
 criteria in place to prevent downloading malware or worse.
@@ -699,6 +700,8 @@ Some critical questions to determine some security aspects are:
 -  Procedures and policies exist to protect the code base from   vandalism.
 
 -  Is a software release signed by a hash (minimal sha1 or stronger)?
+
+- Are reproducible builds available? (https://reproducible-builds.org/)
 
 
 Privacy

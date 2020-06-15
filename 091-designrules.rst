@@ -85,3 +85,16 @@ You do not need censorship or surveillance. Surveillance is the monitoring of be
 Check the manual at: https://bm-support.org/pdfdocs/how_to_build_the_internet.pdf
 
 This manual is also an very good and readable document to gain more knowledge on how Internet really works.
+
+When to use Blockchain?
+=========================
+
+Blockchains are tamper evident and tamper resistant digital ledgers implemented in a distributed fashion (i.e., without a central repository) and usually without a central authority (i.e., a bank, company, or government). At their basic level, they enable a community of users to record transactions in a shared ledger within that community, such that under normal operation of the blockchain network no transaction can be changed once published. 
+
+A good overview of what blockchain technology is can be found here: https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf 
+
+Most of the time applying blockchain to prevent security breaches is overkill. See the following schema:
+
+.. image:: /Images/blockchainusecase.png
+
+(This schema can be found in the NIST guide https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf ) 
