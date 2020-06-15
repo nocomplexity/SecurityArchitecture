@@ -5,25 +5,32 @@ The best courses for learning all about creating good security solutions are ope
 Some courses are targeted on IT architects, some are developed for software developers or system administrators. Good training material for training end users on awareness is also available in open format (cc-by-sa). So instead of creating yet another training or course, why not making existing training resources better?
 
 
-Malware Analysis
-^^^^^^^^^^^^^^^^^
-Developed and used by RPISEC to teach Malware Analysis. Free to use and to improve. See:
-https://github.com/RPISEC/Malware 
+Computer Networks: A Systems Approach
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- 
-
-
-OWASP Juice Shop
-^^^^^^^^^^^^^^^^^^
-
-OWASP Juice Shop: Probably the most modern and sophisticated insecure web application. This application can be used in security trainings or awareness trainings. The Juice Shop encompasses vulnerabilities from the OWASP Top Ten along with many other security flaws as present in many real world applications...
-So hack the Shop on: http://owasp-juice.shop
+Great resource for learning all about network security. For starters and full professionals. Sources of this book are on https://github.com/SystemsApproach/book Created by Larry Peterson and Bruce Davie. Read the latest version of this book on: https://book.systemsapproach.org/index.html 
 
 
 Digitally Aware
 ^^^^^^^^^^^^^^^^
 Basic Security Awareness Training. Slides are available in Dutch and in English on the github repository (https://github.com/radicallyopensecurity/Digitally-Aware). Basic slides in English are available on: https://awareness.radicallyopensecurity.com/Awareness%20Training-1-0-beta-gh.pdf 
 
+
+
+Malware Analysis
+^^^^^^^^^^^^^^^^^
+Developed and used by RPISEC to teach Malware Analysis. Free to use and to improve. See:
+https://github.com/RPISEC/Malware 
+
+
+
+MITRE:Cyber Threat Intelligence Training
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Great cyber threat intelligence (CTI) for everyone who is active in a large (governmental)organisation.
+
+The training contains five modules that consist of videos and exercises. This training was designed to be completed in approximately 4 hours, and may be completed solo or as a team. 
+All training material can be found at: https://attack.mitre.org/resources/training/cti/ 
 
 
 Open-Source Phishing Framework 
@@ -34,18 +41,14 @@ Download the toolkit from: https://github.com/Ne0nd0g/gophish
 More info on: https://getgophish.com/ 
 
 
-Computer Networks: A Systems Approach
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Great resource for learning all about network security. For starters and full professionals. Sources of this book are on https://github.com/SystemsApproach/book Created by Larry Peterson and Bruce Davie. Read the latest version of this book on: https://book.systemsapproach.org/index.html 
+OWASP Juice Shop
+^^^^^^^^^^^^^^^^^^
 
-MITRE:Cyber Threat Intelligence Training
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OWASP Juice Shop: Probably the most modern and sophisticated insecure web application. This application can be used in security trainings or awareness trainings. The Juice Shop encompasses vulnerabilities from the OWASP Top Ten along with many other security flaws as present in many real world applications...
+So hack the Shop on: http://owasp-juice.shop
 
-Great cyber threat intelligence (CTI) for everyone who is active in a large (governmental)organisation.
 
-The training contains five modules that consist of videos and exercises. This training was designed to be completed in approximately 4 hours, and may be completed solo or as a team. 
-All training material can be found at: https://attack.mitre.org/resources/training/cti/ 
 
 Security awareness base course 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
