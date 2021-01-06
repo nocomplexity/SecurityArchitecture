@@ -45,11 +45,12 @@ edit_on_github_branch = 'master'
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates','_templates/sphinx_book_theme']
 
-# To make md files possible in Sphinx only build, so without Jupyter Book
-from recommonmark.parser import CommonMarkParser
-source_parsers = {
-    '.md': CommonMarkParser,
-}
+# # To make md files possible in Sphinx only build, so without Jupyter Book
+# from recommonmark.parser import CommonMarkParser
+
+# source_parsers = {
+#     '.md': CommonMarkParser,
+# }
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
