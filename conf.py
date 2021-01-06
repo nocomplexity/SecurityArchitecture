@@ -72,7 +72,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'Open Reference Architecture for Security and Privacy'
 copyright = u'2015 -2021 Maikel Mardjan and Asim Jahan. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).'
-author = u'Version 2021 - Maikel Mardjan and all contributors '
+author = u'Maikel Mardjan & Asim Jahan and all contributors '
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -135,7 +135,7 @@ todo_include_todos = True
 #html_theme = 'alabaster'
 
 #import sphinx_rtd_theme  
-import sphinx_book_theme   #Swithing in 2021 to this more readable theme.
+import sphinx_book_theme   #Switching in 2021 to this more readable theme.
 
 #html_theme = "sphinx_rtd_theme"
 html_theme = "sphinx_book_theme"
@@ -153,7 +153,12 @@ html_theme_options = {
     "use_repository_button": True,
     "use_issues_button": True,    
     "use_edit_page_button": True,
+    "extra_navbar": '<a href="https://bm-support.org/"><b>ROI Now!</b></a>',
+    "extra_footer" : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2018-2021, BM-Support.org - This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>',
+
 }
+
+
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
 
@@ -205,6 +210,18 @@ html_sidebars = {
         "sbt-sidebar-footer.html",
     ]
 }
+
+show_navbar_depth = 3
+html_title = "Open Reference Architecture for Security and Privacy"
+html_logo = "Images/nocxbanner.png"
+
+html_css_files = [
+    'css/nocxstyle.css',
+]
+
+
+
+
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
 #html_additional_pages = {}
@@ -225,7 +242,7 @@ html_sidebars = {
 #html_show_sphinx = True
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
-#html_show_copyright = True
+html_show_copyright = False
 
 # If true, an OpenSearch description file will be output, and all pages will
 # contain a <link> tag referring to it.  The value of this option must be the

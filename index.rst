@@ -37,6 +37,7 @@ Content
 
 .. toctree::
    :maxdepth: 2
+   :caption: Architecture Essentials
 
    04-foreword
    05-introduction
@@ -61,7 +62,7 @@ Content
 .. toctree::
    :hidden:
    :maxdepth: 3
-   :caption: Open references
+   :caption: Open References
    
    13-appendix-references
    securitycourses   
