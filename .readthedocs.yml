@@ -1,0 +1,17 @@
+version: 2
+
+python:
+  version: 3.7
+  install:
+    - requirements: requirements.txt
+    - method: pip
+      path: .
+      extra_requirements:
+        - sphinx
+    - method: setuptools      
+  system_packages: true
+
+
+sphinx:
+  builder: html
+  fail_on_warning: true
