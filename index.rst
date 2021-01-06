@@ -21,7 +21,7 @@ This reference architecture contains open reusable information to empower you to
 The reference architecture is not just another security book. Since libraries and book stores are filled with decent books on security and privacy this book is all about using and reusing existing security and privacy solutions to simplify the process to solve your urgent use case. 
 
 
-`(c) 2015-2020 Maikel Mardjan and Asim Jahan.`
+`(c) 2015-2021 Maikel Mardjan and Asim Jahan.`
 
 Published by the Business Management Support Foundation, The Netherlands.
 
@@ -42,9 +42,10 @@ Content
    05-introduction
    solution-ar
    06-secmodels
-   07-principles
+   07-principles   
    08-security-principles
    09-privacy-principles   
+   mozilla-dataprivacy-principles
    091-designrules
    10-using-oss   
    
