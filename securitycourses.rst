@@ -15,6 +15,12 @@ Digitally Aware
 ^^^^^^^^^^^^^^^^
 Basic Security Awareness Training. Slides are available in Dutch and in English on the github repository (https://github.com/radicallyopensecurity/Digitally-Aware). Basic slides in English are available on: https://awareness.radicallyopensecurity.com/Awareness%20Training-1-0-beta-gh.pdf 
 
+Basic course on security awareness
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This is not a course like many others. This digital security course (or “security awareness”) will allow you to find out what are the correct behaviors to keep to manage information securely. 
+Check: https://teamdigitale.github.io/security-awareness/en/
+
 
 
 Malware Analysis
