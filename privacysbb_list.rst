@@ -1,3 +1,24 @@
+Ambianic
+---------
+
+Ambianic's mission is to make our homes and workspaces a little cozier. Ambianic is an award winning Ambient Intelligence platform that puts local control and privacy first. It enables users to train and share custom AI models without compromising privacy.
+
+Created and maintained by a team of Open Source contributor.
+
++-----------------------+--------------------------------------------------+
+| **SBB License**       | Apache Software Foundation License(ASL) 2.0      |
++-----------------------+--------------------------------------------------+
+| **Core Technology**   | Python, JavaScript, Tensorflow                   |
++-----------------------+--------------------------------------------------+
+| **Project URL**       | https://ambianic.ai/                             |
++-----------------------+--------------------------------------------------+
+| **Source Location**   |  https://github.com/ambianic                     |
++-----------------------+--------------------------------------------------+
+| **Tag(s)**            | physical space monitoring, privacy               |
++-----------------------+--------------------------------------------------+
+
+| 
+
 Amiunique
 ---------
 
