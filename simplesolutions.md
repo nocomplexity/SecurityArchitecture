@@ -4,6 +4,16 @@
 
 ```{admonition} How to mitigate DDoS attacks - never simple..
 :class: tip, dropdown
+A Denial of Service (DoS) attack is a malicious attempt to affect the availability of a targeted system, such as a website or application, to legitimate end users. Typically, attackers generate large volumes of packets or requests ultimately overwhelming the target system. In case of a Distributed Denial of Service (DDoS) attack, and the attacker uses multiple compromised or controlled sources to generate the attack.
+
+In general, DDoS attacks can be segregated by which layer of the Open Systems Interconnection (OSI) model they attack. They are most common at the Network (layer 3), Transport (Layer 4), Presentation (Layer 6) and Application (Layer 7) Layers.
+
+Simple rules for mitigating DDOS attacks:
+* Design a good but simple architecture
+* Create a static version of your site to be able to inform customers
+* Have a response plan
+* Have different mitigation scenarios in place
+* Make sure to have a direct phone number of a real network security expert that can and will help you! (Without ripping you off)
 
 
 ```{link-button}  https://nocomplexity.com/one-more-time/
