@@ -1,11 +1,13 @@
-[![Documentation Status](http://readthedocs.org/projects/security-and-privacy-reference-architecture/badge/?version=latest)](http://security-and-privacy-reference-architecture.readthedocs.io/en/latest/?badge=latest)
 
-# SecurityPrivacyReferenceArchitecture
-Open Repository for the Open Security and Privacy Reference Architecture
+# Open Security Reference Architecture
 
-Open publications for IT security and privacy are still rare. Despite the great work of the OWASP foundation many valuable resources for Security and Privacy are not open. Security and Privacy is technological complex and real risks mitigation is still problematic and expensive.
+IT Security is a complex field. People, processes and technology are crucial parts of an architecture to reduce risks. Our certified experts love to solve your cyber security challenges. Detecting what is not good with your current security is the simple work. You can find many companies that launch automated test suites based on open source tools that tell you that you are not secure enough. However the real challenge is designing solutions that are secure.
 
-This reference architecture aims to enable you to create better and faster security and privacy solutions. This by reusing content that is provided in this reference architecture or by directing you to open (cc-by) resources to prevent reinventing the wheel. 
+
+Open publications for cyber security are still rare. Despite the great work of the [OWASP](https://owasp.org) foundation many valuable resources for Security are not open. 
+
+This reference architecture aims to enable you to create better and faster security solutions. You SHOULD use and reuse content that is provided in this reference architecture to prevent reinventing the wheel. 
+
 To encourage collaboration for this project this reference architecture is of course free and open (cc-by-sa).
 
 This project is supported by the BM-Support Foundation, https://www.bm-support.org/ 
@@ -13,28 +15,25 @@ This project is supported by the BM-Support Foundation, https://www.bm-support.o
 Current status: We are working on a update for the 2022 [hardcopy](https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan) version of this 'Open Reference Architecture for Security and Privacy'. But the online version will always be up-to-date! 
 So join the party and join the team to make this Open resource better! 
 
+The initial version (2015) of this project was called the 'Open Reference Architecture for Security and Privacy'.However we decided to split the project in a security Playbook and a privacy playbook. Content for this Security Reference Architecture is partly derived from the original 2015-2021 publication, but heavily edited and improved.
+
 
 # Contributing
 
 We encourage all security professionals to improve this reference architecture. Join the team to:
 
-* Add security or privacy principles.
-* Add security or privacy models.
-* Help us create the largest OSS reference framework on OSS security and privacy applications and tools.
+* Add open (cc-by) security resources.
+* Add security models.
 * Create better graphics and text.
 * Add threat models that can be easily reused.
 * Improve criteria on selecting OSS solutions for security and privacy applications.
 * Create tools to speed up the process of making your security architectures or privacy designs with use of this reference architecture (and tools).
 
-Your contributions to this Guide are greatly appreciated as long as contributions fit within the scope and goal of this security and privacy reference architecture. As an open project, this Open Reference Architecture for Security and Privacy shall always remain vendor-neutral and freely available for all to use. If you contribute you will of course get credit (mentioned in upcoming publications).
+Your contributions to this Guide are greatly appreciated as long as contributions fit within the scope and goal of this security reference architecture. As an open project, this Security Architecture shall always remain vendor-neutral and freely available for all to use. If you contribute you will of course get credit (mentioned in upcoming publications).
 
-
-With the exception of typos and spelling mistakes (feel free to fix these and they’ll be merged), please observe the following guides:
-
-* Always open an issue first. This will allow us to determine whether or not the change should take place. 
-* Explain your issue, and we will discuss it with you. If we agree the change is necessary we will mark it as TODO and will fix it when we get a chance, or we will allow a member of the community to supply the change with a pull request.
-* This reference architecture is intended to be a helpful resource aimed at professional security/privacy architects and engineers.
-*    Contributions must fit within the scope and goal of this security and privacy reference architecture. Of course we like to discuss your input for changing scope or goals if needed!
+* This reference architecture is intended to be a helpful resource aimed at professional security architects and engineers.
+* Contributions must fit within the scope and goal of this security reference architecture. 
+* All contributions to resources must be open. E.g. cc-by licensed)
 
 For small corrections or input, just send me an email. For larger contributions, please create a pull request. 
 
