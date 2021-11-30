@@ -6,7 +6,7 @@ We have decided to make a separate publication for a privacy playbook. Check bm-
 
 ## The initial authors
 
-The initial authors of the first release are:
+The initial authors that started this project in 2015 are:
 
  **Asim Jahan**
 
