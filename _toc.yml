@@ -1,0 +1,57 @@
+format: jb-book
+
+root: introduction
+
+parts:
+- caption: Prevention
+  chapters:
+  - file: prevention
+  - file: architecturesteps  
+  - file: simple-qa-checklist
+    sections:
+      - file: foss-securitycriteria
+      - file: owasp-top10-checklist
+      - file: linux-securitychecklist
+      - file: api-security-checklist
+      - file: csp-checklist
+  - file: simplesolutions
+
+- caption: Protection
+  chapters:
+  - file: security-policies
+  - file: security-classifications
+  - file: vulnerabilities-search
+  - file: checklists
+  - file: security-management
+
+- caption: Architecture
+  chapters:
+  - file: frameworks
+  - file: reference-architecture
+  - file: securitymodels
+  - file: attack-vectors
+  - file: threadmodels
+  - file: securityprinciples
+    sections:
+      - file: mozilla_securityprinciples
+      - file: NCSC-designprinciples
+      - file: NCSC-zerotrustprinciples
+      - file: NCSC-securecommunication
+      - file: saltzer_designprinciples
+      - file: ms-zt-principles
+
+
+- caption: Learning
+  chapters:
+  - file: securitycourses
+  - file: books
+  - file: secure-coding
+  - file: softwaretesting
+  - file: security-references
+- caption: About
+  chapters:
+  - file: open  
+  - file: contributing
+  - file: aboutthisguide
+  - file: bio
+  - file: license
