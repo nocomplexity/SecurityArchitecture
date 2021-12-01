@@ -9,7 +9,7 @@ author                      : '<a href="https://nocomplexity.com/">Maikel Mardja
 copyright                   : '2022- - Business Management Support Foundation (bm-support.org)'  # Copyright year to be placed in the footer
 logo                        : "images/nocxbanner.png"  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
-exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
+exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints",README.md]
 # Auto-exclude files not in the toc
 only_build_toc_files        : false
 

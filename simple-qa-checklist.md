@@ -46,9 +46,10 @@ A good simple cyber security products works without unnecessary additions and mo
 Simplicity is the primary cyber security principle. All other principles must be sacrificed in favor of design simplicity. 
 
 
-```{tip} Zero Complexity by design 
+```{tip} Zero Complexity by design
+
 A nice reference to avoid complexity when designing solutions can be found on:
-https://nocomplexity.com/documents/0complexity/abstract.html 
+https://nocomplexity.com/documents/0complexity/
 ```
 
 ## Other Security Checklists

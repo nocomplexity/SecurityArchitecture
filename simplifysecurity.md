@@ -1,4 +1,4 @@
-# Simple QA Checklists 
+# Simple QA Checklists
 
 The landscape of cyber security solutions is filled with:
 * Holy Grails and

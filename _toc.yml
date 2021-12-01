@@ -9,6 +9,7 @@ parts:
   - file: architecturesteps  
   - file: simple-qa-checklist
     sections:
+      - file: simplifysecurity
       - file: foss-securitycriteria
       - file: owasp-top10-checklist
       - file: linux-securitychecklist

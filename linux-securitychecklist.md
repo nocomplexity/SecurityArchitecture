@@ -1,7 +1,7 @@
 # Linux workstation security checklist
 
 
-### Table of contents
+## Table of contents
 
 - [Linux workstation security checklist](#linux-workstation-security-checklist)
     - [Table of contents](#table-of-contents)
@@ -71,7 +71,7 @@
   - [Further reading](#further-reading)
   - [License](#license)
 
-### Target audience
+## Target audience
 
 This document is aimed at teams of systems administrators who use Linux
 workstations to access and manage your project's IT infrastructure.
@@ -87,7 +87,7 @@ environment, or set up their home systems to access the work infrastructure
 for after-hours/emergency support. In either case, you can adapt this set of
 recommendations to suit your environment.
 
-### Limitations
+## Limitations
 
 This, by no means, is an exhaustive "workstation hardening" document, but
 rather an attempt at a set of baseline recommendations to avoid most glaring
@@ -104,14 +104,14 @@ collaboration to IT policy documentation][18]. If you find it useful, we hope
 you'll contribute to its development by making a fork for your own
 organization and sharing your improvements.
 
-### Structure
+## Structure
 
 Each section is split into two areas:
 
 - The checklist that can be adapted to your project's needs
 - Free-form list of considerations that explain what dictated these decisions
 
-#### Checklist priority levels
+### Checklist priority levels
 
 The items in each checklist include the priority level, which we hope will
 help guide your decision:
@@ -142,9 +142,9 @@ this section addresses core considerations when choosing a work system.
 - [ ] System has a TPM chip _(NICE)_
 - [ ] System has disabled Intel ME chip _(PARANOID)_
 
-### Considerations
+## Considerations
 
-#### SecureBoot
+### SecureBoot
 
 Despite its controversial nature, SecureBoot offers prevention against many
 attacks targeting workstations (Rootkits, "Evil Maid," etc), without
@@ -157,7 +157,7 @@ Alternatively, you may set up [Anti Evil Maid][1] which offers a more
 wholesome protection against the type of attacks that SecureBoot is supposed
 to prevent, but it will require more effort to set up and maintain.
 
-#### Firewire, thunderbolt, and ExpressCard ports
+### Firewire, thunderbolt, and ExpressCard ports
 
 Firewire is a standard that, by design, allows any connecting device full
 direct memory access to your system ([see Wikipedia][2]). Thunderbolt and
@@ -166,7 +166,7 @@ Thunderbolt attempt to limit the scope of memory access. It is best if the
 system you are getting has none of these ports, but it is not critical, as
 they usually can be turned off via UEFI or disabled in the kernel itself.
 
-#### TPM Chip
+### TPM Chip
 
 Trusted Platform Module (TPM) is a crypto chip bundled with the motherboard
 separately from the core processor, which can be used for additional platform
@@ -174,7 +174,7 @@ security (such as to store full-disk encryption keys), but is not normally used
 for day-to-day workstation operation. At best, this is a nice-to-have, unless
 you have a specific need to use TPM for your workstation security.
 
-#### Intel Management Engine (IME)
+### Intel Management Engine (IME)
 
 Almost every computer with an Intel processor ships with a fully integrated
 management platform chip called the Intel Management Engine (IME). Its purpose
@@ -212,7 +212,7 @@ with OS installation.
 
 ### Considerations
 
-#### UEFI and SecureBoot
+### UEFI and SecureBoot
 
 UEFI, with all its warts, offers a lot of goodies that legacy BIOS doesn't,
 such as SecureBoot. Most modern systems come with UEFI mode on by default.
@@ -253,7 +253,7 @@ what you should consider when picking a distribution to use.
 
 ### Considerations
 
-#### SELinux and AppArmor
+### SELinux and AppArmor
 
 Mandatory Access Controls (MAC) or Role-Based Access Controls (RBAC) are an
 extension of the basic user/group security mechanism used in legacy POSIX
@@ -276,7 +276,7 @@ almost every publicly available distribution has stopped providing it. If this
 option remains available to you through your employer, you may choose to
 continue using GrSecurity/PaX on your workstation.
 
-#### Distro security bulletins
+### Distro security bulletins
 
 Most of the widely used distributions have a mechanism to deliver security
 bulletins to their users, but if you are fond of something esoteric, check
@@ -285,7 +285,7 @@ security vulnerabilities and patches. Absence of such mechanism is a major
 warning sign that the distribution is not mature enough to be considered for a
 primary admin workstation.
 
-#### Timely and trusted security updates
+### Timely and trusted security updates
 
 Most of the widely used distributions deliver regular security updates, but is
 worth checking to ensure that critical package updates are provided in a
@@ -299,7 +299,7 @@ widely used distributions have been known to go for years before introducing
 this basic security measure (Arch, I'm looking at you), so this is something
 worth checking.
 
-#### Distros supporting UEFI and SecureBoot
+### Distros supporting UEFI and SecureBoot
 
 Check that the distribution supports UEFI and SecureBoot. Find out whether it
 requires importing an extra key or whether it signs its boot kernels with a key
@@ -310,7 +310,7 @@ alternatives to ensure tamper-proof or tamper-evident boot environments
 doesn't support SecureBoot and has no mechanisms to prevent boot-level attacks,
 look elsewhere.
 
-#### Full disk encryption
+### Full disk encryption
 
 Full disk encryption is a requirement for securing data at rest, and is
 supported by most distributions. As an alternative, systems with
@@ -836,9 +836,6 @@ distribution, please check out the following links:
 - [Arch Linux Security Wiki](https://wiki.archlinux.org/index.php/Security)
 - [Mac OSX Security](https://www.apple.com/support/security/guides/)
 
-## License
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][0].
 
 [0]: http://creativecommons.org/licenses/by-sa/4.0/
 [1]: https://github.com/QubesOS/qubes-antievilmaid
@@ -877,3 +874,4 @@ https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
 Created by The Linux Foundation IT 
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
