@@ -7,22 +7,22 @@ parts:
   chapters:
   - file: prevention
   - file: architecturesteps  
-  - file: simple-qa-checklist
-    sections:
-      - file: simplifysecurity
+  - file: simple-checklists
+    sections:      
+      - file: nocx-security-checklist
       - file: foss-securitycriteria
       - file: owasp-top10-checklist
       - file: linux-securitychecklist
       - file: api-security-checklist
       - file: csp-checklist
+      - file: ncp-checklists
   - file: simplesolutions
 
 - caption: Protection
   chapters:
   - file: security-policies
   - file: security-classifications
-  - file: vulnerabilities-search
-  - file: checklists
+  - file: vulnerabilities-search  
   - file: security-management
 
 - caption: Architecture
@@ -31,6 +31,13 @@ parts:
   - file: reference-architecture
   - file: securitymodels
   - file: attack-vectors
+    sections:
+      - file: common-attackvectors
+      - file: supplychainattacks      
+      - url: https://cwe.mitre.org/top25/archive/2021/2021_cwe_top25.html
+        title: CWE Top 25 Most Dangerous Software Weaknesses
+      - url: https://cwe.mitre.org/scoring/lists/2021_CWE_MIHW.html
+        title: CWE Most Important Hardware Weaknesses 
   - file: threadmodels
   - file: securityprinciples
     sections:

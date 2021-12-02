@@ -12,6 +12,13 @@ Failed security products are doomed when deployed. These products are characteri
 * complex mandatory maintenance and update processes.  
 Too often these product introduces extra risks instead of mitigating risks. Deploying these products can be compared with deliberately installing a large backdoor in your trusted environment.
 
+Checklists help with improving all security management aspects like:
+
+* Developing and improving security architectures and designs.
+* Communication. E.g. after a security incident.
+* Evaluating quality of solutions. 
+
+
 ## Simple checklist 
 
 Simple is hard. Especially to manage and mitigate cyber security risks. The context of cyber security problems consist of a mix of:
