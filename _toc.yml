@@ -21,6 +21,8 @@ parts:
 - caption: Protection
   chapters:
   - file: security-policies
+    sections:
+      - file: mattermost-security-policy
   - file: security-classifications
   - file: vulnerabilities-search  
   - file: security-management

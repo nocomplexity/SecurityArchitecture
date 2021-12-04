@@ -80,5 +80,5 @@ Software SHOULD never have to use a high privilege account to run.
 ```{admonition} Prevent untrusted code to be run.
 :class: tip, dropdown
 
- So MAC (mandatory access control). Despite the many technologies like sandboxing around the most important and simple measurement is: think! Be aware of attachments and downloads of strangers.
+ So use MAC (mandatory access control). Despite the many technologies like sandboxing around the most important and simple measurement is: think! Be aware of attachments and downloads of strangers.
 ```

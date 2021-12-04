@@ -2,14 +2,16 @@
 
 Cyber security is complex. There is no perfect solution. Never. 
 
+```{admonition} This Playbook
+is created to help you solving your specific complex security challenges.
+```
 
-Cyber security is a process, not a destination to arrive at. Designing a cyber security architecture for your use case is the process of choosing between “less safe” and “more safe” and continuing this process until you reach “safe enough” for the information you want to protect. 
 
-Good security design and implementation takes time, patience and hard work. 
 
-Society, companies, governments are increasingly dependent on IT. Good cyber security is required for safety and privacy.
+This security architecture is not just another security book. We wanted to create an innovative solution that helps you to create better and faster security solutions for your security use case. So we used our many years of experience when dealing with security challenges and created this interactive community driven publication to enable this goal. 
 
-There are no silver bullets when it comes to cyber security. Risks will never be zero. Using complex and expensive cyber security solutions are not by definition better. 
+All information within this guide is targeted for reuse to solve your cyber security challenge. This guides is designed so you can make your cyber security designs faster and better. Do not reinvent the wheel. Reuse and improve solid cyber security knowledge and experience that is created to build upon. 
+
 
 We believe in open and simple cyber security solutions. Openness and transparency builds trust.
 
@@ -20,7 +22,7 @@ Open simple solutions are:
 
 Good cyber security solutions are open solutions. Transparency builds trust. Simple solutions that can easily be understand and studied are more transparent than complex proprietary  solutions. 
 
-Our mission with this open security reference architecture is to create the best place on internet to find free and open resources that continuously helps you solving your cyber security challenges. 
+Our mission with this open security reference architecture is to create the best playbook on internet that continuously helps you solving your cyber security challenges.
 
 We believe this is best done together. 
 ```{tip} Just use the buttons on top of every page. Create an edit suggestion or create an issue. 
@@ -29,13 +31,16 @@ We believe this is best done together.
 [See Contributing](license)
 ```
 
-This reference architecture is not just another security book. We wanted to create a solution that helps you to create better and faster security solutions for your use case. So we used our 25 years of experience with creating security solutions and created this interactive community driven publication to enable this goal. 
-
-All information within this guide is targeted for reuse to solve your cyber security challenge. This guides is designed so you can make your cyber security design faster and better. Do not reinvent the wheel. Reuse and improve solid cyber security knowledge and experience that is created to build upon. 
-
 
 All content in this reference architecture is openly licensed under CC-BY-SA (same as Wikipedia) and everyone can contribute - look for the "Edit" buttons on every page! 
 
+Cyber security is a process, not a destination to arrive at. Designing a cyber security architecture for your use case is the process of choosing between “less safe” and “more safe” and continuing this process until you reach “safe enough” for the information you want to protect. 
+
+Good security design and implementation takes time, patience and hard work. 
+
+Society, companies, governments are increasingly dependent on IT. Good cyber security is required for safety and privacy.
+
+There are no silver bullets when it comes to cyber security. Risks will never be zero. Using complex and expensive cyber security solutions are not by definition better. 
 
 
 There is no magic tool, method or process that can guarantee that a system (hardware,software, people and processes) will never be compromised. 

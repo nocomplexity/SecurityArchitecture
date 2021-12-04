@@ -4,7 +4,7 @@
 # Created by Maikel Mardjan (nocomplexity.com)
 #######################################################################################
 # Book settings
-title                       : 'Open Security Reference Architecture' # The title of the book. Will be placed in the left navbar.
+title                       : 'Security Reference Architecture' # The title of the book. Will be placed in the left navbar.
 author                      : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a> & Asim Jahan and all contributors.' # The author of the book
 copyright                   : '2022- - Business Management Support Foundation (bm-support.org)'  # Copyright year to be placed in the footer
 logo                        : "images/nocxbanner.png"  # A path to the book logo
