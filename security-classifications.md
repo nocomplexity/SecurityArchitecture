@@ -1,6 +1,16 @@
 # Security classifications
 
+Data classification of security classification is a specialized term used in the fields of cybersecurity to describe the process of:
+* identifying
+* categorizing and 
+* protecting 
+content according to its sensitivity or impact level. Data classification is needed before a starting a risks analyse and defining an architecture to protect your assets. 
+
+```{tip} 
 Simple security classifications are the best.
+
+```
+
 
 A security classification specifies how people must protect the information and equipment they handle.
 
@@ -24,5 +34,17 @@ Information that doesn’t need a security classification is called ‘unclassif
 UNCLASSIFIED isn’t a real security classification, but it is used as a protective marking because it shows that the impact from unauthorised disclosure or misuse has been assessed.
 
 Every large organisation must have a policy on how you will mark, protect, and handle information that needs increased protection but doesn’t qualify for a security classification.
+
+
+## Examples 
+
+Defining a good security classification standard should not be made complex. Simple is remembered. 
+
+But in order to give you some more inspiration for defining your own security classification we provide you with a limited list of examples. This to speed of the process when you need to develop your classification system.
+
+
+
+```{tableofcontents}
+```
 
 

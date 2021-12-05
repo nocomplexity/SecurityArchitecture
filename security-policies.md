@@ -26,7 +26,7 @@ Reusing means use and improve where needed.
 The real work and challenge is the implementation of procedures within an organisation. So how to implement good security policies in the 'DNA' of an organisation? This is the real challenge and is always depended on a specific context, culture and organisation structure.
 
 
-These below information security policies will help you develop yours.
+Below some example information security policies that help you develop your own.
 
 
 

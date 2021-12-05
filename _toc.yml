@@ -22,10 +22,19 @@ parts:
   chapters:
   - file: security-policies
     sections:
-      - file: mattermost-security-policy
+      - file: security-guidelines 
+      - file: mattermost-security-policy      
       - url: https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=2810&s=1A
-        title: NASA Procedural Requirement
+        title: Example of NASA
+      - url: https://www.vupune.ac.in/images/IT-Policies/VU_HR-IS_Policy_Ver_10.pdf
+        title: Example of an university 
+      - url: https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/isp_v4.pdf
+        title: Example of a government
   - file: security-classifications
+    sections:
+      - url: https://security.berkeley.edu/data-classification-standard
+        title: Data Classification Standard (Berkeley)
+      - file: dataclassification-example1
   - file: vulnerabilities-search  
   - file: security-management
 
