@@ -23,6 +23,8 @@ parts:
   - file: security-policies
     sections:
       - file: mattermost-security-policy
+      - url: https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=2810&s=1A
+        title: NASA Procedural Requirement
   - file: security-classifications
   - file: vulnerabilities-search  
   - file: security-management
