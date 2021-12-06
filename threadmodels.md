@@ -1,12 +1,10 @@
 # Threat Models
 
 This section is not about teaching you how to model you specific
-security or privacy solutions. By now you know that your model should be
-built out of attack vectors, security personas and security and privacy
-principles and requirements. The next chapter of this reference
+security solutions. By now you know that your model should be
+built out of attack vectors, security personas and security principles and requirements. The next chapter of this reference
 architecture deals with reusable principles in depth. First we present
-valuable models that can be reused when created a security or privacy
-solution architecture.
+valuable models that can be reused when created a security solution architecture.
 
 Security threat modelling, or threat modelling, is a process of
 assessing and documenting a system's security risks. Security threat
@@ -20,19 +18,16 @@ Many ways exist to build a threat model but in essence a threat model is
 a conceptual model that:
 
 -   helps to understand a situation and
--   is helpful in reducing security or privacy concerns. So helpful in
+-   is helpful in reducing security concerns. So helpful in
     solving your security problem.
 
-A security or privacy conceptual threat model is usually built of
-relevant elements and their relations that matter in a security problem
+A security threat model is built of relevant elements and their relations that matter in a security problem
 situation.
 
 In general, a conceptual model is constructed based on a specific
-problem situation you want to solve. In our case the aim is to outline
-important concepts regarding security and privacy. So our collection of
-conceptual models is aimed at generic reuse.
+problem situation you want to solve. 
 
-Since the real-world problems of security and privacy are outlined in a
+Real-world problems of security are outlined in a
 large number of publications, within this section we only present
 conceptual models that are based on the following selection criteria:
 
@@ -49,9 +44,20 @@ of the best examples on how open should be. That is open license on
 content (common creative) and no impediments and no requirements for
 participants who want to join the working groups.
 
-For security and privacy many models exist. Most models are aimed for
+For security many models exist. Most models are aimed for
 evaluating risks for auditors and other stakeholders. In the sections
-below a collection of (almost open) security and privacy models.
+below a collection of (almost open) security thread models.
+
+Starting thread modelling can be hard. So this playbook offers:
+1. Collection of good thread models. You can use and reuse these within your own context. See the sections in this chapter.
+2. Methods for performing threat modeling. See the subsections.
+
+Methods for performing threat modeling are:
+
+```{tableofcontents}
+```
+
+
 
 ## OAuth 2.0 Threat Model
 
