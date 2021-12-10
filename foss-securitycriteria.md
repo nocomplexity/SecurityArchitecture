@@ -6,7 +6,9 @@ FOSS software consist of:
 
 For security a good practice is performing all kind of security tests on a product. FOSS or non-FOSS. But the basic quality is determined not only by the software but also defined processes used.
 
-A very good list of security quality criteria to use when determining cyber security quality aspects is defined by the CII Badge project.  
+A very good list of security quality criteria to use when determining cyber security quality aspects is defined by the CII Badge project.  Note that this great program will be renamed in 2022 to "OpenSSF Best Practices Badge". This since the project is now part of the [OpenSSF](https://openssf.org/) Best Practices Working Group.
+
+
 
 ```{tip} Reuse the best practice criteria
 These criteria are easily adjusted to evaluate your selected FOSS security solution.
