@@ -34,3 +34,15 @@ A growing number of health-related IoT devices are currently available in the ma
 
 
 
+## Programming Differential Privacy
+
+Programming Differential Privacy, A book about differential privacy, for programmers
+A great open book on this important security topic. Programming Differential Privacy uses examples and Python code to explain the ideas behind differential privacy! The book is suitable for undergraduate students in computer science, and no theory background is expected.
+
+Programming Differential Privacy is executable. Using [JupyterBook](https://jupyterbook.org/intro.html), so the same Sphinx based Jupyter tool chain  as this Security Architecture book. Each chapter is actually generated from Python code. 
+Programming Differential Privacy is a living, open-source book. Link to the [GitHub repository](https://github.com/uvm-plaid/programming-dp). 
+
+[Link to the book website](https://programming-dp.com/index.html):https://programming-dp.com/index.html
+
+
+And to read the online html version directly [click here](https://programming-dp.com/index.html).

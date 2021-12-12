@@ -17,6 +17,7 @@ parts:
       - file: csp-checklist
       - file: ncp-checklists
   - file: simplesolutions
+  - file: hardening
 
 - caption: Protection
   chapters:

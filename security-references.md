@@ -165,6 +165,15 @@ The Common Criteria for Information Technology Security Evaluation (CC), and the
 
 More information on: https://www.commoncriteriaportal.org/
 
+## Trusted CI
+
+Trusted CI, the NSF Cybersecurity Center of Excellence is comprised of cybersecurity experts who have spent decades working with science and engineering communities and have an established track record of usable, high-quality solutions suited to the needs of those communities. The team draws from best operational practices and includes leaders in the research and development of new methodologies and high-quality implementations.
+
+Trusted CI offers a great collection of valuable resources to help cybersecurity professionals. Almost all content is open and published under a Creative Commons Attribution-­NonCommercial 3.0 Unported (CC BY­NC 3.0) license.
+
+More information on: https://www.trustedci.org/
+
+
 ## Vulnerability Databases
 
 CWE (Common Weakness Enumeration - CWE™) is a community-developed list
