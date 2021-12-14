@@ -84,6 +84,12 @@ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf
 
 [The Cyber Security Body Of Knowledge](https://www.cybok.org). A lot of resources that cover all aspects of cyber security.
 
+## New Zealand Information Security Manual
+
+Great IS manual. The New Zealand Information Security Manual details processes and controls essential for the protection of all New Zealand Government information and systems. Controls and processes representing good practice are also provided to enhance the baseline controls. 
+Use and reuse this manual for your governmental organisation or company.
+
+[New Zealand Information Security Manual](https://www.nzism.gcsb.govt.nz/ism-document/)
 
 ## No-More-Ransom
 

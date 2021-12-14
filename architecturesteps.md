@@ -38,3 +38,11 @@ Creating security a security or privacy solution architecture consists of the fo
 
 
 
+## Risk Assessment
+
+Many great open resources exist that guide you through the process of performing a risk assessment. Creating a risk matrix is not done every day. Use good documentation and proven tools. Make use of the many lessons learned in the field.
+
+
+A number of good open resources that help you with your risk assessment are:
+* [Risk Assessment Process Guide](https://www.digital.govt.nz/dmsdocument/3-risk-assessment-process-information-security/html) Based on ISO 3100:2009 Risk Management. Created by the New Zealand Government. Or use the also cc-by licensed [PDF version](https://www.digital.govt.nz/assets/Documents/3Risk-Assessment-Process-Information-Security.pdf). Of [download the MSWord template](https://www.digital.govt.nz/assets/Standards-guidance/Governance/Risk-Assessment-Process-Template.docx)
+
