@@ -259,6 +259,17 @@ security and privacy reference architecture. However in some cases using
 patterns can give an advantage. (See the Introduction, section 'What
 about security patterns?' for more information).
 
+## OpenTitan Security Model 
+
+OpenTitan is an open source project for building a transparent, high-quality reference design and integration guidelines for silicon root of trust (RoT) chips.  
+
+OpenTitan will make the silicon RoT design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers. OpenTitan is administered by lowRISC CIC as a collaborative project to produce high quality, open IP for instantiation as a full-featured product. 
+
+![image](images/opentitan.png)
+
+*([Image source](https://docs.opentitan.org/doc/security/specs/) - license: Apache License, Version 2.0)* 
+
+Link for info on Open Titan project: [https://opentitan.org/](https://opentitan.org/) or see the docs at [https://docs.opentitan.org/)https://docs.opentitan.org/](https://docs.opentitan.org/)https://docs.opentitan.org/)
 
 ## System Transparency architecture
 
