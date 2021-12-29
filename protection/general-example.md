@@ -1,5 +1,8 @@
 # General Security policy
 
+This is a general example of a always good and better than nothing security policy.
+Tweak it to your needs.
+
 ## PURPOSE
 This policy assigns responsibility for the security of [YOUR COMPANY] data and information systems.
 Components of security include confidentiality, availability and integrity.
@@ -64,5 +67,9 @@ vice president for information technology and CIO.
 ## Version ID
 
 Version: 
+
+
 Approved by: 
+
+
 Previous version: 

@@ -19,7 +19,6 @@ Checklists help with improving all security management aspects like:
 * Evaluating quality of solutions. 
 
 
-
 ## Collection of Security Checklists
 
 ```{tableofcontents}

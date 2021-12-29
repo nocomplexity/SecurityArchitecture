@@ -7,7 +7,7 @@ The number of security applications available to solve your security problems is
 
 The following conceptual security topology helps with arranging functional to product mapping needs:
 
-![Security Reference Architecture](images/security-abbs.png)
+![Security Reference Architecture](../images/security-abbs.png)
 *Credit This model is created by nocomplexity.com and is cc-by-sa 4.0 licensed*
 
 For every security function or service needed you should look serious at using open transparent reusable solutions. So Open Source. Of course many vendors provide good solid security products for specific use cases. But when you feel you need a trivial security  service note that there is always a working and maintained FOSS application available. When using a security FOSS solutions you have have a large choice of companies that deliver maintenance and support on this application on commercial bases.

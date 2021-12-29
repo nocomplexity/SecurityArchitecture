@@ -34,7 +34,7 @@ Creating security a security or privacy solution architecture consists of the fo
 
 * Review and improve your solution. 
 
-![Steps towards a security solution](images/securitybydesign.png)
+![Steps towards a security solution](../images/securitybydesign.png)
 
 
 

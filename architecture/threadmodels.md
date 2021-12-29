@@ -70,7 +70,7 @@ of the thread model is found in RFC 6819
 In the picture below the visual of the threat model, where the numbers
 are references to the section in the IETF RFC.
 
-![image](images/oath2.png)
+![image](../images/oath2.png)
 
 OAuth 2.0 basic model. A good threat model can be found at
 <http://hdknr.github.io/docs/identity/oauth_threat.html>
@@ -92,7 +92,7 @@ due to DDoS attacks.
 The model below gives a DDoS attack taxonomy. This can be  useful if you
 are designing solutions to be more resilient against DDoS attacks.
 
-![image](images/ddos-model.png)
+![image](../images/ddos-model.png)
 
 REF: <http://file.scirp.org/Html/5-7800164_34631.htm>
 
@@ -105,7 +105,7 @@ for mobile threads.
 
 The model presented here below can help in identifying the threads.
 
-![image](images/mobile-threads.png)
+![image](../images/mobile-threads.png)
 
 ## IoT Threat Model
 
@@ -126,7 +126,7 @@ based on standard and inter-operable communication protocols .
 
 Below a generic threat model for the IoT world:
 
-![image](images/image_11_IoT.png)
+![image](../images/image_11_IoT.png)
 
 Note the view is not complete. Missing these views are:
 
@@ -190,7 +190,7 @@ and the understanding of attack consequences.
 A simple outline of the basic components that must be incorporated in a
 ML thread model is outlined below.
 
-![image](images/ml-system.png)
+![image](../images/ml-system.png)
 
 (Source: <https://berryvilleiml.com/interactive/> )
 

@@ -85,7 +85,7 @@ These are the foundations of zero trust architecture design.
 
 In the zero trust network model it's more important than ever to know your assets.
 
-[Read more](../ncsc-zero-trust-architecture/01-Know-your-architecture-including-users-devices-and-services.md)
+[Read more](ncsc-zero-trust-architecture/01-Know-your-architecture-including-users-devices-and-services.md)
 
 ### 2. Know your User, Service and Device identities
 

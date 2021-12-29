@@ -56,7 +56,7 @@ and implementations.
 **Security principles provide a foundation for decision making and are crucial to have for any new design.**
 
 
-![principles](images/principles.png)
+![principles](../images/principles.png)
  
 In these sections you find good principles to create your security solution.
 

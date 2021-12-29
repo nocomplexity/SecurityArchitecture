@@ -60,37 +60,44 @@ Here a few simple pointers to create a more secure solution faster:
 :column: col-lg-6 px-2 py-2
 :card:
 
-**[Prevention](prevention)** ✍
+**[Prevention](prevention/prevention)** ✍
 ^^^
-Simplify your security
+[Simple Checklist](prevention/simple-checklists)
 
-Find simple but excellent security checklist fast.
+[Simple Solutions](prevention/simplesolutions)
 
-Learn how to create a security solution.
+[Hardening](prevention/hardening)
 
 ---
-**[Protection](security-management)** 🚀
+**[Protection](protection/security-management)** 🚀
 ^^^
-Security Policies
+[Security Policies](protection/security-policies)
 
-Security Management
+[Security Classifications](protection/security-classifications)
 
-Find vulnerabilities
+[Security Management](protection/security-management)
+
+[Find vulnerabilities](protection/vulnerabilities-search)
+
 ---
-**[Architecture](reference-architecture)** ✨
+**[Architecture](architecture/reference-architecture)** ✨
 ^^^
-[Frameworks](frameworks)
+[Frameworks](architecture/frameworks)
 
-[Security Principles](securityprinciples)
+[Security Principles](architecture/securityprinciples)
 
-[Security Models](securitymodels)
+[Security Models](architecture/securitymodels)
 
-[Secure Coding Guidelines](secure-coding)
+
 ---
-**[Learn all about Cyber Security](securitycourses)** 🎁
+**[Learn all about Cyber Security](learning/securitycourses)** 🎁
 ^^^
-[security courses](securitycourses)
+[Security courses](learning/securitycourses)
 
-[Security References](security-references)
+[Open Access Security Books](learning/books)
+
+[Secure Coding Guidelines](learning/secure-coding)
+
+[Security References](learning/security-references)
 
 :::

@@ -18,7 +18,7 @@ Save time and money: Reuse existing open security models!
 A good visualization of a security model is easy to use for communication. So instead of explaining what the essence of information security is: Use a model to facilitate crucial conversations.
 
 
-![What is security](images/what_is_security.png)
+![What is security](../images/what_is_security.png)
 
 The essence of information security is to protect information. It is
 just that simple. So whenever possible do not make it more complicated
@@ -88,7 +88,7 @@ need:
 -   Insight in commonly used attack vectors. This means you need to have
     some view on the attack vectors used in the use case? 
 
-![image](images/essence-of-infosec.png)
+![image](../images/essence-of-infosec.png)
 
 Creating a good security or privacy design or architecture means you
 never ever start with selecting tools for solving your problem!
@@ -213,7 +213,7 @@ The advantages of using the Jericho model for security are:
 -   Simplifies use of public networks and cloud solutions
 -   Aimed for use of open principles and open solution building blocks.
 
-![image](images/jericho.png)
+![image](../images/jericho.png)
 
 Unfortunate the Jericho framework is not a real open security framework.
 It is copyrighted by the open group (see references chapter for more
@@ -231,7 +231,7 @@ Sooner or later you create a solution or privacy architecture where
 cloud hosting plays a significant part. The NIST cloud computing
 security reference model is a very good model to use as reference. 
 
-![image](images/image_12_Nist_CloudSecurityREFmodel.png)
+![image](../images/image_12_Nist_CloudSecurityREFmodel.png)
 
 
 ## Open Security Architecture Landscape(OSA)
@@ -244,7 +244,7 @@ and improve it.
 
 Below is the OSA Security architecture landscape:
 
-![image](images/image_8_OSA.png)
+![image](../images/image_8_OSA.png)
 
 Link to OSA: https://www.opensecurityarchitecture.org
 
@@ -265,7 +265,7 @@ OpenTitan is an open source project for building a transparent, high-quality ref
 
 OpenTitan will make the silicon RoT design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers. OpenTitan is administered by lowRISC CIC as a collaborative project to produce high quality, open IP for instantiation as a full-featured product. 
 
-![image](images/opentitan.png)
+![image](../images/opentitan.png)
 
 *([Image source](https://docs.opentitan.org/doc/security/specs/) - license: Apache License, Version 2.0)* 
 
@@ -314,7 +314,7 @@ SAMM aids in:
 As an open project, SAMM content shall always remain vendor-neutral and
 freely available for all to use.
 
-![image](images/image_9_SAMM.png)
+![image](../images/image_9_SAMM.png)
 
 Source: OWASP
 
@@ -340,7 +340,7 @@ solution architecture you should take the SDLC into account to position
 where your solution fits and how maintenance is positioned within the
 SDLC phases.
 
-![image](images/image_10_SDLC.png)
+![image](../images/image_10_SDLC.png)
 
 Security and privacy should be embedded in the SDLC process. Always. The
 OWASP conceptual model of the (simplified) SDLC chain shows on high
