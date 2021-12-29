@@ -32,6 +32,13 @@ A growing number of health-related IoT devices are currently available in the ma
 [Read this Reference Architecture](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/05/IoT-Security-Reference-Architecture-For-The-Healthcare-Industry.pdf) 
 
 
+## Malware Reverse Engineering Handbook
+
+This handbook by CCDCOE Technology Branch researchers gives an overview of how to analyse malware executables that are targeting the Windows platform. The authors are presenting the most common techniques used in malware investigation including set up of LAB environment, network analysis, behavioural analysis, static and dynamic code analysis. The reader will become familiar with disassemblers, debuggers, sandboxes, system and network monitoring tools. Incident response and collaboration tools are also introduced.
+
+Book landing page: [https://ccdcoe.org/library/publications/malware-reverse-engineering-handbook/](https://ccdcoe.org/library/publications/malware-reverse-engineering-handbook/)
+
+Direct PDF link: [https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf)
 
 
 ## Programming Differential Privacy

@@ -49,6 +49,13 @@ through scientific research and design. Also a collection of OSS tools
 to visualize internet privacy horror are offered.
 <http://www.datatransparencylab.org>
 
+## IDPro Body of Knowledge
+
+The IDPro Body of Knowledge is a compilation of IAM crucial up-to-date knowledge. This content is created and reviewed by the IAM professionals. 
+All articles are peer reviewed. 
+Within this resource you can find an 'IAM Reference Architecture', articles on 'Authentication and Authorization' and more content regarding IAM (Identity and Access Management). 
+
+Check: [https://bok.idpro.org/](https://bok.idpro.org/)
 
 
 ## Information Security Guide
@@ -140,7 +147,6 @@ Technical guidelines, principles and general information as used by the
 infosec team of Mozilla.
 
 
-
 ## SOMAP.org
 
 Focuses on the Security Officers and on helping them in doing their
@@ -156,6 +162,13 @@ The OWASP Automated Threat Handbook provides actionable information and
 resources to help defend against automated threats to web applications.
 <https://www.owasp.org/images/3/33/Automated-threat-handbook.pdf>
 
+## The Cyber Law Toolkit
+
+The Cyber Law Toolkit is a dynamic interactive web-based resource for legal professionals who work with matters at the intersection of international law and cyber operations. The Toolkit may be explored and utilized in a number of different ways. At its core, it presently consists of 25 hypothetical scenarios. Each scenario contains a description of cyber incidents inspired by real-world examples, accompanied by detailed legal analysis. 
+
+Great toolkit, with all material available under a nice CC BY-SA 4.0 license.
+
+Check the toolkit on: [https://cyberlaw.ccdcoe.org/wiki/Main_Page](https://cyberlaw.ccdcoe.org/wiki/Main_Page)
 
 ## The Common Criteria for Information Technology Security Evaluation (CC)
 

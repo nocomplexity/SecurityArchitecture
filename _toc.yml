@@ -73,11 +73,12 @@ parts:
 
 - caption: Learning
   chapters:
-  - file: securitycourses
-  - file: books
-  - file: secure-coding
-  - file: softwaretesting
-  - file: security-references
+  - file: learning/securitycourses
+  - file: learning/books
+  - file: learning/secure-coding
+  - file: learning/softwaretesting
+  - file: learning/security-references
+
 - caption: About
   chapters:
   - file: open  
