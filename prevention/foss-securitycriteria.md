@@ -1,4 +1,6 @@
-# Best Practices Open Source Software (FLOSS)
+# OpenSSF Best Practices Badge 
+
+FOSS Security is important since FOSS software is used at large. Almost all internet infrastructure services and all the battle tested operating systems are 100% FOSS software.
 
 FOSS software consist of:
 1. A software product and
