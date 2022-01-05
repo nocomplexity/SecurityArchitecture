@@ -1,4 +1,4 @@
-## Simplify Prevention
+# Simplify Prevention
 
 Investing in prevention measurements is the easiest and simplest way to minimize cyber security risks.
 

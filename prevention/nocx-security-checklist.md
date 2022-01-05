@@ -1,4 +1,4 @@
-## Dead simple security checklist 
+# Dead simple security checklist 
 
 Simple is hard. Especially to manage and mitigate cyber security risks. The context of cyber security problems consist of a mix of:
 * People

@@ -4,7 +4,7 @@ In a zero trust architecture, identity becomes the new perimeter. This makes it 
 
 It is important to have a single source of identity for each of the following: user (human), service (machine or software process) and device.
 
-### User Identity 
+## User Identity 
 
 Your organisation should use a single user directory and create accounts that are linked to individuals (or a virtual directory / directory synchronisation to give the appearance of a single user directory). Each identity's permissions should be configured to be ['least privilege'](https://www.ncsc.gov.uk/collection/10-steps-to-cyber-security/the-10-steps/managing-user-privileges), so a user only has access to what they require to carry out their role (these privileges are often derived from the users role).
 
@@ -51,17 +51,17 @@ An application making a call on behalf of the end user may have to authenticate 
 Wherever possible, artefacts of end-user consent to authorise the request should be included with requests to back-end services, so that we can have greater confidence that this request originated from the end user. This is best displayed in the RFC standard for \"[OAuth Token Exchange](https://tools.ietf.org/html/rfc8693)\", where a system must use the end user\'s access token and authenticate itself to an authorisation server for the right to call a back-end service on behalf of an end user.
 
 
-![token service](../images/User_token_Service_3.png)
+![token service](../../images/User_token_Service_3.png)
 
 But better is:
 
-![token service2](../images/User_token_Service_4.png)
+![token service2](../../images/User_token_Service_4.png)
 
 Please note it is not desirable to replay artefacts like an end-user\'s session token to front-end applications, as this increases the chance that the artefact could become compromised.
 
 A Zero trust architecture should be able to handle the situation where the artefact is compromised. To detect and recover from the compromised situation, a zero trust architecture should be able to continuously monitor signals from users and devices accessing services and data. Upon detecting anomaly behaviour the level of the confidence for the users and devices should be deteriorated, remediation action should be triggered immediately, for example, terminating the connection or triggering MFA. Relying on revocation of artefacts or tokens may not be responsive enough to handle the situation and may not be cost effective because revocation requires identification of all the compromised artefacts or tokens and revocation of them.
 
-### Service Identity 
+## Service Identity 
 
 Services (machines or software processes) should have their own unique identity and be granted the minimum privileges necessary to function correctly.
 
@@ -71,7 +71,7 @@ Authentication for a service should be strong and appropriate for use with servi
 
 An example authentication approach could be a unique certificate per machine, or software process, that makes up a service. The certificate authentication can then be used to form mutual [TLS (Transport Layer Security)](https://www.ncsc.gov.uk/guidance/tls-external-facing-services) connections between the software processes and machines that make up a service.
 
-### Device Identity 
+## Device Identity 
 
 Each device owned by your organisation should be uniquely identifiable in a single device directory. This enables efficient asset management and provides clear visibility of the devices which access your services and data.
 

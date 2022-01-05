@@ -17,7 +17,7 @@ all thinkable subjects regarding security.
 
 One of the simplest, yet most frequently model is displayed here below.
 
-![image](images/nist.png)
+![image](../images/nist.png)
 
 On the NIST site (see references) you can find in-depth information
 regarding all sub functions of this security framework. The experience

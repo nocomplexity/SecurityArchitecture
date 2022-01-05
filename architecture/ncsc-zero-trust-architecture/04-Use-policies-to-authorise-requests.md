@@ -18,7 +18,7 @@ Policy decisions should consider several signals, taken from a signals database 
 
 Signals from sources such as the user's identity, their devices and user behaviour can be used to make access decisions. For example, a high-impact action, such as creating a new admin-level user, would have to meet stringent policy requirements to be trusted. Whereas, a relatively low-impact action, such as checking the online lunch menu, would have to meet more lenient policy requirements to be trusted. Stringent and lenient degrees may be adjusted according to confidence level of users and devices.
 
-![ZT](../images/ZT-2.png)
+![ZT](../../images/ZT-2.png)
 
 **Buying zero trust technology**
 
@@ -26,7 +26,7 @@ When choosing technologies for your zero-trust architecture, evaluate the signal
 
 Some policy engines will allow you to create risk-based access policies, perhaps prompting for additional signals to gain more confidence in the connection. The risk-based policy engines consider confidence level of the users and devices, and dynamically adjust the access policies. For example, if a user tries to access a high-value service for the first time outside of normal working hours. In this case, the policy engine may ask a user to present a 2nd factor for authentication.
 
-### Other considerations
+## Other considerations
 
 **Access denied**
 

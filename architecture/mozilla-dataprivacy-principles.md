@@ -1,4 +1,4 @@
-## Mozilla Data Privacy Principles
+# Mozilla Data Privacy Principles
 
 
 
