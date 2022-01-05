@@ -145,14 +145,16 @@ Technical guidelines, principles and general information as used by the
 infosec team of Mozilla.
 
 
-## SOMAP.org
+## Security Officers Management and Analysis Project (SOMAP)
 
 Focuses on the Security Officers and on helping them in doing their
 daily business as comfortable as possible. The main goals of SOMAP.org
 are to develop and maintain: - Guides and Handbooks explaining and
 describing Risk Management. - an open and free 'best practice' Risk
 Model Repository with security objectives, threats and other risk
-related meta-data. <https://www.somap.org/>
+related meta-data. 
+
+Check: [https://www.somap.org/](https://somap.org/default.html)
 
 ## Thread Models
 
