@@ -58,16 +58,14 @@ Within this resource you can find an 'IAM Reference Architecture', articles on '
 Check: [https://bok.idpro.org/](https://bok.idpro.org/)
 
 
-## Information Security Guide
 
-Guide setup like this one, so to prevent to reinvent the wheel every
-time you start a new project, policy, or security function.
-<https://spaces.internet2.edu/display/2014infosecurityguide/Welcome+to+the+Guide>
+## Information Security Guide: Effective Practices and Solutions for Higher Education 
 
-The Free Software Foundation, <https://www.gnu.org>
+Great guide with all topics for IS explained. And with measurements included. Tailored for Education institutes.
+The Information Security Guide is mapped to several popular standards, including ISO/IEC 27002:2013, NIST, HIPAA, COBIT, PCI DSS, and the US federal Cybersecurity Frameworks. There are currently 17 chapters on information security, privacy, identity and access management, governance, risk, and compliance.
 
-Web Authorization Protocol (OAuth),
-<https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-01>
+Check [https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide](https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide)
+
 
 
 ## Guide to data protection
@@ -200,6 +198,10 @@ of common software and hardware security weaknesses. It serves as a
 common language, a measuring stick for security tools, and as a baseline
 for weakness identification, mitigation, and prevention efforts.
 Available on: <http://cwe.mitre.org/>
+
+## Web Authorization Protocol (OAuth)
+Web Authorization Protocol (OAuth),
+<https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-01>
 
 
 ## Web security

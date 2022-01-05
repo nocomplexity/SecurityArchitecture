@@ -80,5 +80,7 @@ as viewers of remote data, web applications (including CGI scripts),
 network servers, and setuid/setgid programs. Specific guidelines for C,
 C++, Java, Perl, PHP, Python, Tcl, and Ada95 are included. It especially
 covers Linux and Unix based systems, but much of its material applies to
-any system. For a current version of the book, see
-<https://www.dwheeler.com/secure-programs>
+any system. For a current version of the [book](https://dwheeler.com/secure-programs/)
+
+So check:
+https://dwheeler.com/secure-programs/

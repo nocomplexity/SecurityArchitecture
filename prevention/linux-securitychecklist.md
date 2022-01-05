@@ -832,7 +832,7 @@ distribution, please check out the following links:
 
 - [Fedora Security Guide](https://docs-old.fedoraproject.org/en-US/Fedora/19/html/Security_Guide/index.html)
 - [CESG Ubuntu Security Guide](https://www.gov.uk/government/publications/end-user-devices-security-guidance-ubuntu-1404-lts)
-- [Debian Security Manual](https://www.debian.org/doc/manuals/securing-debian-howto/index.en.html)
+- [Debian Security Manual](https://www.debian.org/doc/manuals/securing-debian-manual/index.en.html)
 - [Arch Linux Security Wiki](https://wiki.archlinux.org/index.php/Security)
 - [Mac OSX Security](https://www.apple.com/support/security/guides/)
 
@@ -844,7 +844,7 @@ distribution, please check out the following links:
 [4]: https://xkcd.com/936/
 [5]: https://spideroak.com/
 [6]: https://code.google.com/p/chromium/wiki/LinuxSandboxing
-[7]: http://www.thoughtcrime.org/software/sslstrip/
+[7]: https://www.eff.org/https-everywhere or see https://github.com/EFForg/https-everywhere 
 [8]: https://keepassx.org/
 [9]: http://www.passwordstore.org/
 [10]: https://pypi.python.org/pypi/django-pstore

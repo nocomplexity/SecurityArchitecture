@@ -233,7 +233,7 @@ All media should be securely disposed of. Electronic media that have been used t
 
 All computers, laptops and personal electronic devices, must be returned to the ICT service provider for re-use and disposal.
 
-For re-use and disposal of any locally purchased ICT equipment, ask for advice from the Operational Security Team:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>
+For re-use and disposal of any locally purchased ICT equipment, ask for advice from the Operational Security Team.
 
 ## ICT Security Incidents
 

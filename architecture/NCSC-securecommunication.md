@@ -7,7 +7,7 @@ This guidance contains a set of principles that can help all organisations make 
 
 It is of particular relevance for those working in government and the public sector.
 
-*[source on github](https://github.com/ukncsc/secure-communication-principles/blob/master/README.md)*
+*[source on github](https://github.com/ukncsc)*
 
 
 ## The NCSC's secure communication principles

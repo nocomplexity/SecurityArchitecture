@@ -58,7 +58,6 @@ The following resources are monitored for information about new security threats
 * [https://www.usenix.org/](https://www.usenix.org/)
 * [https://www.exploit-db.com/](https://www.exploit-db.com/)
 * [https://security.googleblog.com/](https://security.googleblog.com/)
-* [https://groups.google.com/forum/\#!forum/golang-announce](https://groups.google.com/forum/#!forum/golang-announce)
 * [http://www.cert.org/](http://www.cert.org/)
 * [https://www.reddit.com/r/netsec/](https://www.reddit.com/r/netsec/)
 

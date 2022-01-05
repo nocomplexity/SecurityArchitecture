@@ -72,8 +72,7 @@ are references to the section in the IETF RFC.
 
 ![image](../images/oath2.png)
 
-OAuth 2.0 basic model. A good threat model can be found at
-<http://hdknr.github.io/docs/identity/oauth_threat.html>
+OAuth 2.0 basic model. 
 
 ## DDoS model
 
@@ -94,7 +93,7 @@ are designing solutions to be more resilient against DDoS attacks.
 
 ![image](../images/ddos-model.png)
 
-REF: <http://file.scirp.org/Html/5-7800164_34631.htm>
+[Reference link](https://file.scirp.org/Html/5-7800164_34631.htm)()
 
 ## Mobile Threat model
 
@@ -195,5 +194,5 @@ ML thread model is outlined below.
 (Source: <https://berryvilleiml.com/interactive/> )
 
 More information on specific aspects on machine learning can be found in
-the 'Free and Open Machine Learning' Guide
-(<https://freeandopenmachinelearning.readthedocs.io/>).
+the [Free and Open Machine Learning Guide](https://nocomplexity.com/documents/fossml/abstract.html)
+
