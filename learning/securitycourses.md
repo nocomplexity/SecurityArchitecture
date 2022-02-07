@@ -77,6 +77,14 @@ real world applications\...
 
 So hack the Shop on: http://owasp-juice.shop 
 
+## Sha256 algorithm explained
+
+Simple is often the best. This internet page is dedicated to learn you the SHA256 algorithm. 
+The site [sha256algorithm.com](https://sha256algorithm.com/) will help you understand how a sha256 hash is calculated from start to finish. 
+All is done online in your browser and step by step visually. 
+
+The source code used for creating this site can be found on [https://github.com/dmarman/sha256algorithm](https://github.com/dmarman/sha256algorithm)
+
 ## Security awareness base course
 
 Nice awareness training. Created by the an Italian Govermental
