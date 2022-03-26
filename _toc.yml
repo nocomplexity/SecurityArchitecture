@@ -80,6 +80,7 @@ parts:
   - file: learning/books
   - file: learning/secure-coding
   - file: learning/softwaretesting
+  - file: learning/trustedcomputing
   - file: learning/security-references
 
 - caption: About
