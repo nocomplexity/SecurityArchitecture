@@ -4,9 +4,9 @@ Secure computing environments aim to created better confidential computing envir
 
 ## Confidential Computing Consortium Projects
 
-The [Confidential Computing Consortium](https://confidentialcomputing.io/) is a community focused on projects securing data in use and accelerating the adoption of confidential computing through open collaboration.
+The Linux Foundation [Confidential Computing Consortium](https://confidentialcomputing.io/) is a community focused on projects securing data in use and accelerating the adoption of confidential computing through open collaboration.
 
-[The projects list](https://confidentialcomputing.io/projects/)
+The projects list: [https://confidentialcomputing.io/projects/](https://confidentialcomputing.io/projects/)
 
 
 ## Enarx
