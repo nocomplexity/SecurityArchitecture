@@ -24,3 +24,12 @@ seL4 is a high-assurance, high-performance operating system microkernel. It is u
 
 Github repository: [https://github.com/seL4/](https://github.com/seL4/)
 Landing page: [https://sel4.systems/](https://sel4.systems/)
+
+## Qubes OS 
+
+Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. 
+Recommended by great people and security organisations. Like Edward Snowden and Lets Encrypt.
+
+Landing page: [https://www.qubes-os.org/](https://www.qubes-os.org/) 
+Github repository: https://github.com/QubesOS 
+
