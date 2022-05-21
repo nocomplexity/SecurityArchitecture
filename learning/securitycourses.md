@@ -112,6 +112,16 @@ course.
 
 See: https://github.com/teamdigitale/security-awareness
 
+## Security By Design
+
+This Security by Design playbook outlines the core elements of the Security by Design methodology.
+This playbook is initially created by the same team that started in 2015 with this open Security Reference Architecture.
+
+See: https://nocomplexity.com/documents/securitybydesign/
+
+or join this community and improve the content on: https://github.com/nocomplexity/securitybydesign 
+
+
 ## The Fuzzing Book
 
 Software has bugs, and catching bugs can involve lots of effort. This
