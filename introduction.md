@@ -54,11 +54,14 @@ Cyber security is not absolute and can never be guaranteed. Risks will never be 
 
 Here a few simple pointers to create a more secure solution faster:
 
+::::{grid} 2
+:class-container: text-center
+:gutter: 3
 
-:::{panels}
-:container: +full-width text-center
-:column: col-lg-6 px-2 py-2
-:card:
+:::{grid-item-card}
+:link: prevention/prevention
+:link-type: doc
+:class-header: bg-light
 
 **[Prevention](prevention/prevention)** ✍
 ^^^
@@ -68,7 +71,13 @@ Here a few simple pointers to create a more secure solution faster:
 
 [Hardening](prevention/hardening)
 
----
+:::
+:::{grid-item-card}
+:link: protection/security-management
+:link-type: doc
+:class-header: bg-light
+
+
 **[Protection](protection/security-management)** 🚀
 ^^^
 [Security Policies](protection/security-policies)
@@ -79,7 +88,12 @@ Here a few simple pointers to create a more secure solution faster:
 
 [Find vulnerabilities](protection/vulnerabilities-search)
 
----
+:::
+:::{grid-item-card}
+:link: architecture/reference-architecture
+:link-type: doc
+:class-header: bg-light
+
 **[Architecture](architecture/reference-architecture)** ✨
 ^^^
 [Frameworks](architecture/frameworks)
@@ -88,8 +102,12 @@ Here a few simple pointers to create a more secure solution faster:
 
 [Security Models](architecture/securitymodels)
 
+:::
+:::{grid-item-card}
+:link: learning/securitycourses
+:link-type: doc
+:class-header: bg-light
 
----
 **[Learn all about Cyber Security](learning/securitycourses)** 🎁
 ^^^
 [Security courses](learning/securitycourses)
