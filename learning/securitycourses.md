@@ -121,6 +121,19 @@ See: https://nocomplexity.com/documents/securitybydesign/
 
 or join this community and improve the content on: https://github.com/nocomplexity/securitybydesign 
 
+## The Animated Elliptic Curve
+
+Visuals always help when learning a new concept. This page guides you with great visuals through the essentials of Elliptic Curve Cryptography.
+
+Check: [https://curves.xargs.org/](https://curves.xargs.org/)
+
+## The Illustrated TLS 1.3 Connection
+
+TLS can be black magic. So learning the details of the protocol helps. This great tutorial  guides you with great visuals through your TLS journey.
+In this demonstration a client connects to a server, negotiates a TLS 1.3 session, sends "ping", receives "pong", and then terminates the session.
+
+Check: [https://tls13.xargs.org/](https://tls13.xargs.org/)
+
 
 ## The Fuzzing Book
 
