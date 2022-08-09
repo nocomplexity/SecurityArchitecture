@@ -30,8 +30,10 @@ Simple rules for mitigating DDOS attacks:
 
 So follow these simple steps:
 * Do a risk analyse.
-* Develop a security architecture.
+* Develop a security architecture based on your risks profile.
+* Always consider real distributed solutions where your security concerns are to spread across several nodes to reduce the impact of a single breach. E.g. spread data and secrets across several independent nodes to be more resilience.  
 * Develop a thread analyse and improve your architecture.
+
 
 
 ```
