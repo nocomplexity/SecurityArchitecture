@@ -82,6 +82,11 @@ parts:
   - file: learning/softwaretesting
   - file: learning/trustedcomputing
   - file: learning/security-references
+    sections:
+      - file: learning/securityframeworks
+      - file: learning/researchlabs
+      - file: learning/foundations
+  
 
 - caption: About
   chapters:

@@ -8,15 +8,15 @@ The best security professionals share their knowledge under an open access licen
 
 ## Cryptography
 
-A modern practical book about cryptography for developers with code examples. Practical Cryptography for Developers: <https://cryptobook.nakov.com/>
+* A modern practical book about cryptography for developers with code examples. Practical Cryptography for Developers: <https://cryptobook.nakov.com/>
 
 +++
 
-The Joy of Cryptography is a free undergraduate textbook that introduces students to the fundamentals of provable security. A lot of math. But this is crucial to really understand crypto.
+* The Joy of Cryptography is a free undergraduate textbook that introduces students to the fundamentals of provable security. A lot of math. But this is crucial to really understand crypto. Created by Mike Rosulek. A cryptographer and associate professor in the School of EECS at Oregon State University. Check: https://joyofcryptography.com/
 
-Created by Mike Rosulek. A cryptographer and associate professor in the School of EECS at Oregon State University. 
++++
 
-Check: https://joyofcryptography.com/
+* A Graduate Course in Applied Cryptography, By   Dan Boneh   and   Victor Shoup. [Download in PDF](http://toc.cryptobook.us/) 
 
 
 ## DDoS QUICK GUIDE

@@ -1,5 +1,7 @@
 # Security References
 
+Advantage in cybersecurity is gained by harnessing smart ideas. So we collect resources that work and are open to use. So open licensed cybersecurity references are preferred instead of resources that are a fad based on the latest technology buzz.
+
 Creating a good solid cyber security solution is complicated. 
 So the most valuable tip is:
 
@@ -24,20 +26,6 @@ Rowhammer: <http://www.thirdio.com/rowhammer.pdf> or
 
 DDos:
 <https://www.us-cert.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf>
-
-
-
-
-## Center for Internet Security (CIS)
-
-The Center for Internet Security (CIS) is a 501(c)(3) organization is
-dedicated to enhancing the cybersecurity readiness and response among
-public and private sector entities. CIS’s Mission is to: Identify,
-develop, validate, promote, and sustain best practices in cybersecurity;
-Deliver world-class security solutions to prevent and rapidly respond to
-cyber incidents; and Build and lead communities to enable an environment
-of trust in cyberspace. <https://www.cisecurity.org/>
-
 
 
 
@@ -120,30 +108,6 @@ open source investigative technologies using the Python programming
 language. See: <http://python-forensics.org/> for more information.
 
 
-## Security Frameworks
-
-NIST Framework for Improving Critical Infrastructure Cybersecurity:
-
-<http://www.nist.gov/cyberframework/upload/cybersecurity-framework-021214.pdf>
-
-<http://www.nist.gov/cyberframework/>
-
-Jericho security model, Open Group,
-<https://collaboration.opengroup.org/jericho/>
-
-NIST, <http://www.nist.gov/cyberframework/index.cfm>
-
-OECD privacy framework 2009, 2010,http://oecdprivacy.org/
-
-Software Assurance Maturity Model (OWASP), <http://www.opensamm.org/>
-
-Open Security Architecture (OSA),
-<http://www.opensecurityarchitecture.org/>
-
-Mozilla Information Security Guides, <https://infosec.mozilla.org/>
-Technical guidelines, principles and general information as used by the
-infosec team of Mozilla.
-
 
 ## Security Officers Management and Analysis Project (SOMAP)
 
@@ -208,10 +172,13 @@ Web Authorization Protocol (OAuth),
 
 ## Web security
 
-Web Security technologies change continuously. A perfect solution does
+* Web Security technologies change continuously. A perfect solution does
 not exist. So make sure good practices are combined with good principles
 and non technical measurements for minimizing risks.
 
 Mozilla Web Security Guide,
 <https://developer.mozilla.org/en-US/docs/Web/Security>
 
+* Mozilla Information Security Guides, <https://infosec.mozilla.org/>
+Technical guidelines, principles and general information as used by the
+infosec team of Mozilla.
