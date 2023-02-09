@@ -26,8 +26,8 @@ We encourage all security professionals to improve this reference architecture. 
 * Add security models.
 * Create better graphics and text.
 * Add threat models that can be easily reused.
-* Improve criteria on selecting OSS solutions for security and privacy applications.
-* Create tools to speed up the process of making your security architectures or privacy designs with use of this reference architecture (and tools).
+* Improve criteria on selecting OSS solutions for security.
+* Create open tools to speed up the process of making your security architectures or designs with use of this reference architecture.
 
 Your contributions to this Guide are greatly appreciated as long as contributions fit within the scope and goal of this security reference architecture. As an open project, this Security Architecture shall always remain vendor-neutral and freely available for all to use. If you contribute you will of course get credit (mentioned in upcoming publications).
 
