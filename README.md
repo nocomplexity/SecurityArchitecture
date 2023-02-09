@@ -12,7 +12,7 @@ To encourage collaboration for this project this reference architecture is of co
 
 This project is supported by the BM-Support Foundation, https://www.bm-support.org/ 
 
-Current status: We are working on a update for the 2022 [hardcopy](https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan) version of this 'Open Reference Architecture for Security and Privacy'. But the online version will always be up-to-date! 
+Current status: We are working on a update for the 2023 [hardcopy](https://www.amazon.de/Open-Reference-Architecture-Security-Privacy/dp/1540606481/ref=sr_1_2?ie=UTF8&qid=1480495211&sr=8-2&keywords=maikel+mardjan) version of this 'Open Reference Architecture for Security and Privacy'. But the online version will always be up-to-date! 
 So join the party and join the team to make this Open resource better! 
 
 The initial version (2015) of this project was called the 'Open Reference Architecture for Security and Privacy'.However we decided to split the project in a security Playbook and a privacy playbook. Content for this Security Reference Architecture is partly derived from the original 2015-2021 publication, but heavily edited and improved.
