@@ -31,6 +31,16 @@ A growing number of health-related IoT devices are currently available in the ma
 
 [Read this Reference Architecture](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/05/IoT-Security-Reference-Architecture-For-The-Healthcare-Industry.pdf) 
 
++++
+
+## Low-Level Software Security for Compiler Developers 
+
+With software security becoming even more important in recent years, it is no surprise to see an ever increasing variety of security hardening features and mitigations against vulnerabilities implemented in compilers. This book aims to help developers of code generation tools such as JITs, compilers, linkers and assemblers to overcome this.
+
+Link to [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/#introduction)
+
++++
+
 
 ## Malware Reverse Engineering Handbook
 
