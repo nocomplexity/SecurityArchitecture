@@ -18,3 +18,9 @@ The OpenSSF is the host for several large projects that focus on improving FOSS 
 * [The Cyber Security Body Of Knowledge](https://www.cybok.org). A comprehensive Body of Knowledge to inform and underpin education and professional training for the cyber security sector. A great collection of resources that cover all aspects of cyber security.
 
 +++
+
+
+
+* [IDPro Body of Knowledge](https://bok.idpro.org/) The IDPro Body of Knowledge is a compilation of IAM crucial up-to-date knowledge. This content is created and reviewed by the IAM professionals.  All articles are peer reviewed. 
+Within this resource you can find an 'IAM Reference Architecture', articles on 'Authentication and Authorization' and more content regarding IAM (Identity and Access Management). 
+

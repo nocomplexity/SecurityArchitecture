@@ -33,6 +33,29 @@ A growing number of health-related IoT devices are currently available in the ma
 
 +++
 
+
+## Guide to data protection
+
+This guide is for those who have day-to-day responsibility for data
+protection. It explains the purpose and effect of each principle, gives
+practical examples and answers frequently asked questions.
+Check: [Guide to Data Protection](https://ico.org.uk/for-organisations/guide-to-data-protection/)
+
+
++++
+
+
+## Information Security Guide: Effective Practices and Solutions for Higher Education 
+
+Great guide with all topics for IS explained. And with measurements included. Tailored for Education institutes.
+The Information Security Guide is mapped to several popular standards, including ISO/IEC 27002:2013, NIST, HIPAA, COBIT, PCI DSS, and the US federal Cybersecurity Frameworks. There are currently 17 chapters on information security, privacy, identity and access management, governance, risk, and compliance.
+
+Check [https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide](https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide)
+
+
+
++++
+
 ## Low-Level Software Security for Compiler Developers 
 
 With software security becoming even more important in recent years, it is no surprise to see an ever increasing variety of security hardening features and mitigations against vulnerabilities implemented in compilers. This book aims to help developers of code generation tools such as JITs, compilers, linkers and assemblers to overcome this.

@@ -87,7 +87,7 @@ parts:
       - file: learning/researchlabs
       - file: learning/foundations
       - file: learning/governmental
-  
+      - file: learning/vulnerabilitydatabases.md
 
 - caption: About
   chapters:

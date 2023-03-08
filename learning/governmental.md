@@ -27,6 +27,11 @@ Zero Trust is everywhere, but I like the DoD created [Zero Trust reference archi
 * [NIST General information](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf)
 
 
++++
+
+* [No-More-Ransom](https://www.nomoreransom.org/en/index.html) The “No-More-Ransom” website is an initiative by the National High Tech Crime Unit of the Netherlands’ police, Europol’s European Cybercrime Centre and two cyber security companies – Kaspersky Lab and Intel Security – with the goal to help victims of ransomware retrieve their encrypted data without having to pay the criminals.
+
+
 
 +++
 

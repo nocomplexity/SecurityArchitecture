@@ -18,6 +18,10 @@ Good and excellent knowledge for building better security solutions is available
 Too often information behind paywall turns out to be a fad or pure marketing information. So be warned!
 
 
+```{tableofcontents}
+```
+
+
 
 ## Attacks methods
 
@@ -29,55 +33,13 @@ DDos:
 
 
 
-## Data Transparency Lab (DTL)
-
-A community of technologists, researchers, policymakers and industry
-representatives working to advance online personal data transparency
-through scientific research and design. Also a collection of OSS tools
-to visualize internet privacy horror are offered.
-<http://www.datatransparencylab.org>
-
-## IDPro Body of Knowledge
-
-The IDPro Body of Knowledge is a compilation of IAM crucial up-to-date knowledge. This content is created and reviewed by the IAM professionals. 
-All articles are peer reviewed. 
-Within this resource you can find an 'IAM Reference Architecture', articles on 'Authentication and Authorization' and more content regarding IAM (Identity and Access Management). 
-
-Check: [https://bok.idpro.org/](https://bok.idpro.org/)
-
-
-
-## Information Security Guide: Effective Practices and Solutions for Higher Education 
-
-Great guide with all topics for IS explained. And with measurements included. Tailored for Education institutes.
-The Information Security Guide is mapped to several popular standards, including ISO/IEC 27002:2013, NIST, HIPAA, COBIT, PCI DSS, and the US federal Cybersecurity Frameworks. There are currently 17 chapters on information security, privacy, identity and access management, governance, risk, and compliance.
-
-Check [https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide](https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide)
-
-
-
-## Guide to data protection
-
-This guide is for those who have day-to-day responsibility for data
-protection. It explains the purpose and effect of each principle, gives
-practical examples and answers frequently asked questions.
-<https://ico.org.uk/for-organisations/guide-to-data-protection/>
-
-
 ## Learning from attacks
 
 Key Reinstallation Attacks- Breaking WPA2 by forcing nonce reuse
 (KRACK). With hands-on description, check it out:
 <https://www.krackattacks.com/>
 
-## No-More-Ransom
 
-The “No-More-Ransom” website is an initiative by the National High Tech
-Crime Unit of the Netherlands’ police, Europol’s European Cybercrime
-Centre and two cyber security companies – Kaspersky Lab and Intel
-Security – with the goal to help victims of ransomware retrieve their
-encrypted data without having to pay the criminals.
-<https://www.nomoreransom.org/>
 
 ## OpenSCAP
 
@@ -143,13 +105,7 @@ Trusted CI offers a great collection of valuable resources to help cybersecurity
 More information on: https://www.trustedci.org/
 
 
-## Vulnerability Databases
 
-CWE (Common Weakness Enumeration - CWE™) is a community-developed list
-of common software and hardware security weaknesses. It serves as a
-common language, a measuring stick for security tools, and as a baseline
-for weakness identification, mitigation, and prevention efforts.
-Available on: <http://cwe.mitre.org/>
 
 ## Web Authorization Protocol (OAuth)
 Web Authorization Protocol (OAuth),
