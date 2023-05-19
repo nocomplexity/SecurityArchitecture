@@ -74,8 +74,10 @@ Find a proven solution by using this Security Reference Architecture:
 [Secure Coding Guidelines](learning/secure-coding)
 
 [Security References](learning/security-references)
-
 :::
+
+::::
+
 
 ## Open and Simple Security Solutions
 

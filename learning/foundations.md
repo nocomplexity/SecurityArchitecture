@@ -24,3 +24,9 @@ The OpenSSF is the host for several large projects that focus on improving FOSS 
 * [IDPro Body of Knowledge](https://bok.idpro.org/) The IDPro Body of Knowledge is a compilation of IAM crucial up-to-date knowledge. This content is created and reviewed by the IAM professionals.  All articles are peer reviewed. 
 Within this resource you can find an 'IAM Reference Architecture', articles on 'Authentication and Authorization' and more content regarding IAM (Identity and Access Management). 
 
++++
+
+* [ Objective-See Foundation](https://objective-see.org/) Foundation focusses on free, open-source macOS security tools. And is known for organising the macOS security conference, "Objective by the Sea" (#OBTS). 
+
++++
+

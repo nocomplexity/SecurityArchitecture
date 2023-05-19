@@ -6,7 +6,7 @@
 # Book settings
 title                       : 'Security Reference Architecture' # The title of the book. Will be placed in the left navbar.
 author                      : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a> & Asim Jahan and all contributors.' # The author of the book
-copyright                   : '2022- - Business Management Support Foundation (bm-support.org)'  # Copyright year to be placed in the footer
+copyright                   : '2023- - Business Management Support Foundation (bm-support.org)'  # Copyright year to be placed in the footer
 logo                        : "images/nocxbanner.png"  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints",README.md]
@@ -45,12 +45,11 @@ parse:
 # HTML-specific settings
 html:
   favicon                   : ""  # A path to a favicon image
-  use_edit_page_button      : true  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
-  use_repository_button     : true  # Whether to add a link to your repository button
-  use_issues_button         : true  # Whether to add an "open an issue" button
+#  use_edit_page_button      : true  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+ # use_repository_button     : true  # Whether to add a link to your repository button
+ # use_issues_button         : true  # Whether to add an "open an issue" button  
   
-  
-  extra_footer              : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2022, <a href="https://bm-support.org/"> BM-Support.org</a> & Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
+  extra_footer              : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2023, <a href="https://bm-support.org/"> BM-Support.org</a> & Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
   extra_navbar              : '<a href="https://bm-support.org/"><b>ROI Now!</b></a>'
 
   google_analytics_id       : ""  # A GA id that can be used to track book views.
@@ -67,22 +66,29 @@ latex:
 
 #######################################################################################
 # Launch button settings
-launch_buttons:
-  notebook_interface        : jupyterlab  # The interface interactive links will activate ["classic", "jupyterlab"]
-  binderhub_url             : https://mybinder.org  # The URL of the BinderHub (e.g., https://mybinder.org)
-  jupyterhub_url            : ""  # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu)
-  thebe                     : false  # Add a thebe button to pages (requires the repository to run on Binder)
-  colab_url                 : "" # The URL of Google Colab (https://colab.research.google.com)
+# launch_buttons: 
+#   notebook_interface        : jupyterlab  # The interface interactive links will activate ["classic", "jupyterlab"]
+#   binderhub_url             : https://mybinder.org  # The URL of the BinderHub (e.g., https://mybinder.org)
+#   jupyterhub_url            : ""  # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu)
+#   thebe                     : false  # Add a thebe button to pages (requires the repository to run on Binder)
+#   colab_url                 : "" # The URL of Google Colab (https://colab.research.google.com)
 
-repository:
-  url                       : https://github.com/nocomplexity/SecurityArchitecture  # The URL to your book's repository
-  path_to_book              : ""  # A path to your book's folder, relative to the repository root.
-  branch                    : master  # Which branch of the repository should be used when creating links
+#repository:
+#  url                       : https://github.com/nocomplexity/SecurityArchitecture  # The URL to your book's repository
+#  path_to_book              : ""  # A path to your book's folder, relative to the repository root.
+#  branch                    : master  # Which branch of the repository should be used when creating links
 
-#######################################################################################
+#   repository:
+#      github_url: https://github.com/nocomplexity/SecurityArchitecture
+#      html:
+#        use_repository_button: true
+#        github_url: https://github.com/
+#        github_repo: SecurityArchitecture
+# #######################################################################################
 # Advanced and power-user settings
 sphinx:
   extra_extensions          :   
+  - sphinx_design
   #- sphinx_click.ext
   #- sphinx.ext.autodoc  
   #- sphinx.ext.viewcode  
@@ -90,10 +96,25 @@ sphinx:
   #- sphinx.ext.todo
   local_extensions          :   # A list of local extensions to load by sphinx specified by "name: path" items  
   #  gitinfo :  '/home/maikel/projects/pythondev/simple-ml-qacheck'
-  config:
-    html_show_copyright: false
+  config:    
+    html_theme_options:
+      repository_url: "https://github.com/nocomplexity/SecurityArchitecture"
+      repository_branch: "master"
+      use_repository_button: True
+      use_edit_page_button: True
+      use_issues_button": True      
+      # home_page_in_toc: False,            
+      logo:
+          text: "Security Reference Architecture"   
+  # html_context : 
+  #     github_url: "https://github.com/" # or your GitHub Enterprise site
+  #     github_user: "nocomplexity"
+  #     github_repo: "SecurityArchitecture"
+  #     github_version: "master"
+  #     #doc_path: ""
+   
   parse:
     myst_enable_extensions:
      - html_admonition
 
-    
+  

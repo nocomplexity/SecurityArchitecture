@@ -16,7 +16,7 @@ Simple rules for mitigating DDOS attacks:
 * Make sure to have a direct phone number of a real network security expert that can and will help you! (Without ripping you off)
 
 
-```{link-button}  https://nocomplexity.com/one-more-time/
+```{button-link}  https://nocomplexity.com/one-more-time/
 :text: Read this blog
 :classes: btn-outline-dark 
 
