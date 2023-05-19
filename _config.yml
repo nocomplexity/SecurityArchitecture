@@ -102,7 +102,7 @@ sphinx:
       repository_branch: "master"
       use_repository_button: True
       use_edit_page_button: True
-      use_issues_button": True      
+      use_issues_button: True      
       # home_page_in_toc: False,            
       logo:
           text: "Security Reference Architecture"   
