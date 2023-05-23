@@ -167,3 +167,10 @@ with the code on Github.
 Check it out and play! - http://overthewire.org/wargames/
 
 
+## Wireshark Labs 
+
+This course is a Supplement to the book [Computer Networking: A Top-Down
+Approach, 8th ed., J.F. Kurose and K.W. Ross](https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465/ref=sr_1_4?qid=1684843821&refinements=p_27%3AJames+Kurose&s=books&sr=1-4&text=James+Kurose)
+The version 8.1 Wireshark labs have been significantly modernized and updated in 2021, and come with new Wireshark traces files taken in 2021.  
+
+Check and the the course [Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php).
