@@ -84,11 +84,13 @@ parts:
   - file: learning/trustedcomputing
   - file: learning/security-references
     sections:
+      - file: learning/cryptography
       - file: learning/securityframeworks
       - file: learning/researchlabs
       - file: learning/foundations
       - file: learning/governmental
-      - file: learning/vulnerabilitydatabases.md
+      - file: learning/vulnerabilitymanagement
+      - file: learning/vulnerabilitydatabases
 
 - caption: About
   chapters:
