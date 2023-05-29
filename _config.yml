@@ -6,7 +6,7 @@
 # Book settings
 title                       : 'Security Reference Architecture' # The title of the book. Will be placed in the left navbar.
 author                      : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a> & Asim Jahan and all contributors.' # The author of the book
-copyright                   : '2023- - Business Management Support Foundation (bm-support.org)'  # Copyright year to be placed in the footer
+copyright                   : '2023 Business Management Support Foundation (bm-support.org)'  # Copyright year to be placed in the footer
 logo                        : "images/nocxbanner.png"  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints",README.md]
@@ -105,7 +105,9 @@ sphinx:
       use_issues_button: True      
       # home_page_in_toc: False,            
       logo:
-          text: "Security Reference Architecture"   
+          text: 'Open Security Reference Architecture' 
+      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
+      
   # html_context : 
   #     github_url: "https://github.com/" # or your GitHub Enterprise site
   #     github_user: "nocomplexity"
