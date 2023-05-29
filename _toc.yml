@@ -17,6 +17,7 @@ parts:
       - file: prevention/api-security-checklist
       - file: prevention/csp-checklist
       - file: prevention/ncp-checklists
+      - file: prevention/evalFOSS
   - file: prevention/simplesolutions
   - file: prevention/hardening
 

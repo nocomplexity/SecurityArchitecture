@@ -46,9 +46,16 @@ Check the [daily dashboard](https://dashboard.shadowserver.org/) provided by thi
 
 +++
 
+* [Trusted CI](https://www.trustedci.org/): The Trusted CI Framework is a minimum standard for cybersecurity programs. The mission of Trusted CI Foundation is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors. This foundation provides great [templates and tools](https://www.trustedci.org/framework/templates) ready to use!
+
++++ 
+
 * [ Objective-See Foundation](https://objective-see.org/) Foundation focusses on free, open-source macOS security tools. And is known for organising the macOS security conference, "Objective by the Sea" (#OBTS). 
 
 +++
 
  
+* [The OpenChain Project ](https://www.openchainproject.org/): A Linux Foundation project. The OpenChain Project is solely focused on commercial and non-commercial open source process management in the supply chain. Lots of resources and cc-by or cc0 licensed. Also the ISO/IEC 5230 developed by this project is available.
 
+
++++

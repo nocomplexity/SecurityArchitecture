@@ -47,7 +47,7 @@ So follow these simple steps:
 The most security protection measurements are very simple and extreme effective.
 
 So just do:
-* Develop awareness within your company and awareness trainings a continuous process! [awaressness link]](link to courses)
+* Develop awareness within your company and awareness trainings a continuous process! 
 * Always implement virus protection on MS Windows based platforms.
 * Always implement network segmentation.
 * Always implement some simple firewall rules. 

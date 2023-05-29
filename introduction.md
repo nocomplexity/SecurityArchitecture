@@ -1,6 +1,6 @@
 # Introduction
 
-Cyber security is complex. There is no perfect solution. Never. 
+There are many myths about security, and how difficult it is. Cyber security is complex domain. There is no perfect solution. Never. However there are simple solutions that do work. Always. Often the best cyber security solutions are open solutions which everyone can use. Good solutions are not subject to a hype. Open solutions are transparent so everyone can use and improve it. 
 
 ```{admonition} This Playbook
 is created to help you solving your specific complex security challenges.
