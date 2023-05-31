@@ -4,7 +4,7 @@ Hardening is a process intended to eliminate a means of attack by patching vulne
 Using hardening is a great way to make your IT less vulnerable. 
 
 Hardening should be done for every hardware and software object. Hardening can be a lot of work. But more and more good products have good defaults. 
-Choosing an already hardened software solution, like a hardened Operation System can save you a lot of work and makes you less vulernable for cyber security risks.
+Choosing an already hardened software solution, like a hardened Operating System can save you a lot of work and makes you less vulnerable for cyber security risks.
 
 
 ## Kubernetes Hardening Guidance
@@ -45,7 +45,7 @@ link:[https://infosec.mozilla.org/guidelines/openssh](https://infosec.mozilla.or
 
 ## WordPress Hardening
 
-WordPress is one of the most used FOSS Content Management Systems. Almost 40% of the web is powered by this great FOSS software. But when using third party plugins the risk of security vulnerabilities increased. Security in WordPress is taken very seriously so if you do not mess with the defaults and make sure you apply continues updates the risks is manageable. However if you have no good process to continuously mitigate the risks of your third party plugins you take a large risks. This guide gives you a head start to prevent security problems when using WordPress!
+WordPress is one of the most used FOSS Content Management Systems. Almost 40% of the web is powered by this great FOSS software. But when using third party plugins the risk of security vulnerabilities increased. Security in WordPress is taken very seriously so if you do not mess with the defaults and make sure you apply continuous updates the risks are manageable. However if you have no good process to continuously mitigate the risks of your third party plugins you take a large risk. This guide gives you a head start to prevent security problems when using WordPress!
 
 ```{note}
 This guide created by the developers of WordPress touches the basics. If you are no security experts: Ask help. But keep away from people who frame WordPress as insecure by default. Direct these so called security experts to this guide and look out for security experts who known the value of using FOSS software and have experience of mitigating threads with WordPress. 
