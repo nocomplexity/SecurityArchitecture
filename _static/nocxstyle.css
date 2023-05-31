@@ -1,3 +1,9 @@
 .caption-text {
     color: #FF0000;    
 }
+
+/* for the danger color (button!) to be NOCX red instead of the default*/
+html[data-theme="light"] {
+    --pst-color-danger: red;
+}
+

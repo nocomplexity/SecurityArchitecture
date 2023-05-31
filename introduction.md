@@ -11,15 +11,12 @@ is created to help you solving your specific complex security challenges.
 
 Find a proven solution by using this Security Reference Architecture:
 
-::::{grid} 2
-:class-container: text-center
-:gutter: 3
+::::{card-carousel} 2
 
-:::{grid-item-card}
-:link: prevention/prevention
-:link-type: doc
-:class-header: bg-light
-
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
 **[Prevention](prevention/prevention)** ✍
 ^^^
 [Simple Checklist](prevention/simple-checklists)
@@ -27,14 +24,13 @@ Find a proven solution by using this Security Reference Architecture:
 [Simple Solutions](prevention/simplesolutions)
 
 [Hardening](prevention/hardening)
-
 :::
-:::{grid-item-card}
-:link: protection/security-management
-:link-type: doc
-:class-header: bg-light
 
 
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
 **[Protection](protection/security-management)** 🚀
 ^^^
 [Security Policies](protection/security-policies)
@@ -44,13 +40,15 @@ Find a proven solution by using this Security Reference Architecture:
 [Security Management](protection/security-management)
 
 [Find vulnerabilities](protection/vulnerabilities-search)
-
 :::
-:::{grid-item-card}
-:link: architecture/reference-architecture
-:link-type: doc
-:class-header: bg-light
+::::
 
+::::{card-carousel} 2
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
 **[Architecture](architecture/reference-architecture)** ✨
 ^^^
 [Frameworks](architecture/frameworks)
@@ -58,14 +56,13 @@ Find a proven solution by using this Security Reference Architecture:
 [Security Principles](architecture/securityprinciples)
 
 [Security Models](architecture/securitymodels)
-
 :::
-:::{grid-item-card}
-:link: learning/securitycourses
-:link-type: doc
-:class-header: bg-light
 
-**[Learn all about Cyber Security](learning/securitycourses)** 🎁
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+**[Learning ](learning/securitycourses)** 🎁
 ^^^
 [Security courses](learning/securitycourses)
 
@@ -77,6 +74,8 @@ Find a proven solution by using this Security Reference Architecture:
 :::
 
 ::::
+% End of card carousel , second row
+
 
 
 ## Open and Simple Security Solutions
