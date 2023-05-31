@@ -26,8 +26,7 @@ parts:
   - file: protection/security-policies
     sections:
       - file: protection/security-guidelines 
-      - file: protection/iso27001
-      - file: protection/general-example
+      - file: protection/iso27001      
       - file: protection/mattermost-security-policy      
       - url: https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=2810&s=1A
         title: Example of NASA

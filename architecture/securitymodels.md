@@ -12,10 +12,10 @@ Proven security architecture and models help when creating a solution for your u
 Save time and money: Reuse existing open security models!
 
 
-*Adjusting an existing models for your problem situation saves time and improves the quality for your solution!*
+*Adjusting existing models for your problem situation saves time and improves the quality for your solution!*
 ```
 
-A good visualization of a security model is easy to use for communication. So instead of explaining what the essence of information security is: Use a model to facilitate crucial conversations.
+A good visualisation of a security model is easy to use for communication. So instead of explaining what the essence of information security is: Use a model to facilitate crucial conversations.
 
 
 ![What is security](../images/what_is_security.png)
@@ -25,7 +25,7 @@ just that simple. So whenever possible do not make it more complicated
 than needed. Complexity for cyber security and privacy arise when
 information needs to be shared or must be made accessible by some
 digital device. The world where information was only available in
-physical archives is long gone. The focus from physical information
+physical archives are long gone. The focus from physical information
 security is shifted to cyber information security. But be aware: Crucial
 principles of centuries of physical information protection are still
 valuable today. Especially principles related to the intangible soft
@@ -33,13 +33,13 @@ issues when information is shared. Ever wondered how some organizations
 managed to keep their valuable information secret for many decades?
 
 Information protection is needed against:
-*  unauthorized access
+*  unauthorised access
 *  use
 * disclosure 
 * modification or
 *  destruction. 
 That means several security
-measures are needed to protect information from unauthorized viewers.
+measures are needed to protect information from unauthorised viewers.
 
 
 Measures can be implemented by procedural, physical or with complex IT
@@ -50,7 +50,7 @@ Creating effective solutions for information security problems can be
 done by creating a model of the problem situation. Within a model all
 elements that relate with the problem situation are brought together to
 study effective solutions. Without going into detail on system science
-or problem solving theory: in general systems consist of sub-systems,
+or problem solving theory: in general systems consist of subsystems,
 objects, functions or processes, and activities or tasks.
 
 The key in creating a good model to solve a specific information
@@ -158,7 +158,7 @@ used against particular platforms, such as Windows. Unlike prior work in
 this area, the focus isn’t on the tools and malware that adversaries use
 but on how they interact with systems during an operation.
 
-The relationship between tactics and techniques can be visualized in the
+The relationship between tactics and techniques can be visualised in the
 ATT&CK Matrix.
 
 The ATT&CK Matrix is probably the most widely recognizable aspect of
@@ -173,7 +173,7 @@ https://attack.mitre.org/
 ## Car Hacking
 
 Modelling how things really work is the best start for good protection.
-So any investment or use of real world hacking modles improves your
+So any investment or use of real world hacking models improves your
 security design.
 
 Cars and especially autonomous cars are trending. Cars are nowadays also
@@ -215,7 +215,7 @@ The advantages of using the Jericho model for security are:
 
 ![image](../images/jericho.png)
 
-Unfortunate the Jericho framework is not a real open security framework.
+Unfortunately the Jericho framework is not a real open security framework.
 It is copyrighted by the open group (see references chapter for more
 information on this model). There are trademarks involved and all
 publications are copyrighted. However due to the work of many we can
@@ -250,7 +250,7 @@ Link to OSA: https://www.opensecurityarchitecture.org
 
 The OSA Security architecture is based on patterns. Which mean for every
 pattern defined the aim of the community was/is to develop a
-standardized solution description. Unfortunate the OSA community is not
+standardised solution description. Unfortunate the OSA community is not
 very active anymore, so all IT security patterns around cloud are not
 yet incorporated.
 
@@ -273,7 +273,7 @@ Link for info on Open Titan project: [https://opentitan.org/](https://opentitan.
 
 ## System Transparency architecture
 
-System Transparency is a security architecture for bare-metal servers. stboot protects and makes your boot chain auditable. It uses LinuxBoot, TPM, and Intel TXT. It is reproducible, with plans to incorporate Binary Transparency. Correctly integrated it can make a system transparent to you and even your end users.
+System Transparency is a security architecture for bare-metal servers. System Transparency protects and makes your boot chain auditable. It uses LinuxBoot, TPM, and Intel TXT. It is reproducible, with plans to incorporate Binary Transparency. Correctly integrated it can make a system transparent to you and even your end users.
 This architecture is not only a concept, but has code to create an environment for System Transparency. 
 
 Check: https://system-transparency.org/
@@ -353,7 +353,7 @@ Robots are more and more used on various places. E.g. robots are used in
 homes, in assembly lines in industry and are deployed in medical
 facilities. But robot security is still underestimated.
 
-The Robot Security Framework (RSF)is a standardized methodology to
+The Robot Security Framework (RSF)is a standardised methodology to
 perform security assessments in robotics. The model is GPLv3 licensed
 and can be found here: <https://github.com/aliasrobotics/RSF> 
 
