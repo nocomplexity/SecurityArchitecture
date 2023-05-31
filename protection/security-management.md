@@ -1,7 +1,7 @@
 # Security Management
 
 Security is just not an IT technology challenge. Security is in the end
-a business issue that must be addressed managed and controlled. So
+a business issue that must be addressed, managed and controlled. So
 people, processes, and technology(FOSS Tools).
 
 Reuse of security control and management frameworks has a number of
@@ -19,7 +19,7 @@ systems, and monitor your systems to ensure they remain compliant with
 the approved settings. The best way to manage this complex challenge is
 to automate.
 
-Using automation a necessary step for security and privacy. Good
+Using  automation is a necessary step for security and privacy. Good
 automation tooling has the capability to apply security and privacy
 settings for all your IT components in a simple, consistent, manner. And
 you far better control in a large complex IT environment. This since
@@ -29,8 +29,7 @@ managed.
 Good automation tooling has the capability to apply security and privacy
 settings for IT components in a simple, consistent, manner. A single
 point of truth where all settings are stored and managed offers
-advantages for managing and reporting. But be mind: Not in call use case
-using centralized tooling are a good choice. The principle of separation
+advantages for managing and reporting. But be mind: Not in call use case is using centralised tooling a good choice. The principle of separation
 of concerns also applies for designing a security solution architecture.
 
 A number of (FOSS) tools have proven to be usable for automating
@@ -43,7 +42,7 @@ security and privacy settings for all kinds of IT components:
     groups, or applying custom security policies for applications.
 -   OpenSCAP (Open Source Security Compliance Solution). The SCAP
     (<https://www.open-scap.org/>) is a specification for expressing and
-    manipulating data in standardized ways. SCAP uses several individual
+    manipulating data in standardised ways. SCAP uses several individual
     specifications in concert to automate continuous monitoring,
     vulnerability management, and security policy compliance evaluation
     reporting. The Security Content Automation Protocol (SCAP) is U.S.
@@ -67,4 +66,4 @@ security and privacy settings for all kinds of IT components:
 
 Security and privacy is a complex field. So there is no silver bullet
 solution for managing and controlling. There is also no single tool that
-fits on all use cases.
+fits all use cases.

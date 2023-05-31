@@ -1,10 +1,10 @@
 # Security classifications
 
-Data classification of security classification is a specialized term used in the fields of cybersecurity to describe the process of:
+Data classification of security classification is a specialised term used in the fields of cybersecurity to describe the process of:
 * identifying
-* categorizing and 
+* categorising and 
 * protecting 
-content according to its sensitivity or impact level. Data classification is needed before a starting a risks analyse and defining an architecture to protect your assets. 
+content according to its sensitivity or impact level. Data classification is needed before starting a risk analysis and defining an architecture to protect your assets. 
 
 ```{tip} 
 Simple security classifications are the best.
@@ -40,7 +40,7 @@ Every large organisation must have a policy on how you will mark, protect, and h
 
 Defining a good security classification standard should not be made complex. Simple is remembered. 
 
-But in order to give you some more inspiration for defining your own security classification we provide you with a limited list of examples. This to speed of the process when you need to develop your classification system.
+But in order to give you some more inspiration for defining your own security classification we provide you with a limited list of examples. This speeds up the process when you need to develop your classification system.
 
 
 

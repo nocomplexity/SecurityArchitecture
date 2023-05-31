@@ -1,10 +1,13 @@
 # Find vulnerabilities 
 
-Periodic searching software vulnerabilities is crucial. 
+Periodic searching for new vulnerabilities for your used software and hardware is crucial. 
 
-You SHOULD check for vulnerabilities when:
-* Using or evaluating new software.
-* Improving existing software with third party components (etc. libraries, modules, plugins)
+You SHOULD check vulnerabilities: 
+* Regularly.
+* When system is updated with new functionality.
+* When significant security events in commonly used libraries are discovered. This to check if you are more vulnerable to.
+* When infrastructure changes. E.g. new hardware or networking components.
+* When evaluating new software. 
 
 When a new CVE is out you are vulnerable. It does not matter if exploit code is already published on the Internet or not. Assume that Criminals are misusing the CVEs already.
 
