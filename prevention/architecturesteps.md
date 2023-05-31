@@ -2,7 +2,7 @@
 
 This section outlines a clear and simple way to create your security solution.
 
-To create a sustainable solution to mitigate security risks you must start is to create a security architecture for your solution. 
+To create a sustainable solution to mitigate security risks you must start is by creating a security architecture for your solution. 
 
 An architecture itself does not protect you but a good solution architecture:
 * reduces costs
@@ -12,7 +12,7 @@ In an architecture the emphasis is not only on the IT (software and hardware) bu
 
 The perfect solution to reduce security risks to zero does not exist. A solution architecture helps in the continuous process of optimizing and controlling your security risks.
 
-Creating a security architecture can take a lot of time and effort. But a good way to speed up the process of creating your solution is to use this open security reference architecture as basis. 
+Creating a security architecture can take a lot of time and effort. But a good way to speed up the process of creating your solution is to use this open security reference architecture as the basis. 
 
 This open security reference architecture is created to:
 1. Make security architectures faster and
@@ -22,7 +22,7 @@ This open security reference architecture is created to:
 
 Creating security a security or privacy solution architecture consists of the following high level steps:
 
-* Dive in the business strategy and organization. Perform a simple risks assessment.
+* Dive in the business strategy and organization. Perform a simple risk assessment.
 
 *  Gather security  principles and requirements that are relevant for your context.
 

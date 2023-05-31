@@ -1,6 +1,6 @@
 # Simplify Prevention
 
-Investing in prevention measurements is the easiest and simplest way to minimize cyber security risks.
+Investing in prevention measurements is the easiest and simplest way to minimise cyber security risks.
 
 Good cyber security prevention measurements are simple and cheap. So before investing is expensive cyber security software solution follow these simple prevention rules:
 
@@ -8,10 +8,10 @@ Good cyber security prevention measurements are simple and cheap. So before inve
 ```{admonition} Make a daily-back of important data.
 :class: tip, dropdown
 
-A simple backup that works is cheap, simple and effective against many security threads. Having idiot proof off backups is the most valuable weapon against ransomware. 
+A simple backup that works is cheap, simple and effective against many security threads. Having idiot proof backups is the most valuable weapon against ransomware. 
 
 
-A Off-line, incorruptible, and disconnected backups – that cannot be encrypted by the malware – is a key corrective control that stops the malware from encrypting your ‘live’ data as well as the backed-up data.
+Off-line, incorruptible, and disconnected backups – that cannot be encrypted by the malware – is a key corrective control that stops the malware from encrypting your ‘live’ data as well as the backed-up data.
 ```
 
 
@@ -66,7 +66,7 @@ As with applications, security weaknesses are often discovered in operating syst
 ```{admonition} Restrict administrative privileges.
 :class: tip, dropdown
 
-Mcirosoft Windows is intended to be easy to use, and often users have free reign of the computer. However, administrator privileges should only be provided on an as-needs basis, as otherwise exploits have the ‘keys to the kingdom’ and can corrupt the computer itself.  
+Microsoft Windows is intended to be easy to use, and often users have free reign of the computer. However, administrator privileges should only be provided on an as-needs basis, as otherwise exploits have the ‘keys to the kingdom’ and can corrupt the computer itself.  
 
 Also on unix based systems, appliances and network devices  limiting administrative privileges is a must do. 
 Software SHOULD never have to use a high privilege account to run. 
@@ -75,5 +75,5 @@ Software SHOULD never have to use a high privilege account to run.
 ```{admonition} Prevent untrusted code to be run.
 :class: tip, dropdown
 
- So use MAC (mandatory access control). Despite the many technologies like sandboxing around the most important and simple measurement is: think! Be aware of attachments and downloads of strangers.
+ So use MAC (mandatory access control). Despite the many technologies like sandboxing, the most important and simple measurement is: to think! Be aware of attachments and downloads of strangers.
 ```

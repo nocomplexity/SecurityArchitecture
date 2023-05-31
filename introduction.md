@@ -1,9 +1,9 @@
 # Introduction
 
-There are many myths about security, and how difficult it is. Cyber security is complex domain. There is no perfect solution. Never. However there are simple solutions that do work. Always. Often the best cyber security solutions are open solutions which everyone can use. Good solutions are not subject to a hype. Open solutions are transparent so everyone can use and improve it. 
+There are many myths about security, and how difficult it is. Cyber security is a complex domain. There is no perfect solution. Never. But there are simple solutions that do work. Often the best cyber security solutions are open solutions which everyone can use. Good solutions are not subject to a hype. Open solutions are transparent and fully open. So everyone can use and improve it. 
 
 ```{admonition} This Playbook
-is created to help you solving your specific complex security challenges.
+is created to help you with solving your specific complex security challenges.
 ```
 
 
@@ -17,7 +17,7 @@ Find a proven solution by using this Security Reference Architecture:
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-**[Prevention](prevention/prevention)** ✍
+**[Prevention](prevention/prevention)** 🔐
 ^^^
 [Simple Checklist](prevention/simple-checklists)
 
@@ -31,7 +31,7 @@ Find a proven solution by using this Security Reference Architecture:
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-**[Protection](protection/security-management)** 🚀
+**[Protection](protection/security-management)** ✅
 ^^^
 [Security Policies](protection/security-policies)
 
@@ -49,7 +49,7 @@ Find a proven solution by using this Security Reference Architecture:
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-**[Architecture](architecture/reference-architecture)** ✨
+**[Architecture](architecture/reference-architecture)** 📓
 ^^^
 [Frameworks](architecture/frameworks)
 
@@ -62,7 +62,7 @@ Find a proven solution by using this Security Reference Architecture:
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-**[Learning ](learning/securitycourses)** 🎁
+**[Learning ](learning/securitycourses)** 📚 
 ^^^
 [Security courses](learning/securitycourses)
 
@@ -82,19 +82,19 @@ Find a proven solution by using this Security Reference Architecture:
 
 This security architecture is not just another security book. We wanted to create an innovative solution that helps you to create better and faster security solutions for your security use case. So we used our many years of experience when dealing with security challenges and created this interactive community driven publication to enable this goal. 
 
-All information within this guide is targeted for reuse to solve your cyber security challenge. This guides is designed so you can make your cyber security designs faster and better. Do not reinvent the wheel. Reuse and improve solid cyber security knowledge and experience that is created to build upon. 
+All information within this guide is targeted for reuse to solve your cyber security challenge. This guide is designed so you can make your cyber security designs faster and better. Do not reinvent the wheel. Reuse and improve solid cyber security knowledge and experience that is created to build upon. 
 
 
 We believe in open and simple cyber security solutions. Openness and transparency builds trust.
 
 Open simple solutions are:
-* solutions that are easily too understand 
+* solutions that are easily to understand 
 * solutions that can be studied 
 * solutions that can be improved
 
-Good cyber security solutions are open solutions. Transparency builds trust. Simple solutions that can easily be understand and studied are more transparent than complex proprietary  solutions. 
+Good cyber security solutions are open solutions. Transparency builds trust. Simple solutions that can easily be understood and studied are more transparent than complex proprietary  solutions. 
 
-Our mission with this open security reference architecture is to create the best playbook on internet that continuously helps you solving your cyber security challenges.
+Our mission with this open security reference architecture is to create the best playbook on the internet that continuously helps you with solving your cyber security challenges.
 
 We believe this is best done together. 
 ```{tip} Just use the buttons on top of every page. Create an edit suggestion or create an issue. 
@@ -110,7 +110,7 @@ Cyber security is a process, not a destination to arrive at. Designing a cyber s
 
 Good security design and implementation takes time, patience and hard work. 
 
-Society, companies, governments are increasingly dependent on IT. Good cyber security is required for safety and privacy.
+Society, companies, and governments are increasingly dependent on IT. Good cyber security is required for safety and privacy.
 
 There are no silver bullets when it comes to cyber security. Risks will never be zero. Using complex and expensive cyber security solutions are not by definition better. 
 
