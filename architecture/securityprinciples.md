@@ -17,7 +17,7 @@ the architecture.*
 
 Security architecture principles are used to translate selected
 alternatives into basic ideas, standards, and guidelines for simplifying
-and organizing the construction, operation, and evolution of systems.
+and organising the construction, operation, and evolution of systems.
 
 It is important to draw an early differentiation between standards,
 requirements, and principles.
@@ -40,8 +40,8 @@ decision making. Within business design and architecture, you find many
 people with strong opinions with what a good and usable principle is or
 is not. Discussion is always good to get a better understanding of each
 other mental maps. However, discussions on what a good security
-principle is should be target on what you can do with principles. How
-principles help you and your company? Can principles help you doing
+principle is, should be target on what you can do with principles. How
+principles help you and your company? Can principals help you doing
 projects faster and better? Can principles prevent your company
 architecture and software systems becoming the next IT over complexity
 landscape?
