@@ -4,7 +4,7 @@ This section is not about teaching you how to model you specific
 security solutions. By now you know that your model should be
 built out of attack vectors, security personas and security principles and requirements. The next chapter of this reference
 architecture deals with reusable principles in depth. First we present
-valuable models that can be reused when created a security solution architecture.
+valuable models that can be reused when creating a security solution architecture.
 
 Security threat modelling, or threat modelling, is a process of
 assessing and documenting a system's security risks. Security threat
@@ -39,7 +39,7 @@ With open we mean that the institute or company created the model has an
 open process that allows everyone to improve the model. Of course open
 is not always really open without borders and thresholds. Even the open
 group is not really open for public participation, since large
-memberships fees form a threshold. The OWASP foundation is however one
+membership fees form a threshold. The OWASP foundation is however one
 of the best examples on how open should be. That is open license on
 content (common creative) and no impediments and no requirements for
 participants who want to join the working groups.
@@ -52,7 +52,7 @@ Starting thread modelling can be hard. So this playbook offers:
 1. Collection of good thread models. You can use and reuse these within your own context. See the sections in this chapter.
 2. Methods for performing threat modeling. See the subsections.
 
-Methods for performing threat modeling are:
+Methods for performing threat modelling are:
 
 ```{tableofcontents}
 ```
@@ -78,7 +78,7 @@ OAuth 2.0 basic model.
 
 DDoS attacks are hard to prevent. However, every security or privacy
 architecture should take DDoS attacks into account. This to design
-solution that are more resistant against the easy DDoS attacks. 
+solutions that are more resistant against the easy DDoS attacks. 
 
 Problems due to DDoS Attacks: - DDoS attack is an attempt to make a
 systems inaccessible to its legitimate users. - The bandwidth of the
@@ -121,7 +121,7 @@ true. Machine-to-machine (M2M), Radio Frequency Identification (RFID),
 context-aware computing, wearables, ubiquitous computing, and
 web-of-things all are considered to be seamlessly integrated into a
 global information network, which has the self configuring capabilities
-based on standard and inter-operable communication protocols .
+based on standard and interoperable communication protocols .
 
 Below a generic threat model for the IoT world:
 
@@ -162,9 +162,9 @@ seen as:
 
 -   Attacks which compromise confidentiality
 -   Attacks which compromise integrity by manipulation of input.
--   'Traditional' attacks that have impact on availability.
+-   'Traditional' attacks that have an impact on availability.
 
-Attack vectors for machine learning systems can be categorized in:
+Attack vectors for machine learning systems can be categorised in:
 
 -   Input manipulation
 -   Data manipulation
@@ -176,7 +176,7 @@ Attack vectors for machine learning systems can be categorized in:
     learning algorithms and data)
 
 Taxonomy and terminology of machine learning is not yet fully
-standardized. The US NIST publication 8269 (The National Institute of
+standardised. The US NIST publication 8269 (The National Institute of
 Standards and Technology) a taxonomy and terminology of Adversarial
 Machine Learning is proposed. See
 <https://csrc.nist.gov/publications/detail/nistir/8269/draft>.
