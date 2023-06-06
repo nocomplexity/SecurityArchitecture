@@ -41,33 +41,6 @@ Key Reinstallation Attacks- Breaking WPA2 by forcing nonce reuse
 
 
 
-## OpenSCAP
-
-The OpenSCAP project provides tools to improve security of your
-infrastructure using open source tools. This project is founded by
-RedHat and the tools are NIST certified. Use of the tools is encouraged
-if your systems or infrastructure needs to meet NIST (or other US)
-security standards. <https://www.open-scap.org/>
-
-## Python Forensics, Inc.
-
-A non-profit organization focused on the collaborative development of
-open source investigative technologies using the Python programming
-language. See: <http://python-forensics.org/> for more information.
-
-
-
-## Security Officers Management and Analysis Project (SOMAP)
-
-Focuses on the Security Officers and on helping them in doing their
-daily business as comfortable as possible. The main goals of SOMAP.org
-are to develop and maintain: - Guides and Handbooks explaining and
-describing Risk Management. - an open and free 'best practice' Risk
-Model Repository with security objectives, threats and other risk
-related meta-data. 
-
-Check: [https://www.somap.org/](https://somap.org/default.html)
-
 ## Thread Models
 
 The OWASP Automated Threat Handbook provides actionable information and
@@ -88,21 +61,13 @@ If you want to launch a product is many countries and want to make sure you foll
 
 The Common Criteria for Information Technology Security Evaluation (CC), and the companion Common Methodology for Information Technology Security Evaluation (CEM) are the technical basis for an international agreement, the Common Criteria Recognition Arrangement (CCRA), which ensures that:
 
-    Products can be evaluated by competent and independent licensed laboratories so as to determine the fulfilment of particular security properties, to a certain extent or assurance;
+* Products can be evaluated by competent and independent licensed laboratories so as to determine the fulfilment of particular security properties, to a certain extent or assurance;
 
-    Supporting documents, are used within the Common Criteria certification process to define how the criteria and evaluation methods are applied when certifying specific technologies;
+* Supporting documents, are used within the Common Criteria certification process to define how the criteria and evaluation methods are applied when certifying specific technologies;
 
-    The certification of the security properties of an evaluated product can be issued by a number of Certificate Authorizing Schemes, with this certification being based on the result of their evaluation. These certificates are recognized by all the signatories of the CCRA.
+* The certification of the security properties of an evaluated product can be issued by a number of Certificate Authorizing Schemes, with this certification being based on the result of their evaluation. These certificates are recognized by all the signatories of the CCRA.
 
 More information on: https://www.commoncriteriaportal.org/
-
-## Trusted CI
-
-Trusted CI, the NSF Cybersecurity Center of Excellence is comprised of cybersecurity experts who have spent decades working with science and engineering communities and have an established track record of usable, high-quality solutions suited to the needs of those communities. The team draws from best operational practices and includes leaders in the research and development of new methodologies and high-quality implementations.
-
-Trusted CI offers a great collection of valuable resources to help cybersecurity professionals. Almost all content is open and published under a Creative Commons Attribution-­NonCommercial 3.0 Unported (CC BY­NC 3.0) license.
-
-More information on: https://www.trustedci.org/
 
 
 
@@ -112,15 +77,6 @@ Web Authorization Protocol (OAuth),
 <https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-01>
 
 
-## Web security
+## Mozilla Information Security Guides
 
-* Web Security technologies change continuously. A perfect solution does
-not exist. So make sure good practices are combined with good principles
-and non technical measurements for minimizing risks.
-
-Mozilla Web Security Guide,
-<https://developer.mozilla.org/en-US/docs/Web/Security>
-
-* Mozilla Information Security Guides, <https://infosec.mozilla.org/>
-Technical guidelines, principles and general information as used by the
-infosec team of Mozilla.
+[Security Assurance and Security Operations](https://infosec.mozilla.org/).Technical guidelines, principles and general information as used by the infosec team of Mozilla.

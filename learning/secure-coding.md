@@ -84,3 +84,11 @@ any system. For a current version of the [book](https://dwheeler.com/secure-prog
 
 So check:
 https://dwheeler.com/secure-programs/
+
+
+## Web security
+
+Web Security technologies change continuously. A perfect solution does
+not exist. So make sure good practices are combined with good principles
+and non technical measurements for minimizing risks.
+[Mozilla Web Security Guide](https://developer.mozilla.org/en-US/docs/Web/Security)

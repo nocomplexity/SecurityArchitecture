@@ -710,10 +710,6 @@ authentication data on the USB token that will prevent you from accidentally
 giving an attacker both your password and your one-time token if you try to
 use it on anything other than the legitimate website.
 
-See this site for a curated list of services providing Fido U2F support:
-
-- [dongleauth.info][23]
-
 Note, that not all browsers currently support U2F-capable hardware tokens, and
 if you use sandboxes or virtualization-based isolation around your browser,
 you may have to work extra hard to enable USB pass-through from the
@@ -834,7 +830,6 @@ distribution, please check out the following links:
 - [CESG Ubuntu Security Guide](https://www.gov.uk/government/publications/end-user-devices-security-guidance-ubuntu-1404-lts)
 - [Debian Security Manual](https://www.debian.org/doc/manuals/securing-debian-manual/index.en.html)
 - [Arch Linux Security Wiki](https://wiki.archlinux.org/index.php/Security)
-- [Mac OSX Security](https://www.apple.com/support/security/guides/)
 
 
 [0]: http://creativecommons.org/licenses/by-sa/4.0/
@@ -855,7 +850,7 @@ distribution, please check out the following links:
 [15]: https://github.com/lfit/ssh-gpg-smartcard-config
 [16]: http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/
 [17]: https://en.wikipedia.org/wiki/Cold_boot_attack
-[18]: https://www.linuxfoundation.org/blog/2015/09/linux-foundation-sysadmins-open-source-their-it-policies/
+[18]: https://www.linuxfoundation.org/blog/blog/linux-foundation-sysadmins-open-source-their-it-policies
 [19]: https://firejail.wordpress.com/
 [20]: https://firejail.wordpress.com/documentation-2/firefox-guide/
 [21]: https://www.nitrokey.com/

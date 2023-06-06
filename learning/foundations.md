@@ -54,8 +54,22 @@ Check the [daily dashboard](https://dashboard.shadowserver.org/) provided by thi
 
 +++
 
+* [OpenSCAP](https://www.open-scap.org/). The OpenSCAP project provides tools to improve security of your
+infrastructure using open source tools. This project is founded by RedHat and the tools are NIST certified. Use of the tools is encouraged if your systems or infrastructure needs to meet NIST (or other US) security standards. 
+
++++
+
+*  [Open Source IT Risk Management](https://somap.org/default.html). Focuses on the Security Officers and on helping them in doing their daily business as comfortable as possible. The main goals of SOMAP.org are to develop and maintain:
+- Guides and Handbooks explaining and describing Risk Management. 
+- an open and free 'best practice' Risk Model Repository with security objectives, threats and other risk
+related meta-data. 
+
+
++++
  
 * [The OpenChain Project ](https://www.openchainproject.org/): A Linux Foundation project. The OpenChain Project is solely focused on commercial and non-commercial open source process management in the supply chain. Lots of resources and cc-by or cc0 licensed. Also the ISO/IEC 5230 developed by this project is available.
 
 
 +++
+
+* [Trusted CI](https://www.trustedci.org/). Trusted CI, the NSF Cybersecurity Center of Excellence is comprised of cybersecurity experts who have spent decades working with science and engineering communities and have an established track record of usable, high-quality solutions suited to the needs of those communities. The team draws from best operational practices and includes leaders in the research and development of new methodologies and high-quality implementations. Trusted CI offers a great collection of valuable resources to help cybersecurity professionals. Almost all content is open and published under a Creative Commons Attribution-­NonCommercial 3.0 Unported (CC BY­NC 3.0) license.

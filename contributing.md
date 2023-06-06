@@ -1,16 +1,14 @@
 # Contributing
 
-We encourage all security professionals to improve this reference architecture. Join the team to:
+We encourage all security professionals to improve this reference architecture. You can help by:
 
-*    Add security principles.
+* Add security principles.
 
- *   Add security  models.
+* Add security  models.
 
-  *  Help us create the largest FOSS reference framework on FOSS security applications and tools.
+* Add threat models that can be easily reused.
 
-  *  Create better graphics and text.
-
-  *  Add threat models that can be easily reused.
+* Add links towards open (cc-by) solutions created by government's or foundations.
 
   
 Your contributions to this Guide are greatly appreciated as long as contributions fit within the scope and goal of this open security architecture. As an open project, this Open Reference Architecture for Security shall always remain vendor-neutral and freely available for all to use. If you contribute you will of course get credit (mentioned in upcoming publications).

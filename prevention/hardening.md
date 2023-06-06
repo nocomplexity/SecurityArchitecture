@@ -28,7 +28,7 @@ access as well as to limit the attack surface.
 This great guide is created by the US National Security Agency (NSA), Cybersecurity Directorate, Endpoint Security and the US Cybersecurity and Infrastructure Security Agency (CISA). This guide is published under a Creative Commons Attribution 4.0 license.
 
 
-Link to the [Kubernetes Hardening Guidance, version august 2021](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
+Link to the [Kubernetes Hardening Guidance, version august 2022]https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 
 ## Linux Hardening Guide
 

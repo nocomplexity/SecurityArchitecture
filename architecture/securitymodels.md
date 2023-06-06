@@ -170,24 +170,6 @@ The complete Matrix and all guides and information can be found at:
 https://attack.mitre.org/
 
 
-## Car Hacking
-
-Modelling how things really work is the best start for good protection.
-So any investment or use of real world hacking models improves your
-security design.
-
-Cars and especially autonomous cars are trending. Cars are nowadays also
-almost computers on wheels. In order to make sure it's safe, secure and
-vendors do not mess with your privacy hacking cars should not be a crime
-but should be encouraged. Since most advanced cars are build upon OSS
-software security and privacy has increased significantly.
-
-To know how secure cars are, use:
-
-The Car Hackers Handbook: <http://opengarages.org/handbook/> This Car
-Hackers Handbook helps you create better threat models for vehicles.
-Also your knowledge on how cars work increases per page.
-
 ## Industrial Internet Reference Architecture
 
 The IIRA is a standards-based reference architecture. It is a good reference to use when working in a IoT or industrial context.

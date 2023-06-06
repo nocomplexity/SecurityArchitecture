@@ -2,7 +2,7 @@
 
 This publication is:
 
-(c) 2022 BM-Support.org - Maikel Mardjan and all contributors
+(c) 2023 [BM-Support.org](https://www.bm-support.org/) - Maikel Mardjan and all contributors
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Third-party product names may be the trademarks of their respective owners.
 
@@ -24,9 +24,13 @@ NoComplexity.com, Security Reference Architecture by [Maikel Mardjan](https://no
 
 Or use the copy-paste below text this in the document that you create based on this document:
 
+
+```none
+NoComplexity.com, Security Reference Architecture,
+by Maikel Mardjan & Asim Jahan and all contributors.
+licensed CC BY-SA 4.0. 
 ```
-NoComplexity.com, Security Reference Architecture by Maikel Mardjan(https://nocomplexity.com/), licensed CC BY-SA 4.0. 
-```
+
 
 
 
