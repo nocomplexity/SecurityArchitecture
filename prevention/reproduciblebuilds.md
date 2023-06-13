@@ -1,19 +1,20 @@
 # Reproducible builds
 
-FOSS software is a must for solid security. However trust alone is not enough. Of course you must and should check if your software has a OpenSSF Best Practices Badge or perform the audit yourself if in doubt.
+When using FOSS software you have the advantage to inspect the source code on malicious flaws. However almost all software is distributed to end users as pre-compiled binaries. This creates a problem: How do you know if the software is not injected with malicious code?
 
-But an assessment, audit report is from a security point of view **not good enough!** This accounts for FOSS software and for commercial software.
-
-When using FOSS software you already have the advantage to be able to inspect the source code on malicious flaws. However almost all software is distributed to end users as pre-compiled binaries. This creates a problem: How do you know if the software is not injected with malicious code?
 Compiling the software yourself is not enough to be sure that no flaws have been introduced.
-You **should** check if your software has a reproducible build.
 
+```{attention} 
+You **should** check if your software has a reproducible build.
+```
+
+
+From a security perspective it is desirable that building a binary the same source code with the same set of tools is reproducible. So that the output is always exactly the same. This makes it possible to verify that the build infrastructure for a binary distribution or embedded system has not been subverted. 
 
 
 ```{tip} Simple security tip 
 For good security you should check if your software has a reproducible build. So validate that the output of your software build matches that of the original build.
 ```
-
 
 Whilst anyone may inspect the source code of free and open source software for malicious flaws, most software is distributed pre-compiled with no method to confirm whether your received software package matches the software that it is supposed to be.
 
