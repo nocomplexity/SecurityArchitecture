@@ -18,6 +18,7 @@ parts:
       - file: prevention/csp-checklist
       - file: prevention/ncp-checklists
       - file: prevention/evalFOSS
+      - file: prevention/conciseguidefordeveloping
   - file: prevention/simplesolutions
   - file: prevention/hardening
 
