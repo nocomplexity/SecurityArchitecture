@@ -20,3 +20,20 @@ project main page:
 The Mobile Security Testing Guide (MSTG) is a comprehensive manual for
 mobile app security development, testing and reverse engineering. See:
 <https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview>
+
+
+## OpenSSL: X.509 errors
+
+A great guide to improve understanding of X.509 errors.
+
+A must read and must known for everyone who claims to be capable of configuring and maintaining TLS. In reality: Almost no one knowns and understands all aspects of TLS in depth. 
+
+Check the guides: [OpenSSL: X.509 errors](https://x509errors.org/).
+
+```{admonition} Mission of this project
+:class: note
+
+Simplify the ecosystem by consolidating the errors and their documentation (similarly to web documentation) and better explaining what the validation errors mean.
+
+Check also the [code repository and the readme](https://github.com/crocs-muni/usable-cert-validation).
+```

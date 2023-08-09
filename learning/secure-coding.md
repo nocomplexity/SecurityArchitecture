@@ -34,6 +34,13 @@ Python, GO) and libraries, and focuses on concrete recommendations. Also
 lots of unix \'must do\' and \'never do\' tips from a security
 viewpoint.Licensed CC-BY-SA.
 
+## GDPR developer's guide
+
+The Developer's Guide to GDPR provides a first approach to the main principles of GDPR and the different points of attention to consider when developing and deploying applications that respect the privacy of users.
+
+[GDPR Developer's Guide](https://www.cnil.fr/en/gdpr-developers-guide)
+
+
 ## GOlang programming
 
 Go Language Web Application Secure Coding Practices,

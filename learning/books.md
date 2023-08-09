@@ -74,6 +74,13 @@ Book landing page: [https://ccdcoe.org/library/publications/malware-reverse-engi
 Direct PDF link: [https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf)
 
 
+## Pentesters Promiscuous Notebook (PPN)
+
+[A GitBook](https://ppn.snovvcrash.rocks/) for learning to do hands-on things from a practitioner. 
+
+[Repository on Github](https://github.com/snovvcrash/PPN)
+
+
 ## Programming Differential Privacy
 
 Programming Differential Privacy, A book about differential privacy, for programmers
