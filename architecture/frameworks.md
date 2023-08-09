@@ -53,6 +53,20 @@ Good overview on of all controls:
 
 https://csrc.nist.gov/Projects/risk-management/sp800-53-controls/release-search#!/controls?version=5.1 
 
+## Open Software Supply Chain Attack Reference (OSC&R)
+
+A great framework for Releasing Secure Products. 
+
+```{admonition} Open Software Supply Chain Attack Reference (OSC&R)
+:class: tip 
+Make security a part of product development.
+
+Check: [https://pbom.dev/](https://pbom.dev/)
+```
+
+
+
+
 ## The Update Framework
 
 The Update Framework (TUF) helps developers maintain the security of software update systems, providing protection even against attackers that compromise the repository or signing keys. TUF provides a flexible framework and specification that developers can adopt into any software update system.

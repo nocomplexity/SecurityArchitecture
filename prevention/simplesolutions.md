@@ -75,7 +75,7 @@ Do not reinvent the wheel. For every simple or complex security incident a good 
 So just do:
 * Use and reuse existing security incident procedures. 
 
-A good collection can be found here [link]
+A good collection can be found [here](../protection/security-policies) 
 
 
 ```
