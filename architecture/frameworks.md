@@ -8,6 +8,23 @@ SAMA  established a Cyber Security Framework (“the Framework”) to enable Fin
 
 See: https://www.sama.gov.sa/en-US/Laws/BankingRules/SAMA%20Cyber%20Security%20Framework.pdf 
 
+## In-toto
+
+[In-toto](https://in-toto.io/): A framework to secure the integrity of software supply chains.
+
+
+```{admonition} What is in-toto?
+:class: tip 
+
+in-toto is designed to ensure the integrity of a software product from initiation to end-user installation. It does so by making it transparent to the user what steps were performed, by whom and in what order. As a result, with some guidance from the group creating the software, in-toto allows the user to verify if a step in the supply chain was intended to be performed, and if the step was performed by the right actor.
+
+Check: [https://in-toto.io/](https://in-toto.io/)
+
+```
+
+Check [here for the github](https://github.com/in-toto/in-toto) repository.
+
+
 ## NIST Security framework
 
 Whenever you feel the need to draw a process regarding security or risk
@@ -59,11 +76,11 @@ A great framework for Releasing Secure Products.
 
 ```{admonition} Open Software Supply Chain Attack Reference (OSC&R)
 :class: tip 
+
 Make security a part of product development.
 
 Check: [https://pbom.dev/](https://pbom.dev/)
 ```
-
 
 
 

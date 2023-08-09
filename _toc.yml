@@ -35,6 +35,8 @@ parts:
         title: Example of an university 
       - url: https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/isp_v4.pdf
         title: Example of a government
+      - url: https://www.etsi.org/deliver/etsi_tr/103300_103399/10330501/04.01.02_60/tr_10330501v040102p.pdf
+        title: ETSI Critical Security Controls for Effective Cyber Defence
   - file: protection/security-classifications
     sections:
       - url: https://security.berkeley.edu/data-classification-standard
