@@ -14,6 +14,7 @@ parts:
       - file: prevention/reproduciblebuilds
       - file: prevention/owasp-top10-checklist
       - file: prevention/linux-securitychecklist
+      - file: prevention/mvsp
       - file: prevention/api-security-checklist
       - file: prevention/csp-checklist
       - file: prevention/ncp-checklists
