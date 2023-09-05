@@ -20,6 +20,7 @@ parts:
       - file: prevention/ncp-checklists
       - file: prevention/evalFOSS
       - file: prevention/conciseguidefordeveloping
+      - file: prevention/ransomware
   - file: prevention/simplesolutions
   - file: prevention/hardening
 

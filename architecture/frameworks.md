@@ -93,3 +93,14 @@ TUF is hosted by the Linux Foundation as part of the Cloud Native Computing Foun
 Check: https://theupdateframework.io/ 
 
 This project is a Linux Foundation project under the Cloud Native Computing Foundation.
+
+## Supply-chain Levels for Software Artifacts (SLSA)
+
+
+Supply-chain Levels for Software Artifacts, or SLSA ("salsa"). It’s a security framework, a checklist of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure. It’s how you get from "safe enough" to being as resilient as possible, at any link in the chain.
+
+
+```{hint} More information: 
+[Check the SLSA security framework](https://slsa.dev/)
+
+```
