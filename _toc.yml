@@ -46,6 +46,8 @@ parts:
       - file: protection/dataclassification-example1
   - file: protection/vulnerabilities-search  
   - file: protection/security-management
+  - url: https://nocomplexity.com/documents/securitysolutions
+    title: Security Solutions
 
 - caption: Architecture
   chapters:
