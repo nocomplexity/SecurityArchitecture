@@ -86,6 +86,8 @@ parts:
   chapters:
   - file: learning/securitycourses
   - file: learning/books
+  - url: https://nocomplexity.com/documents/securitybydesign/
+    title: Security By Design
   - file: learning/secure-coding
   - file: learning/softwaretesting
   - file: learning/trustedcomputing
