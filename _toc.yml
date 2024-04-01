@@ -13,6 +13,7 @@ parts:
       - file: prevention/foss-securitycriteria
       - file: prevention/reproduciblebuilds
       - file: prevention/owasp-top10-checklist
+      - file: prevention/openSSF-scorecard
       - file: prevention/linux-securitychecklist
       - file: prevention/mvsp
       - file: prevention/api-security-checklist
