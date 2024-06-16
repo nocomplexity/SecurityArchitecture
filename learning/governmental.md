@@ -26,6 +26,10 @@ Zero Trust is everywhere, but I like the DoD created [Zero Trust reference archi
 
 * [NIST General information](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf)
 
++++
+
+
+* [The National Cyber Security Centre(UK)](https://www.ncsc.gov.uk/). All standards, information and tips from the UK government. Aim of this initiative is "Making the UK the safest place to live and work online".
 
 +++
 
