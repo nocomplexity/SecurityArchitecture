@@ -29,10 +29,16 @@ So follow these simple steps:
 * Develop a security architecture based on your risk profile.
 * Always consider real distributed solutions where your security concerns are to spread across several nodes to reduce the impact of a single breach. E.g. spread data and secrets across several independent nodes to be more resilient.  
 * Develop a thread analyse and improve your architecture.
-
-
-
 ```
+
+
+
+```{admonition} Never ever use pirated software
+:class: tip, dropdown
+
+When you download and use pirated software, you will also get a piece of malware as bonus. When using pirated software you can be part of a hacking ecosystem that is used for breaches all over the planet.
+```
+
 
 ## Protection
 
