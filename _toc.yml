@@ -101,6 +101,8 @@ parts:
       - file: learning/governmental
       - file: learning/vulnerabilitymanagement
       - file: learning/vulnerabilitydatabases
+  - url: https://nocomplexity.com/cybersecurity-conferences/
+    title: Security Conferences
 
 - caption: About
   chapters:
