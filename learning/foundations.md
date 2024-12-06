@@ -5,6 +5,9 @@
 
 +++
 
+* [CA/Browser Forum](https://cabforum.org/) The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gathering of Certificate Issuers and suppliers of Internet browser software and other applications that use certificates (Certificate Consumers).
+
++++
 
 * [Global Encryption Coalition](https://www.globalencryption.org/about/). The Global Encryption Coalition promotes and defends encryption in key countries and multilateral fora where it is under threat. The foundation also provides crucial [resources](https://www.globalencryption.org/resources/) to learn more on encryption.
 
