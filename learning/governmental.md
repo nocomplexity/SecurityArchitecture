@@ -6,7 +6,7 @@ Reinventing the wheel is a lost of energy and resources. Put effort on reuse alr
 
 
 
-* [ Australian Strategic Policy Institute (ASPI)](https://aucheck.com.au/). Core aim is to provide the Australian Government with fresh ideas on Australia's defence, security and strategic policy choices. .auCheck provides a series of tests that check whether your internet services follow standards advised by the Australian government and are up to date. .auCheck is a non-commercial, independent and free service. Our mission is to empower users, in particular Australian small businesses, to ask the right questions and request up-to-date services from their providers.
+* [ Australian Strategic Policy Institute (ASPI)](https://www.aspi.org.au/). Core aim is to provide the Australian Government with fresh ideas on Australia's defence, security and strategic policy choices. .auCheck provides a series of tests that check whether your internet services follow standards advised by the Australian government and are up to date. .auCheck is a non-commercial, independent and free service. Our mission is to empower users, in particular Australian small businesses, to ask the right questions and request up-to-date services from their providers.
 
 
 +++
@@ -39,7 +39,7 @@ Zero Trust is everywhere, but I like the DoD created [Zero Trust reference archi
 
 +++
 
-* [New Zealand Information Security Manual](https://www.nzism.gcsb.govt.nz/ism-document/) Great IS manual. The New Zealand Information Security Manual details processes and controls essential for the protection of all New Zealand Government information and systems. Controls and processes representing good practice are also provided to enhance the baseline controls. 
+* [New Zealand Information Security Manual](https://nzism.gcsb.govt.nz/) Great IS manual. The New Zealand Information Security Manual details processes and controls essential for the protection of all New Zealand Government information and systems. Controls and processes representing good practice are also provided to enhance the baseline controls. 
 Use and reuse this manual for your governmental organisation or company.
 
 

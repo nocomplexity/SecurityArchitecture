@@ -45,22 +45,6 @@ Bruce Davie. Read the latest version of this book on:
 Basic Security Awareness Training. Slides are available in Dutch and in
 English on the github repository: https://github.com/radicallyopensecurity/Digitally-Aware
 
-## ENISA Cyber Security Trainings
-
-ENISA Cyber Security Training material can be used free of charge. The trainings are introduced in 2008 and have been complemented with new additions containing essential material for success in the CSIRT community and in the field of Cyber Security. 
-
-The European Union Agency for Network and Information Security (ENISA) is a centre of network and information security expertise for the EU, its member states, the private sector and Europe’s citizens. ENISA works with these groups to develop advice and recommendations on good practice in information security. 
-
-The ENISA CERT training material covers four main areas:
-* Technical
-* Operational
-* Setting Up a CSIRT
-* Legal and Cooperation
-
-
-
-Link to the ENSISA CERT trainings: [https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
-
 
 ## Malware Analysis
 

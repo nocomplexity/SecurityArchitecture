@@ -39,7 +39,7 @@ A growing number of health-related IoT devices are currently available in the ma
 This guide is for those who have day-to-day responsibility for data
 protection. It explains the purpose and effect of each principle, gives
 practical examples and answers frequently asked questions.
-Check: [Guide to Data Protection](https://ico.org.uk/for-organisations/guide-to-data-protection/)
+Check: [Guide to Data Protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/)
 
 
 +++

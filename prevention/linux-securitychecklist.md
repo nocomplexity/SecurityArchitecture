@@ -826,7 +826,7 @@ The world of IT security is a rabbit hole with no bottom. If you would like to
 go deeper, or find out more about security features on your particular
 distribution, please check out the following links:
 
-- [Fedora Security Guide](https://docs-old.fedoraproject.org/en-US/Fedora/19/html/Security_Guide/index.html)
+- [Fedora Security Guide](https://jfearn.fedorapeople.org/fdocs/en-US/Fedora/20/html/Security_Guide/index.html)
 - [CESG Ubuntu Security Guide](https://www.gov.uk/government/publications/end-user-devices-security-guidance-ubuntu-1404-lts)
 - [Debian Security Manual](https://www.debian.org/doc/manuals/securing-debian-manual/index.en.html)
 - [Arch Linux Security Wiki](https://wiki.archlinux.org/index.php/Security)

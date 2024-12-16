@@ -21,7 +21,7 @@ an attack to be classified as a supply chain one, both the supplier and the cust
 
 Enisa pulished a great report on Supply Chain Attacks. This report aims at mapping and studying the supply chain attacks that were discovered from January 2020 to early July 2021. 
 
-[Download the report](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks/@@download/fullReport) , published: July 29, 2021 
+[Download the report](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks) , published: July 29, 2021 
 
 *Attribution* for the content of this section Enisa: [Enisa](https://www.enisa.europa.eu/) is a the European Union Agency for Cybersecurity.
 

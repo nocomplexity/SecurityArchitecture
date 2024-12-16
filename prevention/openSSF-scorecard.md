@@ -355,7 +355,7 @@ This check tries to determine if the project uses
 2. if [ClusterFuzzLite](https://google.github.io/clusterfuzzlite/) is deployed in the repository;
 3. if there are user-defined language-specified fuzzing functions in the repository.
    - currently only supports [Go fuzzing](https://go.dev/doc/fuzz/),
-   - a limited set of property-based testing libraries for Haskell including [QuickCheck](https://hackage.haskell.org/package/QuickCheck), [Hedgehog](https://hedgehog.qa/), [validity](https://hackage.haskell.org/package/validity) or [SmallCheck](https://hackage.haskell.org/package/smallcheck),
+   - a limited set of property-based testing libraries for Haskell including [QuickCheck](https://hackage.haskell.org/package/QuickCheck), , [validity](https://hackage.haskell.org/package/validity) or [SmallCheck](https://hackage.haskell.org/package/smallcheck),
    - a limited set of property-based testing libraries for JavaScript and TypeScript including [fast-check](https://fast-check.dev/).
 
 Fuzzing, or fuzz testing, is the practice of feeding unexpected or random data
@@ -503,7 +503,7 @@ Pinned dependencies reduce several security risks:
     security of the project (in the case where you've evaluated the pinned
     dependency, you are confident it's not compromised, and a later version is
     released that is compromised).
-  - They are one way to [counter dependency confusion (aka substitution) attacks](https://azure.microsoft.com/en-us/resources/3-ways-to-mitigate-risk-using-private-package-feeds/),
+  - They are one way to counter dependency confusion (aka substitution) attacks,
     in which an application uses multiple feeds to acquire software packages (a
     "hybrid configuration"), and attackers fool the user into using a malicious
     package via a feed that was not expected for that package.

@@ -13,7 +13,7 @@ The threats are:
 *    Denial of service
 *    Elevation of privilege
 
-( [source Wikipedia, support it!](https://en.wikipedia.org/wiki/STRIDE_(security)) )
+( [source Wikipedia, support it!](https://en.wikipedia.org/wiki/STRIDE_model)
 
 <table class="MsoNormalTable" cellspacing="0" cellpadding="0" border="0">
 <tbody>
