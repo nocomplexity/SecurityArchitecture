@@ -25,6 +25,9 @@ parts:
   - file: prevention/simplesolutions
   - file: prevention/hardening
   - file: prevention/securitystandards
+    sections:
+      - file: prevention/cors
+
 
 - caption: Protection
   chapters:
