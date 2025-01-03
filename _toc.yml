@@ -24,6 +24,7 @@ parts:
       - file: prevention/ransomware
   - file: prevention/simplesolutions
   - file: prevention/hardening
+  - file: prevention/securitystandards
 
 - caption: Protection
   chapters:
