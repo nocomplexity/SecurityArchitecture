@@ -52,7 +52,7 @@ html:
   extra_footer              : '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2025, <a href="https://bm-support.org/"> BM-Support.org</a> & Maikel Mardjan. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
   extra_navbar              : '<a href="https://bm-support.org/"><b>ROI Now!</b></a>'
 
-  google_analytics_id       : ""  # A GA id that can be used to track book views.
+  
   home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
   baseurl                   : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:

@@ -90,9 +90,7 @@ parts:
 - caption: Learning
   chapters:
   - file: learning/securitycourses
-  - file: learning/books
-  - url: https://nocomplexity.com/documents/securitybydesign/
-    title: Security By Design
+  - file: learning/books  
   - file: learning/secure-coding
   - file: learning/softwaretesting
   - file: learning/trustedcomputing
@@ -107,6 +105,13 @@ parts:
       - file: learning/vulnerabilitydatabases
   - url: https://nocomplexity.com/cybersecurity-conferences/
     title: Security Conferences
+
+- caption: Key Resources
+  chapters:  
+  - file: generatedFiles/foundations
+  - file: generatedFiles/standards
+  - file: generatedFiles/governmentsecurityorganizations
+  - file: generatedFiles/securitybydesign
 
 - caption: About
   chapters:

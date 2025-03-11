@@ -103,4 +103,11 @@ Supply-chain Levels for Software Artifacts, or SLSA ("salsa"). It’s a security
 ```{hint} More information: 
 [Check the SLSA security framework](https://slsa.dev/)
 
-```
+``` 
+
+## Secure Software Development Framework (SSDF)
+
+Few software development life cycle (SDLC) models explicitly address software security in detail, so secure software development practices usually need to be added to each SDLC model to ensure that the software being developed is well-secured. This document recommends the Secure Software Development Framework (SSDF) – a core set of high-level secure software development practices that can be integrated into each SDLC implementation. 
+
+Check [ NIST SP 800-218 Secure Software Development Framework (SSDF)](https://csrc.nist.gov/pubs/sp/800/218/final)
+

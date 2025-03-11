@@ -1,0 +1,42 @@
+## Standards  
+
+% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+
+::::{grid} 2
+:class-container: text-center
+:gutter: 2
+
+:::{grid-item-card}
+:link: https://cyclonedx.org/ 
+{octicon}`book;1em;caption-text` **CycloneDX**
+^^^
+OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction
++++
+[Read more or use this reference »](https://cyclonedx.org/)
+:::
+
+
+:::{grid-item-card}
+:link: https://opencre.org/ 
+{octicon}`package;1em;caption-text` **Open Common Requirement Enumeration**
+^^^
+The Open Source project “OpenCRE “ links all security standards and guidelines together at the level of requirements into one harmonized resource: threats, weaknesses, what to verify, how to program, how to test, which tool settings, in-depth discussion, training material. Everything organized. See also https://github.com/OWASP/OpenCRE 
++++
+[Read more or use this reference »](https://opencre.org/)
+:::
+
+
+:::{grid-item-card}
+:link: https://webauthn.guide/ 
+{octicon}`zap;1em;caption-text` **WebAuthn**
+^^^
+Public Key Cryptography and Web Authentication (WebAuthn)
++++
+[Read more or use this reference »](https://webauthn.guide/)
+:::
+
+
+:::: 
+ % End of Grid 
+% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+
