@@ -2,7 +2,7 @@
 
 
 
-```{admonition} How to mitigate DDoS attacks - never simple..
+::::{admonition} How to mitigate DDoS attacks - never simple..
 :class: tip, dropdown
 A Denial of Service (DoS) attack is an attempt to affect the availability of a targeted system. Typically, attackers generate large volumes of packets or requests ultimately overwhelming the target system. In case of a Distributed Denial of Service (DDoS) attack the attacker often uses multiple compromised sources to generate the attack. Like cloud services. Also a DDoS attack can be used as a distraction to get unprivileged access. 
 
@@ -15,8 +15,13 @@ Simple rules for mitigating DDOS attacks:
 * Have different mitigation scenarios in place
 * Make sure to have a direct phone number of a real network security expert that can and will help you! (Without ripping you off)
 
+:::{tip}
+A nie paper for [Responding to Distributed Denial-of-Service Attacks](https://www.cisa.gov/sites/default/files/publications/understanding-and-responding-to-ddos-attacks_508c.pdf)
+:::
+
 [{bdg-primary}`Read this blog for more in depth information`](https://nocomplexity.com/one-more-time/)
-```
+::::
+
 
 ## Prevention
 
@@ -82,9 +87,14 @@ So just do:
 * Use and reuse existing security incident procedures. 
 
 A good collection can be found [here](../protection/security-policies) 
-
-
 ```
+
+:::{admonition} Mitigating malware and ransomware attacks
+:class: tip, dropdown
+This guidance helps private and public sector organisations deal with the effects of malware (which includes ransomware). It provides actions to help organisations prevent a malware infection, and also steps to take if you're already infected.
+Check this [guide](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks#stepsifinfected).
+
+:::
 
 ## Recover
 

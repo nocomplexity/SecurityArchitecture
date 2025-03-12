@@ -111,3 +111,12 @@ Few software development life cycle (SDLC) models explicitly address software se
 
 Check [ NIST SP 800-218 Secure Software Development Framework (SSDF)](https://csrc.nist.gov/pubs/sp/800/218/final)
 
+## Open Cybersecurity Schema Framework (OCSF)
+
+The Open Cybersecurity Schema Framework is an open-source project, delivering an extensible framework for developing schemas, along with a vendor-agnostic core security schema.
+The framework is made up of a set of data types, an attribute dictionary, and the taxonomy. It is not restricted to the cybersecurity domain nor to events, however the initial focus of the framework has been a schema for cybersecurity events. 
+Check and use: [Cybersecurity Schema Framework](https://schema.ocsf.io/)
+
+:::{note}
+OCSF is licensed under the Apache License 2.0. The repository home is: [https://github.com/ocsf/](https://github.com/ocsf/)
+:::

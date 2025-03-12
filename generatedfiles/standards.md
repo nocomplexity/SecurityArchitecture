@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://cyclonedx.org/ 
-{octicon}`book;1em;caption-text` **CycloneDX**
+{octicon}`thumbsup;1em;caption-text` **CycloneDX**
 ^^^
 OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction
 +++
@@ -18,7 +18,7 @@ OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides a
 
 :::{grid-item-card}
 :link: https://opencre.org/ 
-{octicon}`package;1em;caption-text` **Open Common Requirement Enumeration**
+{octicon}`pencil;1em;caption-text` **Open Common Requirement Enumeration**
 ^^^
 The Open Source project “OpenCRE “ links all security standards and guidelines together at the level of requirements into one harmonized resource: threats, weaknesses, what to verify, how to program, how to test, which tool settings, in-depth discussion, training material. Everything organized. See also https://github.com/OWASP/OpenCRE 
 +++
@@ -28,7 +28,7 @@ The Open Source project “OpenCRE “ links all security standards and guidelin
 
 :::{grid-item-card}
 :link: https://webauthn.guide/ 
-{octicon}`zap;1em;caption-text` **WebAuthn**
+{octicon}`megaphone;1em;caption-text` **WebAuthn**
 ^^^
 Public Key Cryptography and Web Authentication (WebAuthn)
 +++

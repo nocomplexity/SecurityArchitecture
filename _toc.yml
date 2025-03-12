@@ -76,6 +76,8 @@ parts:
         title: Security Cards 
       - url: https://resources.sei.cmu.edu/library/Asset-view.cfm?assetid=51546
         title: OCTAVE Approach
+      - url: https://github.com/kubernetes/sig-security/blob/main/sig-security-external-audit/security-audit-2019/findings/Kubernetes%20Threat%20Model.pdf
+        title: Kubernetes Threat Model
   - file: architecture/securityprinciples
     sections:
       - file: architecture/mozilla_securityprinciples
@@ -85,6 +87,8 @@ parts:
       - file: architecture/NCSC-securecommunication
       - file: architecture/saltzer_designprinciples
       - file: architecture/ms-zt-principles
+      - url: https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns
+        title: Security architecture anti-patterns
 
 
 - caption: Learning
@@ -99,8 +103,7 @@ parts:
       - file: learning/cryptography
       - file: learning/securityframeworks
       - file: learning/researchlabs
-      - file: learning/foundations
-      - file: learning/governmental
+      - file: learning/foundations      
       - file: learning/vulnerabilitymanagement
       - file: learning/vulnerabilitydatabases
   - url: https://nocomplexity.com/cybersecurity-conferences/
@@ -108,10 +111,10 @@ parts:
 
 - caption: Key Resources
   chapters:  
-  - file: generatedFiles/foundations
-  - file: generatedFiles/standards
-  - file: generatedFiles/governmentsecurityorganizations
-  - file: generatedFiles/securitybydesign
+  - file: generatedfiles/foundations
+  - file: generatedfiles/standards
+  - file: references/goverments
+  - file: generatedfiles/securitybydesign
 
 - caption: About
   chapters:

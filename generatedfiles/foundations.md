@@ -1,5 +1,3 @@
-# References 
-
 ## Foundations  
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
@@ -10,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://www.cisecurity.org/ 
-{octicon}`smiley;1em;caption-text` **Center for Internet Security (CIS)**
+{octicon}`heart;1em;caption-text` **Center for Internet Security (CIS)**
 ^^^
 The Center for Internet Security (CIS) is a 501(c)(3) organization is dedicated to enhancing the cybersecurity readiness and response among public and private sector entities. CIS’s Mission is to: Identify, develop, validate, promote, and sustain best practices in cybersecurity; Deliver world-class security solutions to prevent and rapidly respond to cyber incidents; and Build and lead communities to enable an environment of trust in cyberspace.
 +++
@@ -20,7 +18,7 @@ The Center for Internet Security (CIS) is a 501(c)(3) organization is dedicated 
 
 :::{grid-item-card}
 :link: https://cabforum.org/ 
-{octicon}`verified;1em;caption-text` **CA/Browser Forum**
+{octicon}`project;1em;caption-text` **CA/Browser Forum**
 ^^^
 The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gathering of Certificate Issuers and suppliers of Internet browser software and other applications that use certificates (Certificate Consumers).
 +++
@@ -30,7 +28,7 @@ The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gath
 
 :::{grid-item-card}
 :link: https://www.globalencryption.org/about/ 
-{octicon}`project;1em;caption-text` **Global Encryption Coalition**
+{octicon}`cross-reference;1em;caption-text` **Global Encryption Coalition**
 ^^^
 The Global Encryption Coalition promotes and defends encryption in key countries and multilateral fora where it is under threat. The foundation also provides crucial [resources](https://www.globalencryption.org/resources/) to learn more on encryption.
 +++
@@ -40,7 +38,7 @@ The Global Encryption Coalition promotes and defends encryption in key countries
 
 :::{grid-item-card}
 :link: https://bok.idpro.org/ 
-{octicon}`zap;1em;caption-text` **IDPro Body of Knowledge**
+{octicon}`book;1em;caption-text` **IDPro Body of Knowledge**
 ^^^
 The IDPro Body of Knowledge is a compilation of IAM crucial up-to-date knowledge. This content is created and reviewed by the IAM professionals. All articles are peer reviewed. Within this resource you can find an 'IAM Reference Architecture', articles on 'Authentication and Authorization' and more content regarding IAM (Identity and Access Management).
 +++
@@ -50,7 +48,7 @@ The IDPro Body of Knowledge is a compilation of IAM crucial up-to-date knowledge
 
 :::{grid-item-card}
 :link: https://ostif.org/ 
-{octicon}`project;1em;caption-text` **Open Source Technology Improvement Fund**
+{octicon}`thumbsup;1em;caption-text` **Open Source Technology Improvement Fund**
 ^^^
 The Open Source Technology Improvement Fund is a corporate non-profit dedicated to securing open source apps that we all depend on. Securing software isn’t easy, and we know what it takes to succeed. By facilitating security audits and reviews, OSTIF makes it easy for projects to significantly improve security.
 +++
@@ -90,7 +88,7 @@ Since our founding in 2004, The Shadowserver Foundation has become one of the wo
 
 :::{grid-item-card}
 :link: https://www.trustedci.org/ 
-{octicon}`tools;1em;caption-text` **Trusted CI**
+{octicon}`hubot;1em;caption-text` **Trusted CI**
 ^^^
 The Trusted CI Framework is a minimum standard for cybersecurity programs. The mission of Trusted CI Foundation is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors. This foundation provides great [templates and tools](https://www.trustedci.org/framework/templates) ready to use!
 +++
@@ -100,7 +98,7 @@ The Trusted CI Framework is a minimum standard for cybersecurity programs. The m
 
 :::{grid-item-card}
 :link: https://objective-see.org/ 
-{octicon}`tools;1em;caption-text` **Objective-See Foundation**
+{octicon}`smiley;1em;caption-text` **Objective-See Foundation**
 ^^^
 Foundation focusses on free, open-source macOS security tools. And is known for organising the macOS security conference, "Objective by the Sea" (#OBTS).
 +++
@@ -110,7 +108,7 @@ Foundation focusses on free, open-source macOS security tools. And is known for 
 
 :::{grid-item-card}
 :link: https://www.openchainproject.org/ 
-{octicon}`project;1em;caption-text` **OpenChain Project**
+{octicon}`thumbsup;1em;caption-text` **OpenChain Project**
 ^^^
 Linux Foundation project. The OpenChain Project is focused on commercial and non-commercial open source process management in the supply chain. Maintains [OpenChain ISO/IEC 5230](https://www.openchainproject.org/license-compliance) and [OpenChain ISO/IEC DIS 18974](https://www.openchainproject.org/security-assurance) These ISO/IEC standards are at no cost available using this link.
 +++
@@ -120,7 +118,7 @@ Linux Foundation project. The OpenChain Project is focused on commercial and non
 
 :::{grid-item-card}
 :link: https://www.open-scap.org/ 
-{octicon}`heart;1em;caption-text` **OpenSCAP**
+{octicon}`cross-reference;1em;caption-text` **OpenSCAP**
 ^^^
 The OpenSCAP project provides tools to improve security of your infrastructure using open source tools. This project is founded by RedHat and the tools are NIST certified. Use of the tools is encouraged if your systems or infrastructure needs to meet NIST (or other US) security standards.
 +++
@@ -130,7 +128,7 @@ The OpenSCAP project provides tools to improve security of your infrastructure u
 
 :::{grid-item-card}
 :link: https://somap.org/default.html 
-{octicon}`thumbsup;1em;caption-text` **Open Source IT Risk Management**
+{octicon}`telescope;1em;caption-text` **Open Source IT Risk Management**
 ^^^
 Focuses on the Security Officers and on helping them in doing their daily business as comfortable as possible. The main goals of SOMAP.org are to develop and maintain: - Guides and Handbooks explaining and describing Risk Management. - an open and free 'best practice' Risk Model Repository with security objectives, threats and other risk related meta-data.
 +++
@@ -139,28 +137,8 @@ Focuses on the Security Officers and on helping them in doing their daily busine
 
 
 :::{grid-item-card}
-:link: https://www.openchainproject.org/ 
-{octicon}`checklist;1em;caption-text` **The OpenChain Project**
-^^^
-A Linux Foundation project. The OpenChain Project is solely focused on commercial and non-commercial open source process management in the supply chain. Lots of resources and cc-by or cc0 licensed. Also the ISO/IEC 5230 developed by this project is available.
-+++
-[Read more or use this reference »](https://www.openchainproject.org/)
-:::
-
-
-:::{grid-item-card}
-:link: https://www.trustedci.org/ 
-{octicon}`checklist;1em;caption-text` **Trusted CI**
-^^^
-Trusted CI, the NSF Cybersecurity Center of Excellence is comprised of cybersecurity experts who have spent decades working with science and engineering communities and have an established track record of usable, high-quality solutions suited to the needs of those communities. The team draws from best operational practices and includes leaders in the research and development of new methodologies and high-quality implementations. Trusted CI offers a great collection of valuable resources to help cybersecurity professionals. Almost all content is open and published under a Creative Commons Attribution-­NonCommercial 3.0 Unported (CC BY­NC 3.0) license.
-+++
-[Read more or use this reference »](https://www.trustedci.org/)
-:::
-
-
-:::{grid-item-card}
 :link: https://www.securityresearchlegaldefensefund.org/ 
-{octicon}`file;1em;caption-text` **Security Research Legal Defense Fund**
+{octicon}`eye;1em;caption-text` **Security Research Legal Defense Fund**
 ^^^
 We aim to help fund legal representation for persons who face legal issues due to good faith security research and vulnerability disclosure in cases that would advance cybersecurity for the public interest.
 +++
@@ -170,7 +148,7 @@ We aim to help fund legal representation for persons who face legal issues due t
 
 :::{grid-item-card}
 :link: https://www.first.org/ 
-{octicon}`megaphone;1em;caption-text` **FIRST**
+{octicon}`zap;1em;caption-text` **FIRST**
 ^^^
 FIRST is the premier organization and recognized global leader in incident response.
 +++
@@ -179,18 +157,8 @@ FIRST is the premier organization and recognized global leader in incident respo
 
 
 :::{grid-item-card}
-:link: https://www.globalencryption.org/about/ 
-{octicon}`thumbsup;1em;caption-text` **Global Encryption Coalition**
-^^^
-The Global Encryption Coalition promotes and defends encryption in key countries and multilateral fora where it is under threat. The foundation also provides crucial [resources](https://www.globalencryption.org/resources/) to learn more on encryption.
-+++
-[Read more or use this reference »](https://www.globalencryption.org/about/)
-:::
-
-
-:::{grid-item-card}
 :link: https://www.memorysafety.org/ 
-{octicon}`light-bulb;1em;caption-text` **Memory Safety**
+{octicon}`tag;1em;caption-text` **Memory Safety**
 ^^^
 Prossimo is an Internet Security Research Group (ISRG) project.
 +++
@@ -200,7 +168,7 @@ Prossimo is an Internet Security Research Group (ISRG) project.
 
 :::{grid-item-card}
 :link: https://www.abetterinternet.org/ 
-{octicon}`telescope;1em;caption-text` **Internet Security Research Group**
+{octicon}`note;1em;caption-text` **Internet Security Research Group**
 ^^^
 Our mission is to protect Internet users by lowering monetary, technological, and informational barriers to a more secure and privacy-respecting Internet.
 +++
@@ -210,117 +178,11 @@ Our mission is to protect Internet users by lowering monetary, technological, an
 
 :::{grid-item-card}
 :link: https://www.spamhaus.org/ 
-{octicon}`tag;1em;caption-text` **Spamhaus Project**
+{octicon}`eye;1em;caption-text` **Spamhaus Project**
 ^^^
 Spamhaus Project is the authority on IP and domain reputation. 
 +++
 [Read more or use this reference »](https://www.spamhaus.org/)
-:::
-
-
-:::: 
- % End of Grid 
-% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
-
-## GovernmentSecurityOrganizations  
-
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
-
-::::{grid} 2
-:class-container: text-center
-:gutter: 2
-
-:::{grid-item-card}
-:link: https://www.enisa.europa.eu/ 
-{octicon}`file;1em;caption-text` **ENISA**
-^^^
-The European Union Agency for Cybersecurity.
-+++
-[Read more or use this reference »](https://www.enisa.europa.eu/)
-:::
-
-
-:::{grid-item-card}
-:link: https://cyber.gouv.fr/ 
-{octicon}`note;1em;caption-text` **French Cybersecurity Agency**
-^^^
-French Cybersecurity Agency (ANSSI)
-+++
-[Read more or use this reference »](https://cyber.gouv.fr/)
-:::
-
-
-:::: 
- % End of Grid 
-% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
-
-## SecurityByDesign  
-
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
-
-::::{grid} 2
-:class-container: text-center
-:gutter: 2
-
-:::{grid-item-card}
-:link: https://www.cisa.gov/resources-tools/resources/secure-by-design 
-{octicon}`pencil;1em;caption-text` **Secure-by-Design**
-^^^
-Principles and Approaches for Secure by Design Software. At first created for software manufacturers to ship products that are secure by design. But very usefull resource to use, even if you are not creating software!
-+++
-[Read more or use this reference »](https://www.cisa.gov/resources-tools/resources/secure-by-design)
-:::
-
-
-:::{grid-item-card}
-:link: https://nocomplexity.com/documents/securitybydesign/intro.html 
-{octicon}`package;1em;caption-text` **Security By Design Guide**
-^^^
-Security by design is a proven method to develop products that are less vulnerable for cyber security threats. This is the only reference you need.
-+++
-[Read more or use this reference »](https://nocomplexity.com/documents/securitybydesign/intro.html)
-:::
-
-
-:::: 
- % End of Grid 
-% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
-
-## Standards  
-
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
-
-::::{grid} 2
-:class-container: text-center
-:gutter: 2
-
-:::{grid-item-card}
-:link: https://cyclonedx.org/ 
-{octicon}`book;1em;caption-text` **CycloneDX**
-^^^
-OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction
-+++
-[Read more or use this reference »](https://cyclonedx.org/)
-:::
-
-
-:::{grid-item-card}
-:link: https://opencre.org/ 
-{octicon}`package;1em;caption-text` **Open Common Requirement Enumeration**
-^^^
-The Open Source project “OpenCRE “ links all security standards and guidelines together at the level of requirements into one harmonized resource: threats, weaknesses, what to verify, how to program, how to test, which tool settings, in-depth discussion, training material. Everything organized. See also https://github.com/OWASP/OpenCRE 
-+++
-[Read more or use this reference »](https://opencre.org/)
-:::
-
-
-:::{grid-item-card}
-:link: https://webauthn.guide/ 
-{octicon}`zap;1em;caption-text` **WebAuthn**
-^^^
-Public Key Cryptography and Web Authentication (WebAuthn)
-+++
-[Read more or use this reference »](https://webauthn.guide/)
 :::
 
 
