@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://cyclonedx.org/ 
-{octicon}`thumbsup;1em;caption-text` **CycloneDX**
+{octicon}`project;1em;caption-text` **CycloneDX**
 ^^^
 OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction
 +++
@@ -17,8 +17,7 @@ OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides a
 
 
 :::{grid-item-card}
-:link: https://opencre.org/ 
-{octicon}`pencil;1em;caption-text` **Open Common Requirement Enumeration**
+{octicon}`file;1em;caption-text` **Open Common Requirement Enumeration**
 ^^^
 The Open Source project “OpenCRE “ links all security standards and guidelines together at the level of requirements into one harmonized resource: threats, weaknesses, what to verify, how to program, how to test, which tool settings, in-depth discussion, training material. Everything organized. See also https://github.com/OWASP/OpenCRE 
 +++
@@ -28,11 +27,21 @@ The Open Source project “OpenCRE “ links all security standards and guidelin
 
 :::{grid-item-card}
 :link: https://webauthn.guide/ 
-{octicon}`megaphone;1em;caption-text` **WebAuthn**
+{octicon}`tag;1em;caption-text` **WebAuthn**
 ^^^
 Public Key Cryptography and Web Authentication (WebAuthn)
 +++
 [Read more or use this reference »](https://webauthn.guide/)
+:::
+
+
+:::{grid-item-card}
+:link: https://objects.monarc.lu/ 
+{octicon}`pencil;1em;caption-text` **MONARC Objects Sharing Platform**
+^^^
+objects.monarc.lu is the MOSP instance for creating and sharing JSON objects related to cybersecurity security, such as vulnerabilities, threats or cybersecurity standards.5112 items are currently available through 19 organizations. 
++++
+[Read more or use this reference »](https://objects.monarc.lu/)
 :::
 
 

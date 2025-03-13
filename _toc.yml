@@ -111,9 +111,9 @@ parts:
 
 - caption: Key Resources
   chapters:  
-  - file: generatedfiles/foundations
-  - file: generatedfiles/standards
+  - file: generatedfiles/foundations  
   - file: references/goverments
+  - file: references/securitystandards
   - file: generatedfiles/securitybydesign
 
 - caption: About

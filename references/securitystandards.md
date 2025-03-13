@@ -14,10 +14,9 @@ Using well-established security standards and best practices is one of the simpl
 Some government certifications require compliance with non open security standards. This is a shame! Security standards should be open and freely accessible (e.g., under a CC-BY license) and include clear examples for implementation.
 
 
-
-```{tip}
-A good security standard is open (cc-by) and has examples for implementation. 
-```
+:::{tip}
+A good security standard is open (cc-by or equivalent) and has working examples for implementation. 
+:::
 
 
 
@@ -31,3 +30,6 @@ While security professionals often use best practices, these can be subjective a
 
 
 
+
+```{include}  ../generatedfiles/standards.md
+```
