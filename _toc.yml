@@ -115,6 +115,8 @@ parts:
   - file: references/goverments
   - file: references/securitystandards
   - file: generatedfiles/securitybydesign
+  - file: references/specialattacks
+  
 
 - caption: About
   chapters:
