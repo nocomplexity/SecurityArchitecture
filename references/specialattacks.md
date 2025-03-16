@@ -1,6 +1,6 @@
 # Famous Attacks
 
-Some cyber vulnerabilities have become famous. Sometime by the impact, some by the research paper and impact it had.
+Some cyber vulnerabilities have become famous. Sometime by the impact, some by the research paper and the impact on the security field! 
 
 This is an opinionated collection of vulnerabilities and attacks that are so special, that the have an own website and often also one or more research papers.
 

@@ -32,6 +32,16 @@ A real complete archive of past and future CTF events.
 
 Check: https://ctftime.org/
 
+
+## CTF Field Guide
+
+ Learn to win at Capture The Flag (CTF). These competitions distill major disciplines of professional computer security work into short, objectively measurable exercises. The focus areas that CTF competitions tend to measure are vulnerability discovery, exploit creation, toolkit creation, and operational tradecraft.
+
+ [CFT Field Guide Course](https://trailofbits.github.io/ctf/index.html)
+
+ [Repository](https://github.com/trailofbits/ctf)
+ 
+
 ## Computer Networks: A Systems Approach
 
 Great resource for learning all about network security. For starters and
@@ -39,6 +49,17 @@ full professionals. Sources of this book are on
 <https://github.com/SystemsApproach/book> Created by Larry Peterson and
 Bruce Davie. Read the latest version of this book on:
 <https://book.systemsapproach.org/index.html>
+
+##  Developing Secure Software
+
+The “Developing Secure Software” (LFD121) course is available on the Linux Foundation Training & Certification platform. It focuses on the fundamentals of developing secure software. Both the course and certificate of completion are free. It is entirely online, takes about 14-18 hours to complete, and you can go at your own pace. 
+
+Check this course (also available on EdX): [Free Course: Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
+
+:::{tip}
+[repository with course content](https://github.com/ossf/secure-sw-dev-fundamentals)
+:::
+
 
 ## Digitally Aware
 
@@ -104,6 +125,8 @@ This playbook is initially created by the same team that started in 2015 with th
 See: https://nocomplexity.com/documents/securitybydesign/
 
 or join this community and improve the content on: https://github.com/nocomplexity/securitybydesign 
+
+
 
 ## The Animated Elliptic Curve
 
