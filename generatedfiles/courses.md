@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://widgets.weforum.org/blockchain-toolkit/data-protection/index.html 
-{octicon}`package;1em;caption-text` **Data Protection**
+{octicon}`smiley;1em;caption-text` **Data Protection**
 ^^^
 Course on protecting the confidentiality of sensitive data shared on a blockchain network.
 +++
@@ -18,7 +18,7 @@ Course on protecting the confidentiality of sensitive data shared on a blockchai
 
 :::{grid-item-card}
 :link: https://widgets.weforum.org/blockchain-toolkit/digital-identity/index.html#q01 
-{octicon}`thumbsup;1em;caption-text` **Digital Identity**
+{octicon}`hubot;1em;caption-text` **Digital Identity**
 ^^^
 This module covers considerations and questions to guide the design of a responsible digital identity system as it relates to blockchain for supply chain.
 +++

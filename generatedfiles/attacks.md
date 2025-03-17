@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://www.cisa.gov/news-events/news/apache-log4j-vulnerability-guidance 
-{octicon}`checklist;1em;caption-text` **Apache Log4j Vulnerability Guidance**
+{octicon}`note;1em;caption-text` **Apache Log4j Vulnerability Guidance**
 ^^^
 Log4shell is a critical vulnerability in the widely-used logging tool Log4j, which is used by millions of computers worldwide running online services. A wide range of people, including organisations, governments and individuals are still vulnerable...
 +++
@@ -18,7 +18,7 @@ Log4shell is a critical vulnerability in the widely-used logging tool Log4j, whi
 
 :::{grid-item-card}
 :link: https://cachewarpattack.com/#home 
-{octicon}`checklist;1em;caption-text` **CacheWarp**
+{octicon}`bookmark;1em;caption-text` **CacheWarp**
 ^^^
 CacheWarp is a software fault attack on AMD SEV-ES and SEV-SNP. It allows attackers to hijack control flow, break into encrypted VMs, and perform privilege escalation inside the VM.
 +++
@@ -38,7 +38,7 @@ Downfall attacks target a critical weakness found in billions of modern processo
 
 :::{grid-item-card}
 :link: https://meltdownattack.com/ 
-{octicon}`check-circle;1em;caption-text` **Meltdown and Spectre**
+{octicon}`thumbsup;1em;caption-text` **Meltdown and Spectre**
 ^^^
 Meltdown and Spectre exploit critical vulnerabilities in modern processors. These hardware vulnerabilities allow programs to steal data which is currently processed on the computer.
 +++
@@ -48,7 +48,7 @@ Meltdown and Spectre exploit critical vulnerabilities in modern processors. Thes
 
 :::{grid-item-card}
 :link: https://people.redhat.com/~hkario/marvin/ 
-{octicon}`zap;1em;caption-text` **The Marvin Attack**
+{octicon}`hubot;1em;caption-text` **The Marvin Attack**
 ^^^
 The Marvin Attack is a return of a 25 year old vulnerability that allows performing RSA decryption and signing operations as an attacker with the ability to observe only the time of the decryption operation performed with the private key. 
 +++
