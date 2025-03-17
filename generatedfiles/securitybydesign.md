@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://www.cisa.gov/resources-tools/resources/secure-by-design 
-{octicon}`report;1em;caption-text` **Secure-by-Design**
+{octicon}`file;1em;caption-text` **Secure-by-Design**
 ^^^
 Principles and Approaches for Secure by Design Software. At first created for software manufacturers to ship products that are secure by design. But very usefull resource to use, even if you are not creating software!
 +++
@@ -18,7 +18,7 @@ Principles and Approaches for Secure by Design Software. At first created for so
 
 :::{grid-item-card}
 :link: https://nocomplexity.com/documents/securitybydesign/intro.html 
-{octicon}`megaphone;1em;caption-text` **Security By Design Guide**
+{octicon}`checklist;1em;caption-text` **Security By Design Guide**
 ^^^
 Security by design is a proven method to develop products that are less vulnerable for cyber security threats. This is the only reference you need.
 +++

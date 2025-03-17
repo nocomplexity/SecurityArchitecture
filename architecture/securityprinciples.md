@@ -2,7 +2,7 @@
 
 Good cyber security principles are simple but crucial for creating a cyber security solution for your context. 
 
-What are principles?
+## What are principles?
 
 Principles are statements of direction that govern selections and
 implementations. That is, principles provide a foundation for decision
@@ -10,7 +10,8 @@ making.
 
 Principles are used within business design and successful IT projects.
 
-Definition:
+
+A definition:
 
 * A principle is a qualitative statement of intent that should be met by
 the architecture.*
@@ -50,10 +51,14 @@ Having security and privacy principles are a crucial foundation as they
 establish the basis for a set of rules and behaviours for any
 organization.
 
+:::{important}
 Security principles are statements of direction that govern selections
 and implementations.
+:::
 
+:::{note}
 **Security principles provide a foundation for decision making and are crucial to have for any new design.**
+:::
 
 
 ![principles](../images/principles.png)

@@ -56,8 +56,6 @@ security and privacy settings for all kinds of IT components:
     OPA provides a high-level declarative language for authoring
     policies and simple APIs to answer policy queries. Using OPA, you
     can offload policy decisions from IT services.
--   SaltStack. SaltStack (<https://repo.saltstack.com/> ) makes software
-    for complex systems management at scale
 -   InSpec. InSpec (<https://github.com/chef/inspec>) is a free and
     open-source framework for testing and auditing your applications and
     infrastructure. InSpec works of course nice together with

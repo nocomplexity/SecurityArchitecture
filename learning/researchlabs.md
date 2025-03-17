@@ -20,12 +20,6 @@ The NYU Center for Cybersecurity (CCS) is an interdisciplinary research institut
 
 +++
 
-* [The MESS Lab](https://messlab.moyix.net/)
-The MESS Lab is a security lab at the NYU Tandon School of Engineering. Our research focuses on Machine Learning, Embedded Systems, and Software/Systems Security. The MESS Lab is part of the NYU Center for Cybersecurity.
-This lab has produced some nice [projects](https://messlab.moyix.net/projects.html). 
-
-
-+++
 
 * [COMSEC](https://comsec.ethz.ch/)
 COMSEC is the computer security group of the Department of Information Technology and Electrical Engineering (D-ITET) at ETH Zürich. Main research goal is the construction of reliable and secure computing systems.

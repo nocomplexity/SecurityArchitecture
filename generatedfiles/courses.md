@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://widgets.weforum.org/blockchain-toolkit/data-protection/index.html 
-{octicon}`tag;1em;caption-text` **Data Protection**
+{octicon}`package;1em;caption-text` **Data Protection**
 ^^^
 Course on protecting the confidentiality of sensitive data shared on a blockchain network.
 +++

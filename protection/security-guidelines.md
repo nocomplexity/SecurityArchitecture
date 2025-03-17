@@ -16,7 +16,7 @@ Overview op policies available in this guide:
 
 -   [IT Security Technical Users Policy](https://security-guidance.service.justice.gov.uk/it-security-technical-users-policy/)
 -   [Shared Responsibility    Models](https://security-guidance.service.justice.gov.uk/shared-responsibility-models/)
--   [Technical Controls    Policy](https://security-guidance.service.justice.gov.uk/technical-controls-policy/)
+
 
 - [Mobile Device and Remote Working    Policy](https://security-guidance.service.justice.gov.uk/mobile-device-and-remote-working-policy/)
 - [Remote    Working](https://security-guidance.service.justice.gov.uk/remote-working/)

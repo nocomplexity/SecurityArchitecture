@@ -42,5 +42,5 @@ More information: [https://reproducible-builds.org/](https://reproducible-builds
 
 A nice introduction paper covering the reproducible build project can be found [here](https://arxiv.org/pdf/2104.06020.pdf).
 
-*(Attribution: Some text in this section is used from https://reproducible-builds.org/, licence cc-by-sa.)*
+*(Attribution: Some text in this section is used from https://reproducible-builds.org/ , licence cc-by-sa.)*
 

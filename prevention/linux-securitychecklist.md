@@ -838,13 +838,13 @@ distribution, please check out the following links:
 [3]: https://qubes-os.org/
 [4]: https://xkcd.com/936/
 [5]: https://spideroak.com/
-[6]: https://code.google.com/p/chromium/wiki/LinuxSandboxing
+[6]: no working site anymore!
 [7]: https://www.eff.org/https-everywhere or see https://github.com/EFForg/https-everywhere 
 [8]: https://keepassx.org/
 [9]: http://www.passwordstore.org/
 [10]: https://pypi.python.org/pypi/django-pstore
 [11]: https://github.com/TomPoulton/hiera-eyaml
-[12]: http://shop.kernelconcepts.de/
+[12]: no working site anymore!
 [13]: https://www.yubico.com/products/yubikey-hardware/
 [14]: https://wiki.debian.org/Subkeys
 [15]: https://github.com/lfit/ssh-gpg-smartcard-config
@@ -855,7 +855,7 @@ distribution, please check out the following links:
 [20]: https://firejail.wordpress.com/documentation-2/firefox-guide/
 [21]: https://www.nitrokey.com/
 [22]: https://en.wikipedia.org/wiki/Universal_2nd_Factor
-[23]: http://www.dongleauth.info/
+[23]: no working site anymore!
 [24]: https://subgraph.com/sgos/
 [25]: https://github.com/corna/me_cleaner
 [26]: https://en.wikipedia.org/wiki/Intel_Active_Management_Technology#Known_vulnerabilities_and_exploits

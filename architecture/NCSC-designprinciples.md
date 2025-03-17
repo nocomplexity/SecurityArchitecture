@@ -21,7 +21,7 @@ The UK National Cyber Security Centre provides solid information to simplify cyb
 
 See the NCSC site with these [principles](https://www.ncsc.gov.uk/collection/cyber-security-design-principles/cyber-security-design-principles) for more helpful information on each principle.
 
-*source:https://www.ncsc.gov.uk/collection/cyber-security-design-principles/cyber-security-design-principles*
+source:https://www.ncsc.gov.uk/
 
 ## Attribution
 
