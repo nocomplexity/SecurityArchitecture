@@ -120,3 +120,12 @@ Check and use: [Cybersecurity Schema Framework](https://schema.ocsf.io/)
 :::{note}
 OCSF is licensed under the Apache License 2.0. The repository home is: [https://github.com/ocsf/](https://github.com/ocsf/)
 :::
+
+
+## VERIS Framework
+
+The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. VERIS targets this problem by helping organizations to collect useful incident-related information and to share that information - anonymously and responsibly - with others. 
+
+Check: [https://verisframework.org/](https://verisframework.org/)
+
+Repository: [https://github.com/vz-risk/veris](https://github.com/vz-risk/veris)

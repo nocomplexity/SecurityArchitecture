@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://cyclonedx.org/ 
-{octicon}`briefcase;1em;caption-text` **CycloneDX**
+{octicon}`zap;1em;caption-text` **CycloneDX**
 ^^^
 OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction
 +++
@@ -18,7 +18,7 @@ OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides a
 
 :::{grid-item-card}
 :link: https://objects.monarc.lu/ 
-{octicon}`checklist;1em;caption-text` **MONARC Objects Sharing Platform**
+{octicon}`eye;1em;caption-text` **MONARC Objects Sharing Platform**
 ^^^
 objects.monarc.lu is the MOSP instance for creating and sharing JSON objects related to cybersecurity security, such as vulnerabilities, threats or cybersecurity standards.5112 items are currently available through 19 organizations. 
 +++
@@ -27,7 +27,7 @@ objects.monarc.lu is the MOSP instance for creating and sharing JSON objects rel
 
 
 :::{grid-item-card}
-{octicon}`project;1em;caption-text` **OmniBOR**
+{octicon}`megaphone;1em;caption-text` **OmniBOR**
 ^^^
 OmniBOR defines two key concepts, Artifact IDs and Input Manifests, that enable anyone to independently produce the same identifier for any software artifact, and to detect any artifact built with vulnerable inputs. See also repo on https://github.com/omnibor
 +++
@@ -36,7 +36,7 @@ OmniBOR defines two key concepts, Artifact IDs and Input Manifests, that enable 
 
 
 :::{grid-item-card}
-{octicon}`verified;1em;caption-text` **Open Common Requirement Enumeration**
+{octicon}`zap;1em;caption-text` **Open Common Requirement Enumeration**
 ^^^
 The Open Source project “OpenCRE “ links all security standards and guidelines together at the level of requirements into one harmonized resource: threats, weaknesses, what to verify, how to program, how to test, which tool settings, in-depth discussion, training material. Everything organized. See also https://github.com/OWASP/OpenCRE 
 +++
@@ -46,7 +46,7 @@ The Open Source project “OpenCRE “ links all security standards and guidelin
 
 :::{grid-item-card}
 :link: https://webauthn.guide/ 
-{octicon}`bookmark;1em;caption-text` **WebAuthn**
+{octicon}`megaphone;1em;caption-text` **WebAuthn**
 ^^^
 Public Key Cryptography and Web Authentication (WebAuthn)
 +++
