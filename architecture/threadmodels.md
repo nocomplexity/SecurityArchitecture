@@ -196,3 +196,12 @@ ML thread model is outlined below.
 More information on specific aspects on machine learning can be found in
 the [Free and Open Machine Learning Guide](https://nocomplexity.com/documents/fossml/abstract.html)
 
+## ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems)
+
+ ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems) is a globally accessible, living knowledge base of adversary tactics and techniques against Al-enabled systems based on real-world attack observations and realistic demonstrations from Al red teams and security groups. 
+
+ Check and use [ATLAS](https://atlas.mitre.org/)
+
+ Repository: [https://github.com/mitre-atlas](https://github.com/mitre-atlas)
+
+ ATLAS is modeled after and complementary to MITRE ATT&CK®, raising awareness of the rapidly evolving vulnerabilities of Al-enabled systems as they extend beyond cyber. 
