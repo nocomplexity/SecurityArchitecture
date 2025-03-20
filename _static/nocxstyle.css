@@ -7,3 +7,7 @@ html[data-theme="light"] {
     --pst-color-danger: red;
 }
 
+@page {
+    size: 6.5in 9.2in;
+    margin: 2cm; /* Set margin on each page */
+  }

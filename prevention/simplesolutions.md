@@ -26,15 +26,15 @@ A nie paper for [Responding to Distributed Denial-of-Service Attacks](https://ww
 ## Prevention
 
 
-```{admonition} Create a Security Architecture
+:::{admonition} Create a Security Architecture
 :class: tip, dropdown
 
 So follow these simple steps:
-* Do a risk analysis.
+* Do a risk analysis. A simple introduction guide is the [CANSO CYBERSECURITY RISK ASSESSMENT GUIDE](https://canso.fra1.digitaloceanspaces.com/uploads/2023/05/CANSO-Safety_Cybersecurity-Risk-Assessment-Guide-2023.pdf). But all [Public security agencies](../references/governments) offer great and simple to use guides, including questionnaires to make this step simpler.
 * Develop a security architecture based on your risk profile.
 * Always consider real distributed solutions where your security concerns are to spread across several nodes to reduce the impact of a single breach. E.g. spread data and secrets across several independent nodes to be more resilient.  
 * Develop a thread analyse and improve your architecture.
-```
+:::
 
 
 
