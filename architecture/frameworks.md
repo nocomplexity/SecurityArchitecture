@@ -129,3 +129,7 @@ The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metr
 Check: [https://verisframework.org/](https://verisframework.org/)
 
 Repository: [https://github.com/vz-risk/veris](https://github.com/vz-risk/veris)
+
+
+```{include}  ../generatedfiles/frameworks.md
+```
