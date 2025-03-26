@@ -118,8 +118,11 @@ parts:
 
 - caption: About
   chapters:
+  - file: help
   - file: open  
   - file: contributing
   - file: aboutthisguide
   - file: bio
   - file: license
+  - file: sponsors
+  - file: about

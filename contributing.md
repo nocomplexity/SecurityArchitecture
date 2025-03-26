@@ -1,5 +1,20 @@
 # Contributing
 
+Great that you’re here and want to contribute!
+
+You don’t have to be a security expert to contribute, every contribution is welcome!
+
+* If you wish to make comments regarding this document, please raise them as [GitHub issues](https://github.com/nocomplexity/SecurityArchitecture). Send comments by email if you are unable to raise issues on GitHub do not want to use Github. All comments are welcome!
+
+
+:::{admonition} This playbook is open source!
+:class: tip
+
+All contributions are welcome!
+
+The simplest way to make a comment for a specific page is to use the Github icon in the top right.
+:::
+
 We encourage all security professionals to improve this reference architecture. You can help by:
 
 * Add security principles.
@@ -18,9 +33,11 @@ We have a simple rule for all valuable input:
 
 The maintainers review your pull request and your patch is merged with the master branch ASAP.
 
-Licensing
+:::{note}
+**Licensing**:
 
 When you submit text to which you hold the copyright, you agree to license it under:
 
 *    Creative Commons Attribution-ShareAlike 4.0 International License (“CC BY-SA”)
+:::
 
