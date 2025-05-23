@@ -44,6 +44,8 @@ parts:
         title: Example of a government
       - url: https://www.etsi.org/deliver/etsi_tr/103300_103399/10330501/04.01.02_60/tr_10330501v040102p.pdf
         title: ETSI Critical Security Controls for Effective Cyber Defence
+      - url: https://canso.org/publication/air-traffic-management-cybersecurity-policy-template/
+        title: Air Traffic Management Cybersecurity Policy Template
   - file: protection/security-classifications
     sections:
       - url: https://security.berkeley.edu/data-classification-standard
@@ -78,6 +80,8 @@ parts:
         title: OCTAVE Approach
       - url: https://github.com/kubernetes/sig-security/blob/main/sig-security-external-audit/security-audit-2019/findings/Kubernetes%20Threat%20Model.pdf
         title: Kubernetes Threat Model
+      - url: https://github.com/a13xp0p0v/linux-kernel-defence-map
+        title: Linux Kernel Defence Map
   - file: architecture/securityprinciples
     sections:
       - file: architecture/mozilla_securityprinciples
