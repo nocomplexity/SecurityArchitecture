@@ -107,7 +107,7 @@ parts:
       - file: learning/cryptography      
       - file: learning/researchlabs      
       - file: learning/vulnerabilitymanagement
-      - file: learning/vulnerabilitydatabases
+      
   - url: https://nocomplexity.com/cybersecurity-conferences/
     title: Security Conferences
 
@@ -116,6 +116,7 @@ parts:
   - file: generatedfiles/foundations  
   - file: references/goverments
   - file: references/securitystandards
+  - file: references/vulnerabilitydatabases
   - file: generatedfiles/securitybydesign
   - file: references/specialattacks
   
