@@ -1,5 +1,10 @@
 # Simple Checklists 
 
+Cyber security checklists are essential for minimizing risks. Using a well-designed, straightforward, and effective checklist can help you prevent **costly** and **avoidable** security mistakes.
+
+In many mature professions, checklists are a mandatory tool to minimize the likelihood of disaster. For example, the aviation, medical surgery, and engineering fields—including the automotive and rail industries—all rely on checklists to prevent catastrophic failures.
+
+
 The landscape of cyber security solutions is filled with:
 * Holy Grails and
 * Failures
