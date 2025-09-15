@@ -31,6 +31,11 @@ Rowhammer: <http://www.thirdio.com/rowhammer.pdf> or
 DDos:
 <https://www.us-cert.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf>
 
+## DDoS QUICK GUIDE
+
+Great Guide with a simple but good overview of all DDoS methods and possible protection methods.
+
+[Download to the DDoS quick guide](https://us-cert.cisa.gov/sites/default/files/publications/DDoS%20Quick%20Guide.pdf) 
 
 
 ## Learning from attacks
@@ -70,6 +75,27 @@ The Common Criteria for Information Technology Security Evaluation (CC), and the
 More information on: https://www.commoncriteriaportal.org/
 
 
+## Guide to data protection
+
+This guide is for those who have day-to-day responsibility for data
+protection. It explains the purpose and effect of each principle, gives
+practical examples and answers frequently asked questions.
+Check: [Guide to Data Protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/)
+
+
++++
+
+
+
+## Information Security Guide: Effective Practices and Solutions for Higher Education 
+
+Great guide with all topics for IS explained. And with measurements included. Tailored for Education institutes.
+The Information Security Guide is mapped to several popular standards, including ISO/IEC 27002:2013, NIST, HIPAA, COBIT, PCI DSS, and the US federal Cybersecurity Frameworks. There are currently 17 chapters on information security, privacy, identity and access management, governance, risk, and compliance.
+
+Check [https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide](https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide)
+
+
++++
 
 
 ## Web Authorization Protocol (OAuth)

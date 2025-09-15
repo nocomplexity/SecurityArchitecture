@@ -98,7 +98,17 @@ parts:
 - caption: Learning
   chapters:
   - file: learning/securitycourses
-  - file: learning/books  
+  - file: securitylibrary/overview
+    title: Open Security Library
+    sections:
+      - file: securitylibrary/architectureandfoundational
+      - file: securitylibrary/cryptography
+      - file: securitylibrary/iot
+      - file: securitylibrary/privacy
+      - file: securitylibrary/riskmanagement
+      - file: securitylibrary/securecoding  
+      - file: securitylibrary/securitytesting
+      - file: securitylibrary/softwareengineering  
   - file: learning/secure-coding
   - file: learning/softwaretesting
   - file: learning/trustedcomputing
