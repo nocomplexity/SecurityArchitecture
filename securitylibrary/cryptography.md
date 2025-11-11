@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: agraduatecourseinappliedcryptography
 :link-type: doc
-{octicon}`pencil;1em;caption-text` **A Graduate Course in Applied Cryptography**
+{octicon}`heart;1em;caption-text` **A Graduate Course in Applied Cryptography**
 ^^^
 Read, download or buy the A Graduate Course in Applied Cryptography book.
 +++
@@ -18,7 +18,7 @@ Read, download or buy the A Graduate Course in Applied Cryptography book.
 :::{grid-item-card}
 :link: crypto101
 :link-type: doc
-{octicon}`package;1em;caption-text` **Crypto101**
+{octicon}`note;1em;caption-text` **Crypto101**
 ^^^
 Read, download or buy the Crypto101 book.
 +++
@@ -27,7 +27,7 @@ Read, download or buy the Crypto101 book.
 :::{grid-item-card}
 :link: practicalcryptographyfordevelopers
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Practical Cryptography for Developers**
+{octicon}`light-bulb;1em;caption-text` **Practical Cryptography for Developers**
 ^^^
 Read, download or buy the Practical Cryptography for Developers book.
 +++
@@ -36,16 +36,25 @@ Read, download or buy the Practical Cryptography for Developers book.
 :::{grid-item-card}
 :link: programmingdifferentialprivacy
 :link-type: doc
-{octicon}`note;1em;caption-text` **Programming Differential Privacy**
+{octicon}`thumbsup;1em;caption-text` **Programming Differential Privacy**
 ^^^
 Read, download or buy the Programming Differential Privacy book.
 +++
 [More »](programmingdifferentialprivacy)
 :::
 :::{grid-item-card}
+:link: thebeginner'stextbookforfullyhomomorphicencryption
+:link-type: doc
+{octicon}`light-bulb;1em;caption-text` **The Beginner's Textbook for Fully Homomorphic Encryption**
+^^^
+Read, download or buy the The Beginner's Textbook for Fully Homomorphic Encryption book.
++++
+[More »](thebeginner'stextbookforfullyhomomorphicencryption)
+:::
+:::{grid-item-card}
 :link: thejoyofcryptography
 :link-type: doc
-{octicon}`file;1em;caption-text` **The Joy of Cryptography**
+{octicon}`cross-reference;1em;caption-text` **The Joy of Cryptography**
 ^^^
 Read, download or buy the The Joy of Cryptography book.
 +++

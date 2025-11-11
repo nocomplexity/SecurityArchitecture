@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: iotsecurityreferencearchitectureforthehealthcareindustry
 :link-type: doc
-{octicon}`checklist;1em;caption-text` **IoT Security Reference Architecture For The Healthcare Industry**
+{octicon}`tools;1em;caption-text` **IoT Security Reference Architecture For The Healthcare Industry**
 ^^^
 Read, download or buy the IoT Security Reference Architecture For The Healthcare Industry book.
 +++

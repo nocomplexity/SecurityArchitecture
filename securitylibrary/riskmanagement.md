@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: riskassessmentprocess
 :link-type: doc
-{octicon}`package;1em;caption-text` **Risk Assessment Process**
+{octicon}`pencil;1em;caption-text` **Risk Assessment Process**
 ^^^
 Read, download or buy the Risk Assessment Process book.
 +++

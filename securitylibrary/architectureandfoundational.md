@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: securitybydesignplaybook
 :link-type: doc
-{octicon}`report;1em;caption-text` **Security By Design Playbook**
+{octicon}`light-bulb;1em;caption-text` **Security By Design Playbook**
 ^^^
 Read, download or buy the Security By Design Playbook book.
 +++
@@ -18,7 +18,7 @@ Read, download or buy the Security By Design Playbook book.
 :::{grid-item-card}
 :link: securityreferencearchitecture
 :link-type: doc
-{octicon}`tools;1em;caption-text` **Security Reference Architecture**
+{octicon}`hubot;1em;caption-text` **Security Reference Architecture**
 ^^^
 Read, download or buy the Security Reference Architecture book.
 +++
@@ -27,7 +27,7 @@ Read, download or buy the Security Reference Architecture book.
 :::{grid-item-card}
 :link: simplifysecurityguide
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Simplify Security Guide**
+{octicon}`light-bulb;1em;caption-text` **Simplify Security Guide**
 ^^^
 Read, download or buy the Simplify Security Guide book.
 +++

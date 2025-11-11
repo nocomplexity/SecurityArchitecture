@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: simplifydigitalprivacy
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Simplify Digital Privacy**
+{octicon}`book;1em;caption-text` **Simplify Digital Privacy**
 ^^^
 Read, download or buy the Simplify Digital Privacy book.
 +++

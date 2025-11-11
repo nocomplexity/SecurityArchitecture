@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: pentester'spromiscuousnotebook
 :link-type: doc
-{octicon}`check-circle;1em;caption-text` **Pentester's Promiscuous Notebook**
+{octicon}`telescope;1em;caption-text` **Pentester's Promiscuous Notebook**
 ^^^
 Read, download or buy the Pentester's Promiscuous Notebook book.
 +++

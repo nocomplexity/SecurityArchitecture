@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: malwarereverseengineeringhandbook
 :link-type: doc
-{octicon}`zap;1em;caption-text` **Malware Reverse Engineering Handbook**
+{octicon}`megaphone;1em;caption-text` **Malware Reverse Engineering Handbook**
 ^^^
 Read, download or buy the Malware Reverse Engineering Handbook book.
 +++
