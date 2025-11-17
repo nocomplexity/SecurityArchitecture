@@ -58,6 +58,15 @@ code in various programming languages. One of the secure coding
 guidelines that is used internal can be found here:
 <https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines>
 
+## Python Secure Coding Guidelines
+
+Security breaches that are possible when running untrusted Python programs are real.
+This checklist is intended for anyone who wants to create Python programs that are secure by design.
+Programming in Python is fun, but when you create programs for others, you SHOULD prevent introducing security weaknesses.
+
+So Check and use: [The Python Secure Coding Guidelines](https://nocomplexity.com/documents/codeaudit/securecoding.html) 
+
+
 ## Reproducible builds
 
 Reproducible builds are a set of software development practices that
