@@ -19,6 +19,15 @@ Currently, I lead initiatives at NoComplexity.com, an innovative IT company focu
 :gutter: 3 
 
 :::{grid-item-card}
+:link: https://nocomplexity.com/codeaudit
+:link-type: url
+{octicon}`book;2em;caption-text` **Python Code Audit**        
+^^^
+Modern Python source code security analyser. A local-first, FOSS tool that makes security checks simple for everyone.
+:::
+
+
+:::{grid-item-card}
 :link: https://nocomplexity.com/documents/securityarchitecture/introduction.html
 :link-type: url
 {octicon}`book;2em;caption-text` **Open Security Reference Architecture**        

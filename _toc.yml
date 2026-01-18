@@ -98,6 +98,7 @@ parts:
 - caption: Learning
   chapters:
   - file: learning/securitycourses
+  - file: learning/cybercourses
   - file: securitylibrary/overview
     title: Open Security Library
     sections:
