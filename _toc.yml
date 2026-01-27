@@ -22,6 +22,7 @@ parts:
       - file: prevention/evalFOSS
       - file: prevention/conciseguidefordeveloping
       - file: prevention/ransomware
+      - file: prevention/osps-checklist
   - file: prevention/simplesolutions
   - file: prevention/hardening
   - file: prevention/securitystandards
@@ -91,6 +92,7 @@ parts:
       - file: architecture/NCSC-securecommunication
       - file: architecture/saltzer_designprinciples
       - file: architecture/ms-zt-principles
+      - file: architecture/nocxprinciples
       - url: https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns
         title: Security architecture anti-patterns
 
