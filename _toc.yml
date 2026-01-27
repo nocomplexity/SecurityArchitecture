@@ -73,6 +73,8 @@ parts:
   - file: architecture/threadmodels
     sections:
       - file: architecture/stride
+      - url: https://security.cms.gov/learn/cms-threat-modeling-handbook
+        title: Threat Modeling Handbook
       - url: https://www.first.org/cvss/specification-document
         title: CVSS
       - url: http://securitycards.cs.washington.edu/index.html
@@ -83,6 +85,7 @@ parts:
         title: Kubernetes Threat Model
       - url: https://github.com/a13xp0p0v/linux-kernel-defence-map
         title: Linux Kernel Defence Map
+      
   - file: architecture/securityprinciples
     sections:
       - file: architecture/mozilla_securityprinciples

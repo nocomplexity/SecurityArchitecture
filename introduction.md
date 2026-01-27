@@ -1,10 +1,18 @@
 # Introduction
 
-There are many myths about security, and how difficult it is. Cyber security is a complex domain. There is no perfect solution. Never. But there are simple solutions that do work. Often the best cyber security solutions are open solutions which everyone can use. Good solutions are not subject to a hype. Open solutions are transparent and fully open. So everyone can use and improve it. 
+Cybersecurity is often surrounded by myths and perceived as an impossibly complex domain. While it is true that no perfect solution exists, effective security does not have to be difficult. 
+
+The most robust defenses are built on **open principles**: transparent, available without borders, published under open or Creative Commons licenses, and free from the noise of industry hype. Because these solutions are open to everyone, they are constantly refined and improved by the community.
 
 ```{admonition} This Playbook
-is created to help you with solving your specific complex security challenges.
+This guide is designed to help you navigate and solve your most complex security challenges using practical, proven strategies.
 ```
+
+:::{tip} 
+You can purchase this book as PDF/ePUB in the [shop](https://nocomplexity.gumroad.com/l/SecurityArchitecture?layout=profile).
+
+Or buy one of the other great [ePublications](https://nocomplexity.gumroad.com/).
+:::
 
 
 ## Find security solutions
