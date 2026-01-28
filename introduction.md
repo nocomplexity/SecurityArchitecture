@@ -9,7 +9,7 @@ This guide is designed to help you navigate and solve your most complex security
 ```
 
 :::{tip} 
-You can purchase this book as PDF/ePUB in the [shop](https://nocomplexity.gumroad.com/l/SecurityArchitecture?layout=profile).
+You can purchase this book as PDF in the [shop](https://nocomplexity.gumroad.com/l/SecurityArchitecture?layout=profile).
 
 Or buy one of the other great [ePublications](https://nocomplexity.gumroad.com/).
 :::

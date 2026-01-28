@@ -1,4 +1,4 @@
-# Government security organizations
+# Government organizations
 
 Governments worldwide provide good advice for dealing with cyber security risks. Some advice and tips for other governments organisations but also for citizens and private companies.
 
