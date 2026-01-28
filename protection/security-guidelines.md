@@ -34,9 +34,6 @@ Overview op policies available in this guide:
 -   [Information Classification and Handling    Policy](https://security-guidance.service.justice.gov.uk/information-classification-and-handling-policy/)
 
 
--   [Data Handling and Information Sharing    Guide](https://security-guidance.service.justice.gov.uk/data-handling-and-information-sharing-guide/)
--   [Secrets    management](https://security-guidance.service.justice.gov.uk/secrets-management/)
-
 
 -   [Removable    media](https://security-guidance.service.justice.gov.uk/removable-media/)
 -   [Secure disposal of IT    equipment](https://security-guidance.service.justice.gov.uk/secure-disposal-of-it-equipment/)
@@ -67,8 +64,8 @@ Password policies:
 -   [Password Creation and Authentication    Guide](https://security-guidance.service.justice.gov.uk/password-creation-and-authentication-guide/)
 -   [Password Management    Guide](https://security-guidance.service.justice.gov.uk/password-management-guide/)
 -   [Password Storage and Management    Guide](https://security-guidance.service.justice.gov.uk/password-storage-and-management-guide/)
--   [Policies for Google Apps    administrators](https://security-guidance.service.justice.gov.uk/policies-for-google-apps-administrators/)
--   [Policies for MacBook    Administrators](https://security-guidance.service.justice.gov.uk/policies-for-macbook-administrators/)
+
+
 -   [System User and Application    Administrators](https://security-guidance.service.justice.gov.uk/system-users-and-application-administrators/)
 
 

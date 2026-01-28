@@ -130,7 +130,7 @@ parts:
 - caption: Key Resources
   chapters:  
   - file: generatedfiles/foundations  
-  - file: references/goverments
+  - file: references/governments
   - file: references/securitystandards
   - file: references/vulnerabilitydatabases
   - file: generatedfiles/securitybydesign

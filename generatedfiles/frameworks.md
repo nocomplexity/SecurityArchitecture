@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://www.nist.gov/cyberframework 
-{octicon}`cross-reference;1em;caption-text` **NIST Cybersecurity Framework**
+{octicon}`pencil;1em;caption-text` **NIST Cybersecurity Framework**
 ^^^
 For industry, government, and organizations to reduce cybersecurity risks
 +++
@@ -18,7 +18,7 @@ For industry, government, and organizations to reduce cybersecurity risks
 
 :::{grid-item-card}
 :link: http://www.opensecurityarchitecture.org/ 
-{octicon}`checklist;1em;caption-text` **Open Security Architecture (OSA)**
+{octicon}`hubot;1em;caption-text` **Open Security Architecture (OSA)**
 ^^^
 OSA distills the know-how of the security architecture community and provides readily usable patterns for your application. OSA shall be a free framework that is developed and owned by the community.
 +++
