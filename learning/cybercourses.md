@@ -1,8 +1,10 @@
 # Security Courses
 
-The best courses to learn how to cyber security are open. So open access. Open access (OA) means freely available, online and without borders as a required registration. 
+The best courses for learning cyber security are available via **open access**.
+Open Access (OA) means these resources are freely available online without barriers, such as mandatory registration.
 
-We only collect real open open access security courses that use a Creative Commons license.
+**We only curate genuine open access security courses that carry a Creative Commons licence.**
+
 
 :::{tip} 
 Instead of creating yet another cyber security training or course, why not making an existing training resources better?
