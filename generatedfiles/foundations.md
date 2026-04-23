@@ -18,7 +18,7 @@ The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gath
 
 :::{grid-item-card}
 :link: https://www.cisecurity.org/ 
-{octicon}`note;1em;caption-text` **Center for Internet Security (CIS)**
+{octicon}`telescope;1em;caption-text` **Center for Internet Security (CIS)**
 ^^^
 The Center for Internet Security (CIS) is a 501(c)(3) organization is dedicated to enhancing the cybersecurity readiness and response among public and private sector entities. CIS’s Mission is to: Identify, develop, validate, promote, and sustain best practices in cybersecurity; Deliver world-class security solutions to prevent and rapidly respond to cyber incidents; and Build and lead communities to enable an environment of trust in cyberspace.
 +++
@@ -28,7 +28,7 @@ The Center for Internet Security (CIS) is a 501(c)(3) organization is dedicated 
 
 :::{grid-item-card}
 :link: https://epochalypse-project.org/ 
-{octicon}`bookmark;1em;caption-text` **Epochalypse Project**
+{octicon}`thumbsup;1em;caption-text` **Epochalypse Project**
 ^^^
 We are building a collaborative global initiative to address the 32-bit timestamp vulnerability .
 +++
@@ -38,7 +38,7 @@ We are building a collaborative global initiative to address the 32-bit timestam
 
 :::{grid-item-card}
 :link: https://www.first.org/ 
-{octicon}`zap;1em;caption-text` **FIRST**
+{octicon}`thumbsup;1em;caption-text` **FIRST**
 ^^^
 FIRST is the premier organization and recognized global leader in incident response.
 +++
@@ -47,7 +47,7 @@ FIRST is the premier organization and recognized global leader in incident respo
 
 
 :::{grid-item-card}
-{octicon}`heart;1em;caption-text` **Global Encryption Coalition**
+{octicon}`bookmark;1em;caption-text` **Global Encryption Coalition**
 ^^^
 The Global Encryption Coalition promotes and defends encryption in key countries and multilateral fora where it is under threat. The foundation also provides crucial [resources](https://www.globalencryption.org/resources/) to learn more on encryption.
 +++
@@ -57,7 +57,7 @@ The Global Encryption Coalition promotes and defends encryption in key countries
 
 :::{grid-item-card}
 :link: https://bok.idpro.org/ 
-{octicon}`check-circle;1em;caption-text` **IDPro Body of Knowledge**
+{octicon}`project;1em;caption-text` **IDPro Body of Knowledge**
 ^^^
 The IDPro Body of Knowledge is a compilation of IAM crucial up-to-date knowledge. This content is created and reviewed by the IAM professionals. All articles are peer reviewed. Within this resource you can find an 'IAM Reference Architecture', articles on 'Authentication and Authorization' and more content regarding IAM (Identity and Access Management).
 +++
@@ -67,7 +67,7 @@ The IDPro Body of Knowledge is a compilation of IAM crucial up-to-date knowledge
 
 :::{grid-item-card}
 :link: https://www.abetterinternet.org/ 
-{octicon}`check-circle;1em;caption-text` **Internet Security Research Group**
+{octicon}`report;1em;caption-text` **Internet Security Research Group**
 ^^^
 Our mission is to protect Internet users by lowering monetary, technological, and informational barriers to a more secure and privacy-respecting Internet.
 +++
@@ -77,7 +77,7 @@ Our mission is to protect Internet users by lowering monetary, technological, an
 
 :::{grid-item-card}
 :link: https://iotsecurityfoundation.org/  
-{octicon}`package;1em;caption-text` **IoT Security Foundation (IoTSF)**
+{octicon}`hubot;1em;caption-text` **IoT Security Foundation (IoTSF)**
 ^^^
 
 ```{image} https://iotsecurityfoundation.org/wp-content/uploads/2022/03/iot-logo_no-connected-badge-01-200x139.png 
@@ -91,7 +91,7 @@ Gglobal not-for-profit membership association dedicated to making the connected 
 
 :::{grid-item-card}
 :link: https://www.misp-project.org/ 
-{octicon}`checklist;1em;caption-text` **MISP - Threat Intelligence Sharing Platform**
+{octicon}`cross-reference;1em;caption-text` **MISP - Threat Intelligence Sharing Platform**
 ^^^
 MISP is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. 
 +++
@@ -101,7 +101,7 @@ MISP is an open source software solution for collecting, storing, distributing a
 
 :::{grid-item-card}
 :link: https://www.memorysafety.org/ 
-{octicon}`bookmark;1em;caption-text` **Memory Safety**
+{octicon}`note;1em;caption-text` **Memory Safety**
 ^^^
 Prossimo is an Internet Security Research Group (ISRG) project.
 +++
@@ -111,7 +111,7 @@ Prossimo is an Internet Security Research Group (ISRG) project.
 
 :::{grid-item-card}
 :link: https://objective-see.org/ 
-{octicon}`pencil;1em;caption-text` **Objective-See Foundation**
+{octicon}`verified;1em;caption-text` **Objective-See Foundation**
 ^^^
 Foundation focusses on free, open-source macOS security tools. And is known for organising the macOS security conference, "Objective by the Sea" (#OBTS).
 +++
@@ -121,7 +121,7 @@ Foundation focusses on free, open-source macOS security tools. And is known for 
 
 :::{grid-item-card}
 :link: https://openquantumsafe.org/ 
-{octicon}`verified;1em;caption-text` **Open Quantum Safe (OQS) project**
+{octicon}`smiley;1em;caption-text` **Open Quantum Safe (OQS) project**
 ^^^
 
 ```{image} https://openquantumsafe.org/img/header-bg.jpg 
@@ -135,7 +135,7 @@ The Open Quantum Safe (OQS) project is an open-source project that aims to suppo
 
 :::{grid-item-card}
 :link: https://openssf.org/ 
-{octicon}`hubot;1em;caption-text` **Open Source Security Foundation**
+{octicon}`zap;1em;caption-text` **Open Source Security Foundation**
 ^^^
 Part of the Linux Foundation. The OpenSSF is the host for several large projects that focus on improving FOSS security.
 +++
@@ -154,7 +154,7 @@ The Open Source Technology Improvement Fund is a corporate non-profit dedicated 
 
 
 :::{grid-item-card}
-{octicon}`book;1em;caption-text` **OpenChain Project**
+{octicon}`smiley;1em;caption-text` **OpenChain Project**
 ^^^
 Linux Foundation project. The OpenChain Project is focused on commercial and non-commercial open source process management in the supply chain. Maintains [OpenChain ISO/IEC 5230](https://www.openchainproject.org/license-compliance) and [OpenChain ISO/IEC DIS 18974](https://www.openchainproject.org/security-assurance) These ISO/IEC standards are at no cost available using this link.
 +++
@@ -164,7 +164,7 @@ Linux Foundation project. The OpenChain Project is focused on commercial and non
 
 :::{grid-item-card}
 :link: https://www.open-scap.org/ 
-{octicon}`stack;1em;caption-text` **OpenSCAP**
+{octicon}`bookmark;1em;caption-text` **OpenSCAP**
 ^^^
 The OpenSCAP project provides tools to improve security of your infrastructure using open source tools. This project is founded by RedHat and the tools are NIST certified. Use of the tools is encouraged if your systems or infrastructure needs to meet NIST (or other US) security standards.
 +++
@@ -174,7 +174,7 @@ The OpenSCAP project provides tools to improve security of your infrastructure u
 
 :::{grid-item-card}
 :link: https://www.sie-europe.net/index.html 
-{octicon}`briefcase;1em;caption-text` **SIE Europe**
+{octicon}`report;1em;caption-text` **SIE Europe**
 ^^^
 The mission of SIE Europe is to make the European digital economy safer by offering a platform for the collection, aggregation, and sharing of data, without Personal Identifiable Information, that is relevant and actionable in the fight against cybercrime. 
 +++
@@ -184,7 +184,7 @@ The mission of SIE Europe is to make the European digital economy safer by offer
 
 :::{grid-item-card}
 :link: https://www.securityresearchlegaldefensefund.org/ 
-{octicon}`tag;1em;caption-text` **Security Research Legal Defense Fund**
+{octicon}`telescope;1em;caption-text` **Security Research Legal Defense Fund**
 ^^^
 We aim to help fund legal representation for persons who face legal issues due to good faith security research and vulnerability disclosure in cases that would advance cybersecurity for the public interest.
 +++
@@ -193,7 +193,7 @@ We aim to help fund legal representation for persons who face legal issues due t
 
 
 :::{grid-item-card}
-{octicon}`smiley;1em;caption-text` **Spamhaus Project**
+{octicon}`stack;1em;caption-text` **Spamhaus Project**
 ^^^
 Spamhaus Project is the authority on IP and domain reputation.  Also https://urlhaus.abuse.ch/ is a tool of this foundation.
 +++
@@ -203,7 +203,7 @@ Spamhaus Project is the authority on IP and domain reputation.  Also https://url
 
 :::{grid-item-card}
 :link: https://www.cybok.org 
-{octicon}`project;1em;caption-text` **The Cyber Security Body Of Knowledge**
+{octicon}`stack;1em;caption-text` **The Cyber Security Body Of Knowledge**
 ^^^
 A comprehensive Body of Knowledge to inform and underpin education and professional training for the cyber security sector. A great collection of resources that cover all aspects of cyber security.
 +++
@@ -213,7 +213,7 @@ A comprehensive Body of Knowledge to inform and underpin education and professio
 
 :::{grid-item-card}
 :link: https://cybersecurity-centre.europa.eu/ 
-{octicon}`note;1em;caption-text` **The European Cybersecurity Competence Centre**
+{octicon}`megaphone;1em;caption-text` **The European Cybersecurity Competence Centre**
 ^^^
 
 ```{image} https://cybersecurity-centre.europa.eu/sites/default/files/styles/oe_theme_full_width_banner_4_1/public/2023-05/new%20ECCC%205%20Visuals.jpg.webp?itok=mCO5FQ-o 
@@ -226,7 +226,7 @@ The ECCC aims to increase Europe’s cybersecurity capacities and competitivenes
 
 
 :::{grid-item-card}
-{octicon}`thumbsup;1em;caption-text` **The Honeynet Project**
+{octicon}`megaphone;1em;caption-text` **The Honeynet Project**
 ^^^
 non-profit security research organization, dedicated to investigating the latest attacks and developing open source security tools to improve Internet security.  See also the list with active projects: https://www.honeynet.org/projects/
 +++
@@ -236,7 +236,7 @@ non-profit security research organization, dedicated to investigating the latest
 
 :::{grid-item-card}
 :link: https://owasp.org 
-{octicon}`file;1em;caption-text` **The Open Worldwide Application Security Project (OWASP)**
+{octicon}`thumbsup;1em;caption-text` **The Open Worldwide Application Security Project (OWASP)**
 ^^^
 an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The OWASP Foundation launched on December 1st, 2001, becoming incorporated as a United States non-profit charity on April 21, 2004.
 +++
@@ -245,7 +245,7 @@ an open community dedicated to enabling organizations to conceive, develop, acqu
 
 
 :::{grid-item-card}
-{octicon}`book;1em;caption-text` **The Shadowserver Foundation**
+{octicon}`hubot;1em;caption-text` **The Shadowserver Foundation**
 ^^^
 Since our founding in 2004, The Shadowserver Foundation has become one of the world’s leading resources for Internet security reporting and malicious activity investigation. When we started, we were staffed entirely by volunteers. Today, we employ a full-time team and maintain a global infrastructure spanning 80 countries. Shadowserver scans the entire IPv4 Internet for over 100 different network protocols every day, and also performs IPv6 scans based on IPv6 hitlists for selected protocols. These are “hello” type port scans that do not exploit any vulnerability. Check the [daily dashboard](https://dashboard.shadowserver.org/) provided by this foundation.
 +++
@@ -254,7 +254,7 @@ Since our founding in 2004, The Shadowserver Foundation has become one of the wo
 
 
 :::{grid-item-card}
-{octicon}`checklist;1em;caption-text` **Trusted CI**
+{octicon}`briefcase;1em;caption-text` **Trusted CI**
 ^^^
 The Trusted CI Framework is a minimum standard for cybersecurity programs. The mission of Trusted CI Foundation is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors. This foundation provides great [templates and tools](https://www.trustedci.org/framework/templates) ready to use!
 +++
