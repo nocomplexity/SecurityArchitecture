@@ -89,6 +89,7 @@ parts:
       
   - file: architecture/securityprinciples
     sections:
+      - file: architecture/sbd_principles
       - file: architecture/mozilla_securityprinciples
       - file: architecture/mozilla-dataprivacy-principles
       - file: architecture/NCSC-designprinciples
