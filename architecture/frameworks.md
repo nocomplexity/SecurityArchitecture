@@ -1,5 +1,12 @@
 # Frameworks
 
+## AI Risk Management Framework (NIST AI RMF Playbook)
+
+The AI Risk Management Framework (AI RMF) is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems. 
+
+See: [The NIST AI Resource Center (AIRC)](https://airc.nist.gov/) 
+
+
 ## Cyber SecurityFramework (Saudi Arabian Monetary Authority)
 
 To improve cyber resilience, the Saudi Arabian government created mandatory guidelines to strengthen their constituents’ security postures and provide prescriptive measures to defend against today’s cyber threats.

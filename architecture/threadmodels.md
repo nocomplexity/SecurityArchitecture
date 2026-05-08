@@ -58,7 +58,6 @@ Methods for performing threat modelling are:
 ```
 
 
-
 ## OAuth 2.0 Threat Model
 
 Using the OAuth protocol gives you many advantages. And since this
@@ -94,6 +93,14 @@ are designing solutions to be more resilient against DDoS attacks.
 ![image](../images/ddos-model.png)
 
 [Reference link](https://file.scirp.org/Html/5-7800164_34631.htm)()
+
+## MITRE ATLAS Framework for AI Agent Security
+
+Threat model and security program data for OpenClaw. Which is a security vulnerability by itself.
+Repository on: https://github.com/openclaw/trust
+
+Check: [https://trust.openclaw.ai/trust/threatmodel](https://trust.openclaw.ai/trust/threatmodel)
+
 
 ## Mobile Threat model
 
@@ -205,3 +212,14 @@ the [Free and Open Machine Learning Guide](https://nocomplexity.com/documents/fo
  Repository: [https://github.com/mitre-atlas](https://github.com/mitre-atlas)
 
  ATLAS is modeled after and complementary to MITRE ATT&CK®, raising awareness of the rapidly evolving vulnerabilities of Al-enabled systems as they extend beyond cyber. 
+
+
+## The Universal Cyber Threat Framework (TLCTC)
+
+TLCTC provides the missing semantic foundation for cybersecurity: a stable, non-overlapping classification of cyber threats based on why compromise happens — the generic vulnerability exploited — rather than what happens afterwards (outcomes like "data breach," "ransomware," or "denial of service").
+
+*"TLCTC is the Rosetta Stone for Cyber Risk."*  10 logically‑derived, non‑overlapping cyber threat clusters that connect strategic cyber risk & -security management, operational security, and secure development into one common language. 
+
+Repository on: https://github.com/Barnes70/TLCTC 
+
+Check: https://tlctc.net/ 

@@ -19,6 +19,7 @@ parts:
       - file: prevention/api-security-checklist
       - file: prevention/csp-checklist
       - file: prevention/ncp-checklists
+      - file: prevention/checklist_evalfoss
       - file: prevention/evalFOSS
       - file: prevention/conciseguidefordeveloping
       - file: prevention/ransomware

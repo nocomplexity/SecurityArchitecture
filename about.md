@@ -37,13 +37,23 @@ Use this Playbook to create better and faster security solutions for your securi
 :::
 
 :::{grid-item-card}
-:link: https://nocomplexity.com/documents/securitybydesign/intro.html
+:link: http://securitybydesign.nocomplexity.com
 :link-type: url
-{octicon}`book;2em;caption-text` **Security By Design**        
+{octicon}`book;2em;caption-text` **Mastering Security By Design**        
 ^^^
 Security by design is a proven method to develop products that are less vulnerable for cyber security threats.
-Master the topic quickly with this eBook.
+Master the topic quickly with this book.
 :::
+
+
+:::{grid-item-card}
+:link: http://securitytesting.nocomplexity.com
+:link-type: url
+{octicon}`book;2em;caption-text` **Mastering Security Testing for Python**        
+^^^
+In this course, you will gain a deep understanding of the methodologies and specialised tools used to conduct professional-grade security validation for Python applications.
+:::
+
 
 :::{grid-item-card}
 :link: https://nocomplexity.com/documents/securitysolutions/intro.html
