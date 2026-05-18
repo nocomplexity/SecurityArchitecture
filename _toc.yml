@@ -107,7 +107,7 @@ parts:
   chapters:
   - file: learning/securitycourses
   - file: learning/cybercourses
-  - file: securitylibrary/overview
+  - file: securitylibrary/libraryintro
     title: Open Security Library
     sections:
       - file: securitylibrary/architectureandfoundational

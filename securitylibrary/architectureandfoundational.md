@@ -1,5 +1,5 @@
 
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
 # Architecture and Foundational books 
 ::::{grid} 3
@@ -7,18 +7,18 @@
 :gutter: 3 
 
 :::{grid-item-card}
-:link: securitybydesignplaybook
+:link: masteringsecuritybydesign
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Security By Design Playbook**
+{octicon}`heart;1em;caption-text` **Mastering Security By Design**
 ^^^
-Read, download or buy the Security By Design Playbook book.
+Read, download or buy the Mastering Security By Design book.
 +++
-[More »](securitybydesignplaybook)
+[More »](masteringsecuritybydesign)
 :::
 :::{grid-item-card}
 :link: securityreferencearchitecture
 :link-type: doc
-{octicon}`hubot;1em;caption-text` **Security Reference Architecture**
+{octicon}`tools;1em;caption-text` **Security Reference Architecture**
 ^^^
 Read, download or buy the Security Reference Architecture book.
 +++
@@ -27,7 +27,7 @@ Read, download or buy the Security Reference Architecture book.
 :::{grid-item-card}
 :link: simplifysecurityguide
 :link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Simplify Security Guide**
+{octicon}`package;1em;caption-text` **Simplify Security Guide**
 ^^^
 Read, download or buy the Simplify Security Guide book.
 +++
@@ -36,5 +36,5 @@ Read, download or buy the Simplify Security Guide book.
 ::::
 
 
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 

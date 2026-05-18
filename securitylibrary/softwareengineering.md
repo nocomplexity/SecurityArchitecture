@@ -1,5 +1,5 @@
 
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
 # Software Engineering books 
 ::::{grid} 3
@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: malwarereverseengineeringhandbook
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **Malware Reverse Engineering Handbook**
+{octicon}`heart;1em;caption-text` **Malware Reverse Engineering Handbook**
 ^^^
 Read, download or buy the Malware Reverse Engineering Handbook book.
 +++
@@ -18,5 +18,5 @@ Read, download or buy the Malware Reverse Engineering Handbook book.
 ::::
 
 
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 

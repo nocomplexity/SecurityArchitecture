@@ -1,6 +1,6 @@
-# Library Overview 
+## Free and Open Cyber Security Books Overview 
 
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
 ::::{grid} 3
 :class-container: text-center
@@ -9,7 +9,7 @@
 :::{grid-item-card}
 :link: architectureandfoundational
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Architecture and Foundational**        
+{octicon}`cross-reference;1em;caption-text` **Architecture and Foundational**        
 ^^^
 Discover great (free) Architecture and Foundational books.
 +++
@@ -19,7 +19,7 @@ Discover great (free) Architecture and Foundational books.
 :::{grid-item-card}
 :link: cryptography
 :link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Cryptography**        
+{octicon}`package;1em;caption-text` **Cryptography**        
 ^^^
 Discover great (free) Cryptography books.
 +++
@@ -29,7 +29,7 @@ Discover great (free) Cryptography books.
 :::{grid-item-card}
 :link: iot
 :link-type: doc
-{octicon}`briefcase;1em;caption-text` **IoT**        
+{octicon}`report;1em;caption-text` **IoT**        
 ^^^
 Discover great (free) IoT books.
 +++
@@ -39,7 +39,7 @@ Discover great (free) IoT books.
 :::{grid-item-card}
 :link: privacy
 :link-type: doc
-{octicon}`cross-reference;1em;caption-text` **Privacy**        
+{octicon}`stack;1em;caption-text` **Privacy**        
 ^^^
 Discover great (free) Privacy books.
 +++
@@ -49,7 +49,7 @@ Discover great (free) Privacy books.
 :::{grid-item-card}
 :link: riskmanagement
 :link-type: doc
-{octicon}`zap;1em;caption-text` **Risk Management**        
+{octicon}`tag;1em;caption-text` **Risk Management**        
 ^^^
 Discover great (free) Risk Management books.
 +++
@@ -59,7 +59,7 @@ Discover great (free) Risk Management books.
 :::{grid-item-card}
 :link: securecoding
 :link-type: doc
-{octicon}`tag;1em;caption-text` **Secure Coding**        
+{octicon}`telescope;1em;caption-text` **Secure Coding**        
 ^^^
 Discover great (free) Secure Coding books.
 +++
@@ -69,7 +69,7 @@ Discover great (free) Secure Coding books.
 :::{grid-item-card}
 :link: securitytesting
 :link-type: doc
-{octicon}`report;1em;caption-text` **Security Testing**        
+{octicon}`thumbsup;1em;caption-text` **Security Testing**        
 ^^^
 Discover great (free) Security Testing books.
 +++
@@ -79,7 +79,7 @@ Discover great (free) Security Testing books.
 :::{grid-item-card}
 :link: softwareengineering
 :link-type: doc
-{octicon}`megaphone;1em;caption-text` **Software Engineering**        
+{octicon}`cross-reference;1em;caption-text` **Software Engineering**        
 ^^^
 Discover great (free) Software Engineering books.
 +++
@@ -88,5 +88,5 @@ Discover great (free) Software Engineering books.
 
 ::::
 
-% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
