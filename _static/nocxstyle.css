@@ -11,3 +11,10 @@ html[data-theme="light"] {
     size: 6.5in 9.2in;
     margin: 2cm; /* Set margin on each page */
   }
+
+
+html {
+    --pst-font-family-base: Verdana, var(--pst-font-family-base-system);
+    --pst-font-family-heading: Cambria, Georgia, Times, var(--pst-font-family-base-system);
+    --pst-font-family-monospace: Courier, var(--pst-font-family-monospace-system);
+}
