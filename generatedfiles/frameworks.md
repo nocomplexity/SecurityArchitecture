@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://saif.google/ 
-{octicon}`hubot;1em;caption-text` **Google's Secure AI Framework**
+{octicon}`tools;1em;caption-text` **Google's Secure AI Framework**
 ^^^
 A practitioner’s guide to navigating AI security. The SAIF Map is a visual guide for navigating AI security and is at the heart of understanding SAIF as a security framework.
 +++
@@ -18,7 +18,7 @@ A practitioner’s guide to navigating AI security. The SAIF Map is a visual gui
 
 :::{grid-item-card}
 :link: https://www.nist.gov/cyberframework 
-{octicon}`report;1em;caption-text` **NIST Cybersecurity Framework**
+{octicon}`cross-reference;1em;caption-text` **NIST Cybersecurity Framework**
 ^^^
 For industry, government, and organizations to reduce cybersecurity risks
 +++
@@ -28,7 +28,7 @@ For industry, government, and organizations to reduce cybersecurity risks
 
 :::{grid-item-card}
 :link: http://www.opensecurityarchitecture.org/ 
-{octicon}`package;1em;caption-text` **Open Security Architecture (OSA)**
+{octicon}`tag;1em;caption-text` **Open Security Architecture (OSA)**
 ^^^
 OSA distills the know-how of the security architecture community and provides readily usable patterns for your application. OSA shall be a free framework that is developed and owned by the community.
 +++
@@ -38,7 +38,7 @@ OSA distills the know-how of the security architecture community and provides re
 
 :::{grid-item-card}
 :link: https://www.opensamm.org/ 
-{octicon}`checklist;1em;caption-text` **Software Assurance Maturity Model**
+{octicon}`tools;1em;caption-text` **Software Assurance Maturity Model**
 ^^^
 The Software Assurance Maturity Model (SAMM) is an open framework to help organizations formulate and implement a strategy for software security that is tailored to the specific risks facing the organization.
 +++

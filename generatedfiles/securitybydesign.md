@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: http://securitybydesign.nocomplexity.com 
-{octicon}`note;1em;caption-text` **Mastering Security By Design**
+{octicon}`cross-reference;1em;caption-text` **Mastering Security By Design**
 ^^^
 Security by design is a proven method to develop products that are less vulnerable for cyber security threats. This is the only reference you need.
 +++
@@ -18,7 +18,7 @@ Security by design is a proven method to develop products that are less vulnerab
 
 :::{grid-item-card}
 :link: https://iotsecurityfoundation.org/wp-content/uploads/2019/12/Best-Practice-Guides-Release-2_Digitalv3.pdf 
-{octicon}`telescope;1em;caption-text` **Secure Design Best Practice Guides**
+{octicon}`project;1em;caption-text` **Secure Design Best Practice Guides**
 ^^^
 
 ```{image} https://iotsecurityfoundation.org/wp-content/uploads/2022/03/iot-logo_no-connected-badge-01-200x139.png 
@@ -32,7 +32,7 @@ Nice cc-by guide for IoT devices. Published by the IoT Security Foundation (“I
 
 :::{grid-item-card}
 :link: https://www.cisa.gov/resources-tools/resources/secure-by-design 
-{octicon}`package;1em;caption-text` **Secure-by-Design**
+{octicon}`pencil;1em;caption-text` **Secure-by-Design**
 ^^^
 Principles and Approaches for Secure by Design Software. At first created for software manufacturers to ship products that are secure by design. But very usefull resource to use, even if you are not creating software!
 +++

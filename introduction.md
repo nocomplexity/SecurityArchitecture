@@ -1,5 +1,13 @@
 # Introduction
 
+:::{image} /images/bookcover_sra_2.png
+:alt: Book Cover Mastering Security By Design
+:width: 300px
+:height: 400px
+:align: center
+:::
+
+
 Cybersecurity is often surrounded by myths and perceived as an impossibly complex domain. While it is true that no perfect solution exists, effective security does not have to be difficult. 
 
 The most robust defenses are built on **open principles**: transparent, available without borders, published under open or Creative Commons licenses, and free from the noise of industry hype. Because these solutions are open to everyone, they are constantly refined and improved by the community.
