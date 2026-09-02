@@ -28,6 +28,17 @@ Modern Python source code security analyser. A local-first, FOSS tool that makes
 
 
 :::{grid-item-card}
+:link: https://nocomplexity.com/fileaudit
+:link-type: url
+{octicon}`book;2em;caption-text` **Python File Audit**        
+^^^
+Simplify Python Security by adding one line! Build secure Python applications by default. Validate files before you use them. A robust file-validation library designed to protect your Python applications and scripts against untrusted or malicious files.
+:::
+
+
+
+
+:::{grid-item-card}
 :link: https://nocomplexity.com/documents/securityarchitecture/introduction.html
 :link-type: url
 {octicon}`book;2em;caption-text` **Open Security Reference Architecture**        
