@@ -107,9 +107,10 @@ parts:
   chapters:
   - file: learning/securitycourses
   - file: learning/cybercourses
-  - file: securitylibrary/libraryintro
+  - file: securitylibrary/overview
     title: Security Books
     sections:
+      - file: securitylibrary/ai
       - file: securitylibrary/architectureandfoundational
       - file: securitylibrary/cryptography
       - file: securitylibrary/iot

@@ -1,31 +1,38 @@
+## Security Testing  
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# Security Testing books 
 ::::{grid} 3
 :class-container: text-center
-:gutter: 3 
+:gutter: 2
 
 :::{grid-item-card}
-:link: masteringsecuritytestingforpython
-:link-type: doc
-{octicon}`hubot;1em;caption-text` **Mastering Security Testing for Python**
+{octicon}`thumbsup;1em;caption-text` **Mastering Security Testing for Python**
 ^^^
-Read, download or buy the Mastering Security Testing for Python book.
+This book is designed for developers and security enthusiasts, taking you from basic code hygiene through to advanced security analysis. It focuses on using reliable open-source security tools to identify vulnerabilities arising from Python’s dynamic nature and the common pitfalls in its ecosystem.
+
+---
+[Source »](https://github.com/nocomplexity/securitytesting)
 +++
-[More »](masteringsecuritytestingforpython)
++++
+[Online version »](https://securitytesting.nocomplexity.com/)
 :::
+
+
 :::{grid-item-card}
-:link: pentester'spromiscuousnotebook
-:link-type: doc
-{octicon}`check-circle;1em;caption-text` **Pentester's Promiscuous Notebook**
+{octicon}`stack;1em;caption-text` **Pentester's Promiscuous Notebook**
 ^^^
-Read, download or buy the Pentester's Promiscuous Notebook book.
+Harvest notes of a pentester to learn from!
+
+---
+[Source »](https://github.com/snovvcrash/PPN)
 +++
-[More »](pentester'spromiscuousnotebook)
++++
+[Online version »](https://ppn.snovvcra.sh/)
 :::
-::::
 
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+:::: 
+ % End of Grid 
+% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 

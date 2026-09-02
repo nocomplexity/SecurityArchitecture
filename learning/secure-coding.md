@@ -66,6 +66,11 @@ Programming in Python is fun, but when you create programs for others, you SHOUL
 
 So Check and use: [The Python Secure Coding Guidelines](https://nocomplexity.com/documents/codeaudit/securecoding.html) 
 
+:::{tip}
+Simplify building secure Python applications by default. Validate files before you use them.
+[Python File Audit](https://github.com/nocomplexity/fileaudit) protects your code from file-based attacks with one line.
+:::
+
 
 ## Reproducible builds
 

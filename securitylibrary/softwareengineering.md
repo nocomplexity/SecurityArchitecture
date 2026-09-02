@@ -1,22 +1,23 @@
+## Software Engineering  
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# Software Engineering books 
 ::::{grid} 3
 :class-container: text-center
-:gutter: 3 
+:gutter: 2
 
 :::{grid-item-card}
-:link: malwarereverseengineeringhandbook
-:link-type: doc
-{octicon}`heart;1em;caption-text` **Malware Reverse Engineering Handbook**
+{octicon}`stack;1em;caption-text` **Malware Reverse Engineering Handbook**
 ^^^
-Read, download or buy the Malware Reverse Engineering Handbook book.
+This handbook by CCDCOE Technology Branch researchers gives an overview of how to analyse malware executables that are targeting the Windows platform. 
+
+---
+[PDF version »](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf)
 +++
-[More »](malwarereverseengineeringhandbook)
 :::
-::::
 
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+:::: 
+ % End of Grid 
+% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 

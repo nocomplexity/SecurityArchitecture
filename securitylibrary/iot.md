@@ -1,22 +1,23 @@
+## IoT  
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# IoT books 
 ::::{grid} 3
 :class-container: text-center
-:gutter: 3 
+:gutter: 2
 
 :::{grid-item-card}
-:link: iotsecurityreferencearchitectureforthehealthcareindustry
-:link-type: doc
-{octicon}`report;1em;caption-text` **IoT Security Reference Architecture For The Healthcare Industry**
+{octicon}`verified;1em;caption-text` **IoT Security Reference Architecture For The Healthcare Industry**
 ^^^
-Read, download or buy the IoT Security Reference Architecture For The Healthcare Industry book.
+This paper addresses the mounting risks associated with the increasing use of IoT products in a health-relatedecosystem, including confidentiality and integrity of devices and data, and availability of communications.
+
+---
+[PDF version »](https://www.iotsecurityfoundation.org/wp-content/uploads/2019/05/IoT-Security-Reference-Architecture-For-The-Healthcare-Industry.pdf)
 +++
-[More »](iotsecurityreferencearchitectureforthehealthcareindustry)
 :::
-::::
 
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+:::: 
+ % End of Grid 
+% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 

@@ -1,22 +1,25 @@
+## Privacy  
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# Privacy books 
 ::::{grid} 3
 :class-container: text-center
-:gutter: 3 
+:gutter: 2
 
 :::{grid-item-card}
-:link: simplifydigitalprivacy
-:link-type: doc
-{octicon}`thumbsup;1em;caption-text` **Simplify Digital Privacy**
+{octicon}`book;1em;caption-text` **Simplify Digital Privacy**
 ^^^
-Read, download or buy the Simplify Digital Privacy book.
+Security and privacy are distinct topics, but they are also closely related. Without digital security, your privacy is at risk! To empower you with solid, open and transparent knowledge we created a digital playbook that is dedicated to Simplify Digital Security.
+
+---
+[Source »](https://github.com/nocomplexity/DigitalPrivacy)
 +++
-[More »](simplifydigitalprivacy)
++++
+[Online version »](https://nocomplexity.com/documents/simplifyprivacy/intro.html)
 :::
-::::
 
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+:::: 
+ % End of Grid 
+% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 

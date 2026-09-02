@@ -1,22 +1,27 @@
+## Secure Coding  
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+% This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-# Secure Coding books 
 ::::{grid} 3
 :class-container: text-center
-:gutter: 3 
+:gutter: 2
 
 :::{grid-item-card}
-:link: low-levelsoftwaresecurityforcompilerdevelopers
-:link-type: doc
-{octicon}`cross-reference;1em;caption-text` **Low-Level Software Security for Compiler Developers**
+{octicon}`note;1em;caption-text` **Low-Level Software Security for Compiler Developers**
 ^^^
-Read, download or buy the Low-Level Software Security for Compiler Developers book.
+With software security becoming even more important in recent years, it is no surprise to see an ever increasing variety of security hardening features and mitigations against vulnerabilities implemented in compilers. This book aims to help developers of code generation tools such as JITs, compilers, linkers and assemblers to overcome this.
+
+---
+[PDF version »](https://llsoftsec.github.io/llsoftsecbook/LLSoftSecBook.pdf)
 +++
-[More »](low-levelsoftwaresecurityforcompilerdevelopers)
+[Source »](https://github.com/llsoftsec/llsoftsecbook)
++++
++++
+[Online version »](https://llsoftsec.github.io/llsoftsecbook/LLSoftSecBook.html)
 :::
-::::
 
 
-% This file is generated automatically. If you have a suggestion, simply open an issue in the GitHub repository, and we will consider adding it to the list. The tools used to build this list are FOSS (Free and Open Source Software). Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
+:::: 
+ % End of Grid 
+% This file is GENERATED using a simple tool. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
